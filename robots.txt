@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://timsurg-boop.github.io/rhinoplasty-daily/sitemap.xml

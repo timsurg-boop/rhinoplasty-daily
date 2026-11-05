@@ -1,0 +1,79 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "鼻整形文献评点 · Rhinoplasty Daily Commentary",
+  "home_page_url": "https://timsurg-boop.github.io/rhinoplasty-daily",
+  "feed_url": "https://timsurg-boop.github.io/rhinoplasty-daily/feed.json",
+  "language": "zh-CN",
+  "items": [
+    {
+      "id": "2026-11-05-pmid-42937516",
+      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-05-pmid-42937516",
+      "title": "The V-Shaped Subdomal Graft: A Structural Template for Geometric Control of the Nasal Tip",
+      "content_html": "<p><strong>事实</strong>：PRS 提出 V 形鼻尖下移植物，用一块可预判的软骨模板对鼻尖做几何化控制。</p><p><strong>点评</strong>：模板化的价值在于可复制，但要盯住鼻尖投影的长期稳定性——这类文章最常见的坑是随访短、样本小。</p><p>PRS introduces a V-shaped subdomal graft as a predictable template for geometric tip control. Templates are only worth it if tip projection holds at 2+ years; check follow-up before adopting.</p><p>Plastic and Reconstructive Surgery · PMID 42937516</p>",
+      "summary": "PRS 提出 V 形鼻尖下移植物，用一块可预判的软骨模板对鼻尖做几何化控制。 模板化的价值在于可复制，但要盯住鼻尖投影的长期稳定性——这类文章最常见的坑是随访短、样本小。",
+      "date_published": "2026-11-05T08:00:00+08:00",
+      "tags": [
+        "鼻尖",
+        "结构式",
+        "移植物"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/42937516/"
+    },
+    {
+      "id": "2026-11-05-pmid-42951306",
+      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-05-pmid-42951306",
+      "title": "Accuracy of Navigated Osteotomies in Rhinoplasty: A Cadaveric Analysis",
+      "content_html": "<p><strong>事实</strong>：九具尸体、18 侧电磁导航截骨显示，导航能让截骨线更贴近鼻上颌缝。</p><p><strong>点评</strong>：把「手感」变成可测误差是好事，但导航的机器成本和每台多出的 10 分钟，才是它进不了日间手术室的真实原因。</p><p>Electromagnetic navigation placed osteotomies closer to the nasomaxillary suture in nine cadavers (n=18). Turning feel into a measured error is progress; capital cost and added setup time remain the adoption barrier.</p><p>The Laryngoscope · PMID 42951306</p>",
+      "summary": "九具尸体、18 侧电磁导航截骨显示，导航能让截骨线更贴近鼻上颌缝。 把「手感」变成可测误差是好事，但导航的机器成本和每台多出的 10 分钟，才是它进不了日间手术室的真实原因。",
+      "date_published": "2026-11-05T08:00:00+08:00",
+      "tags": [
+        "截骨",
+        "导航",
+        "尸体研究"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/42951306/"
+    },
+    {
+      "id": "2026-11-05-pmid-42950360",
+      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-05-pmid-42950360",
+      "title": "Infraorbital versus sphenopalatine ganglion block for patient-reported recovery after septorhinoplasty: a randomized controlled trial",
+      "content_html": "<p><strong>事实</strong>：90 例随机对照：眶下神经阻滞 vs 蝶腭神经节阻滞，主要终点是术后 24 小时恢复质量。</p><p><strong>点评</strong>：这是能明天就改方案的那类证据——如果眶下阻滞不劣，操作更简单、超声引导更熟悉，值得换。</p><p>A 90-patient RCT compared infraorbital with sphenopalatine ganglion block on 24-hour recovery quality. Actionable now: if infraorbital block is non-inferior, it is easier to teach and to schedule.</p><p>Journal of Clinical Anesthesia · PMID 42950360</p>",
+      "summary": "90 例随机对照：眶下神经阻滞 vs 蝶腭神经节阻滞，主要终点是术后 24 小时恢复质量。 这是能明天就改方案的那类证据——如果眶下阻滞不劣，操作更简单、超声引导更熟悉，值得换。",
+      "date_published": "2026-11-05T08:00:00+08:00",
+      "tags": [
+        "镇痛",
+        "RCT",
+        "日间手术"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/42950360/"
+    },
+    {
+      "id": "2026-11-05-pmid-42980382",
+      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-05-pmid-42980382",
+      "title": "Prevention of Secondary Deformities at the Donor Site After Cartilage Transplantation",
+      "content_html": "<p><strong>事实</strong>：92 例耳软骨移植：术前耳模塑形 + 耳轮内侧切口，降低供区继发畸形。</p><p><strong>点评</strong>：供区畸形是患者术后最常抱怨却最少被写进论文的部分，这篇给了可照做的流程。</p><p>In 92 patients, preoperative ear splinting plus antihelix-side incisions reduced donor-site deformity. Donor-site deformity is under-reported and over-complained about; this gives a repeatable protocol.</p><p>Journal of Craniofacial Surgery · PMID 42980382</p>",
+      "summary": "92 例耳软骨移植：术前耳模塑形 + 耳轮内侧切口，降低供区继发畸形。 供区畸形是患者术后最常抱怨却最少被写进论文的部分，这篇给了可照做的流程。",
+      "date_published": "2026-11-05T08:00:00+08:00",
+      "tags": [
+        "耳软骨",
+        "供区",
+        "并发症"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/42980382/"
+    },
+    {
+      "id": "2026-11-05-pmid-42955309",
+      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-05-pmid-42955309",
+      "title": "Artificial Intelligence in Facelift Surgery: A Systematic Review of Objective Outcome Assessment and Patient-Perceived Rejuvenation",
+      "content_html": "<p><strong>事实</strong>：系统综述纳入 9 项研究，评估 AI 判断提升术后年轻化的客观性与患者主观感知的一致性。</p><p><strong>点评</strong>：结论大概率是「AI 算得准、但和患者自己觉得好不好看不完全一致」——这正是咨询时最该讲的那句话。</p><p>Nine studies reviewed on AI-based age estimation and its concordance with patient-perceived rejuvenation. Expect a gap between algorithmic age gain and patient satisfaction; that gap is the consultation script.</p><p>Aesthetic Plastic Surgery · PMID 42955309</p>",
+      "summary": "系统综述纳入 9 项研究，评估 AI 判断提升术后年轻化的客观性与患者主观感知的一致性。 结论大概率是「AI 算得准、但和患者自己觉得好不好看不完全一致」——这正是咨询时最该讲的那句话。",
+      "date_published": "2026-11-05T08:00:00+08:00",
+      "tags": [
+        "面部提升",
+        "AI",
+        "系统综述"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/42955309/"
+    }
+  ]
+}
