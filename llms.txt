@@ -7,6 +7,16 @@
 - RSS: https://timsurg-boop.github.io/rhinoplasty-daily/rss.xml
 - Sitemap: https://timsurg-boop.github.io/rhinoplasty-daily/sitemap.xml
 
+## 2026-11-07
+
+### Septorhinoplasty: The Open Approach
+- 期刊: Laryngo-Rhino-Otologie
+- PMID: 42971217 | DOI: 10.1055/a-2903-7156
+- 事实: 德国耳鼻喉科杂志刊出开放入路鼻中隔鼻整形专题，聚焦该入路的技术要点。
+- 点评: 开放入路的价值在复杂病例的暴露与固定，不该当默认术式；条件允许时，闭合入路仍值得先考虑。
+- English: A German ENT journal runs a focused piece on the open-approach septorhinoplasty and its technical points. The open approach earns its place in complex cases, not as a default; consider a closed approach first when anatomy allows.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-07-pmid-42971217
+
 ## 2026-11-05
 
 ### The V-Shaped Subdomal Graft: A Structural Template for Geometric Control of the Nasal Tip

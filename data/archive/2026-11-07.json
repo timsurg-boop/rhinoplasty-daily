@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-07",
+  "updated": "2026-11-07T07:50:00+08:00",
+  "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
+  "window": "2026-10-31..2026-11-07",
+  "items": [
+    {
+      "id": "2026-11-07-pmid-42971217",
+      "pmid": "42971217",
+      "doi": "10.1055/a-2903-7156",
+      "journal": "Laryngo-Rhino-Otologie",
+      "title": "Septorhinoplasty: The Open Approach",
+      "tags": [
+        "开放入路",
+        "鼻中隔鼻整形",
+        "技术要点"
+      ],
+      "fact_zh": "德国耳鼻喉科杂志刊出开放入路鼻中隔鼻整形专题，聚焦该入路的技术要点。",
+      "take_zh": "开放入路的价值在复杂病例的暴露与固定，不该当默认术式；条件允许时，闭合入路仍值得先考虑。",
+      "scene_zh": "病人问“开放会不会留疤”，关键在鼻小柱那一段切口，不在“开不开放”这四个字。",
+      "fact_en": "A German ENT journal runs a focused piece on the open-approach septorhinoplasty and its technical points.",
+      "take_en": "The open approach earns its place in complex cases, not as a default; consider a closed approach first when anatomy allows."
+    }
+  ]
+}

@@ -1,73 +1,21 @@
 {
-  "date": "2026-11-05",
-  "updated": "2026-11-05T18:50:00+08:00",
+  "date": "2026-11-07",
+  "updated": "2026-11-07T07:50:00+08:00",
   "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
-  "window": "2026-10-26..2026-11-05",
+  "window": "2026-10-31..2026-11-07",
   "items": [
     {
-      "id": "2026-11-05-pmid-42937516",
-      "pmid": "42937516",
-      "doi": "10.1097/PRS.0000000000013563",
-      "journal": "Plastic and Reconstructive Surgery",
-      "title": "The V-Shaped Subdomal Graft: A Structural Template for Geometric Control of the Nasal Tip",
-      "tags": ["鼻尖", "结构式", "移植物"],
-      "fact_zh": "PRS 提出 V 形鼻尖下移植物，用一块可预判的软骨模板对鼻尖做几何化控制。",
-      "take_zh": "模板化的价值在于可复制，但要盯住鼻尖投影的长期稳定性——这类文章最常见的坑是随访短、样本小。",
-      "scene_zh": "门诊最常被问的一句是“能不能挺一点、又别假”，鼻尖控制就是这句话的技术答案。",
-      "fact_en": "PRS introduces a V-shaped subdomal graft as a predictable template for geometric tip control.",
-      "take_en": "Templates are only worth it if tip projection holds at 2+ years; check follow-up before adopting."
-    },
-    {
-      "id": "2026-11-05-pmid-42951306",
-      "pmid": "42951306",
-      "doi": "10.1002/lary.71019",
-      "journal": "The Laryngoscope",
-      "title": "Accuracy of Navigated Osteotomies in Rhinoplasty: A Cadaveric Analysis",
-      "tags": ["截骨", "导航", "尸体研究"],
-      "fact_zh": "九具尸体、18 侧电磁导航截骨显示，导航能让截骨线更贴近鼻上颌缝。",
-      "take_zh": "把「手感」变成可测误差是好事，但导航的机器成本和每台多出的 10 分钟，才是它进不了日间手术室的真实原因。",
-      "scene_zh": "截骨最怕“看不见”，导航的价值是把那条线变成屏幕上能对着走的东西。",
-      "fact_en": "Electromagnetic navigation placed osteotomies closer to the nasomaxillary suture in nine cadavers (n=18).",
-      "take_en": "Turning feel into a measured error is progress; capital cost and added setup time remain the adoption barrier."
-    },
-    {
-      "id": "2026-11-05-pmid-42950360",
-      "pmid": "42950360",
-      "doi": "10.1016/j.jclinane.2026.112354",
-      "journal": "Journal of Clinical Anesthesia",
-      "title": "Infraorbital versus sphenopalatine ganglion block for patient-reported recovery after septorhinoplasty: a randomized controlled trial",
-      "tags": ["镇痛", "RCT", "日间手术"],
-      "fact_zh": "90 例随机对照：眶下神经阻滞 vs 蝶腭神经节阻滞，主要终点是术后 24 小时恢复质量。",
-      "take_zh": "这是能明天就改方案的那类证据——如果眶下阻滞不劣，操作更简单、超声引导更熟悉，值得换。",
-      "scene_zh": "日间鼻整形病人术后第一晚最难熬的是疼和恶心，麻醉方案值得重新挑一次。",
-      "fact_en": "A 90-patient RCT compared infraorbital with sphenopalatine ganglion block on 24-hour recovery quality.",
-      "take_en": "Actionable now: if infraorbital block is non-inferior, it is easier to teach and to schedule."
-    },
-    {
-      "id": "2026-11-05-pmid-42980382",
-      "pmid": "42980382",
-      "doi": "10.1097/SCS.0000000000013511",
-      "journal": "Journal of Craniofacial Surgery",
-      "title": "Prevention of Secondary Deformities at the Donor Site After Cartilage Transplantation",
-      "tags": ["耳软骨", "供区", "并发症"],
-      "fact_zh": "92 例耳软骨移植：术前耳模塑形 + 耳轮内侧切口，降低供区继发畸形。",
-      "take_zh": "供区畸形是患者术后最常抱怨却最少被写进论文的部分，这篇给了可照做的流程。",
-      "scene_zh": "病人复查时很少主动说耳朵变形，但心里一直记着。",
-      "fact_en": "In 92 patients, preoperative ear splinting plus antihelix-side incisions reduced donor-site deformity.",
-      "take_en": "Donor-site deformity is under-reported and over-complained about; this gives a repeatable protocol."
-    },
-    {
-      "id": "2026-11-05-pmid-42955309",
-      "pmid": "42955309",
-      "doi": "10.1007/s00266-026-06392-z",
-      "journal": "Aesthetic Plastic Surgery",
-      "title": "Artificial Intelligence in Facelift Surgery: A Systematic Review of Objective Outcome Assessment and Patient-Perceived Rejuvenation",
-      "tags": ["面部提升", "AI", "系统综述"],
-      "fact_zh": "系统综述纳入 9 项研究，评估 AI 判断提升术后年轻化的客观性与患者主观感知的一致性。",
-      "take_zh": "结论大概率是「AI 算得准、但和患者自己觉得好不好看不完全一致」——这正是咨询时最该讲的那句话。",
-      "scene_zh": "你说“年轻了五岁”，病人心里算的往往是另一笔账。",
-      "fact_en": "Nine studies reviewed on AI-based age estimation and its concordance with patient-perceived rejuvenation.",
-      "take_en": "Expect a gap between algorithmic age gain and patient satisfaction; that gap is the consultation script."
+      "id": "2026-11-07-pmid-42971217",
+      "pmid": "42971217",
+      "doi": "10.1055/a-2903-7156",
+      "journal": "Laryngo-Rhino-Otologie",
+      "title": "Septorhinoplasty: The Open Approach",
+      "tags": ["开放入路", "鼻中隔鼻整形", "技术要点"],
+      "fact_zh": "德国耳鼻喉科杂志刊出开放入路鼻中隔鼻整形专题，聚焦该入路的技术要点。",
+      "take_zh": "开放入路的价值在复杂病例的暴露与固定，不该当默认术式；条件允许时，闭合入路仍值得先考虑。",
+      "scene_zh": "病人问“开放会不会留疤”，关键在鼻小柱那一段切口，不在“开不开放”这四个字。",
+      "fact_en": "A German ENT journal runs a focused piece on the open-approach septorhinoplasty and its technical points.",
+      "take_en": "The open approach earns its place in complex cases, not as a default; consider a closed approach first when anatomy allows."
     }
   ]
 }
