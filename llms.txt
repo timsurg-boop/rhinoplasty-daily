@@ -7,6 +7,56 @@
 - RSS: https://timsurg-boop.github.io/rhinoplasty-daily/rss.xml
 - Sitemap: https://timsurg-boop.github.io/rhinoplasty-daily/sitemap.xml
 
+## 2026-11-08
+
+### Accuracy of Navigated Osteotomies in Rhinoplasty: A Cadaveric Analysis
+- 期刊: The Laryngoscope
+- PMID: 42951306 | DOI: 10.1002/lary.71019
+- 事实: 9具尸头18侧电磁导航截骨，实际截骨线与规划平均偏差1.5mm，经鼻与经皮入路无差异。
+- 点评: 导航能把截骨做到亚毫米级，但尸头没出血没肿胀；真实价值在二次鼻和畸形鼻，不在常规截骨。
+- English: In nine cadaver heads, 18 electromagnetically navigated osteotomies deviated from the planned nasomaxillary suture by a mean of 1.5 mm, with transnasal and percutaneous routes equally accurate. Sub-millimeter accuracy in a bloodless cadaver model proves feasibility, not superiority; navigation earns its cost in revision and distorted anatomy, not routine osteotomy.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-08-pmid-42951306
+
+### Infraorbital versus sphenopalatine ganglion block for patient-reported recovery after septorhinoplasty: A randomized controlled trial
+- 期刊: Journal of Clinical Anesthesia
+- PMID: 42950360 | DOI: 10.1016/j.jclinane.2026.112354
+- 事实: 90例鼻中隔鼻整形RCT：眶下神经阻滞24小时QoR-15为129.1分，蝶腭神经节阻滞116.6分。
+- 点评: 眶下阻滞疼痛和恢复质量全面胜出，补救镇痛11%对53%；鼻整形术后镇痛该换默认选项。
+- English: In a 90-patient RCT, ultrasound-guided infraorbital block beat transnasal sphenopalatine ganglion block on 24-hour QoR-15 (129.1 vs 116.6), with rescue analgesia in 11.4% versus 53.3%. The margin exceeds the minimal clinically important difference and cuts rescue opioid use fivefold; infraorbital block deserves to become the default for septorhinoplasty.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-08-pmid-42950360
+
+### The V-Shaped Subdomal Graft: A Structural Template for Geometric Control of the Nasal Tip
+- 期刊: Plastic and Reconstructive Surgery
+- PMID: 42937516 | DOI: 10.1097/prs.0000000000013563
+- 事实: PRS提出V形鼻小柱下移植物，用几何模板同时控制鼻尖宽度、高度与旋转。
+- 点评: 把鼻尖控制做成模板，说明手感难复制；思路值得学，但一块移植物解决不了所有鼻尖。
+- English: A PRS technique paper introduces a V-shaped subdomal graft as a geometric template for controlling tip width, height and rotation together. Template-driven tip surgery is valuable as a teaching scaffold, but it cannot replace diagnosing the underlying support deficit case by case.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-08-pmid-42937516
+
+### Artificial Intelligence in Facelift Surgery: A Systematic Review of Objective Outcome Assessment and Patient-Perceived Rejuvenation
+- 期刊: Aesthetic Plastic Surgery
+- PMID: 42955309 | DOI: 10.1007/s00266-026-06392-z
+- 事实: 9项研究的系统综述：AI测得减龄1.7–5.8岁，比患者自感年轻程度低35%–50%。
+- 点评: 机器算出的岁数不能当疗效指标，患者照镜子那一眼才是；AI目前只能做辅助记录。
+- English: Across nine studies, AI age estimation after facelift showed 1.7 to 5.8 years of reduction but underestimated patient-perceived rejuvenation by 35% to 50%. Systematic discordance with patient perception means AI-derived age is a research metric, not an outcome measure to quote in clinic.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-08-pmid-42955309
+
+### Clinical Outcomes of Submuscular vs Subglandular Implant Placement in Primary Cosmetic Breast Augmentation: A Systematic Review and Meta-analysis
+- 期刊: Aesthetic Surgery Journal
+- PMID: 42969680 | DOI: 10.1093/asj/sjag163
+- 事实: 12项研究4534例：肌下/双平面总体并发症OR 0.49，包膜挛缩OR 0.58，血肿OR 0.30。
+- 点评: 肌下赢在并发症，满意度和再手术率却没差别；腺体覆盖够的瘦病人，不必一刀切放肌下。
+- English: Pooling 12 studies and 4,534 patients, submuscular or dual-plane placement had lower odds of overall complications (OR 0.49), contracture (OR 0.58) and hematoma (OR 0.30), with no difference in satisfaction or reoperation. Lower complication odds are real, but unchanged satisfaction and reoperation mean implant plane should follow tissue coverage, not habit.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-08-pmid-42969680
+
+### Association of Ultrasound-Guided PECS II Block with Postoperative Pain Scores and Recovery Outcomes in Subpectoral Breast Augmentation: A Retrospective Cohort Study
+- 期刊: Journal of Multidisciplinary Healthcare
+- PMID: 42973786 | DOI: 10.2147/jmdh.s649678
+- 事实: 48例胸肌下隆胸回顾：加PECS II阻滞后PACU疼痛评分1分对4分，无人需补救哌替啶。
+- 点评: 样本小、回顾性，但差距大得不像偶然；把PECS II写进常规镇痛，成本低收益明确。
+- English: In 48 subpectoral augmentations, adding a PECS II block cut PACU pain scores (median 1 vs 4) and eliminated protocol-driven rescue meperidine (0% vs 71.4%). Retrospective and small, but the effect size is too large to dismiss; PECS II is a cheap addition to standard multimodal analgesia.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-08-pmid-42973786
+
 ## 2026-11-07
 
 ### Septorhinoplasty: The Open Approach
