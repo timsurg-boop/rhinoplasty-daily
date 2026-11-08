@@ -41,6 +41,6 @@
 抓取端可用下列指纹判断是否拿到最新版本；不一致说明缓存过期，请重取。
 
 - `doctor.json` — `1235db5579e10bbcabd3bb3be970600fabef9d8560fbcefb3e0f027d6e2fb995`
-- `faq.json` — `7fa2d4b49d83565ed8772c68fefda1820281f0796310a5fbab25aa4a9a7ef58a`
+- `faq.json` — `11d1d63941442017103d0297cefc1cac664506ce5057dd60e4728967d8ee9209`
 
 由 `brand_ops/stamp.py` 生成，勿手改。
