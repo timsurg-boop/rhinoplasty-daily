@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-10",
+  "updated": "2026-11-10T07:32:20+08:00",
+  "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
+  "window": "2026-11-03..2026-11-10（拉皮放宽至 2026-10-11）",
+  "items": [
+    {
+      "id": "2026-11-10-pmid-42993309",
+      "pmid": "42993309",
+      "doi": "10.1007/s00266-026-06390-1",
+      "journal": "Aesthetic Plastic Surgery",
+      "title": "Design and Application of a Novel Device for Nasal Tip Flexibility and Stability",
+      "tags": [
+        "鼻尖",
+        "客观测量",
+        "新器械"
+      ],
+      "fact_zh": "自制装置测50名女性鼻尖四点，1.5N下位移8.6–11.2mm。",
+      "take_zh": "把鼻尖软硬度变成数字，方向有价值；但只有50例正常人、无术前术后对比，先当基线工具。",
+      "scene_zh": "鼻尖能推多软，以后不用只靠手感了。",
+      "fact_en": "A custom device measured four nasal-tip points in 50 young Chinese women under 1.5 N; mean displacement was 8.6–11.2 mm.",
+      "take_en": "Quantifying tip flexibility is useful, but 50 normal subjects without before-after surgery data make this a baseline tool, not evidence of clinical benefit."
+    },
+    {
+      "id": "2026-11-10-pmid-42978517",
+      "pmid": "42978517",
+      "doi": "10.1111/pde.70258",
+      "journal": "Pediatric Dermatology",
+      "title": "Clinical Outcomes of Nasal Tip Infantile Hemangiomas: A Retrospective Cohort Study",
+      "tags": [
+        "鼻尖",
+        "血管瘤",
+        "儿科"
+      ],
+      "fact_zh": "58例鼻尖血管瘤：口服普萘洛尔者3岁时后遗症67.9%，未治者100%。",
+      "take_zh": "早用普萘洛尔，2mg/kg多半够；外用噻吗洛尔别拿来拖延口服治疗。",
+      "scene_zh": "宝宝鼻尖的红瘤别等它自己消，早吃药比单抹药强。",
+      "fact_en": "In 58 infants with nasal-tip infantile hemangioma, propranolol was associated with fewer sequelae at age 3 (67.9% vs 100% untreated); low and high doses performed similarly.",
+      "take_en": "Start oral propranolol early at about 2 mg/kg/day, and do not let topical timolol delay it."
+    },
+    {
+      "id": "2026-11-10-pmid-42864553",
+      "pmid": "42864553",
+      "doi": "10.1007/s00266-026-06349-2",
+      "journal": "Aesthetic Plastic Surgery",
+      "title": "Assessing the Effectiveness of Bupivacaine for Managing Pain Post-rhinoplasty: A Triple-blinded Controlled Clinical Trial",
+      "tags": [
+        "鼻整形",
+        "术后镇痛",
+        "RCT"
+      ],
+      "fact_zh": "212例鼻整形：布比卡因表面+阻滞，镇痛药更少、恶心呕吐更低、满意度最高。",
+      "take_zh": "II级证据；组合组省镇痛药、少恶心、满意度最高，表面组疼痛评分最低，按需选。",
+      "scene_zh": "怕术后疼的，问一句能不能表面加阻滞一起用。",
+      "fact_en": "In a triple-blind RCT of 212 patients, combined topical and nerve-block bupivacaine reduced analgesic use and postoperative nausea/vomiting and gave the highest satisfaction.",
+      "take_en": "Level II evidence supports combining topical and block bupivacaine; topical alone gave the lowest pain scores but did not reduce analgesic consumption."
+    },
+    {
+      "id": "2026-11-10-pmid-42872381",
+      "pmid": "42872381",
+      "doi": "10.1093/asj/sjag231",
+      "journal": "Aesthetic Surgery Journal",
+      "title": "Endoscopic Facelift with Isolation of the Fronto-Temporal Facial Nerve Branches: A Clinical Study of 300 Cases",
+      "tags": [
+        "拉皮",
+        "内镜",
+        "面神经"
+      ],
+      "fact_zh": "300例内镜拉皮，全程游离额颞支：无永久面神经损伤，暂时性额肌无力100%。",
+      "take_zh": "解剖清楚、可复制，代价是人人都暂时抬眉无力；单臂研究证明不了这买卖划算。",
+      "scene_zh": "想拉皮又怕伤面神经，内镜看得清，但要接受术后抬眉无力。",
+      "fact_en": "In 300 consecutive endoscopic facelifts with circumferential isolation of the fronto-temporal branches, no permanent nerve injury occurred, but all patients had transient frontalis weakness; median recovery was 14 days.",
+      "take_en": "The technique is reproducible, but universal temporary brow weakness and the lack of a control group leave the risk-benefit trade-off unproven."
+    },
+    {
+      "id": "2026-11-10-pmid-42993310",
+      "pmid": "42993310",
+      "doi": "10.1007/s00266-026-06362-5",
+      "journal": "Aesthetic Plastic Surgery",
+      "title": "The Transumbilical Breast Augmentation: Safety and Satisfaction in a Systematic Review and Meta-analysis of 13,210 Breasts",
+      "tags": [
+        "隆胸",
+        "脐入路",
+        "系统综述"
+      ],
+      "fact_zh": "17项研究、13,210侧乳房：脐入路血肿0.2%、包膜挛缩1.7%、再干预2.3%。",
+      "take_zh": "数字漂亮，但几乎全是单臂回顾、随访短；适合极怕疤的人，不该当默认术式。",
+      "scene_zh": "想从肚脐进去完全无痕可以聊，但先接受它缺长期对照。",
+      "fact_en": "A meta-analysis of 17 studies and 13,210 breasts found pooled TUBA rates of hematoma 0.2%, capsular contracture 1.7% and reintervention 2.3%, with high satisfaction but mostly retrospective single-arm data.",
+      "take_en": "The complication rates look excellent, but moderate bias and short follow-up make TUBA an option for scar avoidance, not a new default."
+    },
+    {
+      "id": "2026-11-10-pmid-42987925",
+      "pmid": "42987925",
+      "doi": "10.1093/asj/sjag234",
+      "journal": "Aesthetic Surgery Journal",
+      "title": "Five-Year Clinical Performance and Patient-Reported Outcomes of Mentor MemoryGel and MemoryShape Breast Implants (GLOW Study)",
+      "tags": [
+        "隆胸",
+        "假体",
+        "长期随访"
+      ],
+      "fact_zh": "5年随访：初次隆胸包膜挛缩MemoryShape 0.31%、Xtra 1.42%、普通圆型5.16%。",
+      "take_zh": "五年数据都算低，但研究没设计头对头，别拿这三个数直接排优劣。",
+      "scene_zh": "圆型还是解剖型，先看五年包膜挛缩和再手术率，再谈手感。",
+      "fact_en": "In the GLOW 5-year interim analysis, Baker III/IV capsular contracture rates in primary augmentation were 0.31% for MemoryShape, 1.42% for MemoryGel Xtra and 5.16% for MemoryGel non-Xtra; the study was not designed for direct comparison.",
+      "take_en": "All three rates are low, but without a head-to-head design the ranking is descriptive, not a reason to switch implants."
+    }
+  ]
+}
