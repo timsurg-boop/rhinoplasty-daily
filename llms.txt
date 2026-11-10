@@ -25,6 +25,14 @@
 - English: Among 75 rhinoseptoplasty patients, 27 (36%) had prior septoplasty and reported lower cosmetic satisfaction at 1 and 6 months, although nasal function and quality of life improved significantly. Lower the aesthetic expectation for prior-septoplasty patients, but do not let surgical history discourage a functionally indicated procedure.
 - Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-11-pmid-42941334
 
+### The L-Shaped Lateral Crural Graft: A Single-Graft Technique for the Correction of Alar Concavity and Nasal Valve Insufficiency
+- 期刊: The Journal of Craniofacial Surgery
+- PMID: 42853803 | DOI: 10.1097/SCS.0000000000013483
+- 事实: 12例二次鼻整形用L形侧鼻翼软骨移植，随访9.5个月，通气改善、无感染或外露。
+- 点评: 单移植物同时撑侧鼻翼和鼻阀，思路漂亮；但只有12例、无对照，先用于选择好的二次病例。
+- English: In 12 revision rhinoplasty patients, a single L-shaped costal cartilage graft improved nasal breathing and alar contour over a mean 9.5 months, with no infection, exposure, warping, or resorption. One graft addressing both lateral crural support and the nasal valve is elegant, but 12 uncontrolled cases make it an option for selected revisions, not a new standard.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-11-pmid-42853803
+
 ### Beyond Cartilage Grafting in Rhinoplasty: Biopharmaceutical and Biomaterial Strategies for Nasal Cartilage Regeneration
 - 期刊: Life
 - PMID: 42942299 | DOI: 10.3390/life16101713
@@ -36,7 +44,7 @@
 ### Comparative Vector Analysis in Deep Plane Rhytidectomy: Evaluating Combined Horizontal and Oblique SMAS Fixation Strategies in Face and Neck Lifting
 - 期刊: Aesthetic Plastic Surgery
 - PMID: 42864533 | DOI: 10.1007/s00266-026-06377-y
-- 事实: 80例深层除皱分4组：面部斜向+颈部水平固定，FACE-Q 88.4、WSRS改善2.4分，最优。
+- 事实: 80例深层除皱：面部斜向+颈部水平固定，FACE-Q 88.4、WSRS改善2.4分，优于其余组合。
 - 点评: 面颈别用同一个矢量：面斜拉、颈水平收，主观客观都更好；回顾性单中心，先学思路。
 - English: In 80 deep-plane facelifts, oblique facial plus horizontal neck fixation scored highest (FACE-Q 88.4; WSRS improvement 2.4 points) versus three other vector combinations. Use different vectors for face and neck; the retrospective single-center design supports the concept, not a definitive standard.
 - Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-11-pmid-42864533

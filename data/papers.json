@@ -39,6 +39,23 @@
       "take_en": "Lower the aesthetic expectation for prior-septoplasty patients, but do not let surgical history discourage a functionally indicated procedure."
     },
     {
+      "id": "2026-11-11-pmid-42853803",
+      "pmid": "42853803",
+      "doi": "10.1097/SCS.0000000000013483",
+      "journal": "The Journal of Craniofacial Surgery",
+      "title": "The L-Shaped Lateral Crural Graft: A Single-Graft Technique for the Correction of Alar Concavity and Nasal Valve Insufficiency",
+      "tags": [
+        "鼻整形",
+        "二次修复",
+        "鼻阀"
+      ],
+      "fact_zh": "12例二次鼻整形用L形侧鼻翼软骨移植，随访9.5个月，通气改善、无感染或外露。",
+      "take_zh": "单移植物同时撑侧鼻翼和鼻阀，思路漂亮；但只有12例、无对照，先用于选择好的二次病例。",
+      "scene_zh": "二次鼻翼塌的，可以考虑一块L形肋软骨同时解决功能和外形。",
+      "fact_en": "In 12 revision rhinoplasty patients, a single L-shaped costal cartilage graft improved nasal breathing and alar contour over a mean 9.5 months, with no infection, exposure, warping, or resorption.",
+      "take_en": "One graft addressing both lateral crural support and the nasal valve is elegant, but 12 uncontrolled cases make it an option for selected revisions, not a new standard."
+    },
+    {
       "id": "2026-11-11-pmid-42942299",
       "pmid": "42942299",
       "doi": "10.3390/life16101713",
@@ -66,7 +83,7 @@
         "深层除皱",
         "矢量固定"
       ],
-      "fact_zh": "80例深层除皱分4组：面部斜向+颈部水平固定，FACE-Q 88.4、WSRS改善2.4分，最优。",
+      "fact_zh": "80例深层除皱：面部斜向+颈部水平固定，FACE-Q 88.4、WSRS改善2.4分，优于其余组合。",
       "take_zh": "面颈别用同一个矢量：面斜拉、颈水平收，主观客观都更好；回顾性单中心，先学思路。",
       "scene_zh": "面往斜上提，脖子往水平收，别一根线拉到底。",
       "fact_en": "In 80 deep-plane facelifts, oblique facial plus horizontal neck fixation scored highest (FACE-Q 88.4; WSRS improvement 2.4 points) versus three other vector combinations.",
