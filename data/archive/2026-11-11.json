@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-11",
+  "updated": "2026-11-11T07:32:33+08:00",
+  "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
+  "window": "2026-11-04..2026-11-11（鼻整形补收至 2026-10-10；拉皮/隆胸补收至 2026-10-21）",
+  "items": [
+    {
+      "id": "2026-11-11-pmid-42869429",
+      "pmid": "42869429",
+      "doi": "10.1093/asj/sjag222",
+      "journal": "Aesthetic Surgery Journal",
+      "title": "Evaluation of Costal Cartilage Calcification Using Plain Radiographic Images",
+      "tags": [
+        "肋软骨",
+        "术前评估",
+        "钙化"
+      ],
+      "fact_zh": "183例鼻整形1098段肋软骨，平片钙化检出54.1%；重度钙化高峰在40–49岁。",
+      "take_zh": "术前一张肋骨平片能少一次台上意外；40多岁女性重度钙化风险最高，别只按年龄想当然。",
+      "scene_zh": "先拍个肋骨平片，别等上台才发现软骨钙化。",
+      "fact_en": "In 183 rhinoplasty patients (1,098 rib segments), plain radiographs detected costal cartilage calcification in 54.1%, with severe calcification peaking at age 40-49 (25.8%).",
+      "take_en": "A routine rib series avoids intraoperative surprises; women in their 40s carry the highest risk of severe calcification, not the oldest patients."
+    },
+    {
+      "id": "2026-11-11-pmid-42941334",
+      "pmid": "42941334",
+      "doi": "10.3390/jcm15207819",
+      "journal": "Journal of Clinical Medicine",
+      "title": "Does Previous Septoplasty Affect Rhinoplasty Outcomes? A Comparative Analysis of Functional, Psychological and Self-Assessment Measures",
+      "tags": [
+        "鼻整形",
+        "二次手术",
+        "患者报告结局"
+      ],
+      "fact_zh": "75例鼻中隔鼻整形，27例曾做鼻中隔成形；术后6个月外观满意度更低，功能与生活质量仍改善。",
+      "take_zh": "有鼻中隔手术史的，外观预期要提前压低；功能该做还得做，别因既往史劝退。",
+      "scene_zh": "做过鼻中隔的，外观别按初鼻承诺，功能改善还是稳的。",
+      "fact_en": "Among 75 rhinoseptoplasty patients, 27 (36%) had prior septoplasty and reported lower cosmetic satisfaction at 1 and 6 months, although nasal function and quality of life improved significantly.",
+      "take_en": "Lower the aesthetic expectation for prior-septoplasty patients, but do not let surgical history discourage a functionally indicated procedure."
+    },
+    {
+      "id": "2026-11-11-pmid-42942299",
+      "pmid": "42942299",
+      "doi": "10.3390/life16101713",
+      "journal": "Life",
+      "title": "Beyond Cartilage Grafting in Rhinoplasty: Biopharmaceutical and Biomaterial Strategies for Nasal Cartilage Regeneration",
+      "tags": [
+        "鼻整形",
+        "软骨再生",
+        "综述"
+      ],
+      "fact_zh": "叙述性综述：鼻软骨再生近期只能增强移植骨、修补小缺损，注射再生还替不了结构支架。",
+      "take_zh": "生长因子、外泌体、可注射水凝胶多在体外或关节数据；先当移植物辅助，别当卖点。",
+      "scene_zh": "再生注射现在替不了软骨，顶多给移植物加一点生物学辅助。",
+      "fact_en": "This narrative review concludes that near-term nasal cartilage regeneration can enhance existing grafts and repair small contained defects, but injection-only regeneration cannot replace structural support.",
+      "take_en": "Growth factors, extracellular vesicles and injectable hydrogels remain largely in vitro or articular evidence; use them as graft adjuncts, not marketing claims."
+    },
+    {
+      "id": "2026-11-11-pmid-42864533",
+      "pmid": "42864533",
+      "doi": "10.1007/s00266-026-06377-y",
+      "journal": "Aesthetic Plastic Surgery",
+      "title": "Comparative Vector Analysis in Deep Plane Rhytidectomy: Evaluating Combined Horizontal and Oblique SMAS Fixation Strategies in Face and Neck Lifting",
+      "tags": [
+        "拉皮",
+        "深层除皱",
+        "矢量固定"
+      ],
+      "fact_zh": "80例深层除皱分4组：面部斜向+颈部水平固定，FACE-Q 88.4、WSRS改善2.4分，最优。",
+      "take_zh": "面颈别用同一个矢量：面斜拉、颈水平收，主观客观都更好；回顾性单中心，先学思路。",
+      "scene_zh": "面往斜上提，脖子往水平收，别一根线拉到底。",
+      "fact_en": "In 80 deep-plane facelifts, oblique facial plus horizontal neck fixation scored highest (FACE-Q 88.4; WSRS improvement 2.4 points) versus three other vector combinations.",
+      "take_en": "Use different vectors for face and neck; the retrospective single-center design supports the concept, not a definitive standard."
+    },
+    {
+      "id": "2026-11-11-pmid-42980684",
+      "pmid": "42980684",
+      "doi": "10.1007/s00266-026-06410-0",
+      "journal": "Aesthetic Plastic Surgery",
+      "title": "Trends in Patient Profile and Surgical Preferences for Breast Augmentation in China: A Retrospective Cohort Study Before and After the COVID-19 Era",
+      "tags": [
+        "隆胸",
+        "中国",
+        "趋势"
+      ],
+      "fact_zh": "682例中国隆胸：疫后更年长、假体更大（262.7对253.2cc）、圆型51.8%，满意度反降。",
+      "take_zh": "客人更懂、更敢花钱，不等于更满意；咨询重点从“做大”转到术后预期和长期形态。",
+      "scene_zh": "现在客人来了直接报型号，先别顺着加，问问她术后想看到什么。",
+      "fact_en": "In 682 Chinese augmentation patients, the post-pandemic cohort was older, chose larger (262.7 vs 253.2 cc) and more round implants (51.8% vs 34.9%), yet breast satisfaction declined.",
+      "take_en": "Better-informed, higher-spending patients are not more satisfied; shift counseling from size to expectations and long-term shape."
+    },
+    {
+      "id": "2026-11-11-pmid-42910395",
+      "pmid": "42910395",
+      "doi": "10.1097/gox.0000000000008147",
+      "journal": "Plastic and Reconstructive Surgery – Global Open",
+      "title": "Holidays With Perks: A Registry-based Study Investigating Revision Procedures Among Patients With Breast Implants Inserted Overseas",
+      "tags": [
+        "隆胸",
+        "翻修",
+        "境外手术"
+      ],
+      "fact_zh": "30,579例假体翻修中11.7%为境外植入；境外组破裂27.0%、移位24.9%，均高于境内。",
+      "take_zh": "低价旅行隆胸的账最后算在翻修和公立医院上；接诊先问植入地、假体型号和原始记录。",
+      "scene_zh": "哪儿做的？什么牌子？有没有原始病历？先问这三句。",
+      "fact_en": "Of 30,579 breast implant revisions, 11.7% involved overseas-inserted devices, with higher rupture (27.0% vs 24.5%) and malposition (24.9% vs 20.5%).",
+      "take_en": "Cosmetic tourism shifts costs to revision surgery and public hospitals; ask overseas patients for implant records before planning."
+    }
+  ]
+}
