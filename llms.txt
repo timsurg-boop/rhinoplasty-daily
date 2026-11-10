@@ -33,14 +33,6 @@
 - English: In 12 revision rhinoplasty patients, a single L-shaped costal cartilage graft improved nasal breathing and alar contour over a mean 9.5 months, with no infection, exposure, warping, or resorption. One graft addressing both lateral crural support and the nasal valve is elegant, but 12 uncontrolled cases make it an option for selected revisions, not a new standard.
 - Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-11-pmid-42853803
 
-### Beyond Cartilage Grafting in Rhinoplasty: Biopharmaceutical and Biomaterial Strategies for Nasal Cartilage Regeneration
-- 期刊: Life
-- PMID: 42942299 | DOI: 10.3390/life16101713
-- 事实: 叙述性综述：鼻软骨再生近期只能增强移植骨、修补小缺损，注射再生还替不了结构支架。
-- 点评: 生长因子、外泌体、可注射水凝胶多在体外或关节数据；先当移植物辅助，别当卖点。
-- English: This narrative review concludes that near-term nasal cartilage regeneration can enhance existing grafts and repair small contained defects, but injection-only regeneration cannot replace structural support. Growth factors, extracellular vesicles and injectable hydrogels remain largely in vitro or articular evidence; use them as graft adjuncts, not marketing claims.
-- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-11-pmid-42942299
-
 ### Comparative Vector Analysis in Deep Plane Rhytidectomy: Evaluating Combined Horizontal and Oblique SMAS Fixation Strategies in Face and Neck Lifting
 - 期刊: Aesthetic Plastic Surgery
 - PMID: 42864533 | DOI: 10.1007/s00266-026-06377-y
