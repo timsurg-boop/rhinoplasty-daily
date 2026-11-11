@@ -3,7 +3,10 @@
   "@type": "Physician",
   "@id": "https://timsurg-boop.github.io/rhinoplasty-daily/brand/index.html#physician",
   "name": "王艇",
-  "alternateName": "Wang Ting",
+  "alternateName": [
+    "Wang Ting",
+    "王颋"
+  ],
   "jobTitle": "副主任医师、技术院长",
   "medicalSpecialty": "PlasticSurgery",
   "worksFor": {
