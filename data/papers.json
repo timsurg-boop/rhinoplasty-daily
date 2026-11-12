@@ -1,110 +1,110 @@
 {
-  "date": "2026-11-12",
-  "updated": "2026-11-12T07:35:00+08:00",
+  "date": "2026-11-13",
+  "updated": "2026-11-13T07:40:00+08:00",
   "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
-  "window": "2026-11-05..2026-11-12（鼻整形补收至 2026-09-15；拉皮补收至 2026-10-01；隆胸补收至 2026-10-19）",
+  "window": "2026-11-06..2026-11-13（鼻整形扩至 2026-11-03；拉皮为预印本）",
   "items": [
     {
-      "id": "2026-11-12-pmid-42879137",
-      "pmid": "42879137",
-      "doi": "10.1097/PRS.0000000000013540",
-      "journal": "Plastic and Reconstructive Surgery",
-      "title": "Association of Anxiety and Depression with Patient-Reported Outcomes After Functional and Aesthetic Rhinoplasty",
+      "id": "2026-11-13-pmid-43007373",
+      "pmid": "43007373",
+      "doi": "10.1007/s00266-026-06413-x",
+      "journal": "Aesthetic Plastic Surgery",
+      "title": "Prospective Assessment of Nasal Airway Function After Primary Open Rhinoplasty",
       "tags": [
         "鼻整形",
-        "心理状态",
-        "翻修风险"
+        "鼻通气",
+        "前瞻性"
       ],
-      "fact_zh": "功能鼻整形490例，焦虑或抑郁者术后NOSE更差（35.3对24.1），翻修OR 2.56；美容组179例无差异。",
-      "take_zh": "功能鼻整形合并焦虑抑郁，术前就要讲清翻修风险高、症状改善打折；美容鼻整形不必因此劝退，满意度没差。",
-      "scene_zh": "功能上合并焦虑抑郁的，先把翻修率和改善幅度说在前面，别承诺一次到位。",
-      "fact_en": "In 490 functional septorhinoplasties, anxiety/depression patients had worse postoperative NOSE scores (35.3 vs 24.1) and higher revision odds (OR 2.56); among 179 aesthetic cases there was no difference.",
-      "take_en": "For functional cases, disclose the higher revision rate and smaller symptom gain; anxiety or depression should not disqualify aesthetic candidates, whose satisfaction was unaffected."
+      "fact_zh": "32例美容开鼻鼻整形3个月，PNIF 76.9→86.2，NOSE 23.4→14.3，鼻塞感略差。",
+      "take_zh": "功能没变差、反而改善；但客观气流与患者感受互不相关，别拿PNIF替病人说话。",
+      "scene_zh": "做完鼻子气更顺了，可你舒不舒服，跟仪器测的不一定一致。",
+      "fact_en": "In 32 aesthetic-only open rhinoplasties, PNIF rose from 76.9 to 86.2 L/min and NOSE fell from 23.4 to 14.3 at 3 months, though the nasal-fullness item worsened slightly.",
+      "take_en": "Airway function was preserved and even improved, but objective airflow and patient-reported scores did not correlate, so neither can stand in for the other."
     },
     {
-      "id": "2026-11-12-pmid-42888129",
-      "pmid": "42888129",
-      "doi": "10.1016/j.jvoice.2026.09.057",
-      "journal": "Journal of Voice",
-      "title": "The Effects of Preservation and Structural Rhinoplasty on Voice Parameters",
+      "id": "2026-11-13-pmid-43001659",
+      "pmid": "43001659",
+      "doi": "10.1097/SCS.0000000000011731",
+      "journal": "Journal of Craniofacial Surgery",
+      "title": "A Single Rib Integrated Scaffold for Semiopen Revision Rhinoplasty After Nasolabial Flap",
       "tags": [
         "鼻整形",
-        "嗓音",
-        "保留式"
+        "二次鼻整形",
+        "肋软骨"
       ],
-      "fact_zh": "40例女性鼻整形，术后3个月jitter、shimmer下降、HNR升高，两者相同；CPPS均无变化。",
-      "take_zh": "两种术式对嗓音只是细微扰动改善，别拿“术后声音更好”当卖点；CPPS没动，整体音质没有证据支持。",
-      "scene_zh": "声音不会变差，也说不上变好，这个别当承诺。",
-      "fact_en": "In 40 women, both preservation and structural rhinoplasty lowered jitter and shimmer and raised HNR at 3 months, with no change in CPPS and no meaningful between-technique difference.",
-      "take_en": "Only subclinical perturbation changes occurred; do not market voice improvement, since CPPS and overall voice quality did not change."
+      "fact_zh": "20例鼻唇沟皮瓣后翻修，四段肋软骨支架经双侧鼻翼缘送入，12个月ROE 48.5→88.2。",
+      "take_zh": "瘢痕挛缩做不了常规开放式时，这条路走得通；单术者20例，只算可行，不算优选。",
+      "scene_zh": "之前做过皮瓣、鼻子里面全是疤的，可以分四块从鼻翼缘送进去拼。",
+      "fact_en": "In 20 revision cases after nasolabial flap, a four-component rib scaffold delivered through bilateral alar rim incisions raised ROE from 48.5 to 88.2 at 12 months with no infection or extrusion.",
+      "take_en": "A workable route when scar contracture makes the standard open approach hazardous, but this single-surgeon series of 20 establishes feasibility, not superiority."
     },
     {
-      "id": "2026-11-12-pmid-42923336",
-      "pmid": "42923336",
-      "doi": "10.3389/fsurg.2026.1943506",
-      "journal": "Frontiers in Surgery",
-      "title": "Menstrual cycle phase and early periorbital edema and ecchymosis after rhinoplasty: an observational study",
+      "id": "2026-11-13-pmid-42980382",
+      "pmid": "42980382",
+      "doi": "10.1097/SCS.0000000000011647",
+      "journal": "Journal of Craniofacial Surgery",
+      "title": "Prevention of Secondary Deformities at the Donor Site After Cartilage Transplantation",
       "tags": [
         "鼻整形",
-        "围手术期",
-        "淤青"
+        "耳软骨",
+        "供区"
       ],
-      "fact_zh": "72例开鼻整形，术后1、3天眼周水肿淤青卵泡期最低，黄体期与排卵期较高。",
-      "take_zh": "能挑时间的话，把择期鼻整形排在卵泡期（月经结束后一周），淤青会轻些；这是探索性观察，别当铁律。",
-      "scene_zh": "时间能自己定的，月经干净后那一周做，眼睛肿和淤青会轻一点。",
-      "fact_en": "In 72 women having open rhinoplasty, periorbital edema and ecchymosis on days 1 and 3 were lowest in the estimated follicular phase and higher in luteal and periovulatory phases.",
-      "take_en": "Schedule elective rhinoplasty in the follicular week if the patient can choose, while treating this exploratory finding as hypothesis-generating rather than a rule."
+      "fact_zh": "92例耳软骨取材随访6–18个月：45例无畸形、41例轻度、6例明显未修、0例重度。",
+      "take_zh": "供区畸形能压到轻中度，但“轻度”占四成多；别跟病人保证耳朵外形一点不变。",
+      "scene_zh": "取耳软骨耳朵会有点变形，多数很轻，但我不敢说一点没有。",
+      "fact_en": "Among 92 auricular cartilage harvests followed 6 to 18 months, 45 ears had no deformity, 41 mild deformity, 6 noticeable but unrevised, and none severe.",
+      "take_en": "Modified incision and harvest sites keep donor-site deformity mild at worst, but with 45% mild contour change, promise patients nothing better than that."
     },
     {
-      "id": "2026-11-12-pmid-42836382",
-      "pmid": "42836382",
-      "doi": "10.1093/asj/sjag219",
-      "journal": "Aesthetic Surgery Journal",
-      "title": "Safety Profile of Standardized Tranexamic Acid (TXA) Dosing in Rhytidectomy: A Retrospective Comparative Cohort Study",
+      "id": "2026-11-13-doi-10.21203-rs.3.rs-11330171",
+      "pmid": "",
+      "doi": "10.21203/rs.3.rs-11330171/v1",
+      "journal": "Research Square (preprint)",
+      "title": "Postoperative nausea and vomiting after facelift surgery despite routine dual antiemetic prophylaxis",
       "tags": [
         "拉皮",
-        "氨甲环酸",
-        "安全性"
+        "麻醉",
+        "PONV"
       ],
-      "fact_zh": "1036例面颈除皱，局麻药加TXA（均582.6mg）未增加缺血或全身并发症，无永久面神经麻痹。",
-      "take_zh": "局麻里加TXA安全性站得住，可以常规用；但这篇只证明“不更危险”，少出血少淤青的获益要靠别的证据。",
-      "scene_zh": "麻药里加TXA，一千多例没多出事，出血还少。",
-      "fact_en": "In 1,036 face and neck lifts, TXA in local anesthetic (mean 582.6 mg) was not associated with more ischemic or systemic complications; no permanent nerve paralysis occurred.",
-      "take_en": "The safety signal is reassuring enough for routine use, but this cohort only rules out added harm; the bleeding and bruising benefit rests on other studies."
+      "fact_zh": "220例拉皮，96%用了地塞米松+昂丹司琼，仍62.3%发生恶心呕吐，49%呕吐，住院多9小时。",
+      "take_zh": "拉皮加眼睑、手术时间长，PONV风险明显升高；Apfel评分在这里不灵，双药预防不够。",
+      "scene_zh": "拉皮加双眼皮一起做、时间又长的，术后吐的概率很高，止吐得提前加码。",
+      "fact_en": "In 220 facelifts with 96% receiving dexamethasone plus ondansetron, PONV still occurred in 62.3%, vomiting in 49%, and hospital stay was 9 hours longer.",
+      "take_en": "Concurrent blepharoplasty (OR 5.67) and longer operative time drove PONV while the Apfel score failed to predict it, so dual prophylaxis is not enough in combined long cases."
     },
     {
-      "id": "2026-11-12-pmid-42897247",
-      "pmid": "42897247",
-      "doi": "10.1007/s00266-026-06344-7",
+      "id": "2026-11-13-pmid-42993310",
+      "pmid": "42993310",
+      "doi": "10.1007/s00266-026-06362-5",
       "journal": "Aesthetic Plastic Surgery",
-      "title": "Implant-Compensable Ptosis: A Retrospective Cohort Study Comparing Polyurethane Breast Augmentation Alone Versus Augmentation-mastopexy in Patients with Mild Ptosis",
+      "title": "The Transumbilical Breast Augmentation: Safety and Satisfaction in a Systematic Review and Meta-analysis of 13,210 Breasts",
       "tags": [
         "隆胸",
-        "轻度下垂",
-        "聚氨酯假体"
+        "经脐入路",
+        "系统综述"
       ],
-      "fact_zh": "90例聚氨酯假体，轻度下垂只放假体，24个月BREAST-Q 75.6对77.4（加悬吊），差1.8分。",
-      "take_zh": "轻下垂、不肯做悬吊的，选聚氨酯假体并控制容量≤350cc，可以只放假体；代价是乳头平均下移0.8cm。",
-      "scene_zh": "轻度下垂不想开悬吊，就用聚氨酯假体、容量别贪大，乳头会略往下走一点。",
-      "fact_en": "In 90 women with polyurethane implants, implant-only augmentation in selected mild ptosis scored 75.6 on BREAST-Q at 24 months versus 77.4 for augmentation-mastopexy, with 36 minutes less operative time.",
-      "take_en": "For mild ptosis patients who decline a lift, polyurethane implants at 350 cc or less are a defensible option, accepting about 0.8 cm of nipple descent and unproven non-inferiority."
+      "fact_zh": "17项研究、6605人：经脐隆胸血肿0.2%、包膜挛缩1.7%、再干预2.3%，手术约60分钟。",
+      "take_zh": "数字漂亮，但几乎全是单臂回顾、随访短，只能证明“能做”，不能证明优于腋下或乳晕。",
+      "scene_zh": "肚脐做隆胸疤藏得好，报告并发症也低，可没人拿它跟别的入路正面比过。",
+      "fact_en": "Across 17 studies and 6,605 patients, transumbilical augmentation showed pooled hematoma 0.2%, capsular contracture 1.7%, and reintervention 2.3%, with a median 60-minute operative time.",
+      "take_en": "The low complication rates come almost entirely from retrospective single-arm series with short follow-up, so they support feasibility, not equivalence to axillary or periareolar access."
     },
     {
-      "id": "2026-11-12-pmid-42900384",
-      "pmid": "42900384",
-      "doi": "10.1007/s00266-026-06366-1",
-      "journal": "Aesthetic Plastic Surgery",
-      "title": "A Next-Generation Approach to Subglandular Breast Augmentation Using B-Lite Implants: The Feather Touch Technique",
+      "id": "2026-11-13-pmid-42987925",
+      "pmid": "42987925",
+      "doi": "10.1093/asj/sjag234",
+      "journal": "Aesthetic Surgery Journal",
+      "title": "Five-Year Clinical Performance and Patient-Reported Outcomes of Mentor MemoryGel and MemoryShape Breast Implants (GLOW Study)",
       "tags": [
         "隆胸",
-        "清醒手术",
-        "筋膜平面阻滞"
+        "假体",
+        "长期随访"
       ],
-      "fact_zh": "66例清醒状态肌下隆胸，多层筋膜平面阻滞全部完成、无改全麻，4例轻度位置问题，无严重并发症。",
-      "take_zh": "清醒隆胸技术上可行，关键在阻滞覆盖到位；但单组66例、IV级证据，别当成全麻的常规替代。",
-      "scene_zh": "想恢复快可以试清醒做，但别指望全程没感觉。",
-      "fact_en": "In 66 women, awake subglandular augmentation with a multilayer fascial-plane block was completed without conversion to general anesthesia; four minor positional issues and no major complications.",
-      "take_en": "Feasible when the block is thorough, but this is a single-arm level IV series and does not justify replacing general anesthesia as routine."
+      "fact_zh": "5年挛缩率：解剖型0.31%、Xtra 1.42%、圆形5.16%；再手术3–5.5%。",
+      "take_zh": "0.31%不能读成解剖型更安全，研究没做头对头；但“五年约二十分之一再手术”可以拿去谈话。",
+      "scene_zh": "五年内大概二十分之一要再上一次手术台，这个数先讲清楚再谈假体形状。",
+      "fact_en": "At 5 years in primary augmentation, Baker III/IV contracture was 0.31% with MemoryShape, 1.42% with MemoryGel Xtra, and 5.16% with MemoryGel; reoperation for implant-related reasons was 2.9% to 5.5%.",
+      "take_en": "The study was not powered for device comparison, so the anatomical implant's 0.31% is not evidence of superiority; the 5-year reoperation rate near 1 in 20 is the number worth quoting."
     }
   ]
 }

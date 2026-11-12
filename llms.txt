@@ -7,6 +7,56 @@
 - RSS: https://timsurg-boop.github.io/rhinoplasty-daily/rss.xml
 - Sitemap: https://timsurg-boop.github.io/rhinoplasty-daily/sitemap.xml
 
+## 2026-11-13
+
+### Prospective Assessment of Nasal Airway Function After Primary Open Rhinoplasty
+- 期刊: Aesthetic Plastic Surgery
+- PMID: 43007373 | DOI: 10.1007/s00266-026-06413-x
+- 事实: 32例美容开鼻鼻整形3个月，PNIF 76.9→86.2，NOSE 23.4→14.3，鼻塞感略差。
+- 点评: 功能没变差、反而改善；但客观气流与患者感受互不相关，别拿PNIF替病人说话。
+- English: In 32 aesthetic-only open rhinoplasties, PNIF rose from 76.9 to 86.2 L/min and NOSE fell from 23.4 to 14.3 at 3 months, though the nasal-fullness item worsened slightly. Airway function was preserved and even improved, but objective airflow and patient-reported scores did not correlate, so neither can stand in for the other.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-13-pmid-43007373
+
+### A Single Rib Integrated Scaffold for Semiopen Revision Rhinoplasty After Nasolabial Flap
+- 期刊: Journal of Craniofacial Surgery
+- PMID: 43001659 | DOI: 10.1097/SCS.0000000000011731
+- 事实: 20例鼻唇沟皮瓣后翻修，四段肋软骨支架经双侧鼻翼缘送入，12个月ROE 48.5→88.2。
+- 点评: 瘢痕挛缩做不了常规开放式时，这条路走得通；单术者20例，只算可行，不算优选。
+- English: In 20 revision cases after nasolabial flap, a four-component rib scaffold delivered through bilateral alar rim incisions raised ROE from 48.5 to 88.2 at 12 months with no infection or extrusion. A workable route when scar contracture makes the standard open approach hazardous, but this single-surgeon series of 20 establishes feasibility, not superiority.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-13-pmid-43001659
+
+### Prevention of Secondary Deformities at the Donor Site After Cartilage Transplantation
+- 期刊: Journal of Craniofacial Surgery
+- PMID: 42980382 | DOI: 10.1097/SCS.0000000000011647
+- 事实: 92例耳软骨取材随访6–18个月：45例无畸形、41例轻度、6例明显未修、0例重度。
+- 点评: 供区畸形能压到轻中度，但“轻度”占四成多；别跟病人保证耳朵外形一点不变。
+- English: Among 92 auricular cartilage harvests followed 6 to 18 months, 45 ears had no deformity, 41 mild deformity, 6 noticeable but unrevised, and none severe. Modified incision and harvest sites keep donor-site deformity mild at worst, but with 45% mild contour change, promise patients nothing better than that.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-13-pmid-42980382
+
+### Postoperative nausea and vomiting after facelift surgery despite routine dual antiemetic prophylaxis
+- 期刊: Research Square (preprint)
+- PMID:  | DOI: 10.21203/rs.3.rs-11330171/v1
+- 事实: 220例拉皮，96%用了地塞米松+昂丹司琼，仍62.3%发生恶心呕吐，49%呕吐，住院多9小时。
+- 点评: 拉皮加眼睑、手术时间长，PONV风险明显升高；Apfel评分在这里不灵，双药预防不够。
+- English: In 220 facelifts with 96% receiving dexamethasone plus ondansetron, PONV still occurred in 62.3%, vomiting in 49%, and hospital stay was 9 hours longer. Concurrent blepharoplasty (OR 5.67) and longer operative time drove PONV while the Apfel score failed to predict it, so dual prophylaxis is not enough in combined long cases.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-13-doi-10.21203-rs.3.rs-11330171
+
+### The Transumbilical Breast Augmentation: Safety and Satisfaction in a Systematic Review and Meta-analysis of 13,210 Breasts
+- 期刊: Aesthetic Plastic Surgery
+- PMID: 42993310 | DOI: 10.1007/s00266-026-06362-5
+- 事实: 17项研究、6605人：经脐隆胸血肿0.2%、包膜挛缩1.7%、再干预2.3%，手术约60分钟。
+- 点评: 数字漂亮，但几乎全是单臂回顾、随访短，只能证明“能做”，不能证明优于腋下或乳晕。
+- English: Across 17 studies and 6,605 patients, transumbilical augmentation showed pooled hematoma 0.2%, capsular contracture 1.7%, and reintervention 2.3%, with a median 60-minute operative time. The low complication rates come almost entirely from retrospective single-arm series with short follow-up, so they support feasibility, not equivalence to axillary or periareolar access.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-13-pmid-42993310
+
+### Five-Year Clinical Performance and Patient-Reported Outcomes of Mentor MemoryGel and MemoryShape Breast Implants (GLOW Study)
+- 期刊: Aesthetic Surgery Journal
+- PMID: 42987925 | DOI: 10.1093/asj/sjag234
+- 事实: 5年挛缩率：解剖型0.31%、Xtra 1.42%、圆形5.16%；再手术3–5.5%。
+- 点评: 0.31%不能读成解剖型更安全，研究没做头对头；但“五年约二十分之一再手术”可以拿去谈话。
+- English: At 5 years in primary augmentation, Baker III/IV contracture was 0.31% with MemoryShape, 1.42% with MemoryGel Xtra, and 5.16% with MemoryGel; reoperation for implant-related reasons was 2.9% to 5.5%. The study was not powered for device comparison, so the anatomical implant's 0.31% is not evidence of superiority; the 5-year reoperation rate near 1 in 20 is the number worth quoting.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-13-pmid-42987925
+
 ## 2026-11-12
 
 ### Association of Anxiety and Depression with Patient-Reported Outcomes After Functional and Aesthetic Rhinoplasty
