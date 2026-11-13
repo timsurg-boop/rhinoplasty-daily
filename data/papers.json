@@ -1,110 +1,93 @@
 {
-  "date": "2026-11-13",
-  "updated": "2026-11-13T07:40:00+08:00",
-  "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
-  "window": "2026-11-06..2026-11-13（鼻整形扩至 2026-11-03；拉皮为预印本）",
-  "items": [
-    {
-      "id": "2026-11-13-pmid-43007373",
-      "pmid": "43007373",
-      "doi": "10.1007/s00266-026-06413-x",
-      "journal": "Aesthetic Plastic Surgery",
-      "title": "Prospective Assessment of Nasal Airway Function After Primary Open Rhinoplasty",
-      "tags": [
-        "鼻整形",
-        "鼻通气",
-        "前瞻性"
-      ],
-      "fact_zh": "32例美容开鼻鼻整形3个月，PNIF 76.9→86.2，NOSE 23.4→14.3，鼻塞感略差。",
-      "take_zh": "功能没变差、反而改善；但客观气流与患者感受互不相关，别拿PNIF替病人说话。",
-      "scene_zh": "做完鼻子气更顺了，可你舒不舒服，跟仪器测的不一定一致。",
-      "fact_en": "In 32 aesthetic-only open rhinoplasties, PNIF rose from 76.9 to 86.2 L/min and NOSE fell from 23.4 to 14.3 at 3 months, though the nasal-fullness item worsened slightly.",
-      "take_en": "Airway function was preserved and even improved, but objective airflow and patient-reported scores did not correlate, so neither can stand in for the other."
-    },
-    {
-      "id": "2026-11-13-pmid-43001659",
-      "pmid": "43001659",
-      "doi": "10.1097/SCS.0000000000011731",
-      "journal": "Journal of Craniofacial Surgery",
-      "title": "A Single Rib Integrated Scaffold for Semiopen Revision Rhinoplasty After Nasolabial Flap",
-      "tags": [
-        "鼻整形",
-        "二次鼻整形",
-        "肋软骨"
-      ],
-      "fact_zh": "20例鼻唇沟皮瓣后翻修，四段肋软骨支架经双侧鼻翼缘送入，12个月ROE 48.5→88.2。",
-      "take_zh": "瘢痕挛缩做不了常规开放式时，这条路走得通；单术者20例，只算可行，不算优选。",
-      "scene_zh": "之前做过皮瓣、鼻子里面全是疤的，可以分四块从鼻翼缘送进去拼。",
-      "fact_en": "In 20 revision cases after nasolabial flap, a four-component rib scaffold delivered through bilateral alar rim incisions raised ROE from 48.5 to 88.2 at 12 months with no infection or extrusion.",
-      "take_en": "A workable route when scar contracture makes the standard open approach hazardous, but this single-surgeon series of 20 establishes feasibility, not superiority."
-    },
-    {
-      "id": "2026-11-13-pmid-42980382",
-      "pmid": "42980382",
-      "doi": "10.1097/SCS.0000000000011647",
-      "journal": "Journal of Craniofacial Surgery",
-      "title": "Prevention of Secondary Deformities at the Donor Site After Cartilage Transplantation",
-      "tags": [
-        "鼻整形",
-        "耳软骨",
-        "供区"
-      ],
-      "fact_zh": "92例耳软骨取材随访6–18个月：45例无畸形、41例轻度、6例明显未修、0例重度。",
-      "take_zh": "供区畸形能压到轻中度，但“轻度”占四成多；别跟病人保证耳朵外形一点不变。",
-      "scene_zh": "取耳软骨耳朵会有点变形，多数很轻，但我不敢说一点没有。",
-      "fact_en": "Among 92 auricular cartilage harvests followed 6 to 18 months, 45 ears had no deformity, 41 mild deformity, 6 noticeable but unrevised, and none severe.",
-      "take_en": "Modified incision and harvest sites keep donor-site deformity mild at worst, but with 45% mild contour change, promise patients nothing better than that."
-    },
-    {
-      "id": "2026-11-13-doi-10.21203-rs.3.rs-11330171",
-      "pmid": "",
-      "doi": "10.21203/rs.3.rs-11330171/v1",
-      "journal": "Research Square (preprint)",
-      "title": "Postoperative nausea and vomiting after facelift surgery despite routine dual antiemetic prophylaxis",
-      "tags": [
-        "拉皮",
-        "麻醉",
-        "PONV"
-      ],
-      "fact_zh": "220例拉皮，96%用了地塞米松+昂丹司琼，仍62.3%发生恶心呕吐，49%呕吐，住院多9小时。",
-      "take_zh": "拉皮加眼睑、手术时间长，PONV风险明显升高；Apfel评分在这里不灵，双药预防不够。",
-      "scene_zh": "拉皮加双眼皮一起做、时间又长的，术后吐的概率很高，止吐得提前加码。",
-      "fact_en": "In 220 facelifts with 96% receiving dexamethasone plus ondansetron, PONV still occurred in 62.3%, vomiting in 49%, and hospital stay was 9 hours longer.",
-      "take_en": "Concurrent blepharoplasty (OR 5.67) and longer operative time drove PONV while the Apfel score failed to predict it, so dual prophylaxis is not enough in combined long cases."
-    },
-    {
-      "id": "2026-11-13-pmid-42993310",
-      "pmid": "42993310",
-      "doi": "10.1007/s00266-026-06362-5",
-      "journal": "Aesthetic Plastic Surgery",
-      "title": "The Transumbilical Breast Augmentation: Safety and Satisfaction in a Systematic Review and Meta-analysis of 13,210 Breasts",
-      "tags": [
-        "隆胸",
-        "经脐入路",
-        "系统综述"
-      ],
-      "fact_zh": "17项研究、6605人：经脐隆胸血肿0.2%、包膜挛缩1.7%、再干预2.3%，手术约60分钟。",
-      "take_zh": "数字漂亮，但几乎全是单臂回顾、随访短，只能证明“能做”，不能证明优于腋下或乳晕。",
-      "scene_zh": "肚脐做隆胸疤藏得好，报告并发症也低，可没人拿它跟别的入路正面比过。",
-      "fact_en": "Across 17 studies and 6,605 patients, transumbilical augmentation showed pooled hematoma 0.2%, capsular contracture 1.7%, and reintervention 2.3%, with a median 60-minute operative time.",
-      "take_en": "The low complication rates come almost entirely from retrospective single-arm series with short follow-up, so they support feasibility, not equivalence to axillary or periareolar access."
-    },
-    {
-      "id": "2026-11-13-pmid-42987925",
-      "pmid": "42987925",
-      "doi": "10.1093/asj/sjag234",
-      "journal": "Aesthetic Surgery Journal",
-      "title": "Five-Year Clinical Performance and Patient-Reported Outcomes of Mentor MemoryGel and MemoryShape Breast Implants (GLOW Study)",
-      "tags": [
-        "隆胸",
-        "假体",
-        "长期随访"
-      ],
-      "fact_zh": "5年挛缩率：解剖型0.31%、Xtra 1.42%、圆形5.16%；再手术3–5.5%。",
-      "take_zh": "0.31%不能读成解剖型更安全，研究没做头对头；但“五年约二十分之一再手术”可以拿去谈话。",
-      "scene_zh": "五年内大概二十分之一要再上一次手术台，这个数先讲清楚再谈假体形状。",
-      "fact_en": "At 5 years in primary augmentation, Baker III/IV contracture was 0.31% with MemoryShape, 1.42% with MemoryGel Xtra, and 5.16% with MemoryGel; reoperation for implant-related reasons was 2.9% to 5.5%.",
-      "take_en": "The study was not powered for device comparison, so the anatomical implant's 0.31% is not evidence of superiority; the 5-year reoperation rate near 1 in 20 is the number worth quoting."
-    }
-  ]
+ "date": "2026-11-14",
+ "updated": "2026-11-14T07:45:00+08:00",
+ "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
+ "window": "2026-11-07..2026-11-14（7日内新增仅1条，余为 09-30..10-19 补收）",
+ "items": [
+  {
+   "id": "2026-11-14-pmid-43017812",
+   "pmid": "43017812",
+   "doi": "10.1093/asj/sjag252",
+   "journal": "Aesthetic Surgery Journal",
+   "title": "Perioperative Interventions to Reduce Edema and Ecchymosis After Rhinoplasty: A Network Meta-Analysis of Randomized Controlled Trials",
+   "tags": [
+    "鼻整形",
+    "循证",
+    "网络meta分析"
+   ],
+   "fact_zh": "36项RCT网络meta：激素消肿退瘀最稳；氨甲环酸只对早期瘀斑有效（SMD -0.80）。",
+   "take_zh": "激素是唯一稳定的；激素+氨甲环酸的“最佳组合”证据等级低，只能算假设，别当定论。",
+   "scene_zh": "消肿药里激素最靠谱，氨甲环酸锦上添花；所谓组合最优，证据还不够硬。",
+   "fact_en": "In a network meta-analysis of 36 randomized trials, corticosteroids consistently reduced post-rhinoplasty edema and ecchymosis, while tranexamic acid only modestly reduced early ecchymosis (SMD -0.80).",
+   "take_en": "Corticosteroids were the only consistently supported agent; the corticosteroid-plus-TXA combination ranked highest on SUCRA but rests on sparse indirect evidence rated low to very low certainty."
+  },
+  {
+   "id": "2026-11-14-pmid-42974243",
+   "pmid": "42974243",
+   "doi": "10.25259/sni_751_2026",
+   "journal": "Surgical Neurology International",
+   "title": "Iatrogenic pseudoaneurysm formation in the medial orbitofrontal artery following rhinoplasty and nasal osteotomy: A case report",
+   "tags": [
+    "鼻整形",
+    "并发症",
+    "病例报告"
+   ],
+   "fact_zh": "31岁男鼻整形截骨后颅内出血，造影见内侧眶额动脉假性动脉瘤，显微夹闭后无后遗症。",
+   "take_zh": "截骨后头痛、呕吐、意识变化别只当麻醉反应；尽早血管造影，罕见但致命。",
+   "scene_zh": "隆鼻截骨后剧烈头痛、喷射性呕吐，先排颅内出血，别急着说“麻药还没过”。",
+   "fact_en": "A 31-year-old man developed intracerebral hemorrhage after rhinoplasty with osteotomy; angiography showed a medial orbitofrontal artery pseudoaneurysm, treated by microsurgical trapping and clipping with complete neurological recovery.",
+   "take_en": "Intracranial pseudoaneurysm after osteotomy is rare but catastrophic, so post-rhinoplasty hemorrhage and neuro symptoms warrant prompt vascular imaging instead of watchful waiting."
+  },
+  {
+   "id": "2026-11-14-pmid-42897248",
+   "pmid": "42897248",
+   "doi": "10.1007/s00266-026-06374-1",
+   "journal": "Aesthetic Plastic Surgery",
+   "title": "Quantifying Facial Rejuvenation after Deep Plane Facelift Using Convolutional Neural Network-Based Age Estimation: Correlation with Patient-Reported Outcomes on the FACE-Q Aesthetic Module",
+   "tags": [
+    "拉皮",
+    "人工智能",
+    "FACE-Q"
+   ],
+   "fact_zh": "72例深层除皱，5个AI模型估龄降7.64岁（15.7%），与FACE-Q弱相关（ρ 0.25）。",
+   "take_zh": "AI估龄可当客观指标，但病人自评年轻多少才是主结局；两者的数别混着报。",
+   "scene_zh": "照片测出来年轻七岁半，可病人满不满意，还得看问卷，不是看算法。",
+   "fact_en": "In 72 deep-plane face and neck lifts, five CNN models estimated a mean age reduction of 7.64 years (15.7%), but AI estimates correlated only weakly with FACE-Q scores (rho 0.25).",
+   "take_en": "AI age estimation is reproducible as an objective metric, yet patient-perceived rejuvenation correlated far more strongly (rho 0.61) and should stay the primary outcome."
+  },
+  {
+   "id": "2026-11-14-pmid-42881301",
+   "pmid": "42881301",
+   "doi": "10.1007/s00266-026-06351-8",
+   "journal": "Aesthetic Plastic Surgery",
+   "title": "The Distal U-Shaped Capsule Sparing Technique (DUS-CS) for Revision Breast Augmentation: A Consecutive Clinical Series of 223 Patients",
+   "tags": [
+    "隆胸",
+    "包膜挛缩",
+    "翻修"
+   ],
+   "fact_zh": "223例包膜挛缩翻修用U形保留包膜技术，现有随访内无复发、无双乳相通、无下移。",
+   "take_zh": "留部分包膜能稳住腔隙、少创伤；但这是单中心描述性研究，随访时长没写，别当治愈率。",
+   "scene_zh": "挛缩不一定全切包膜，留一部分反而稳；长期复发率现在还没数。",
+   "fact_en": "In 223 consecutive revision augmentations, a U-shaped selective capsulectomy sparing medial, lateral and caudal capsule produced no recurrence of contracture, symmastia or bottoming out during available follow-up.",
+   "take_en": "Capsule-sparing revision preserves pocket geometry with less morbidity, but this single-center descriptive series does not report follow-up duration and cannot establish a recurrence rate."
+  },
+  {
+   "id": "2026-11-14-pmid-42820993",
+   "pmid": "42820993",
+   "doi": "10.1007/s00266-026-06282-4",
+   "journal": "Aesthetic Plastic Surgery",
+   "title": "A Modified Pre-implantation Internal Fixation Suture Technique for Inframammary Fold Reconstruction in Implant-Based Breast Augmentation: A Retrospective Cohort Study",
+   "tags": [
+    "隆胸",
+    "下皱襞",
+    "缝合技术"
+   ],
+   "fact_zh": "53例下皱襞入路用改良内固定缝法，3例假体下移<5mm，无翻修，平均随访12个月。",
+   "take_zh": "技术可行，但“满意度100%”出自单术者回顾、无对照；假体位置得看更长期。",
+   "scene_zh": "下皱襞多缝一道确实不容易往下掉；百分百满意这种话，听听就好。",
+   "fact_en": "In 53 IMF-approach augmentations using a modified internal fixation suture, 3 implants displaced less than 5 mm inferiorly, none needed revision, and mean follow-up was 12 months.",
+   "take_en": "The technique is feasible for fold support, but a single-surgeon retrospective series claiming 100% satisfaction cannot establish superiority over standard closure."
+  }
+ ]
 }

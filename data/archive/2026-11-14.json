@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-14",
+  "updated": "2026-11-14T07:45:00+08:00",
+  "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
+  "window": "2026-11-07..2026-11-14（7日内新增仅1条，余为 09-30..10-19 补收）",
+  "items": [
+    {
+      "id": "2026-11-14-pmid-43017812",
+      "pmid": "43017812",
+      "doi": "10.1093/asj/sjag252",
+      "journal": "Aesthetic Surgery Journal",
+      "title": "Perioperative Interventions to Reduce Edema and Ecchymosis After Rhinoplasty: A Network Meta-Analysis of Randomized Controlled Trials",
+      "tags": [
+        "鼻整形",
+        "循证",
+        "网络meta分析"
+      ],
+      "fact_zh": "36项RCT网络meta：激素消肿退瘀最稳；氨甲环酸只对早期瘀斑有效（SMD -0.80）。",
+      "take_zh": "激素是唯一稳定的；激素+氨甲环酸的“最佳组合”证据等级低，只能算假设，别当定论。",
+      "scene_zh": "消肿药里激素最靠谱，氨甲环酸锦上添花；所谓组合最优，证据还不够硬。",
+      "fact_en": "In a network meta-analysis of 36 randomized trials, corticosteroids consistently reduced post-rhinoplasty edema and ecchymosis, while tranexamic acid only modestly reduced early ecchymosis (SMD -0.80).",
+      "take_en": "Corticosteroids were the only consistently supported agent; the corticosteroid-plus-TXA combination ranked highest on SUCRA but rests on sparse indirect evidence rated low to very low certainty."
+    },
+    {
+      "id": "2026-11-14-pmid-42974243",
+      "pmid": "42974243",
+      "doi": "10.25259/sni_751_2026",
+      "journal": "Surgical Neurology International",
+      "title": "Iatrogenic pseudoaneurysm formation in the medial orbitofrontal artery following rhinoplasty and nasal osteotomy: A case report",
+      "tags": [
+        "鼻整形",
+        "并发症",
+        "病例报告"
+      ],
+      "fact_zh": "31岁男鼻整形截骨后颅内出血，造影见内侧眶额动脉假性动脉瘤，显微夹闭后无后遗症。",
+      "take_zh": "截骨后头痛、呕吐、意识变化别只当麻醉反应；尽早血管造影，罕见但致命。",
+      "scene_zh": "隆鼻截骨后剧烈头痛、喷射性呕吐，先排颅内出血，别急着说“麻药还没过”。",
+      "fact_en": "A 31-year-old man developed intracerebral hemorrhage after rhinoplasty with osteotomy; angiography showed a medial orbitofrontal artery pseudoaneurysm, treated by microsurgical trapping and clipping with complete neurological recovery.",
+      "take_en": "Intracranial pseudoaneurysm after osteotomy is rare but catastrophic, so post-rhinoplasty hemorrhage and neuro symptoms warrant prompt vascular imaging instead of watchful waiting."
+    },
+    {
+      "id": "2026-11-14-pmid-42897248",
+      "pmid": "42897248",
+      "doi": "10.1007/s00266-026-06374-1",
+      "journal": "Aesthetic Plastic Surgery",
+      "title": "Quantifying Facial Rejuvenation after Deep Plane Facelift Using Convolutional Neural Network-Based Age Estimation: Correlation with Patient-Reported Outcomes on the FACE-Q Aesthetic Module",
+      "tags": [
+        "拉皮",
+        "人工智能",
+        "FACE-Q"
+      ],
+      "fact_zh": "72例深层除皱，5个AI模型估龄降7.64岁（15.7%），与FACE-Q弱相关（ρ 0.25）。",
+      "take_zh": "AI估龄可当客观指标，但病人自评年轻多少才是主结局；两者的数别混着报。",
+      "scene_zh": "照片测出来年轻七岁半，可病人满不满意，还得看问卷，不是看算法。",
+      "fact_en": "In 72 deep-plane face and neck lifts, five CNN models estimated a mean age reduction of 7.64 years (15.7%), but AI estimates correlated only weakly with FACE-Q scores (rho 0.25).",
+      "take_en": "AI age estimation is reproducible as an objective metric, yet patient-perceived rejuvenation correlated far more strongly (rho 0.61) and should stay the primary outcome."
+    },
+    {
+      "id": "2026-11-14-pmid-42881301",
+      "pmid": "42881301",
+      "doi": "10.1007/s00266-026-06351-8",
+      "journal": "Aesthetic Plastic Surgery",
+      "title": "The Distal U-Shaped Capsule Sparing Technique (DUS-CS) for Revision Breast Augmentation: A Consecutive Clinical Series of 223 Patients",
+      "tags": [
+        "隆胸",
+        "包膜挛缩",
+        "翻修"
+      ],
+      "fact_zh": "223例包膜挛缩翻修用U形保留包膜技术，现有随访内无复发、无双乳相通、无下移。",
+      "take_zh": "留部分包膜能稳住腔隙、少创伤；但这是单中心描述性研究，随访时长没写，别当治愈率。",
+      "scene_zh": "挛缩不一定全切包膜，留一部分反而稳；长期复发率现在还没数。",
+      "fact_en": "In 223 consecutive revision augmentations, a U-shaped selective capsulectomy sparing medial, lateral and caudal capsule produced no recurrence of contracture, symmastia or bottoming out during available follow-up.",
+      "take_en": "Capsule-sparing revision preserves pocket geometry with less morbidity, but this single-center descriptive series does not report follow-up duration and cannot establish a recurrence rate."
+    },
+    {
+      "id": "2026-11-14-pmid-42820993",
+      "pmid": "42820993",
+      "doi": "10.1007/s00266-026-06282-4",
+      "journal": "Aesthetic Plastic Surgery",
+      "title": "A Modified Pre-implantation Internal Fixation Suture Technique for Inframammary Fold Reconstruction in Implant-Based Breast Augmentation: A Retrospective Cohort Study",
+      "tags": [
+        "隆胸",
+        "下皱襞",
+        "缝合技术"
+      ],
+      "fact_zh": "53例下皱襞入路用改良内固定缝法，3例假体下移<5mm，无翻修，平均随访12个月。",
+      "take_zh": "技术可行，但“满意度100%”出自单术者回顾、无对照；假体位置得看更长期。",
+      "scene_zh": "下皱襞多缝一道确实不容易往下掉；百分百满意这种话，听听就好。",
+      "fact_en": "In 53 IMF-approach augmentations using a modified internal fixation suture, 3 implants displaced less than 5 mm inferiorly, none needed revision, and mean follow-up was 12 months.",
+      "take_en": "The technique is feasible for fold support, but a single-surgeon retrospective series claiming 100% satisfaction cannot establish superiority over standard closure."
+    }
+  ]
+}

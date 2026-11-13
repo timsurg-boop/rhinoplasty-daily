@@ -6,6 +6,76 @@
   "language": "zh-CN",
   "items": [
     {
+      "id": "2026-11-14-pmid-43017812",
+      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-14-pmid-43017812",
+      "title": "Perioperative Interventions to Reduce Edema and Ecchymosis After Rhinoplasty: A Network Meta-Analysis of Randomized Controlled Trials",
+      "content_html": "<p><strong>事实</strong>：36项RCT网络meta：激素消肿退瘀最稳；氨甲环酸只对早期瘀斑有效（SMD -0.80）。</p><p><strong>点评</strong>：激素是唯一稳定的；激素+氨甲环酸的“最佳组合”证据等级低，只能算假设，别当定论。</p><p>In a network meta-analysis of 36 randomized trials, corticosteroids consistently reduced post-rhinoplasty edema and ecchymosis, while tranexamic acid only modestly reduced early ecchymosis (SMD -0.80). Corticosteroids were the only consistently supported agent; the corticosteroid-plus-TXA combination ranked highest on SUCRA but rests on sparse indirect evidence rated low to very low certainty.</p><p>Aesthetic Surgery Journal · PMID 43017812</p>",
+      "summary": "36项RCT网络meta：激素消肿退瘀最稳；氨甲环酸只对早期瘀斑有效（SMD -0.80）。 激素是唯一稳定的；激素+氨甲环酸的“最佳组合”证据等级低，只能算假设，别当定论。",
+      "date_published": "2026-11-14T08:00:00+08:00",
+      "tags": [
+        "鼻整形",
+        "循证",
+        "网络meta分析"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/43017812/"
+    },
+    {
+      "id": "2026-11-14-pmid-42974243",
+      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-14-pmid-42974243",
+      "title": "Iatrogenic pseudoaneurysm formation in the medial orbitofrontal artery following rhinoplasty and nasal osteotomy: A case report",
+      "content_html": "<p><strong>事实</strong>：31岁男鼻整形截骨后颅内出血，造影见内侧眶额动脉假性动脉瘤，显微夹闭后无后遗症。</p><p><strong>点评</strong>：截骨后头痛、呕吐、意识变化别只当麻醉反应；尽早血管造影，罕见但致命。</p><p>A 31-year-old man developed intracerebral hemorrhage after rhinoplasty with osteotomy; angiography showed a medial orbitofrontal artery pseudoaneurysm, treated by microsurgical trapping and clipping with complete neurological recovery. Intracranial pseudoaneurysm after osteotomy is rare but catastrophic, so post-rhinoplasty hemorrhage and neuro symptoms warrant prompt vascular imaging instead of watchful waiting.</p><p>Surgical Neurology International · PMID 42974243</p>",
+      "summary": "31岁男鼻整形截骨后颅内出血，造影见内侧眶额动脉假性动脉瘤，显微夹闭后无后遗症。 截骨后头痛、呕吐、意识变化别只当麻醉反应；尽早血管造影，罕见但致命。",
+      "date_published": "2026-11-14T08:00:00+08:00",
+      "tags": [
+        "鼻整形",
+        "并发症",
+        "病例报告"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/42974243/"
+    },
+    {
+      "id": "2026-11-14-pmid-42897248",
+      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-14-pmid-42897248",
+      "title": "Quantifying Facial Rejuvenation after Deep Plane Facelift Using Convolutional Neural Network-Based Age Estimation: Correlation with Patient-Reported Outcomes on the FACE-Q Aesthetic Module",
+      "content_html": "<p><strong>事实</strong>：72例深层除皱，5个AI模型估龄降7.64岁（15.7%），与FACE-Q弱相关（ρ 0.25）。</p><p><strong>点评</strong>：AI估龄可当客观指标，但病人自评年轻多少才是主结局；两者的数别混着报。</p><p>In 72 deep-plane face and neck lifts, five CNN models estimated a mean age reduction of 7.64 years (15.7%), but AI estimates correlated only weakly with FACE-Q scores (rho 0.25). AI age estimation is reproducible as an objective metric, yet patient-perceived rejuvenation correlated far more strongly (rho 0.61) and should stay the primary outcome.</p><p>Aesthetic Plastic Surgery · PMID 42897248</p>",
+      "summary": "72例深层除皱，5个AI模型估龄降7.64岁（15.7%），与FACE-Q弱相关（ρ 0.25）。 AI估龄可当客观指标，但病人自评年轻多少才是主结局；两者的数别混着报。",
+      "date_published": "2026-11-14T08:00:00+08:00",
+      "tags": [
+        "拉皮",
+        "人工智能",
+        "FACE-Q"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/42897248/"
+    },
+    {
+      "id": "2026-11-14-pmid-42881301",
+      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-14-pmid-42881301",
+      "title": "The Distal U-Shaped Capsule Sparing Technique (DUS-CS) for Revision Breast Augmentation: A Consecutive Clinical Series of 223 Patients",
+      "content_html": "<p><strong>事实</strong>：223例包膜挛缩翻修用U形保留包膜技术，现有随访内无复发、无双乳相通、无下移。</p><p><strong>点评</strong>：留部分包膜能稳住腔隙、少创伤；但这是单中心描述性研究，随访时长没写，别当治愈率。</p><p>In 223 consecutive revision augmentations, a U-shaped selective capsulectomy sparing medial, lateral and caudal capsule produced no recurrence of contracture, symmastia or bottoming out during available follow-up. Capsule-sparing revision preserves pocket geometry with less morbidity, but this single-center descriptive series does not report follow-up duration and cannot establish a recurrence rate.</p><p>Aesthetic Plastic Surgery · PMID 42881301</p>",
+      "summary": "223例包膜挛缩翻修用U形保留包膜技术，现有随访内无复发、无双乳相通、无下移。 留部分包膜能稳住腔隙、少创伤；但这是单中心描述性研究，随访时长没写，别当治愈率。",
+      "date_published": "2026-11-14T08:00:00+08:00",
+      "tags": [
+        "隆胸",
+        "包膜挛缩",
+        "翻修"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/42881301/"
+    },
+    {
+      "id": "2026-11-14-pmid-42820993",
+      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-14-pmid-42820993",
+      "title": "A Modified Pre-implantation Internal Fixation Suture Technique for Inframammary Fold Reconstruction in Implant-Based Breast Augmentation: A Retrospective Cohort Study",
+      "content_html": "<p><strong>事实</strong>：53例下皱襞入路用改良内固定缝法，3例假体下移&lt;5mm，无翻修，平均随访12个月。</p><p><strong>点评</strong>：技术可行，但“满意度100%”出自单术者回顾、无对照；假体位置得看更长期。</p><p>In 53 IMF-approach augmentations using a modified internal fixation suture, 3 implants displaced less than 5 mm inferiorly, none needed revision, and mean follow-up was 12 months. The technique is feasible for fold support, but a single-surgeon retrospective series claiming 100% satisfaction cannot establish superiority over standard closure.</p><p>Aesthetic Plastic Surgery · PMID 42820993</p>",
+      "summary": "53例下皱襞入路用改良内固定缝法，3例假体下移<5mm，无翻修，平均随访12个月。 技术可行，但“满意度100%”出自单术者回顾、无对照；假体位置得看更长期。",
+      "date_published": "2026-11-14T08:00:00+08:00",
+      "tags": [
+        "隆胸",
+        "下皱襞",
+        "缝合技术"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/42820993/"
+    },
+    {
       "id": "2026-11-13-pmid-43007373",
       "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-13-pmid-43007373",
       "title": "Prospective Assessment of Nasal Airway Function After Primary Open Rhinoplasty",

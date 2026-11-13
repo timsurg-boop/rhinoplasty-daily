@@ -2,7 +2,27 @@
 <rss version="2.0"><channel>
 <title>鼻整形文献评点 · Rhinoplasty Daily Commentary</title><link>https://timsurg-boop.github.io/rhinoplasty-daily</link>
 <description>鼻整形与面部提升新文献，一句事实一句点评</description>
-<language>zh-cn</language><item><title>Prospective Assessment of Nasal Airway Function After Primary Open Rhinoplasty</title>
+<language>zh-cn</language><item><title>Perioperative Interventions to Reduce Edema and Ecchymosis After Rhinoplasty: A Network Meta-Analysis of Randomized Controlled Trials</title>
+<link>https://pubmed.ncbi.nlm.nih.gov/43017812/</link>
+<guid isPermaLink="false">2026-11-14-pmid-43017812</guid>
+<description>36项RCT网络meta：激素消肿退瘀最稳；氨甲环酸只对早期瘀斑有效（SMD -0.80）。 激素是唯一稳定的；激素+氨甲环酸的“最佳组合”证据等级低，只能算假设，别当定论。</description>
+<pubDate>Sat, 14 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Iatrogenic pseudoaneurysm formation in the medial orbitofrontal artery following rhinoplasty and nasal osteotomy: A case report</title>
+<link>https://pubmed.ncbi.nlm.nih.gov/42974243/</link>
+<guid isPermaLink="false">2026-11-14-pmid-42974243</guid>
+<description>31岁男鼻整形截骨后颅内出血，造影见内侧眶额动脉假性动脉瘤，显微夹闭后无后遗症。 截骨后头痛、呕吐、意识变化别只当麻醉反应；尽早血管造影，罕见但致命。</description>
+<pubDate>Sat, 14 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Quantifying Facial Rejuvenation after Deep Plane Facelift Using Convolutional Neural Network-Based Age Estimation: Correlation with Patient-Reported Outcomes on the FACE-Q Aesthetic Module</title>
+<link>https://pubmed.ncbi.nlm.nih.gov/42897248/</link>
+<guid isPermaLink="false">2026-11-14-pmid-42897248</guid>
+<description>72例深层除皱，5个AI模型估龄降7.64岁（15.7%），与FACE-Q弱相关（ρ 0.25）。 AI估龄可当客观指标，但病人自评年轻多少才是主结局；两者的数别混着报。</description>
+<pubDate>Sat, 14 Nov 2026 08:00:00 +0800</pubDate></item><item><title>The Distal U-Shaped Capsule Sparing Technique (DUS-CS) for Revision Breast Augmentation: A Consecutive Clinical Series of 223 Patients</title>
+<link>https://pubmed.ncbi.nlm.nih.gov/42881301/</link>
+<guid isPermaLink="false">2026-11-14-pmid-42881301</guid>
+<description>223例包膜挛缩翻修用U形保留包膜技术，现有随访内无复发、无双乳相通、无下移。 留部分包膜能稳住腔隙、少创伤；但这是单中心描述性研究，随访时长没写，别当治愈率。</description>
+<pubDate>Sat, 14 Nov 2026 08:00:00 +0800</pubDate></item><item><title>A Modified Pre-implantation Internal Fixation Suture Technique for Inframammary Fold Reconstruction in Implant-Based Breast Augmentation: A Retrospective Cohort Study</title>
+<link>https://pubmed.ncbi.nlm.nih.gov/42820993/</link>
+<guid isPermaLink="false">2026-11-14-pmid-42820993</guid>
+<description>53例下皱襞入路用改良内固定缝法，3例假体下移&lt;5mm，无翻修，平均随访12个月。 技术可行，但“满意度100%”出自单术者回顾、无对照；假体位置得看更长期。</description>
+<pubDate>Sat, 14 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Prospective Assessment of Nasal Airway Function After Primary Open Rhinoplasty</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/43007373/</link>
 <guid isPermaLink="false">2026-11-13-pmid-43007373</guid>
 <description>32例美容开鼻鼻整形3个月，PNIF 76.9→86.2，NOSE 23.4→14.3，鼻塞感略差。 功能没变差、反而改善；但客观气流与患者感受互不相关，别拿PNIF替病人说话。</description>
