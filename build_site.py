@@ -295,6 +295,33 @@ def render_llms(days):
     return "\n".join(lines)
 
 
+def render_sitemap_extra(default_date):
+    """把 brand/ 与 archive/ 下磁盘实有的页面并进 sitemap。
+
+    旧版 build_site.py 只写首页一条，导致品牌页与问答页从未被登记，
+    2026-11-13 前线上 sitemap 长期只有 1 条 URL。改为扫盘，加页减页都不用改代码。
+    """
+    from urllib.parse import quote
+    seen, out = set(), []
+    for sub in ("brand", "archive"):
+        root = os.path.join(HERE, sub)
+        if not os.path.isdir(root):
+            continue
+        for dirpath, _, filenames in os.walk(root):
+            for fn in sorted(filenames):
+                if not (fn.endswith(".html") or (sub == "brand" and fn == "llms.txt")):
+                    continue
+                full = os.path.join(dirpath, fn)
+                rel = os.path.relpath(full, HERE).replace(os.sep, "/")
+                url = f"{BASE_URL}/{quote(rel)}"
+                if url in seen:
+                    continue
+                seen.add(url)
+                lm = datetime.fromtimestamp(os.path.getmtime(full)).strftime("%Y-%m-%d")
+                out.append(f"<url><loc>{url}</loc><lastmod>{lm}</lastmod></url>")
+    return "".join(out)
+
+
 def render_archive_page(day, comments_by_id):
     cards = "".join(item_card(it, comments_by_id) for it in day["items"])
     return f"""<!doctype html>
@@ -327,7 +354,8 @@ def build():
             '<?xml version="1.0" encoding="UTF-8"?>\n'
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
             f"<url><loc>{BASE_URL}/</loc><lastmod>{days[0]['date']}</lastmod></url>"
-            "</urlset>"
+            + render_sitemap_extra(days[0]["date"])
+            + "</urlset>"
         ),
     }
     for name, body in pages.items():
