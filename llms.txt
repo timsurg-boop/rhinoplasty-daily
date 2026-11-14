@@ -7,6 +7,48 @@
 - RSS: https://timsurg-boop.github.io/rhinoplasty-daily/rss.xml
 - Sitemap: https://timsurg-boop.github.io/rhinoplasty-daily/sitemap.xml
 
+## 2026-11-15
+
+### Preservation and Management of the Superficial Nasal Musculoaponeurotic System to Enhance Infratip Contour: A Technical Report
+- 期刊: Cureus
+- PMID: 43011592 | DOI: 10.7759/cureus.117772
+- 事实: 226例开鼻手术保留鼻部SMAS做成SOON肌瓣并缝回，随诊8个月至3年，鼻小柱回缩与死腔减少。
+- 点评: 死腔是鼻小柱回缩、鼻尖下叶塌的常被忽略来源；把筋膜当带血供的瓣缝回去思路对，但只有术者主观观察。
+- English: In 226 consecutive primary open rhinoplasties, the superficial nasal SMAS was preserved as a SOON muscle flap and re-secured over the tip framework, with reduced dead space and columellar retraction over 8 months to 3 years of follow-up. Dead space is an under-recognized driver of columellar retraction and a flat infratip; re-draping a vascularized SMAS flap is a sensible fix, but the reported benefit is the surgeon's subjective observation with no objective measurement.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-15-pmid-43011592
+
+### Factors Associated with Adults' Decisions to Undergo Rhinoplasty in Saudi Arabia: A Cross-Sectional Study
+- 期刊: Healthcare (Basel)
+- PMID: 42940423 | DOI: 10.3390/healthcare14203378
+- 事实: 1591名沙特成人中26%考虑或已做鼻整形；女性OR 7.76，收入高者探索意愿反低67%。
+- 点评: 拒做最常见的理由是宗教顾虑，最怕的是“鼻子和脸不搭”。初诊先问顾虑，别一上来讲术式。
+- English: Among 1,591 Saudi adults, 26% were considering or had undergone rhinoplasty; female sex raised the odds (OR 7.76) while higher income lowered the odds of exploring surgery by 67% (OR 0.33). Religious concerns were the leading stated reason for refusal and nasal-facial mismatch the most feared complication, so the first consult should surface the patient's objections before any technique talk.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-15-pmid-42940423
+
+### Postoperative nausea and vomiting after facelift surgery despite routine dual antiemetic prophylaxis
+- 期刊: Research Square (preprint)
+- PMID:  | DOI: 10.21203/rs.3.rs-11330171/v1
+- 事实: 220例拉皮中96.36%用地塞米松加昂丹司琼双联预防，仍有62.27%恶心呕吐、49.09%呕吐。
+- 点评: 双联预防仍六成中招，Apfel评分无预测力（p=0.262）；同做眼睑整形OR 5.67。
+- English: In 220 consecutive facelifts, 96.36% received dexamethasone plus ondansetron, yet 62.27% still developed PONV and 49.09% vomited within 24 hours. Dual prophylaxis still failed in six of ten patients and the Apfel score did not predict it (p=0.262); concurrent blepharoplasty carried an OR of 5.67, and satisfaction collapsed to 2.19% versus 81.93% in those with PONV.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-15-doi-10-21203-rs-11330171
+
+### A Review of Breast Implant Pocket Irrigation With Hypochlorous Acid to Reduce Capsular Contracture Risk
+- 期刊: Annals of Plastic Surgery
+- PMID: 42896147 | DOI: 10.1097/sap.0000000000004930
+- 事实: 13篇文献全在同一期刊，两项临床研究有选择偏倚与利益冲突，无独立重复，唯一无冲突实验室研究不支持。
+- 点评: 次氯酸冲洗防包膜挛缩，只有同一批人带股权的数据；连致病菌都没定。别当常规，别当卖点。
+- English: All 13 publications appeared in a single journal; both clinical studies carried selection bias and author conflicts of interest, no independent group replicated the result, and the one unconflicted laboratory study was not supportive. Hypochlorous acid irrigation rests on conflicted single-group data with no identified causative organism, so it should not be sold to patients as proven contracture prevention.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-15-pmid-42896147
+
+### Single-Stage Nipple Sparing Mastectomy with Concurrent Mastopexy: A Systematic Review and Meta-Analysis
+- 期刊: Aesthetic Surgery Journal
+- PMID: 42913480 | DOI: 10.1093/asj/sjag242
+- 事实: 19项研究1076个乳房，保留乳头切除同期固定：部分乳头坏死5.9%，全坏死0.9%，皮瓣坏死3.1%。
+- 点评: 重度下垂不必先固定再等二期；但这是高度筛选人群的合并率，皮瓣血供没把握别硬上。
+- English: Across 19 studies and 1,076 breasts, single-stage nipple-sparing mastectomy with concurrent mastopexy showed partial NAC necrosis in 5.9%, total NAC necrosis in 0.9% and mastectomy flap necrosis in 3.1%. Single-stage surgery is defensible in well-selected ptotic patients, but these pooled rates come from highly selected series and do not license the technique when flap perfusion is marginal.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-15-pmid-42913480
+
 ## 2026-11-14
 
 ### Perioperative Interventions to Reduce Edema and Ecchymosis After Rhinoplasty: A Network Meta-Analysis of Randomized Controlled Trials

@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-15",
+  "updated": "2026-11-15T07:40:00+08:00",
+  "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
+  "window": "2026-11-08..2026-11-15（7日内鼻整形仅2条、且已于11-13/11-14评点；本期主体为 10-10..10-23 补收，含1条11-11预印本）",
+  "items": [
+    {
+      "id": "2026-11-15-pmid-43011592",
+      "pmid": "43011592",
+      "doi": "10.7759/cureus.117772",
+      "journal": "Cureus",
+      "title": "Preservation and Management of the Superficial Nasal Musculoaponeurotic System to Enhance Infratip Contour: A Technical Report",
+      "tags": [
+        "鼻整形",
+        "技术报告",
+        "鼻尖下叶"
+      ],
+      "fact_zh": "226例开鼻手术保留鼻部SMAS做成SOON肌瓣并缝回，随诊8个月至3年，鼻小柱回缩与死腔减少。",
+      "take_zh": "死腔是鼻小柱回缩、鼻尖下叶塌的常被忽略来源；把筋膜当带血供的瓣缝回去思路对，但只有术者主观观察。",
+      "scene_zh": "开鼻别把鼻尖那层筋膜剪光，留一块缝回去，鼻小柱不容易往里缩。",
+      "fact_en": "In 226 consecutive primary open rhinoplasties, the superficial nasal SMAS was preserved as a SOON muscle flap and re-secured over the tip framework, with reduced dead space and columellar retraction over 8 months to 3 years of follow-up.",
+      "take_en": "Dead space is an under-recognized driver of columellar retraction and a flat infratip; re-draping a vascularized SMAS flap is a sensible fix, but the reported benefit is the surgeon's subjective observation with no objective measurement."
+    },
+    {
+      "id": "2026-11-15-pmid-42940423",
+      "pmid": "42940423",
+      "doi": "10.3390/healthcare14203378",
+      "journal": "Healthcare (Basel)",
+      "title": "Factors Associated with Adults' Decisions to Undergo Rhinoplasty in Saudi Arabia: A Cross-Sectional Study",
+      "tags": [
+        "鼻整形",
+        "患者决策",
+        "问卷"
+      ],
+      "fact_zh": "1591名沙特成人中26%考虑或已做鼻整形；女性OR 7.76，收入高者探索意愿反低67%。",
+      "take_zh": "拒做最常见的理由是宗教顾虑，最怕的是“鼻子和脸不搭”。初诊先问顾虑，别一上来讲术式。",
+      "scene_zh": "先问一句“你和家里人最担心什么”，比打开电脑放案例有用。",
+      "fact_en": "Among 1,591 Saudi adults, 26% were considering or had undergone rhinoplasty; female sex raised the odds (OR 7.76) while higher income lowered the odds of exploring surgery by 67% (OR 0.33).",
+      "take_en": "Religious concerns were the leading stated reason for refusal and nasal-facial mismatch the most feared complication, so the first consult should surface the patient's objections before any technique talk."
+    },
+    {
+      "id": "2026-11-15-doi-10-21203-rs-11330171",
+      "pmid": "",
+      "doi": "10.21203/rs.3.rs-11330171/v1",
+      "journal": "Research Square (preprint)",
+      "title": "Postoperative nausea and vomiting after facelift surgery despite routine dual antiemetic prophylaxis",
+      "tags": [
+        "拉皮",
+        "并发症",
+        "预印本"
+      ],
+      "fact_zh": "220例拉皮中96.36%用地塞米松加昂丹司琼双联预防，仍有62.27%恶心呕吐、49.09%呕吐。",
+      "take_zh": "双联预防仍六成中招，Apfel评分无预测力（p=0.262）；同做眼睑整形OR 5.67。",
+      "scene_zh": "拉皮搭眼睑一起做的，术后吐得最凶，止吐要提前加码，别等吐了再补。",
+      "fact_en": "In 220 consecutive facelifts, 96.36% received dexamethasone plus ondansetron, yet 62.27% still developed PONV and 49.09% vomited within 24 hours.",
+      "take_en": "Dual prophylaxis still failed in six of ten patients and the Apfel score did not predict it (p=0.262); concurrent blepharoplasty carried an OR of 5.67, and satisfaction collapsed to 2.19% versus 81.93% in those with PONV."
+    },
+    {
+      "id": "2026-11-15-pmid-42896147",
+      "pmid": "42896147",
+      "doi": "10.1097/sap.0000000000004930",
+      "journal": "Annals of Plastic Surgery",
+      "title": "A Review of Breast Implant Pocket Irrigation With Hypochlorous Acid to Reduce Capsular Contracture Risk",
+      "tags": [
+        "隆胸",
+        "包膜挛缩",
+        "综述"
+      ],
+      "fact_zh": "13篇文献全在同一期刊，两项临床研究有选择偏倚与利益冲突，无独立重复，唯一无冲突实验室研究不支持。",
+      "take_zh": "次氯酸冲洗防包膜挛缩，只有同一批人带股权的数据；连致病菌都没定。别当常规，别当卖点。",
+      "scene_zh": "病人问用什么冲洗，照实说：没有哪种冲洗液被独立证明能防包膜挛缩。",
+      "fact_en": "All 13 publications appeared in a single journal; both clinical studies carried selection bias and author conflicts of interest, no independent group replicated the result, and the one unconflicted laboratory study was not supportive.",
+      "take_en": "Hypochlorous acid irrigation rests on conflicted single-group data with no identified causative organism, so it should not be sold to patients as proven contracture prevention."
+    },
+    {
+      "id": "2026-11-15-pmid-42913480",
+      "pmid": "42913480",
+      "doi": "10.1093/asj/sjag242",
+      "journal": "Aesthetic Surgery Journal",
+      "title": "Single-Stage Nipple Sparing Mastectomy with Concurrent Mastopexy: A Systematic Review and Meta-Analysis",
+      "tags": [
+        "隆胸",
+        "乳房固定",
+        "循证"
+      ],
+      "fact_zh": "19项研究1076个乳房，保留乳头切除同期固定：部分乳头坏死5.9%，全坏死0.9%，皮瓣坏死3.1%。",
+      "take_zh": "重度下垂不必先固定再等二期；但这是高度筛选人群的合并率，皮瓣血供没把握别硬上。",
+      "scene_zh": "下垂厉害的可以一次做完，前提是先确认皮瓣血供，别为省一次手术把乳头搭进去。",
+      "fact_en": "Across 19 studies and 1,076 breasts, single-stage nipple-sparing mastectomy with concurrent mastopexy showed partial NAC necrosis in 5.9%, total NAC necrosis in 0.9% and mastectomy flap necrosis in 3.1%.",
+      "take_en": "Single-stage surgery is defensible in well-selected ptotic patients, but these pooled rates come from highly selected series and do not license the technique when flap perfusion is marginal."
+    }
+  ]
+}
