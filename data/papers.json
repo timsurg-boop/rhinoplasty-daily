@@ -10,7 +10,11 @@
       "doi": "10.1097/gox.0000000000008245",
       "journal": "Plastic and Reconstructive Surgery – Global Open",
       "title": "Pilot Study: Preliminary Experience with Dual-strut Tip Support Using Repurposed Cephalic Trim Cartilage in East Asian Rhinoplasty",
-      "tags": ["鼻整形", "鼻尖支撑", "技术报告"],
+      "tags": [
+        "鼻整形",
+        "鼻尖支撑",
+        "技术报告"
+      ],
       "fact_zh": "10例日本女性初鼻，鼻中隔延伸加头侧软骨重制双柱，随诊平均10.1个月，无感染、外露。",
       "take_zh": "10例、无对照，原文自称生物力学优势仍是推测；省的是第二块供区，不是手术时间。",
       "scene_zh": "鼻中隔不够、又不想多开一个供区的，先把修下来的头侧软骨留着当柱。",
@@ -23,7 +27,11 @@
       "doi": "10.1007/s00266-026-06365-2",
       "journal": "Aesthetic Plastic Surgery",
       "title": "Capsulectomy Following Breast Implant Removal: Evidence-Based Indications and a Framework for Clinical Decision-Making",
-      "tags": ["隆胸", "包膜切除", "综述"],
+      "tags": [
+        "隆胸",
+        "包膜切除",
+        "综述"
+      ],
       "fact_zh": "综述：无研究直接比较切除与保留包膜；9590例预注册队列未见BII症状差异，切除并发症更高。",
       "take_zh": "包膜切除只有四个指征：确诊ALCL、包膜恶变、有症状钙化影响钼靶、III–IV级挛缩。其余别当常规。",
       "scene_zh": "病人说网上都让全切——先对着有没有那四条指征，没有就照实说切了并发症更多。",
@@ -36,7 +44,11 @@
       "doi": "10.1093/asj/sjag161",
       "journal": "Aesthetic Surgery Journal",
       "title": "Interval to Secondary Facelift: A Match-Cohort Analysis of Interval Time, Technique, and Complications",
-      "tags": ["拉皮", "二次手术", "配对队列"],
+      "tags": [
+        "拉皮",
+        "二次手术",
+        "配对队列"
+      ],
       "fact_zh": "97对97配对：二次拉皮比初次短44.3分钟、更多用SMAS折叠，并发症无差异；间隔平均10.7年。",
       "take_zh": "二次拉皮不必当高风险拒掉；初次越年轻间隔越长（r=-0.44）。单术者回顾性，别当承诺。",
       "scene_zh": "病人问“十年后再拉一次还行吗”——能拉，风险和第一次差不多，但这是单术者十年的数据。",
@@ -49,7 +61,11 @@
       "doi": "10.1002/lary.70990",
       "journal": "The Laryngoscope",
       "title": "Predictors and Themes of Perioperative Patient-Initiated Communication in Septorhinoplasty",
-      "tags": ["鼻整形", "围手术期", "患者沟通"],
+      "tags": [
+        "鼻整形",
+        "围手术期",
+        "患者沟通"
+      ],
       "fact_zh": "306例鼻中隔鼻整形，64%在围手术期主动联系医疗组；术前问流程31%、问用药28%。",
       "take_zh": "六成人会来问，问的是流程和用药，不是并发症；回顾性单中心，但术前须知该按这两块重写。",
       "scene_zh": "病人术后第三天打电话，多半不是出事，是不知道伤口能不能碰、药还吃不吃。",
@@ -62,9 +78,13 @@
       "doi": "10.1016/j.jpra.2026.10.018",
       "journal": "JPRAS Open",
       "title": "Stabilizing breast implants with the double anchor capsule flap technique: insights from a retrospective case series of 30 patients",
-      "tags": ["隆胸", "翻修", "包膜瓣"],
+      "tags": [
+        "隆胸",
+        "翻修",
+        "包膜瓣"
+      ],
       "fact_zh": "30例双侧翻修用双锚定包膜瓣固定假体，平均减容22.3cc，1年无复发下垂、无错位、无并发症。",
-      "take_zh": "0并发症的30例单臂系列不能当发生率；值得学的是拿血供包膜当锚，不是那个0。",
+      "take_zh": "0并发症的30例回顾性单臂系列不能当发生率；值得学的是拿血供包膜当锚，不是那个0。",
       "scene_zh": "假体老往下掉、下极越撑越薄的，别急着换大假体，先把包膜留下来当锚。",
       "fact_en": "In 30 bilateral revision cases using the double-anchor capsule flap technique, implant volume was reduced by a mean of 22.3 cc and there was no recurrent ptosis, malposition or complication at one year.",
       "take_en": "A single-arm series of 30 with zero complications is not an incidence rate; the transferable idea is anchoring to vascularized capsule, not the zero."
@@ -75,7 +95,11 @@
       "doi": "10.3390/life16101713",
       "journal": "Life (Basel)",
       "title": "Beyond Cartilage Grafting in Rhinoplasty: Biopharmaceutical and Biomaterial Strategies for Nasal Cartilage Regeneration",
-      "tags": ["鼻整形", "软骨再生", "综述"],
+      "tags": [
+        "鼻整形",
+        "软骨再生",
+        "综述"
+      ],
       "fact_zh": "综述：生长因子与小分子能启动软骨成基质但需时空控制；注射让结构软骨再生仍无临床证据。",
       "take_zh": "近期能落地的是给现有移植物做生物增强、修补小缺损；把“打针长软骨”当项目卖，现在没有依据。",
       "scene_zh": "有人问能不能不取软骨、打几针长出来——现在只能说没有证据，别顺着讲。",
