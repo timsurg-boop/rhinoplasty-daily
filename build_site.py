@@ -5,13 +5,48 @@ import glob
 import html
 import json
 import os
+import re
 from datetime import datetime
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data", "papers.json")
 ARCHIVE = os.path.join(HERE, "data", "archive")
 COMMENTS = os.path.join(HERE, "data", "comments.jsonl")
-BASE_URL = os.environ.get("BASE_URL", "http://localhost:8787")
+
+# 站点部署位置决定两件事：站内链接前缀、绝对 URL 前缀。
+# 1) 仓库里有 CNAME（已绑自定义域名）→ 站点在根路径，前缀为空。
+# 2) 没有 CNAME → 走 GitHub Pages 项目页，站点在 /rhinoplasty-daily 子路径。
+# 3) SITE_PREFIX / BASE_URL 环境变量优先，便于本地预览和临时部署。
+CNAME_FILE = os.path.join(HERE, "CNAME")
+CUSTOM_DOMAIN = ""
+if os.path.exists(CNAME_FILE):
+    CUSTOM_DOMAIN = open(CNAME_FILE, encoding="utf-8").read().strip()
+
+SITE_PREFIX = os.environ.get(
+    "SITE_PREFIX", "" if CUSTOM_DOMAIN else "/rhinoplasty-daily"
+)
+if SITE_PREFIX == "/":
+    SITE_PREFIX = ""
+SITE_PREFIX = SITE_PREFIX.rstrip("/")
+
+BASE_URL = os.environ.get(
+    "BASE_URL",
+    (f"https://{CUSTOM_DOMAIN}" if CUSTOM_DOMAIN
+     else "https://timsurg-boop.github.io" + SITE_PREFIX),
+).rstrip("/")
+
+
+def fix_links(markup):
+    """把站内根路径链接（/archive/…）改写为带部署前缀的形式。"""
+    if not SITE_PREFIX:
+        return markup
+    return re.sub(
+        r'(href|src)="/(?!/)',
+        lambda m: f'{m.group(1)}="{SITE_PREFIX}/',
+        markup,
+    )
+
+
 SITE_TITLE = "鼻整形文献评点 · Rhinoplasty Daily Commentary"
 
 CSS = """
@@ -359,12 +394,15 @@ def build():
         ),
     }
     for name, body in pages.items():
+        if name.endswith(".html"):
+            body = fix_links(body)
         with open(os.path.join(HERE, name), "w", encoding="utf-8") as fh:
             fh.write(body)
     os.makedirs(os.path.join(HERE, "archive"), exist_ok=True)
     for day in days:
+        page = fix_links(render_archive_page(day, by_id))
         with open(os.path.join(HERE, "archive", f"{day['date']}.html"), "w", encoding="utf-8") as fh:
-            fh.write(render_archive_page(day, by_id))
+            fh.write(page)
     return list(pages)
 
 
