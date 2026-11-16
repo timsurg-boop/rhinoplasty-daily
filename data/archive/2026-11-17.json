@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-17",
+  "updated": "2026-11-17T07:40:00+08:00",
+  "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
+  "window": "2026-11-10..11-17；7 日内鼻整形新增 1 条（PMID 43035971），拉皮、隆胸 0 条——本期另 5 条为 09-25..11-06 未评点补收",
+  "items": [
+    {
+      "id": "2026-11-17-pmid-43035971",
+      "pmid": "43035971",
+      "doi": "10.1177/26893614261499033",
+      "journal": "Facial Plastic Surgery & Aesthetic Medicine",
+      "title": "Patient-Reported Functional and Cosmetic Outcomes after Rhinoplasty with Autologous Versus Cadaveric Rib Cartilage Grafts",
+      "tags": [
+        "鼻整形",
+        "肋软骨",
+        "患者报告结局"
+      ],
+      "fact_zh": "129例鼻整形，自体肋33例、异体肋96例；随诊鼻塞评分自体组低14.0分，外形无差异。",
+      "take_zh": "自体肋换来的是通气不是外形；翻修率15.2%对24.0%区间跨零，别当优势讲。",
+      "scene_zh": "用异体肋省一块胸口疤，通气可能差一点，这个术前要说清。",
+      "fact_en": "In 129 adults (33 autologous, 96 cadaveric rib grafts), autologous recipients averaged obstruction scores 14.0 points lower over follow-up (95% CI -24.2 to -3.9), with no significant difference in cosmetic scores or revisions (15.2% vs 24.0%).",
+      "take_en": "Autologous rib bought better breathing, not a better-looking nose, and the revision gap is too imprecise to sell as an advantage."
+    },
+    {
+      "id": "2026-11-17-pmid-42950360",
+      "pmid": "42950360",
+      "doi": "10.1016/j.jclinane.2026.112354",
+      "journal": "Journal of Clinical Anesthesia",
+      "title": "Infraorbital versus sphenopalatine ganglion block for patient-reported recovery after septorhinoplasty: A randomized controlled trial",
+      "tags": [
+        "鼻整形",
+        "神经阻滞",
+        "RCT"
+      ],
+      "fact_zh": "90例鼻中隔鼻整形RCT：眶下神经阻滞24小时恢复质量129.1分，蝶腭节阻滞116.6分。",
+      "take_zh": "12.5分超过8分最小临床意义，补救镇痛11.4%对53.3%；单中心，等重复。",
+      "scene_zh": "鼻子术后疼得凶的，打眶下，不打蝶腭。",
+      "fact_en": "In a 90-patient randomized trial, infraorbital nerve block produced a 24-hour QoR-15 of 129.1 versus 116.6 for sphenopalatine ganglion block, with rescue analgesia in 11.4% versus 53.3%.",
+      "take_en": "The 12.5-point gap exceeds the 8-point minimal important difference and halves rescue analgesia, but it is one centre's result awaiting replication."
+    },
+    {
+      "id": "2026-11-17-pmid-42897251",
+      "pmid": "42897251",
+      "doi": "10.1007/s00266-026-06359-0",
+      "journal": "Aesthetic Plastic Surgery",
+      "title": "“Dou-gong” Technique: A Novel Biomechanical Approach to Injection Rhinoplasty Based on Nasal Ligament Anatomy",
+      "tags": [
+        "鼻整形",
+        "注射",
+        "新技术"
+      ],
+      "fact_zh": "100例注射鼻整形：27G针在骨膜/软骨膜上按五点支撑鼻韧带，无血管栓塞或移位。",
+      "take_zh": "把填充从堆容量改成撑韧带，思路新；无对照、无客观测量，只能算可行。",
+      "scene_zh": "打鼻子别只往里堆量，先把鼻尖、鼻小柱的韧带撑住。",
+      "fact_en": "One hundred injection-rhinoplasty patients were treated with a 27-gauge needle above periosteum or perichondrium at five nasal zones to reinforce ligament support, with no vascular occlusion or filler displacement.",
+      "take_en": "Reframing filler as ligament support rather than volume is a real idea, but with no control group and no objective measurement it only shows feasibility."
+    },
+    {
+      "id": "2026-11-17-pmid-42791356",
+      "pmid": "42791356",
+      "doi": "10.1007/s00266-026-06228-w",
+      "journal": "Aesthetic Plastic Surgery",
+      "title": "SMAS Plication Facelift and Platysmaplasty Under Tumescent Local Anesthesia: a 10-Year Retrospective Evaluation of Safety, Efficacy, and Patient Satisfaction in an Outpatient Setting",
+      "tags": [
+        "拉皮",
+        "麻醉",
+        "并发症"
+      ],
+      "fact_zh": "80例SMAS折叠拉皮加颈阔肌成形在肿胀局麻下完成，10年随诊并发症10%，无全麻转归。",
+      "take_zh": "血肿2.5%、血清肿1.25%，比全麻组不差；但这是筛选过的ASA I-II、单术者。",
+      "scene_zh": "怕全麻、身体条件好的，拉皮可以在肿胀液下做，出血反而少。",
+      "fact_en": "Eighty ASA I-II patients underwent SMAS plication facelift with platysmaplasty under tumescent local anesthesia over ten years, with a 10% complication rate (hematoma 2.5%) and no conversions to general anesthesia.",
+      "take_en": "Those complication rates are respectable, but this is a single-surgeon series in selected ASA I-II patients, not a comparison against general anesthesia."
+    },
+    {
+      "id": "2026-11-17-pmid-42993310",
+      "pmid": "42993310",
+      "doi": "10.1007/s00266-026-06362-5",
+      "journal": "Aesthetic Plastic Surgery",
+      "title": "The Transumbilical Breast Augmentation: Safety and Satisfaction in a Systematic Review and Meta-analysis of 13,210 Breasts",
+      "tags": [
+        "隆胸",
+        "经脐入路",
+        "系统综述"
+      ],
+      "fact_zh": "17项研究、6605例（13210侧）经脐隆胸：血肿0.2%、包膜挛缩1.7%、再干预2.3%。",
+      "take_zh": "数据低得好看，但几乎都是单臂回顾、随访短，作者自己说不能证明等效。",
+      "scene_zh": "想肚脐进去不留疤可以，但别拿这组数字说它比腋下安全。",
+      "fact_en": "A meta-analysis of 17 studies and 6,605 patients (13,210 breasts) pooled transumbilical augmentation to 0.2% hematoma, 1.7% capsular contracture and 2.3% reintervention.",
+      "take_en": "Almost all included series were retrospective single-arm studies with short follow-up, so these low rates describe published experience rather than prove equivalence to standard incisions."
+    },
+    {
+      "id": "2026-11-17-pmid-42969680",
+      "pmid": "42969680",
+      "doi": "10.1093/asj/sjag163",
+      "journal": "Aesthetic Surgery Journal",
+      "title": "Clinical Outcomes of Submuscular vs Subglandular Implant Placement in Primary Cosmetic Breast Augmentation: A Systematic Review and Meta-analysis",
+      "tags": [
+        "隆胸",
+        "层次选择",
+        "Meta 分析"
+      ],
+      "fact_zh": "12项研究、4534侧：肌下/双平面总体并发症OR 0.49，包膜挛缩0.58，血肿0.30。",
+      "take_zh": "并发症更少，满意度和再手术没差别；层次还是按软组织厚度和动画畸形定。",
+      "scene_zh": "瘦、皮下薄、怕包膜挛缩的放肌下，但别承诺更好看。",
+      "fact_en": "Pooled data from 12 studies (4,534 breasts) showed submuscular or dual-plane placement had lower odds of overall complications (OR 0.49), capsular contracture (0.58) and hematoma (0.30), with no difference in satisfaction or reoperation.",
+      "take_en": "Fewer complications does not mean a better-looking breast; pocket choice still follows tissue coverage, animation deformity and the individual patient."
+    }
+  ]
+}

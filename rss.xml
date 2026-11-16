@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
-<title>鼻整形文献评点 · Rhinoplasty Daily Commentary</title><link>https://wangmd-cn.com</link>
+<title>鼻整形文献评点 · Rhinoplasty Daily Commentary</title><link>https://timsurg-boop.github.io/rhinoplasty-daily</link>
 <description>鼻整形与面部提升新文献，一句事实一句点评</description>
-<language>zh-cn</language><item><title>Pilot Study: Preliminary Experience with Dual-strut Tip Support Using Repurposed Cephalic Trim Cartilage in East Asian Rhinoplasty</title>
+<language>zh-cn</language><item><title>Patient-Reported Functional and Cosmetic Outcomes after Rhinoplasty with Autologous Versus Cadaveric Rib Cartilage Grafts</title>
+<link>https://pubmed.ncbi.nlm.nih.gov/43035971/</link>
+<guid isPermaLink="false">2026-11-17-pmid-43035971</guid>
+<description>129例鼻整形，自体肋33例、异体肋96例；随诊鼻塞评分自体组低14.0分，外形无差异。 自体肋换来的是通气不是外形；翻修率15.2%对24.0%区间跨零，别当优势讲。</description>
+<pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Infraorbital versus sphenopalatine ganglion block for patient-reported recovery after septorhinoplasty: A randomized controlled trial</title>
+<link>https://pubmed.ncbi.nlm.nih.gov/42950360/</link>
+<guid isPermaLink="false">2026-11-17-pmid-42950360</guid>
+<description>90例鼻中隔鼻整形RCT：眶下神经阻滞24小时恢复质量129.1分，蝶腭节阻滞116.6分。 12.5分超过8分最小临床意义，补救镇痛11.4%对53.3%；单中心，等重复。</description>
+<pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate></item><item><title>“Dou-gong” Technique: A Novel Biomechanical Approach to Injection Rhinoplasty Based on Nasal Ligament Anatomy</title>
+<link>https://pubmed.ncbi.nlm.nih.gov/42897251/</link>
+<guid isPermaLink="false">2026-11-17-pmid-42897251</guid>
+<description>100例注射鼻整形：27G针在骨膜/软骨膜上按五点支撑鼻韧带，无血管栓塞或移位。 把填充从堆容量改成撑韧带，思路新；无对照、无客观测量，只能算可行。</description>
+<pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate></item><item><title>SMAS Plication Facelift and Platysmaplasty Under Tumescent Local Anesthesia: a 10-Year Retrospective Evaluation of Safety, Efficacy, and Patient Satisfaction in an Outpatient Setting</title>
+<link>https://pubmed.ncbi.nlm.nih.gov/42791356/</link>
+<guid isPermaLink="false">2026-11-17-pmid-42791356</guid>
+<description>80例SMAS折叠拉皮加颈阔肌成形在肿胀局麻下完成，10年随诊并发症10%，无全麻转归。 血肿2.5%、血清肿1.25%，比全麻组不差；但这是筛选过的ASA I-II、单术者。</description>
+<pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate></item><item><title>The Transumbilical Breast Augmentation: Safety and Satisfaction in a Systematic Review and Meta-analysis of 13,210 Breasts</title>
+<link>https://pubmed.ncbi.nlm.nih.gov/42993310/</link>
+<guid isPermaLink="false">2026-11-17-pmid-42993310</guid>
+<description>17项研究、6605例（13210侧）经脐隆胸：血肿0.2%、包膜挛缩1.7%、再干预2.3%。 数据低得好看，但几乎都是单臂回顾、随访短，作者自己说不能证明等效。</description>
+<pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Clinical Outcomes of Submuscular vs Subglandular Implant Placement in Primary Cosmetic Breast Augmentation: A Systematic Review and Meta-analysis</title>
+<link>https://pubmed.ncbi.nlm.nih.gov/42969680/</link>
+<guid isPermaLink="false">2026-11-17-pmid-42969680</guid>
+<description>12项研究、4534侧：肌下/双平面总体并发症OR 0.49，包膜挛缩0.58，血肿0.30。 并发症更少，满意度和再手术没差别；层次还是按软组织厚度和动画畸形定。</description>
+<pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Pilot Study: Preliminary Experience with Dual-strut Tip Support Using Repurposed Cephalic Trim Cartilage in East Asian Rhinoplasty</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/43032422/</link>
 <guid isPermaLink="false">2026-11-16-pmid-43032422</guid>
 <description>10例日本女性初鼻，鼻中隔延伸加头侧软骨重制双柱，随诊平均10.1个月，无感染、外露。 10例、无对照，原文自称生物力学优势仍是推测；省的是第二块供区，不是手术时间。</description>
@@ -21,7 +45,7 @@
 <pubDate>Mon, 16 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Stabilizing breast implants with the double anchor capsule flap technique: insights from a retrospective case series of 30 patients</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/43032105/</link>
 <guid isPermaLink="false">2026-11-16-pmid-43032105</guid>
-<description>30例双侧翻修用双锚定包膜瓣固定假体，平均减容22.3cc，1年无复发下垂、无错位、无并发症。 0并发症的30例回顾性单臂系列不能当发生率；值得学的是拿血供包膜当锚，不是那个0。</description>
+<description>30例双侧翻修用双锚定包膜瓣固定假体，平均减容22.3cc，1年无复发下垂、无错位、无并发症。 0并发症的30例单臂系列不能当发生率；值得学的是拿血供包膜当锚，不是那个0。</description>
 <pubDate>Mon, 16 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Beyond Cartilage Grafting in Rhinoplasty: Biopharmaceutical and Biomaterial Strategies for Nasal Cartilage Regeneration</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42942299/</link>
 <guid isPermaLink="false">2026-11-16-pmid-42942299</guid>
