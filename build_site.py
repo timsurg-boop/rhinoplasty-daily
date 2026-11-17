@@ -231,6 +231,7 @@ def render_index(days, comments):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(SITE_TITLE)} · {esc(today['date'])}</title>
+<link rel="canonical" href="{BASE_URL}/">
 <meta name="description" content="每天 3-5 条鼻整形与面部提升新文献，一句事实 + 一句点评，可批注、可订阅。">
 <link rel="alternate" type="application/feed+json" href="/feed.json" title="JSON Feed">
 <link rel="alternate" type="application/rss+xml" href="/rss.xml" title="RSS">
@@ -385,6 +386,7 @@ def render_archive_page(day, comments_by_id):
 <html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(SITE_TITLE)} · {esc(day['date'])}</title>
+<link rel="canonical" href="{BASE_URL}/archive/{esc(day['date'])}.html">
 <link rel="alternate" type="application/feed+json" href="/feed.json">
 <style>{CSS}</style></head>
 <body><main>
