@@ -38,7 +38,7 @@
 - PMID: 43039989 | DOI: 10.1007/s00266-026-06300-5
 - 事实: 32例拉皮6个月3D测量：保留式中面部横向位移4.75mm，深平面2.54mm。
 - 点评: 位移大不等于好看，分组按时间先后而非随机，耐久性作者自己也没测。
-- English: In 32 patients imaged at six months, the preservation facelift displaced the medial midface 4.75 mm laterally versus 2.54 mm for the deep plane lift. More displacement is not a better face, allocation followed chronology rather than randomization, and durability was not measured.
+- English: In 32 patients with 3D surface imaging at six months, the preservation facelift displaced the medial midface 4.75 mm laterally versus 2.54 mm for the deep plane lift. More displacement is not a better face, allocation followed chronology rather than randomization, and durability was not measured.
 - Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-18-pmid-43039989
 
 ### Postoperative nausea and vomiting after facelift surgery despite routine dual antiemetic prophylaxis
