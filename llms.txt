@@ -7,6 +7,56 @@
 - RSS: https://timsurg-boop.github.io/rhinoplasty-daily/rss.xml
 - Sitemap: https://timsurg-boop.github.io/rhinoplasty-daily/sitemap.xml
 
+## 2026-11-19
+
+### Revision Septorhinoplasty: An Updated Narrative Review of Current Concepts in Evaluation and Surgical Management
+- 期刊: Facial Plastic Surgery
+- PMID: 43044676 | DOI: 10.1055/a-2979-5431
+- 事实: 翻修鼻综述覆盖7类畸形，主张先重建结构、再精修外形，全文无新原始数据。
+- 点评: 叙述性综述，作者自己承认缺高质量翻修研究——当操作清单可以，别当证据等级。
+- English: This narrative review covers seven revision deformity patterns and argues that stable structural reconstruction should precede contour refinement; it reports no new primary data. A narrative review whose own authors call for higher-quality revision-specific studies: a checklist, not proof of superiority.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-43044676
+
+### Adverse Outcomes and Complications of Autologous Versus Homologous Costal Cartilage Grafts in Septorhinoplasty: A Systematic Review and Meta-analysis
+- 期刊: Aesthetic Surgery Journal
+- PMID: 42374829 | DOI: 10.1093/asj/sjag131
+- 事实: 50项研究4482例：自体肋与同种肋并发症无显著差异，总翘曲2.9%、感染1.9%、翻修5.0%。
+- 点评: 偏倚严重到critical、有小样本效应，选材按可得性和成本，别按并发症差异讲。
+- English: Across 50 studies and 4482 patients, autologous, irradiated, Tutoplast and fresh-frozen costal cartilage showed no significant difference in warping, infection, extrusion or revision. Risk of bias was serious to critical with small-study effects, so graft choice should follow availability and cost rather than claimed safety differences.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-42374829
+
+### Comprehensive Evaluation of Quality of Life in Patients After Rhinoplasty Using Patient-Reported Outcome Measures (PROMs): A Systematic Review
+- 期刊: Plastic and Aesthetic Nursing
+- PMID: 42895916 | DOI: 10.1097/psn.0000000000000704
+- 事实: 28项研究：鼻整形后功能、外观与心理评分方向一致改善，无某术式占优，MCID报告少。
+- 点评: 设计杂、多数没报MCID，能说的是多数人自觉好转，报不出具体涨几分。
+- English: A 28-study systematic review found consistent improvements across NOSE, SNOT-22, SCHNOS, ROE and FACE-Q after rhinoplasty, with no technique superior and limited MCID reporting. Uniform direction of effect across heterogeneous designs still does not let you promise a specific score gain.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-42895916
+
+### Comparing Deep Plane and Superficial Musculoaponeurotic System Facelifts Using Artificial Intelligence-Based Age Estimation
+- 期刊: Plastic and Reconstructive Surgery – Global Open
+- PMID: 42775335 | DOI: 10.1097/gox.0000000000008113
+- 事实: 200例照片经AI测龄：正面仅减2.5–2.8岁，侧面误差16–23岁，两种术式无差异。
+- 点评: 照片取自公开网站、无随访，AI连侧面都测不准，证明不了哪种拉皮更好。
+- English: In 200 photographs, AI estimated only 2.5-2.8 years of apparent age reduction frontally, with 16-23 years mean absolute error in profile, and no difference between deep plane and SMAS. Web-sourced photos without follow-up: AI age estimation cannot adjudicate which facelift technique works better.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-42775335
+
+### Predictors of Unplanned Admission After Outpatient Rhytidectomy
+- 期刊: Aesthetic Surgery Journal
+- PMID: 42322187 | DOI: 10.1093/asj/sjag118
+- 事实: 129例门诊拉皮16.3%非计划住院，与麻醉574对486分钟、合并术式多、肥胖和高血压相关。
+- 点评: 单中心回顾129例、四级证据；能用来排台，不能当预测模型，合并项目越多越要留床位。
+- English: Of 129 outpatient rhytidectomies, 16.3% required unplanned admission, associated with longer anesthesia (574.6 vs 485.7 min), more concurrent procedures, obesity and hypertension. Level-4 single-center data: usable for scheduling and bed planning, not a validated prediction model.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-42322187
+
+### Shear-Wave Elastography for Predicting the Occurrence and Assessing the Severity of Capsular Contracture After Implant-Based Breast Augmentation and Reconstruction: A Review of the Evidence
+- 期刊: Journal of Clinical Medicine
+- PMID: 43030552 | DOI: 10.3390/jcm15218408
+- 事实: 8项研究（每项2–51例）：剪切波弹性成像测包膜硬度随Baker分级升高，阈值未外部验证。
+- 点评: 样本小、无前瞻预测研究，SWE只能当触诊的补充，不能凭一个kPa数决定手术。
+- English: Eight reports of 2-51 patients each found periprosthetic stiffness rising with Baker grade, but neither proposed threshold (~52 and 82 kPa) has been externally validated. No study shows early elastography predicts later contracture; it remains an adjunct to palpation, not a surgical indication.
+- Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-43030552
+
 ## 2026-11-18
 
 ### Balancing Function and Aesthetics: Clinical Insights from Contemporary Rhinoplasty in a Regional Middle Eastern Cohort
@@ -38,7 +88,7 @@
 - PMID: 43039989 | DOI: 10.1007/s00266-026-06300-5
 - 事实: 32例拉皮6个月3D测量：保留式中面部横向位移4.75mm，深平面2.54mm。
 - 点评: 位移大不等于好看，分组按时间先后而非随机，耐久性作者自己也没测。
-- English: In 32 patients with 3D surface imaging at six months, the preservation facelift displaced the medial midface 4.75 mm laterally versus 2.54 mm for the deep plane lift. More displacement is not a better face, allocation followed chronology rather than randomization, and durability was not measured.
+- English: In 32 patients imaged at six months, the preservation facelift displaced the medial midface 4.75 mm laterally versus 2.54 mm for the deep plane lift. More displacement is not a better face, allocation followed chronology rather than randomization, and durability was not measured.
 - Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-18-pmid-43039989
 
 ### Postoperative nausea and vomiting after facelift surgery despite routine dual antiemetic prophylaxis

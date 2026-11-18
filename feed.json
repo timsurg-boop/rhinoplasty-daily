@@ -6,6 +6,90 @@
   "language": "zh-CN",
   "items": [
     {
+      "id": "2026-11-19-pmid-43044676",
+      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-43044676",
+      "title": "Revision Septorhinoplasty: An Updated Narrative Review of Current Concepts in Evaluation and Surgical Management",
+      "content_html": "<p><strong>事实</strong>：翻修鼻综述覆盖7类畸形，主张先重建结构、再精修外形，全文无新原始数据。</p><p><strong>点评</strong>：叙述性综述，作者自己承认缺高质量翻修研究——当操作清单可以，别当证据等级。</p><p>This narrative review covers seven revision deformity patterns and argues that stable structural reconstruction should precede contour refinement; it reports no new primary data. A narrative review whose own authors call for higher-quality revision-specific studies: a checklist, not proof of superiority.</p><p>Facial Plastic Surgery · PMID 43044676</p>",
+      "summary": "翻修鼻综述覆盖7类畸形，主张先重建结构、再精修外形，全文无新原始数据。 叙述性综述，作者自己承认缺高质量翻修研究——当操作清单可以，别当证据等级。",
+      "date_published": "2026-11-19T08:00:00+08:00",
+      "tags": [
+        "鼻整形",
+        "翻修",
+        "综述"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/43044676/"
+    },
+    {
+      "id": "2026-11-19-pmid-42374829",
+      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-42374829",
+      "title": "Adverse Outcomes and Complications of Autologous Versus Homologous Costal Cartilage Grafts in Septorhinoplasty: A Systematic Review and Meta-analysis",
+      "content_html": "<p><strong>事实</strong>：50项研究4482例：自体肋与同种肋并发症无显著差异，总翘曲2.9%、感染1.9%、翻修5.0%。</p><p><strong>点评</strong>：偏倚严重到critical、有小样本效应，选材按可得性和成本，别按并发症差异讲。</p><p>Across 50 studies and 4482 patients, autologous, irradiated, Tutoplast and fresh-frozen costal cartilage showed no significant difference in warping, infection, extrusion or revision. Risk of bias was serious to critical with small-study effects, so graft choice should follow availability and cost rather than claimed safety differences.</p><p>Aesthetic Surgery Journal · PMID 42374829</p>",
+      "summary": "50项研究4482例：自体肋与同种肋并发症无显著差异，总翘曲2.9%、感染1.9%、翻修5.0%。 偏倚严重到critical、有小样本效应，选材按可得性和成本，别按并发症差异讲。",
+      "date_published": "2026-11-19T08:00:00+08:00",
+      "tags": [
+        "鼻整形",
+        "肋软骨",
+        "系统综述"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/42374829/"
+    },
+    {
+      "id": "2026-11-19-pmid-42895916",
+      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-42895916",
+      "title": "Comprehensive Evaluation of Quality of Life in Patients After Rhinoplasty Using Patient-Reported Outcome Measures (PROMs): A Systematic Review",
+      "content_html": "<p><strong>事实</strong>：28项研究：鼻整形后功能、外观与心理评分方向一致改善，无某术式占优，MCID报告少。</p><p><strong>点评</strong>：设计杂、多数没报MCID，能说的是多数人自觉好转，报不出具体涨几分。</p><p>A 28-study systematic review found consistent improvements across NOSE, SNOT-22, SCHNOS, ROE and FACE-Q after rhinoplasty, with no technique superior and limited MCID reporting. Uniform direction of effect across heterogeneous designs still does not let you promise a specific score gain.</p><p>Plastic and Aesthetic Nursing · PMID 42895916</p>",
+      "summary": "28项研究：鼻整形后功能、外观与心理评分方向一致改善，无某术式占优，MCID报告少。 设计杂、多数没报MCID，能说的是多数人自觉好转，报不出具体涨几分。",
+      "date_published": "2026-11-19T08:00:00+08:00",
+      "tags": [
+        "鼻整形",
+        "患者报告结局",
+        "系统综述"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/42895916/"
+    },
+    {
+      "id": "2026-11-19-pmid-42775335",
+      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-42775335",
+      "title": "Comparing Deep Plane and Superficial Musculoaponeurotic System Facelifts Using Artificial Intelligence-Based Age Estimation",
+      "content_html": "<p><strong>事实</strong>：200例照片经AI测龄：正面仅减2.5–2.8岁，侧面误差16–23岁，两种术式无差异。</p><p><strong>点评</strong>：照片取自公开网站、无随访，AI连侧面都测不准，证明不了哪种拉皮更好。</p><p>In 200 photographs, AI estimated only 2.5-2.8 years of apparent age reduction frontally, with 16-23 years mean absolute error in profile, and no difference between deep plane and SMAS. Web-sourced photos without follow-up: AI age estimation cannot adjudicate which facelift technique works better.</p><p>Plastic and Reconstructive Surgery – Global Open · PMID 42775335</p>",
+      "summary": "200例照片经AI测龄：正面仅减2.5–2.8岁，侧面误差16–23岁，两种术式无差异。 照片取自公开网站、无随访，AI连侧面都测不准，证明不了哪种拉皮更好。",
+      "date_published": "2026-11-19T08:00:00+08:00",
+      "tags": [
+        "拉皮",
+        "人工智能",
+        "疗效评估"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/42775335/"
+    },
+    {
+      "id": "2026-11-19-pmid-42322187",
+      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-42322187",
+      "title": "Predictors of Unplanned Admission After Outpatient Rhytidectomy",
+      "content_html": "<p><strong>事实</strong>：129例门诊拉皮16.3%非计划住院，与麻醉574对486分钟、合并术式多、肥胖和高血压相关。</p><p><strong>点评</strong>：单中心回顾129例、四级证据；能用来排台，不能当预测模型，合并项目越多越要留床位。</p><p>Of 129 outpatient rhytidectomies, 16.3% required unplanned admission, associated with longer anesthesia (574.6 vs 485.7 min), more concurrent procedures, obesity and hypertension. Level-4 single-center data: usable for scheduling and bed planning, not a validated prediction model.</p><p>Aesthetic Surgery Journal · PMID 42322187</p>",
+      "summary": "129例门诊拉皮16.3%非计划住院，与麻醉574对486分钟、合并术式多、肥胖和高血压相关。 单中心回顾129例、四级证据；能用来排台，不能当预测模型，合并项目越多越要留床位。",
+      "date_published": "2026-11-19T08:00:00+08:00",
+      "tags": [
+        "拉皮",
+        "围手术期",
+        "安全"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/42322187/"
+    },
+    {
+      "id": "2026-11-19-pmid-43030552",
+      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-43030552",
+      "title": "Shear-Wave Elastography for Predicting the Occurrence and Assessing the Severity of Capsular Contracture After Implant-Based Breast Augmentation and Reconstruction: A Review of the Evidence",
+      "content_html": "<p><strong>事实</strong>：8项研究（每项2–51例）：剪切波弹性成像测包膜硬度随Baker分级升高，阈值未外部验证。</p><p><strong>点评</strong>：样本小、无前瞻预测研究，SWE只能当触诊的补充，不能凭一个kPa数决定手术。</p><p>Eight reports of 2-51 patients each found periprosthetic stiffness rising with Baker grade, but neither proposed threshold (~52 and 82 kPa) has been externally validated. No study shows early elastography predicts later contracture; it remains an adjunct to palpation, not a surgical indication.</p><p>Journal of Clinical Medicine · PMID 43030552</p>",
+      "summary": "8项研究（每项2–51例）：剪切波弹性成像测包膜硬度随Baker分级升高，阈值未外部验证。 样本小、无前瞻预测研究，SWE只能当触诊的补充，不能凭一个kPa数决定手术。",
+      "date_published": "2026-11-19T08:00:00+08:00",
+      "tags": [
+        "隆胸",
+        "包膜挛缩",
+        "影像评估"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/43030552/"
+    },
+    {
       "id": "2026-11-18-pmid-43039986",
       "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-18-pmid-43039986",
       "title": "Balancing Function and Aesthetics: Clinical Insights from Contemporary Rhinoplasty in a Regional Middle Eastern Cohort",
@@ -52,7 +136,7 @@
       "id": "2026-11-18-pmid-43039989",
       "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-18-pmid-43039989",
       "title": "The Next Step in Facial Aesthetic Surgery Outcome Evaluation: Quantifying Classical Deep Plane versus Preservation Facelift with 3-Dimensional Surface Imaging",
-      "content_html": "<p><strong>事实</strong>：32例拉皮6个月3D测量：保留式中面部横向位移4.75mm，深平面2.54mm。</p><p><strong>点评</strong>：位移大不等于好看，分组按时间先后而非随机，耐久性作者自己也没测。</p><p>In 32 patients with 3D surface imaging at six months, the preservation facelift displaced the medial midface 4.75 mm laterally versus 2.54 mm for the deep plane lift. More displacement is not a better face, allocation followed chronology rather than randomization, and durability was not measured.</p><p>Aesthetic Plastic Surgery · PMID 43039989</p>",
+      "content_html": "<p><strong>事实</strong>：32例拉皮6个月3D测量：保留式中面部横向位移4.75mm，深平面2.54mm。</p><p><strong>点评</strong>：位移大不等于好看，分组按时间先后而非随机，耐久性作者自己也没测。</p><p>In 32 patients imaged at six months, the preservation facelift displaced the medial midface 4.75 mm laterally versus 2.54 mm for the deep plane lift. More displacement is not a better face, allocation followed chronology rather than randomization, and durability was not measured.</p><p>Aesthetic Plastic Surgery · PMID 43039989</p>",
       "summary": "32例拉皮6个月3D测量：保留式中面部横向位移4.75mm，深平面2.54mm。 位移大不等于好看，分组按时间先后而非随机，耐久性作者自己也没测。",
       "date_published": "2026-11-18T08:00:00+08:00",
       "tags": [
