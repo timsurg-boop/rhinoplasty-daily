@@ -15,7 +15,7 @@
         "翻修",
         "综述"
       ],
-      "fact_zh": "翻修鼻综述覆盖7类畸形，主张先重建结构、再精修外形，全文无新原始数据。",
+      "fact_zh": "综述覆盖7类翻修畸形，主张先重建结构、再精修外形，全文无新原始数据。",
       "take_zh": "叙述性综述，作者自己承认缺高质量翻修研究——当操作清单可以，别当证据等级。",
       "scene_zh": "翻修别指望一次修到位，先把你塌的那层结构立起来，外形是第二步。",
       "fact_en": "This narrative review covers seven revision deformity patterns and argues that stable structural reconstruction should precede contour refinement; it reports no new primary data.",
@@ -35,7 +35,7 @@
       "fact_zh": "50项研究4482例：自体肋与同种肋并发症无显著差异，总翘曲2.9%、感染1.9%、翻修5.0%。",
       "take_zh": "偏倚严重到critical、有小样本效应，选材按可得性和成本，别按并发症差异讲。",
       "scene_zh": "取自己的肋还是用库里的肋，并发症没差出来，差的是钱、取材那道口子和你的接受度。",
-      "fact_en": "Across 50 studies and 4482 patients, autologous, irradiated, Tutoplast and fresh-frozen costal cartilage showed no significant difference in warping, infection, extrusion or revision.",
+      "fact_en": "Across 50 studies and 4482 patients, pooled rates were warping 2.9%, infection 1.9% and revision 5.0%, with no significant difference between autologous, irradiated, Tutoplast and fresh-frozen costal cartilage.",
       "take_en": "Risk of bias was serious to critical with small-study effects, so graft choice should follow availability and cost rather than claimed safety differences."
     },
     {
@@ -86,7 +86,7 @@
       "fact_zh": "129例门诊拉皮16.3%非计划住院，与麻醉574对486分钟、合并术式多、肥胖和高血压相关。",
       "take_zh": "单中心回顾129例、四级证据；能用来排台，不能当预测模型，合并项目越多越要留床位。",
       "scene_zh": "拉皮加眼睑加脂肪一起做、麻醉五六个小时，当天回家的把握就没那么足，留一晚更稳。",
-      "fact_en": "Of 129 outpatient rhytidectomies, 16.3% required unplanned admission, associated with longer anesthesia (574.6 vs 485.7 min), more concurrent procedures, obesity and hypertension.",
+      "fact_en": "Of 129 outpatient rhytidectomies, 16.3% required unplanned admission, associated with longer anesthesia (574 vs 486 min), more concurrent procedures, obesity and hypertension.",
       "take_en": "Level-4 single-center data: usable for scheduling and bed planning, not a validated prediction model."
     },
     {

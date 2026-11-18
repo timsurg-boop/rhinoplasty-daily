@@ -12,7 +12,7 @@
 ### Revision Septorhinoplasty: An Updated Narrative Review of Current Concepts in Evaluation and Surgical Management
 - 期刊: Facial Plastic Surgery
 - PMID: 43044676 | DOI: 10.1055/a-2979-5431
-- 事实: 翻修鼻综述覆盖7类畸形，主张先重建结构、再精修外形，全文无新原始数据。
+- 事实: 综述覆盖7类翻修畸形，主张先重建结构、再精修外形，全文无新原始数据。
 - 点评: 叙述性综述，作者自己承认缺高质量翻修研究——当操作清单可以，别当证据等级。
 - English: This narrative review covers seven revision deformity patterns and argues that stable structural reconstruction should precede contour refinement; it reports no new primary data. A narrative review whose own authors call for higher-quality revision-specific studies: a checklist, not proof of superiority.
 - Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-43044676
@@ -22,7 +22,7 @@
 - PMID: 42374829 | DOI: 10.1093/asj/sjag131
 - 事实: 50项研究4482例：自体肋与同种肋并发症无显著差异，总翘曲2.9%、感染1.9%、翻修5.0%。
 - 点评: 偏倚严重到critical、有小样本效应，选材按可得性和成本，别按并发症差异讲。
-- English: Across 50 studies and 4482 patients, autologous, irradiated, Tutoplast and fresh-frozen costal cartilage showed no significant difference in warping, infection, extrusion or revision. Risk of bias was serious to critical with small-study effects, so graft choice should follow availability and cost rather than claimed safety differences.
+- English: Across 50 studies and 4482 patients, pooled rates were warping 2.9%, infection 1.9% and revision 5.0%, with no significant difference between autologous, irradiated, Tutoplast and fresh-frozen costal cartilage. Risk of bias was serious to critical with small-study effects, so graft choice should follow availability and cost rather than claimed safety differences.
 - Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-42374829
 
 ### Comprehensive Evaluation of Quality of Life in Patients After Rhinoplasty Using Patient-Reported Outcome Measures (PROMs): A Systematic Review
@@ -46,7 +46,7 @@
 - PMID: 42322187 | DOI: 10.1093/asj/sjag118
 - 事实: 129例门诊拉皮16.3%非计划住院，与麻醉574对486分钟、合并术式多、肥胖和高血压相关。
 - 点评: 单中心回顾129例、四级证据；能用来排台，不能当预测模型，合并项目越多越要留床位。
-- English: Of 129 outpatient rhytidectomies, 16.3% required unplanned admission, associated with longer anesthesia (574.6 vs 485.7 min), more concurrent procedures, obesity and hypertension. Level-4 single-center data: usable for scheduling and bed planning, not a validated prediction model.
+- English: Of 129 outpatient rhytidectomies, 16.3% required unplanned admission, associated with longer anesthesia (574 vs 486 min), more concurrent procedures, obesity and hypertension. Level-4 single-center data: usable for scheduling and bed planning, not a validated prediction model.
 - Permalink: https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-42322187
 
 ### Shear-Wave Elastography for Predicting the Occurrence and Assessing the Severity of Capsular Contracture After Implant-Based Breast Augmentation and Reconstruction: A Review of the Evidence
