@@ -1,110 +1,59 @@
 {
-  "date": "2026-11-19",
-  "updated": "2026-11-19T07:45:00+08:00",
-  "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
-  "window": "2026-11-12..11-19；7 日内真正新增仅鼻整形 1 条（PMID 43044676）；拉皮、隆胸 7 日内无可用新增（隆胸唯一新增为乳房再造短视频分析，与隆胸无关，未收）；其余 5 条为 09-22..11-01 未评点补收",
-  "items": [
-    {
-      "id": "2026-11-19-pmid-43044676",
-      "pmid": "43044676",
-      "doi": "10.1055/a-2979-5431",
-      "journal": "Facial Plastic Surgery",
-      "title": "Revision Septorhinoplasty: An Updated Narrative Review of Current Concepts in Evaluation and Surgical Management",
-      "tags": [
-        "鼻整形",
-        "翻修",
-        "综述"
-      ],
-      "fact_zh": "综述覆盖7类翻修畸形，主张先重建结构、再精修外形，全文无新原始数据。",
-      "take_zh": "叙述性综述，作者自己承认缺高质量翻修研究——当操作清单可以，别当证据等级。",
-      "scene_zh": "翻修别指望一次修到位，先把你塌的那层结构立起来，外形是第二步。",
-      "fact_en": "This narrative review covers seven revision deformity patterns and argues that stable structural reconstruction should precede contour refinement; it reports no new primary data.",
-      "take_en": "A narrative review whose own authors call for higher-quality revision-specific studies: a checklist, not proof of superiority."
-    },
-    {
-      "id": "2026-11-19-pmid-42374829",
-      "pmid": "42374829",
-      "doi": "10.1093/asj/sjag131",
-      "journal": "Aesthetic Surgery Journal",
-      "title": "Adverse Outcomes and Complications of Autologous Versus Homologous Costal Cartilage Grafts in Septorhinoplasty: A Systematic Review and Meta-analysis",
-      "tags": [
-        "鼻整形",
-        "肋软骨",
-        "系统综述"
-      ],
-      "fact_zh": "50项研究4482例：自体肋与同种肋并发症无显著差异，总翘曲2.9%、感染1.9%、翻修5.0%。",
-      "take_zh": "偏倚严重到critical、有小样本效应，选材按可得性和成本，别按并发症差异讲。",
-      "scene_zh": "取自己的肋还是用库里的肋，并发症没差出来，差的是钱、取材那道口子和你的接受度。",
-      "fact_en": "Across 50 studies and 4482 patients, pooled rates were warping 2.9%, infection 1.9% and revision 5.0%, with no significant difference between autologous, irradiated, Tutoplast and fresh-frozen costal cartilage.",
-      "take_en": "Risk of bias was serious to critical with small-study effects, so graft choice should follow availability and cost rather than claimed safety differences."
-    },
-    {
-      "id": "2026-11-19-pmid-42895916",
-      "pmid": "42895916",
-      "doi": "10.1097/psn.0000000000000704",
-      "journal": "Plastic and Aesthetic Nursing",
-      "title": "Comprehensive Evaluation of Quality of Life in Patients After Rhinoplasty Using Patient-Reported Outcome Measures (PROMs): A Systematic Review",
-      "tags": [
-        "鼻整形",
-        "患者报告结局",
-        "系统综述"
-      ],
-      "fact_zh": "28项研究：鼻整形后功能、外观与心理评分方向一致改善，无某术式占优，MCID报告少。",
-      "take_zh": "设计杂、多数没报MCID，能说的是多数人自觉好转，报不出具体涨几分。",
-      "scene_zh": "分数能涨多少我不敢打包票，但这类研究里大多数人的鼻子和心情都往好的方向走。",
-      "fact_en": "A 28-study systematic review found consistent improvements across NOSE, SNOT-22, SCHNOS, ROE and FACE-Q after rhinoplasty, with no technique superior and limited MCID reporting.",
-      "take_en": "Uniform direction of effect across heterogeneous designs still does not let you promise a specific score gain."
-    },
-    {
-      "id": "2026-11-19-pmid-42775335",
-      "pmid": "42775335",
-      "doi": "10.1097/gox.0000000000008113",
-      "journal": "Plastic and Reconstructive Surgery – Global Open",
-      "title": "Comparing Deep Plane and Superficial Musculoaponeurotic System Facelifts Using Artificial Intelligence-Based Age Estimation",
-      "tags": [
-        "拉皮",
-        "人工智能",
-        "疗效评估"
-      ],
-      "fact_zh": "200例照片经AI测龄：正面仅减2.5–2.8岁，侧面误差16–23岁，两种术式无差异。",
-      "take_zh": "照片取自公开网站、无随访，AI连侧面都测不准，证明不了哪种拉皮更好。",
-      "scene_zh": "别拿AI测龄当疗效证据，它侧面看你的脸能差二十岁。",
-      "fact_en": "In 200 photographs, AI estimated only 2.5-2.8 years of apparent age reduction frontally, with 16-23 years mean absolute error in profile, and no difference between deep plane and SMAS.",
-      "take_en": "Web-sourced photos without follow-up: AI age estimation cannot adjudicate which facelift technique works better."
-    },
-    {
-      "id": "2026-11-19-pmid-42322187",
-      "pmid": "42322187",
-      "doi": "10.1093/asj/sjag118",
-      "journal": "Aesthetic Surgery Journal",
-      "title": "Predictors of Unplanned Admission After Outpatient Rhytidectomy",
-      "tags": [
-        "拉皮",
-        "围手术期",
-        "安全"
-      ],
-      "fact_zh": "129例门诊拉皮16.3%非计划住院，与麻醉574对486分钟、合并术式多、肥胖和高血压相关。",
-      "take_zh": "单中心回顾129例、四级证据；能用来排台，不能当预测模型，合并项目越多越要留床位。",
-      "scene_zh": "拉皮加眼睑加脂肪一起做、麻醉五六个小时，当天回家的把握就没那么足，留一晚更稳。",
-      "fact_en": "Of 129 outpatient rhytidectomies, 16.3% required unplanned admission, associated with longer anesthesia (574 vs 486 min), more concurrent procedures, obesity and hypertension.",
-      "take_en": "Level-4 single-center data: usable for scheduling and bed planning, not a validated prediction model."
-    },
-    {
-      "id": "2026-11-19-pmid-43030552",
-      "pmid": "43030552",
-      "doi": "10.3390/jcm15218408",
-      "journal": "Journal of Clinical Medicine",
-      "title": "Shear-Wave Elastography for Predicting the Occurrence and Assessing the Severity of Capsular Contracture After Implant-Based Breast Augmentation and Reconstruction: A Review of the Evidence",
-      "tags": [
-        "隆胸",
-        "包膜挛缩",
-        "影像评估"
-      ],
-      "fact_zh": "8项研究（每项2–51例）：剪切波弹性成像测包膜硬度随Baker分级升高，阈值未外部验证。",
-      "take_zh": "样本小、无前瞻预测研究，SWE只能当触诊的补充，不能凭一个kPa数决定手术。",
-      "scene_zh": "摸着硬不硬还是靠手，超声测硬度只是帮手，没人能拿一个数就让你进手术室。",
-      "fact_en": "Eight reports of 2-51 patients each found periprosthetic stiffness rising with Baker grade, but neither proposed threshold (~52 and 82 kPa) has been externally validated.",
-      "take_en": "No study shows early elastography predicts later contracture; it remains an adjunct to palpation, not a surgical indication."
-    }
-  ]
+ "date": "2026-11-20",
+ "updated": "2026-11-20T07:40:00+08:00",
+ "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
+ "window": "2026-11-13..11-20；7 日内鼻整形、拉皮均无新增可用文献（鼻整形唯一新增为对 11-15 肋软骨文的受邀评论；隆胸唯一新增为乳房再造短视频分析，与隆胸无关，均不收）；本期 3 条为 08-10..09-29 未评点补收",
+ "items": [
+  {
+   "id": "2026-11-20-pmid-42765934",
+   "pmid": "42765934",
+   "doi": "10.1097/prs.0000000000013464",
+   "journal": "Plastic and Reconstructive Surgery",
+   "title": "Detecting Manipulated Online Rhinoplasty Images Using an Artificial Intelligence Facial Authenticity Localization (FAL) Model",
+   "tags": [
+    "鼻整形",
+    "人工智能",
+    "医患沟通"
+   ],
+   "fact_zh": "抓取 RealSelf 公开图库连续 600 张鼻整形术后照，用 FAL 模型检测像素级真伪：19.5%（117/600）存在几何篡改。200 张原始临床照假阳性 1.5%，50 张 Facetune 变形照全部检出，敏感度 100%。",
+   "take_zh": "创新点：AI 真伪检测首次在整形外科图片上大规模跑，把“照片修过”从印象变成 19.5% 这个可核的数。意义：面诊时患者拿来当模板的参考图，可以先过一遍检测，再谈能不能做。",
+   "scene_zh": "患者拿网红图问能不能做成这样，我先跑一遍检测：这图修过，咱们按你自己的鼻骨谈。",
+   "fact_en": "The Facial Authenticity Localization model was applied to the first 600 consecutive postoperative rhinoplasty photos in RealSelf's public gallery, flagging geometric manipulation in 19.5% (117/600; 95% CI 16.3-22.7%). Specificity testing on 200 presumed-unedited clinical photos gave a 1.5% false-positive rate, and all 50 Facetune-warped images were detected (sensitivity 100%).",
+   "take_en": "This is the first large-scale authenticity audit of aesthetic-surgery media, converting 'that photo is edited' into a measurable 19.5%. It offers a defensible pre-consultation check on the reference images patients bring, though validation covered only Facetune-style warps."
+  },
+  {
+   "id": "2026-11-20-pmid-42806791",
+   "pmid": "42806791",
+   "doi": "10.1177/26893614261492482",
+   "journal": "Facial Plastic Surgery & Aesthetic Medicine",
+   "title": "Nasal Airflow Changes in Dorsal Preservation Rhinoplasty: A Computational Fluid Dynamics Analysis in Human Anatomic Specimens",
+   "tags": [
+    "鼻整形",
+    "保鼻背",
+    "鼻腔通气"
+   ],
+   "fact_zh": "4 具新鲜人体解剖标本，锥形束 CT 建模后做计算流体力学模拟，比较鼻中隔成形与保鼻背鼻整形的气流：除 1 例外，术后鼻阻力均下降，变化方向随上外侧软骨在内鼻阀顶端的朝向而不同。",
+   "take_zh": "创新点：保鼻背对通气的影响，此前只有小样本量表和鼻阻力计、结论互相打架；这篇首次在真实解剖标本上用流体力学算出阻力变化。意义：不必预设保鼻背会堵，但差异取决于上外侧软骨朝向。",
+   "scene_zh": "患者问保鼻背会不会堵，我说多数不会、甚至更通，但你上外侧软骨怎么长的决定结果。",
+   "fact_en": "Computational fluid dynamics was run on cone-beam CT models of four fresh human anatomic specimens before and after septoplasty and dorsal preservation rhinoplasty. Nasal resistance decreased in every specimen but one, and the direction of change tracked the orientation of the upper lateral cartilage at the apical internal nasal valve.",
+   "take_en": "Earlier evidence on preservation and airflow came from small rhinomanometry and questionnaire samples that disagreed; this is the first CFD quantification in real anatomic specimens. It argues against assuming preservation stiffens the airway, but four specimens establish direction, not a magnitude to quote in consent."
+  },
+  {
+   "id": "2026-11-20-pmid-42576065",
+   "pmid": "42576065",
+   "doi": "10.1007/s00266-026-06138-x",
+   "journal": "Aesthetic Plastic Surgery",
+   "title": "Deep Plane Facelifts: A Systematic Review and Meta-Analysis of Outcomes",
+   "tags": [
+    "拉皮",
+    "深层平面",
+    "系统综述"
+   ],
+   "fact_zh": "45 项研究、10,784 例深层平面拉皮的系统综述与 meta 分析：总体并发症 6.6%，无永久性面神经损伤，暂时性面神经损伤 1.2%、血肿 1.8%、血清肿 1.7%、感染 0.8%、增生性瘢痕 2.8%、皮肤坏死 0.1%。",
+   "take_zh": "创新点：把“深层平面容易伤面神经”这个流传几十年的顾虑，用一万例合并率压到零例永久损伤。意义：面诊不必再拿神经风险劝人改做 SMAS，该谈的是血肿 1.8%、瘢痕 2.8%；外观更优仍是主观评价。",
+   "scene_zh": "患者怕拉皮伤神经，我说一万多例里没有一例永久损伤，要担心的是血肿和疤痕。",
+   "fact_en": "A PRISMA systematic review and meta-analysis pooled 45 studies and 10,784 deep plane facelifts: overall complications were 6.6%, with no permanent facial nerve injury and temporary nerve injury at 1.2%. Haematoma occurred in 1.8%, seroma 1.7%, infection 0.8%, hypertrophic scarring 2.8% and skin necrosis 0.1%.",
+   "take_en": "It retires the decades-old fear that deep plane dissection costs facial nerve function, with zero permanent injuries across more than ten thousand cases. Consent can shift to haematoma 1.8% and scarring 2.8%; the claimed aesthetic superiority over SMAS remains a subjective judgement."
+  }
+ ]
 }
