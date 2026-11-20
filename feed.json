@@ -1,15 +1,15 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "鼻整形文献评点 · Rhinoplasty Daily Commentary",
-  "home_page_url": "https://timsurg-boop.github.io/rhinoplasty-daily",
-  "feed_url": "https://timsurg-boop.github.io/rhinoplasty-daily/feed.json",
+  "home_page_url": "https://wangmd-cn.com",
+  "feed_url": "https://wangmd-cn.com/feed.json",
   "language": "zh-CN",
   "items": [
     {
       "id": "2026-11-20-pmid-42765934",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-20-pmid-42765934",
+      "url": "https://wangmd-cn.com/#2026-11-20-pmid-42765934",
       "title": "Detecting Manipulated Online Rhinoplasty Images Using an Artificial Intelligence Facial Authenticity Localization (FAL) Model",
-      "content_html": "<p><strong>事实</strong>：抓取 RealSelf 公开图库连续 600 张鼻整形术后照，用 FAL 模型检测像素级真伪：19.5%（117/600）存在几何篡改。200 张原始临床照假阳性 1.5%，50 张 Facetune 变形照全部检出，敏感度 100%。</p><p><strong>点评</strong>：创新点：AI 真伪检测首次在整形外科图片上大规模跑，把“照片修过”从印象变成 19.5% 这个可核的数。意义：面诊时患者拿来当模板的参考图，可以先过一遍检测，再谈能不能做。</p><p>The Facial Authenticity Localization model was applied to the first 600 consecutive postoperative rhinoplasty photos in RealSelf&#x27;s public gallery, flagging geometric manipulation in 19.5% (117/600; 95% CI 16.3-22.7%). Specificity testing on 200 presumed-unedited clinical photos gave a 1.5% false-positive rate, and all 50 Facetune-warped images were detected (sensitivity 100%). This is the first large-scale authenticity audit of aesthetic-surgery media, converting &#x27;that photo is edited&#x27; into a measurable 19.5%. It offers a defensible pre-consultation check on the reference images patients bring, though validation covered only Facetune-style warps.</p><p>Plastic and Reconstructive Surgery · PMID 42765934</p>",
+      "content_html": "<p><strong>事实</strong>：抓取 RealSelf 公开图库连续 600 张鼻整形术后照，用 FAL 模型检测像素级真伪：19.5%（117/600）存在几何篡改。200 张原始临床照假阳性 1.5%，50 张 Facetune 变形照全部检出，敏感度 100%。</p><p><strong>点评</strong>：创新点：AI 真伪检测首次在整形外科图片上大规模跑，把“照片修过”从印象变成 19.5% 这个可核的数。意义：面诊时患者拿来当模板的参考图，可以先过一遍检测，再谈能不能做。</p><p>The Facial Authenticity Localization model was applied to the first 600 consecutive postoperative rhinoplasty photos in RealSelf&#x27;s public gallery, flagging geometric manipulation in 19.5% (117/600; 95% CI 16.3-22.7%). Specificity testing on 200 presumed-unedited clinical photos gave a 1.5% false-positive rate, and all 50 Facetune-warped images were detected (sensitivity 100%). This is the first large-scale authenticity audit of aesthetic-surgery media, converting &#x27;that photo is edited&#x27; into a measurable 19.5%. It offers a defensible pre-consultation check on the reference images patients bring, though validation covered only Facetune-style warps.</p><p>Plastic and Reconstructive Surgery · Olabiran A · Norwich Medical School, University of East Anglia, Norfolk, UK · PMID 42765934</p>",
       "summary": "抓取 RealSelf 公开图库连续 600 张鼻整形术后照，用 FAL 模型检测像素级真伪：19.5%（117/600）存在几何篡改。200 张原始临床照假阳性 1.5%，50 张 Facetune 变形照全部检出，敏感度 100%。 创新点：AI 真伪检测首次在整形外科图片上大规模跑，把“照片修过”从印象变成 19.5% 这个可核的数。意义：面诊时患者拿来当模板的参考图，可以先过一遍检测，再谈能不能做。",
       "date_published": "2026-11-20T08:00:00+08:00",
       "tags": [
@@ -21,9 +21,9 @@
     },
     {
       "id": "2026-11-20-pmid-42806791",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-20-pmid-42806791",
+      "url": "https://wangmd-cn.com/#2026-11-20-pmid-42806791",
       "title": "Nasal Airflow Changes in Dorsal Preservation Rhinoplasty: A Computational Fluid Dynamics Analysis in Human Anatomic Specimens",
-      "content_html": "<p><strong>事实</strong>：4 具新鲜人体解剖标本，锥形束 CT 建模后做计算流体力学模拟，比较鼻中隔成形与保鼻背鼻整形的气流：除 1 例外，术后鼻阻力均下降，变化方向随上外侧软骨在内鼻阀顶端的朝向而不同。</p><p><strong>点评</strong>：创新点：保鼻背对通气的影响，此前只有小样本量表和鼻阻力计、结论互相打架；这篇首次在真实解剖标本上用流体力学算出阻力变化。意义：不必预设保鼻背会堵，但差异取决于上外侧软骨朝向。</p><p>Computational fluid dynamics was run on cone-beam CT models of four fresh human anatomic specimens before and after septoplasty and dorsal preservation rhinoplasty. Nasal resistance decreased in every specimen but one, and the direction of change tracked the orientation of the upper lateral cartilage at the apical internal nasal valve. Earlier evidence on preservation and airflow came from small rhinomanometry and questionnaire samples that disagreed; this is the first CFD quantification in real anatomic specimens. It argues against assuming preservation stiffens the airway, but four specimens establish direction, not a magnitude to quote in consent.</p><p>Facial Plastic Surgery &amp; Aesthetic Medicine · PMID 42806791</p>",
+      "content_html": "<p><strong>事实</strong>：4 具新鲜人体解剖标本，锥形束 CT 建模后做计算流体力学模拟，比较鼻中隔成形与保鼻背鼻整形的气流：除 1 例外，术后鼻阻力均下降，变化方向随上外侧软骨在内鼻阀顶端的朝向而不同。</p><p><strong>点评</strong>：创新点：保鼻背对通气的影响，此前只有小样本量表和鼻阻力计、结论互相打架；这篇首次在真实解剖标本上用流体力学算出阻力变化。意义：不必预设保鼻背会堵，但差异取决于上外侧软骨朝向。</p><p>Computational fluid dynamics was run on cone-beam CT models of four fresh human anatomic specimens before and after septoplasty and dorsal preservation rhinoplasty. Nasal resistance decreased in every specimen but one, and the direction of change tracked the orientation of the upper lateral cartilage at the apical internal nasal valve. Earlier evidence on preservation and airflow came from small rhinomanometry and questionnaire samples that disagreed; this is the first CFD quantification in real anatomic specimens. It argues against assuming preservation stiffens the airway, but four specimens establish direction, not a magnitude to quote in consent.</p><p>Facial Plastic Surgery &amp; Aesthetic Medicine · Miller JR · Department of Otolaryngology-Head &amp; Neck Surgery, Ochsner Health System, New Orleans, Louisiana, USA · PMID 42806791</p>",
       "summary": "4 具新鲜人体解剖标本，锥形束 CT 建模后做计算流体力学模拟，比较鼻中隔成形与保鼻背鼻整形的气流：除 1 例外，术后鼻阻力均下降，变化方向随上外侧软骨在内鼻阀顶端的朝向而不同。 创新点：保鼻背对通气的影响，此前只有小样本量表和鼻阻力计、结论互相打架；这篇首次在真实解剖标本上用流体力学算出阻力变化。意义：不必预设保鼻背会堵，但差异取决于上外侧软骨朝向。",
       "date_published": "2026-11-20T08:00:00+08:00",
       "tags": [
@@ -35,9 +35,9 @@
     },
     {
       "id": "2026-11-20-pmid-42576065",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-20-pmid-42576065",
+      "url": "https://wangmd-cn.com/#2026-11-20-pmid-42576065",
       "title": "Deep Plane Facelifts: A Systematic Review and Meta-Analysis of Outcomes",
-      "content_html": "<p><strong>事实</strong>：45 项研究、10,784 例深层平面拉皮的系统综述与 meta 分析：总体并发症 6.6%，无永久性面神经损伤，暂时性面神经损伤 1.2%、血肿 1.8%、血清肿 1.7%、感染 0.8%、增生性瘢痕 2.8%、皮肤坏死 0.1%。</p><p><strong>点评</strong>：创新点：把“深层平面容易伤面神经”这个流传几十年的顾虑，用一万例合并率压到零例永久损伤。意义：面诊不必再拿神经风险劝人改做 SMAS，该谈的是血肿 1.8%、瘢痕 2.8%；外观更优仍是主观评价。</p><p>A PRISMA systematic review and meta-analysis pooled 45 studies and 10,784 deep plane facelifts: overall complications were 6.6%, with no permanent facial nerve injury and temporary nerve injury at 1.2%. Haematoma occurred in 1.8%, seroma 1.7%, infection 0.8%, hypertrophic scarring 2.8% and skin necrosis 0.1%. It retires the decades-old fear that deep plane dissection costs facial nerve function, with zero permanent injuries across more than ten thousand cases. Consent can shift to haematoma 1.8% and scarring 2.8%; the claimed aesthetic superiority over SMAS remains a subjective judgement.</p><p>Aesthetic Plastic Surgery · PMID 42576065</p>",
+      "content_html": "<p><strong>事实</strong>：45 项研究、10,784 例深层平面拉皮的系统综述与 meta 分析：总体并发症 6.6%，无永久性面神经损伤，暂时性面神经损伤 1.2%、血肿 1.8%、血清肿 1.7%、感染 0.8%、增生性瘢痕 2.8%、皮肤坏死 0.1%。</p><p><strong>点评</strong>：创新点：把“深层平面容易伤面神经”这个流传几十年的顾虑，用一万例合并率压到零例永久损伤。意义：面诊不必再拿神经风险劝人改做 SMAS，该谈的是血肿 1.8%、瘢痕 2.8%；外观更优仍是主观评价。</p><p>A PRISMA systematic review and meta-analysis pooled 45 studies and 10,784 deep plane facelifts: overall complications were 6.6%, with no permanent facial nerve injury and temporary nerve injury at 1.2%. Haematoma occurred in 1.8%, seroma 1.7%, infection 0.8%, hypertrophic scarring 2.8% and skin necrosis 0.1%. It retires the decades-old fear that deep plane dissection costs facial nerve function, with zero permanent injuries across more than ten thousand cases. Consent can shift to haematoma 1.8% and scarring 2.8%; the claimed aesthetic superiority over SMAS remains a subjective judgement.</p><p>Aesthetic Plastic Surgery · Koroma P · Department of Otolaryngology, Mid Yorkshire Teaching Hospital Trust, Aberford Road, Wakefield, WF1 4DG, United Kingdom · PMID 42576065</p>",
       "summary": "45 项研究、10,784 例深层平面拉皮的系统综述与 meta 分析：总体并发症 6.6%，无永久性面神经损伤，暂时性面神经损伤 1.2%、血肿 1.8%、血清肿 1.7%、感染 0.8%、增生性瘢痕 2.8%、皮肤坏死 0.1%。 创新点：把“深层平面容易伤面神经”这个流传几十年的顾虑，用一万例合并率压到零例永久损伤。意义：面诊不必再拿神经风险劝人改做 SMAS，该谈的是血肿 1.8%、瘢痕 2.8%；外观更优仍是主观评价。",
       "date_published": "2026-11-20T08:00:00+08:00",
       "tags": [
@@ -49,9 +49,9 @@
     },
     {
       "id": "2026-11-19-pmid-43044676",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-43044676",
+      "url": "https://wangmd-cn.com/#2026-11-19-pmid-43044676",
       "title": "Revision Septorhinoplasty: An Updated Narrative Review of Current Concepts in Evaluation and Surgical Management",
-      "content_html": "<p><strong>事实</strong>：综述覆盖7类翻修畸形，主张先重建结构、再精修外形，全文无新原始数据。</p><p><strong>点评</strong>：叙述性综述，作者自己承认缺高质量翻修研究——当操作清单可以，别当证据等级。</p><p>This narrative review covers seven revision deformity patterns and argues that stable structural reconstruction should precede contour refinement; it reports no new primary data. A narrative review whose own authors call for higher-quality revision-specific studies: a checklist, not proof of superiority.</p><p>Facial Plastic Surgery · PMID 43044676</p>",
+      "content_html": "<p><strong>事实</strong>：综述覆盖7类翻修畸形，主张先重建结构、再精修外形，全文无新原始数据。</p><p><strong>点评</strong>：叙述性综述，作者自己承认缺高质量翻修研究——当操作清单可以，别当证据等级。</p><p>This narrative review covers seven revision deformity patterns and argues that stable structural reconstruction should precede contour refinement; it reports no new primary data. A narrative review whose own authors call for higher-quality revision-specific studies: a checklist, not proof of superiority.</p><p>Facial Plastic Surgery · Shahidi S · Southampton University Hospitals NHS Trust, Department of Otolaryngology, United Kingdom of Great Britain and Northern Ireland, Southampton · PMID 43044676</p>",
       "summary": "综述覆盖7类翻修畸形，主张先重建结构、再精修外形，全文无新原始数据。 叙述性综述，作者自己承认缺高质量翻修研究——当操作清单可以，别当证据等级。",
       "date_published": "2026-11-19T08:00:00+08:00",
       "tags": [
@@ -63,9 +63,9 @@
     },
     {
       "id": "2026-11-19-pmid-42374829",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-42374829",
+      "url": "https://wangmd-cn.com/#2026-11-19-pmid-42374829",
       "title": "Adverse Outcomes and Complications of Autologous Versus Homologous Costal Cartilage Grafts in Septorhinoplasty: A Systematic Review and Meta-analysis",
-      "content_html": "<p><strong>事实</strong>：50项研究4482例：自体肋与同种肋并发症无显著差异，总翘曲2.9%、感染1.9%、翻修5.0%。</p><p><strong>点评</strong>：偏倚严重到critical、有小样本效应，选材按可得性和成本，别按并发症差异讲。</p><p>Across 50 studies and 4482 patients, pooled rates were warping 2.9%, infection 1.9% and revision 5.0%, with no significant difference between autologous, irradiated, Tutoplast and fresh-frozen costal cartilage. Risk of bias was serious to critical with small-study effects, so graft choice should follow availability and cost rather than claimed safety differences.</p><p>Aesthetic Surgery Journal · PMID 42374829</p>",
+      "content_html": "<p><strong>事实</strong>：50项研究4482例：自体肋与同种肋并发症无显著差异，总翘曲2.9%、感染1.9%、翻修5.0%。</p><p><strong>点评</strong>：偏倚严重到critical、有小样本效应，选材按可得性和成本，别按并发症差异讲。</p><p>Across 50 studies and 4482 patients, pooled rates were warping 2.9%, infection 1.9% and revision 5.0%, with no significant difference between autologous, irradiated, Tutoplast and fresh-frozen costal cartilage. Risk of bias was serious to critical with small-study effects, so graft choice should follow availability and cost rather than claimed safety differences.</p><p>Aesthetic Surgery Journal · Jullamusi W ·  · PMID 42374829</p>",
       "summary": "50项研究4482例：自体肋与同种肋并发症无显著差异，总翘曲2.9%、感染1.9%、翻修5.0%。 偏倚严重到critical、有小样本效应，选材按可得性和成本，别按并发症差异讲。",
       "date_published": "2026-11-19T08:00:00+08:00",
       "tags": [
@@ -77,9 +77,9 @@
     },
     {
       "id": "2026-11-19-pmid-42895916",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-42895916",
+      "url": "https://wangmd-cn.com/#2026-11-19-pmid-42895916",
       "title": "Comprehensive Evaluation of Quality of Life in Patients After Rhinoplasty Using Patient-Reported Outcome Measures (PROMs): A Systematic Review",
-      "content_html": "<p><strong>事实</strong>：28项研究：鼻整形后功能、外观与心理评分方向一致改善，无某术式占优，MCID报告少。</p><p><strong>点评</strong>：设计杂、多数没报MCID，能说的是多数人自觉好转，报不出具体涨几分。</p><p>A 28-study systematic review found consistent improvements across NOSE, SNOT-22, SCHNOS, ROE and FACE-Q after rhinoplasty, with no technique superior and limited MCID reporting. Uniform direction of effect across heterogeneous designs still does not let you promise a specific score gain.</p><p>Plastic and Aesthetic Nursing · PMID 42895916</p>",
+      "content_html": "<p><strong>事实</strong>：28项研究：鼻整形后功能、外观与心理评分方向一致改善，无某术式占优，MCID报告少。</p><p><strong>点评</strong>：设计杂、多数没报MCID，能说的是多数人自觉好转，报不出具体涨几分。</p><p>A 28-study systematic review found consistent improvements across NOSE, SNOT-22, SCHNOS, ROE and FACE-Q after rhinoplasty, with no technique superior and limited MCID reporting. Uniform direction of effect across heterogeneous designs still does not let you promise a specific score gain.</p><p>Plastic and Aesthetic Nursing · Murtiani F · Farida Murtiani, MStat, is an author and researcher at Sulianti Saroso Infectious Disease Hospital, Jakarta, Indonesia and Doctoral student in the Epidemiology program at the Faculty of Public Health, University Indonesia, Depok, Indonesia · PMID 42895916</p>",
       "summary": "28项研究：鼻整形后功能、外观与心理评分方向一致改善，无某术式占优，MCID报告少。 设计杂、多数没报MCID，能说的是多数人自觉好转，报不出具体涨几分。",
       "date_published": "2026-11-19T08:00:00+08:00",
       "tags": [
@@ -91,9 +91,9 @@
     },
     {
       "id": "2026-11-19-pmid-42775335",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-42775335",
+      "url": "https://wangmd-cn.com/#2026-11-19-pmid-42775335",
       "title": "Comparing Deep Plane and Superficial Musculoaponeurotic System Facelifts Using Artificial Intelligence-Based Age Estimation",
-      "content_html": "<p><strong>事实</strong>：200例照片经AI测龄：正面仅减2.5–2.8岁，侧面误差16–23岁，两种术式无差异。</p><p><strong>点评</strong>：照片取自公开网站、无随访，AI连侧面都测不准，证明不了哪种拉皮更好。</p><p>In 200 photographs, AI estimated only 2.5-2.8 years of apparent age reduction frontally, with 16-23 years mean absolute error in profile, and no difference between deep plane and SMAS. Web-sourced photos without follow-up: AI age estimation cannot adjudicate which facelift technique works better.</p><p>Plastic and Reconstructive Surgery – Global Open · PMID 42775335</p>",
+      "content_html": "<p><strong>事实</strong>：200例照片经AI测龄：正面仅减2.5–2.8岁，侧面误差16–23岁，两种术式无差异。</p><p><strong>点评</strong>：照片取自公开网站、无随访，AI连侧面都测不准，证明不了哪种拉皮更好。</p><p>In 200 photographs, AI estimated only 2.5-2.8 years of apparent age reduction frontally, with 16-23 years mean absolute error in profile, and no difference between deep plane and SMAS. Web-sourced photos without follow-up: AI age estimation cannot adjudicate which facelift technique works better.</p><p>Plastic and Reconstructive Surgery – Global Open · Tan SJ · From the College of Medicine, University of Oklahoma Health Sciences Center, Oklahoma City, OK · PMID 42775335</p>",
       "summary": "200例照片经AI测龄：正面仅减2.5–2.8岁，侧面误差16–23岁，两种术式无差异。 照片取自公开网站、无随访，AI连侧面都测不准，证明不了哪种拉皮更好。",
       "date_published": "2026-11-19T08:00:00+08:00",
       "tags": [
@@ -105,9 +105,9 @@
     },
     {
       "id": "2026-11-19-pmid-42322187",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-42322187",
+      "url": "https://wangmd-cn.com/#2026-11-19-pmid-42322187",
       "title": "Predictors of Unplanned Admission After Outpatient Rhytidectomy",
-      "content_html": "<p><strong>事实</strong>：129例门诊拉皮16.3%非计划住院，与麻醉574对486分钟、合并术式多、肥胖和高血压相关。</p><p><strong>点评</strong>：单中心回顾129例、四级证据；能用来排台，不能当预测模型，合并项目越多越要留床位。</p><p>Of 129 outpatient rhytidectomies, 16.3% required unplanned admission, associated with longer anesthesia (574 vs 486 min), more concurrent procedures, obesity and hypertension. Level-4 single-center data: usable for scheduling and bed planning, not a validated prediction model.</p><p>Aesthetic Surgery Journal · PMID 42322187</p>",
+      "content_html": "<p><strong>事实</strong>：129例门诊拉皮16.3%非计划住院，与麻醉574对486分钟、合并术式多、肥胖和高血压相关。</p><p><strong>点评</strong>：单中心回顾129例、四级证据；能用来排台，不能当预测模型，合并项目越多越要留床位。</p><p>Of 129 outpatient rhytidectomies, 16.3% required unplanned admission, associated with longer anesthesia (574 vs 486 min), more concurrent procedures, obesity and hypertension. Level-4 single-center data: usable for scheduling and bed planning, not a validated prediction model.</p><p>Aesthetic Surgery Journal · Alnemri A ·  · PMID 42322187</p>",
       "summary": "129例门诊拉皮16.3%非计划住院，与麻醉574对486分钟、合并术式多、肥胖和高血压相关。 单中心回顾129例、四级证据；能用来排台，不能当预测模型，合并项目越多越要留床位。",
       "date_published": "2026-11-19T08:00:00+08:00",
       "tags": [
@@ -119,9 +119,9 @@
     },
     {
       "id": "2026-11-19-pmid-43030552",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-19-pmid-43030552",
+      "url": "https://wangmd-cn.com/#2026-11-19-pmid-43030552",
       "title": "Shear-Wave Elastography for Predicting the Occurrence and Assessing the Severity of Capsular Contracture After Implant-Based Breast Augmentation and Reconstruction: A Review of the Evidence",
-      "content_html": "<p><strong>事实</strong>：8项研究（每项2–51例）：剪切波弹性成像测包膜硬度随Baker分级升高，阈值未外部验证。</p><p><strong>点评</strong>：样本小、无前瞻预测研究，SWE只能当触诊的补充，不能凭一个kPa数决定手术。</p><p>Eight reports of 2-51 patients each found periprosthetic stiffness rising with Baker grade, but neither proposed threshold (~52 and 82 kPa) has been externally validated. No study shows early elastography predicts later contracture; it remains an adjunct to palpation, not a surgical indication.</p><p>Journal of Clinical Medicine · PMID 43030552</p>",
+      "content_html": "<p><strong>事实</strong>：8项研究（每项2–51例）：剪切波弹性成像测包膜硬度随Baker分级升高，阈值未外部验证。</p><p><strong>点评</strong>：样本小、无前瞻预测研究，SWE只能当触诊的补充，不能凭一个kPa数决定手术。</p><p>Eight reports of 2-51 patients each found periprosthetic stiffness rising with Baker grade, but neither proposed threshold (~52 and 82 kPa) has been externally validated. No study shows early elastography predicts later contracture; it remains an adjunct to palpation, not a surgical indication.</p><p>Journal of Clinical Medicine · Iliescu-Glaja M · Doctoral School, &quot;Victor Babes&quot; University of Medicine and Pharmacy, E. Murgu Square, No. 2, 300041 Timisoara, Romania · PMID 43030552</p>",
       "summary": "8项研究（每项2–51例）：剪切波弹性成像测包膜硬度随Baker分级升高，阈值未外部验证。 样本小、无前瞻预测研究，SWE只能当触诊的补充，不能凭一个kPa数决定手术。",
       "date_published": "2026-11-19T08:00:00+08:00",
       "tags": [
@@ -133,9 +133,9 @@
     },
     {
       "id": "2026-11-18-pmid-43039986",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-18-pmid-43039986",
+      "url": "https://wangmd-cn.com/#2026-11-18-pmid-43039986",
       "title": "Balancing Function and Aesthetics: Clinical Insights from Contemporary Rhinoplasty in a Regional Middle Eastern Cohort",
-      "content_html": "<p><strong>事实</strong>：263例中东初次鼻整形，ROE从31.5升到84.8分，报告零重大并发症、零翻修。</p><p><strong>点评</strong>：满意度涨53分好看，但随访期零翻修不合常理，更像随访短或失访，别照抄这组数。</p><p>In 263 primary rhinoplasties by a single surgeon, ROE improved from 31.5 to 84.8, with no major complications or revisions reported. A 53-point ROE gain alongside zero revisions over follow-up points to short or incomplete follow-up rather than surgical superiority.</p><p>Aesthetic Plastic Surgery · PMID 43039986</p>",
+      "content_html": "<p><strong>事实</strong>：263例中东初次鼻整形，ROE从31.5升到84.8分，报告零重大并发症、零翻修。</p><p><strong>点评</strong>：满意度涨53分好看，但随访期零翻修不合常理，更像随访短或失访，别照抄这组数。</p><p>In 263 primary rhinoplasties by a single surgeon, ROE improved from 31.5 to 84.8, with no major complications or revisions reported. A 53-point ROE gain alongside zero revisions over follow-up points to short or incomplete follow-up rather than surgical superiority.</p><p>Aesthetic Plastic Surgery · Alzayadneh I · Department of Otolaryngology, Head &amp; Neck Surgery, Mutah University, Mutah, Karak, 61710, Jordan · PMID 43039986</p>",
       "summary": "263例中东初次鼻整形，ROE从31.5升到84.8分，报告零重大并发症、零翻修。 满意度涨53分好看，但随访期零翻修不合常理，更像随访短或失访，别照抄这组数。",
       "date_published": "2026-11-18T08:00:00+08:00",
       "tags": [
@@ -147,9 +147,9 @@
     },
     {
       "id": "2026-11-18-pmid-42853803",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-18-pmid-42853803",
+      "url": "https://wangmd-cn.com/#2026-11-18-pmid-42853803",
       "title": "The L-Shaped Lateral Crural Graft: A Single-Graft Technique for the Correction of Alar Concavity and Nasal Valve Insufficiency",
-      "content_html": "<p><strong>事实</strong>：12例翻修鼻用肋软骨L形外侧脚支架，随访9.5个月，无感染、外露、变形。</p><p><strong>点评</strong>：12例、无对照、无客观通气测量，“全部满意”只能算可行性信号，不能算疗效。</p><p>Twelve revision patients received bilateral L-shaped costal cartilage lateral crural grafts; at a mean 9.5 months there were no infections, exposures, warping or recurrences. Twelve uncontrolled cases judged by surgeon and patient report show feasibility only, not efficacy.</p><p>Journal of Craniofacial Surgery · PMID 42853803</p>",
+      "content_html": "<p><strong>事实</strong>：12例翻修鼻用肋软骨L形外侧脚支架，随访9.5个月，无感染、外露、变形。</p><p><strong>点评</strong>：12例、无对照、无客观通气测量，“全部满意”只能算可行性信号，不能算疗效。</p><p>Twelve revision patients received bilateral L-shaped costal cartilage lateral crural grafts; at a mean 9.5 months there were no infections, exposures, warping or recurrences. Twelve uncontrolled cases judged by surgeon and patient report show feasibility only, not efficacy.</p><p>Journal of Craniofacial Surgery · Yenigun A · Department of Otorhinolaryngology, Faculty of Medicine, Bezmialem Vakif University, Fatih, Istanbul, Turkey · PMID 42853803</p>",
       "summary": "12例翻修鼻用肋软骨L形外侧脚支架，随访9.5个月，无感染、外露、变形。 12例、无对照、无客观通气测量，“全部满意”只能算可行性信号，不能算疗效。",
       "date_published": "2026-11-18T08:00:00+08:00",
       "tags": [
@@ -162,9 +162,9 @@
     },
     {
       "id": "2026-11-18-pmid-42809129",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-18-pmid-42809129",
+      "url": "https://wangmd-cn.com/#2026-11-18-pmid-42809129",
       "title": "High vs Low Septal Preservation Rhinoplasty: A Quantitative Morphologic Analysis of Hump-Supratip Dynamics",
-      "content_html": "<p><strong>事实</strong>：30例保留鼻整形照片测量：高鼻中隔组鼻尖上区下降更多，低鼻中隔组相对更高。</p><p><strong>点评</strong>：样本30、非随机、随访短；能说两种做法鼻尖上区反应不同，不能说哪个更好。</p><p>In 30 preservation rhinoplasties measured on standardized photographs, the high septal technique lowered the supratip more while the low septal approach left it relatively higher. Thirty non-randomized cases with short follow-up describe how the two variants move the supratip, not which one is better.</p><p>Aesthetic Plastic Surgery · PMID 42809129</p>",
+      "content_html": "<p><strong>事实</strong>：30例保留鼻整形照片测量：高鼻中隔组鼻尖上区下降更多，低鼻中隔组相对更高。</p><p><strong>点评</strong>：样本30、非随机、随访短；能说两种做法鼻尖上区反应不同，不能说哪个更好。</p><p>In 30 preservation rhinoplasties measured on standardized photographs, the high septal technique lowered the supratip more while the low septal approach left it relatively higher. Thirty non-randomized cases with short follow-up describe how the two variants move the supratip, not which one is better.</p><p>Aesthetic Plastic Surgery · Ekici RF · Department of Plastic, Reconstructive and Aesthetic Surgery, Karaman Training and Research Hospital, Üniversite Mahallesi, 1984 Street No:1, 70200, Karaman, Turkey · PMID 42809129</p>",
       "summary": "30例保留鼻整形照片测量：高鼻中隔组鼻尖上区下降更多，低鼻中隔组相对更高。 样本30、非随机、随访短；能说两种做法鼻尖上区反应不同，不能说哪个更好。",
       "date_published": "2026-11-18T08:00:00+08:00",
       "tags": [
@@ -176,9 +176,9 @@
     },
     {
       "id": "2026-11-18-pmid-43039989",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-18-pmid-43039989",
+      "url": "https://wangmd-cn.com/#2026-11-18-pmid-43039989",
       "title": "The Next Step in Facial Aesthetic Surgery Outcome Evaluation: Quantifying Classical Deep Plane versus Preservation Facelift with 3-Dimensional Surface Imaging",
-      "content_html": "<p><strong>事实</strong>：32例拉皮6个月3D测量：保留式中面部横向位移4.75mm，深平面2.54mm。</p><p><strong>点评</strong>：位移大不等于好看，分组按时间先后而非随机，耐久性作者自己也没测。</p><p>In 32 patients imaged at six months, the preservation facelift displaced the medial midface 4.75 mm laterally versus 2.54 mm for the deep plane lift. More displacement is not a better face, allocation followed chronology rather than randomization, and durability was not measured.</p><p>Aesthetic Plastic Surgery · PMID 43039989</p>",
+      "content_html": "<p><strong>事实</strong>：32例拉皮6个月3D测量：保留式中面部横向位移4.75mm，深平面2.54mm。</p><p><strong>点评</strong>：位移大不等于好看，分组按时间先后而非随机，耐久性作者自己也没测。</p><p>In 32 patients imaged at six months, the preservation facelift displaced the medial midface 4.75 mm laterally versus 2.54 mm for the deep plane lift. More displacement is not a better face, allocation followed chronology rather than randomization, and durability was not measured.</p><p>Aesthetic Plastic Surgery · Roskies M · Yorkville Plastic Surgery Centre, Toronto, ON, Canada · PMID 43039989</p>",
       "summary": "32例拉皮6个月3D测量：保留式中面部横向位移4.75mm，深平面2.54mm。 位移大不等于好看，分组按时间先后而非随机，耐久性作者自己也没测。",
       "date_published": "2026-11-18T08:00:00+08:00",
       "tags": [
@@ -191,9 +191,9 @@
     },
     {
       "id": "2026-11-18-preprint-rs-11330171",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-18-preprint-rs-11330171",
+      "url": "https://wangmd-cn.com/#2026-11-18-preprint-rs-11330171",
       "title": "Postoperative nausea and vomiting after facelift surgery despite routine dual antiemetic prophylaxis",
-      "content_html": "<p><strong>事实</strong>：220例拉皮，常规双联止吐后62.3%仍恶心呕吐，49.1%真的吐了。</p><p><strong>点评</strong>：同期做眼睑、手术时间长是独立危险因素，Apfel评分反而没用；单中心预印本。</p><p>Despite dual antiemetic prophylaxis in 96% of 220 facelift patients, 62.3% had PONV within 24 hours and 49.1% vomited. Concurrent blepharoplasty and longer operating time independently predicted PONV while the Apfel score did not; this is a single-centre preprint.</p><p>Research Square (Preprint) · PMID </p>",
+      "content_html": "<p><strong>事实</strong>：220例拉皮，常规双联止吐后62.3%仍恶心呕吐，49.1%真的吐了。</p><p><strong>点评</strong>：同期做眼睑、手术时间长是独立危险因素，Apfel评分反而没用；单中心预印本。</p><p>Despite dual antiemetic prophylaxis in 96% of 220 facelift patients, 62.3% had PONV within 24 hours and 49.1% vomited. Concurrent blepharoplasty and longer operating time independently predicted PONV while the Apfel score did not; this is a single-centre preprint.</p><p>Research Square (Preprint) ·  ·  · PMID </p>",
       "summary": "220例拉皮，常规双联止吐后62.3%仍恶心呕吐，49.1%真的吐了。 同期做眼睑、手术时间长是独立危险因素，Apfel评分反而没用；单中心预印本。",
       "date_published": "2026-11-18T08:00:00+08:00",
       "tags": [
@@ -205,9 +205,9 @@
     },
     {
       "id": "2026-11-18-pmid-42903738",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-18-pmid-42903738",
+      "url": "https://wangmd-cn.com/#2026-11-18-pmid-42903738",
       "title": "Breast augmentation and sensory outcomes: A systematic review of surgical techniques and their impact on nipple-areola complex and breast-skin sensibility",
-      "content_html": "<p><strong>事实</strong>：26项研究、9190例隆胸：感觉减退多在6-12个月恢复，乳晕切口早期低感觉更多。</p><p><strong>点评</strong>：证据只能定性汇总、测量工具各异；可用于术前告知，不能用来给切口排名。</p><p>Across 26 studies and 9,190 patients, most sensory loss after augmentation recovered within 6 to 12 months, with more early nipple hypoesthesia after periareolar incisions. Heterogeneous measures forced a qualitative synthesis, so this informs consent rather than ranking incisions.</p><p>JPRAS Open · PMID 42903738</p>",
+      "content_html": "<p><strong>事实</strong>：26项研究、9190例隆胸：感觉减退多在6-12个月恢复，乳晕切口早期低感觉更多。</p><p><strong>点评</strong>：证据只能定性汇总、测量工具各异；可用于术前告知，不能用来给切口排名。</p><p>Across 26 studies and 9,190 patients, most sensory loss after augmentation recovered within 6 to 12 months, with more early nipple hypoesthesia after periareolar incisions. Heterogeneous measures forced a qualitative synthesis, so this informs consent rather than ranking incisions.</p><p>JPRAS Open · Ghadban E · Department of Plastic and Reconstructive Surgery, Saint George Hospital University Medical Center, Beirut, Lebanon · PMID 42903738</p>",
       "summary": "26项研究、9190例隆胸：感觉减退多在6-12个月恢复，乳晕切口早期低感觉更多。 证据只能定性汇总、测量工具各异；可用于术前告知，不能用来给切口排名。",
       "date_published": "2026-11-18T08:00:00+08:00",
       "tags": [
@@ -219,9 +219,9 @@
     },
     {
       "id": "2026-11-17-pmid-43035971",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-17-pmid-43035971",
+      "url": "https://wangmd-cn.com/#2026-11-17-pmid-43035971",
       "title": "Patient-Reported Functional and Cosmetic Outcomes after Rhinoplasty with Autologous Versus Cadaveric Rib Cartilage Grafts",
-      "content_html": "<p><strong>事实</strong>：129例鼻整形，自体肋33例、异体肋96例；随诊鼻塞评分自体组低14.0分，外形无差异。</p><p><strong>点评</strong>：自体肋换来的是通气不是外形；翻修率15.2%对24.0%区间跨零，别当优势讲。</p><p>In 129 adults (33 autologous, 96 cadaveric rib grafts), autologous recipients averaged obstruction scores 14.0 points lower over follow-up (95% CI -24.2 to -3.9), with no significant difference in cosmetic scores or revisions (15.2% vs 24.0%). Autologous rib bought better breathing, not a better-looking nose, and the revision gap is too imprecise to sell as an advantage.</p><p>Facial Plastic Surgery &amp; Aesthetic Medicine · PMID 43035971</p>",
+      "content_html": "<p><strong>事实</strong>：129例鼻整形，自体肋33例、异体肋96例；随诊鼻塞评分自体组低14.0分，外形无差异。</p><p><strong>点评</strong>：自体肋换来的是通气不是外形；翻修率15.2%对24.0%区间跨零，别当优势讲。</p><p>In 129 adults (33 autologous, 96 cadaveric rib grafts), autologous recipients averaged obstruction scores 14.0 points lower over follow-up (95% CI -24.2 to -3.9), with no significant difference in cosmetic scores or revisions (15.2% vs 24.0%). Autologous rib bought better breathing, not a better-looking nose, and the revision gap is too imprecise to sell as an advantage.</p><p>Facial Plastic Surgery &amp; Aesthetic Medicine · Du DK · Washington University School of Medicine in St. Louis, St. Louis, Missouri, USA · PMID 43035971</p>",
       "summary": "129例鼻整形，自体肋33例、异体肋96例；随诊鼻塞评分自体组低14.0分，外形无差异。 自体肋换来的是通气不是外形；翻修率15.2%对24.0%区间跨零，别当优势讲。",
       "date_published": "2026-11-17T08:00:00+08:00",
       "tags": [
@@ -233,9 +233,9 @@
     },
     {
       "id": "2026-11-17-pmid-42950360",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-17-pmid-42950360",
+      "url": "https://wangmd-cn.com/#2026-11-17-pmid-42950360",
       "title": "Infraorbital versus sphenopalatine ganglion block for patient-reported recovery after septorhinoplasty: A randomized controlled trial",
-      "content_html": "<p><strong>事实</strong>：90例鼻中隔鼻整形RCT：眶下神经阻滞24小时恢复质量129.1分，蝶腭节阻滞116.6分。</p><p><strong>点评</strong>：12.5分超过8分最小临床意义，补救镇痛11.4%对53.3%；单中心，等重复。</p><p>In a 90-patient randomized trial, infraorbital nerve block produced a 24-hour QoR-15 of 129.1 versus 116.6 for sphenopalatine ganglion block, with rescue analgesia in 11.4% versus 53.3%. The 12.5-point gap exceeds the 8-point minimal important difference and halves rescue analgesia, but it is one centre&#x27;s result awaiting replication.</p><p>Journal of Clinical Anesthesia · PMID 42950360</p>",
+      "content_html": "<p><strong>事实</strong>：90例鼻中隔鼻整形RCT：眶下神经阻滞24小时恢复质量129.1分，蝶腭节阻滞116.6分。</p><p><strong>点评</strong>：12.5分超过8分最小临床意义，补救镇痛11.4%对53.3%；单中心，等重复。</p><p>In a 90-patient randomized trial, infraorbital nerve block produced a 24-hour QoR-15 of 129.1 versus 116.6 for sphenopalatine ganglion block, with rescue analgesia in 11.4% versus 53.3%. The 12.5-point gap exceeds the 8-point minimal important difference and halves rescue analgesia, but it is one centre&#x27;s result awaiting replication.</p><p>Journal of Clinical Anesthesia · Keklicek Ö · Department of Anesthesiology and Reanimation, University of Health Sciences, Konya City Hospital, Konya, Türkiye · PMID 42950360</p>",
       "summary": "90例鼻中隔鼻整形RCT：眶下神经阻滞24小时恢复质量129.1分，蝶腭节阻滞116.6分。 12.5分超过8分最小临床意义，补救镇痛11.4%对53.3%；单中心，等重复。",
       "date_published": "2026-11-17T08:00:00+08:00",
       "tags": [
@@ -247,9 +247,9 @@
     },
     {
       "id": "2026-11-17-pmid-42897251",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-17-pmid-42897251",
+      "url": "https://wangmd-cn.com/#2026-11-17-pmid-42897251",
       "title": "“Dou-gong” Technique: A Novel Biomechanical Approach to Injection Rhinoplasty Based on Nasal Ligament Anatomy",
-      "content_html": "<p><strong>事实</strong>：100例注射鼻整形：27G针在骨膜/软骨膜上按五点支撑鼻韧带，无血管栓塞或移位。</p><p><strong>点评</strong>：把填充从堆容量改成撑韧带，思路新；无对照、无客观测量，只能算可行。</p><p>One hundred injection-rhinoplasty patients were treated with a 27-gauge needle above periosteum or perichondrium at five nasal zones to reinforce ligament support, with no vascular occlusion or filler displacement. Reframing filler as ligament support rather than volume is a real idea, but with no control group and no objective measurement it only shows feasibility.</p><p>Aesthetic Plastic Surgery · PMID 42897251</p>",
+      "content_html": "<p><strong>事实</strong>：100例注射鼻整形：27G针在骨膜/软骨膜上按五点支撑鼻韧带，无血管栓塞或移位。</p><p><strong>点评</strong>：把填充从堆容量改成撑韧带，思路新；无对照、无客观测量，只能算可行。</p><p>One hundred injection-rhinoplasty patients were treated with a 27-gauge needle above periosteum or perichondrium at five nasal zones to reinforce ligament support, with no vascular occlusion or filler displacement. Reframing filler as ligament support rather than volume is a real idea, but with no control group and no objective measurement it only shows feasibility.</p><p>Aesthetic Plastic Surgery · Sun C · Department of Plastic Surgery, Peking University Third Hospital, Beijing, China · PMID 42897251</p>",
       "summary": "100例注射鼻整形：27G针在骨膜/软骨膜上按五点支撑鼻韧带，无血管栓塞或移位。 把填充从堆容量改成撑韧带，思路新；无对照、无客观测量，只能算可行。",
       "date_published": "2026-11-17T08:00:00+08:00",
       "tags": [
@@ -261,9 +261,9 @@
     },
     {
       "id": "2026-11-17-pmid-42791356",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-17-pmid-42791356",
+      "url": "https://wangmd-cn.com/#2026-11-17-pmid-42791356",
       "title": "SMAS Plication Facelift and Platysmaplasty Under Tumescent Local Anesthesia: a 10-Year Retrospective Evaluation of Safety, Efficacy, and Patient Satisfaction in an Outpatient Setting",
-      "content_html": "<p><strong>事实</strong>：80例SMAS折叠拉皮加颈阔肌成形在肿胀局麻下完成，10年随诊并发症10%，无全麻转归。</p><p><strong>点评</strong>：血肿2.5%、血清肿1.25%，比全麻组不差；但这是筛选过的ASA I-II、单术者。</p><p>Eighty ASA I-II patients underwent SMAS plication facelift with platysmaplasty under tumescent local anesthesia over ten years, with a 10% complication rate (hematoma 2.5%) and no conversions to general anesthesia. Those complication rates are respectable, but this is a single-surgeon series in selected ASA I-II patients, not a comparison against general anesthesia.</p><p>Aesthetic Plastic Surgery · PMID 42791356</p>",
+      "content_html": "<p><strong>事实</strong>：80例SMAS折叠拉皮加颈阔肌成形在肿胀局麻下完成，10年随诊并发症10%，无全麻转归。</p><p><strong>点评</strong>：血肿2.5%、血清肿1.25%，比全麻组不差；但这是筛选过的ASA I-II、单术者。</p><p>Eighty ASA I-II patients underwent SMAS plication facelift with platysmaplasty under tumescent local anesthesia over ten years, with a 10% complication rate (hematoma 2.5%) and no conversions to general anesthesia. Those complication rates are respectable, but this is a single-surgeon series in selected ASA I-II patients, not a comparison against general anesthesia.</p><p>Aesthetic Plastic Surgery · De Riso S · Department of Medical, Surgical and Experimental Sciences, Plastic Surgery Unit, Sassari University Hospital Trust, University of Sassari, Sassari, Italy · PMID 42791356</p>",
       "summary": "80例SMAS折叠拉皮加颈阔肌成形在肿胀局麻下完成，10年随诊并发症10%，无全麻转归。 血肿2.5%、血清肿1.25%，比全麻组不差；但这是筛选过的ASA I-II、单术者。",
       "date_published": "2026-11-17T08:00:00+08:00",
       "tags": [
@@ -275,9 +275,9 @@
     },
     {
       "id": "2026-11-17-pmid-42993310",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-17-pmid-42993310",
+      "url": "https://wangmd-cn.com/#2026-11-17-pmid-42993310",
       "title": "The Transumbilical Breast Augmentation: Safety and Satisfaction in a Systematic Review and Meta-analysis of 13,210 Breasts",
-      "content_html": "<p><strong>事实</strong>：17项研究、6605例（13210侧）经脐隆胸：血肿0.2%、包膜挛缩1.7%、再干预2.3%。</p><p><strong>点评</strong>：数据低得好看，但几乎都是单臂回顾、随访短，作者自己说不能证明等效。</p><p>A meta-analysis of 17 studies and 6,605 patients (13,210 breasts) pooled transumbilical augmentation to 0.2% hematoma, 1.7% capsular contracture and 2.3% reintervention. Almost all included series were retrospective single-arm studies with short follow-up, so these low rates describe published experience rather than prove equivalence to standard incisions.</p><p>Aesthetic Plastic Surgery · PMID 42993310</p>",
+      "content_html": "<p><strong>事实</strong>：17项研究、6605例（13210侧）经脐隆胸：血肿0.2%、包膜挛缩1.7%、再干预2.3%。</p><p><strong>点评</strong>：数据低得好看，但几乎都是单臂回顾、随访短，作者自己说不能证明等效。</p><p>A meta-analysis of 17 studies and 6,605 patients (13,210 breasts) pooled transumbilical augmentation to 0.2% hematoma, 1.7% capsular contracture and 2.3% reintervention. Almost all included series were retrospective single-arm studies with short follow-up, so these low rates describe published experience rather than prove equivalence to standard incisions.</p><p>Aesthetic Plastic Surgery · Gonçalves FGA · School of Medicine, Universidade de São Paulo, Sao Paulo, SP, Brazil · PMID 42993310</p>",
       "summary": "17项研究、6605例（13210侧）经脐隆胸：血肿0.2%、包膜挛缩1.7%、再干预2.3%。 数据低得好看，但几乎都是单臂回顾、随访短，作者自己说不能证明等效。",
       "date_published": "2026-11-17T08:00:00+08:00",
       "tags": [
@@ -289,9 +289,9 @@
     },
     {
       "id": "2026-11-17-pmid-42969680",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-17-pmid-42969680",
+      "url": "https://wangmd-cn.com/#2026-11-17-pmid-42969680",
       "title": "Clinical Outcomes of Submuscular vs Subglandular Implant Placement in Primary Cosmetic Breast Augmentation: A Systematic Review and Meta-analysis",
-      "content_html": "<p><strong>事实</strong>：12项研究、4534侧：肌下/双平面总体并发症OR 0.49，包膜挛缩0.58，血肿0.30。</p><p><strong>点评</strong>：并发症更少，满意度和再手术没差别；层次还是按软组织厚度和动画畸形定。</p><p>Pooled data from 12 studies (4,534 breasts) showed submuscular or dual-plane placement had lower odds of overall complications (OR 0.49), capsular contracture (0.58) and hematoma (0.30), with no difference in satisfaction or reoperation. Fewer complications does not mean a better-looking breast; pocket choice still follows tissue coverage, animation deformity and the individual patient.</p><p>Aesthetic Surgery Journal · PMID 42969680</p>",
+      "content_html": "<p><strong>事实</strong>：12项研究、4534侧：肌下/双平面总体并发症OR 0.49，包膜挛缩0.58，血肿0.30。</p><p><strong>点评</strong>：并发症更少，满意度和再手术没差别；层次还是按软组织厚度和动画畸形定。</p><p>Pooled data from 12 studies (4,534 breasts) showed submuscular or dual-plane placement had lower odds of overall complications (OR 0.49), capsular contracture (0.58) and hematoma (0.30), with no difference in satisfaction or reoperation. Fewer complications does not mean a better-looking breast; pocket choice still follows tissue coverage, animation deformity and the individual patient.</p><p>Aesthetic Surgery Journal · Cao Q ·  · PMID 42969680</p>",
       "summary": "12项研究、4534侧：肌下/双平面总体并发症OR 0.49，包膜挛缩0.58，血肿0.30。 并发症更少，满意度和再手术没差别；层次还是按软组织厚度和动画畸形定。",
       "date_published": "2026-11-17T08:00:00+08:00",
       "tags": [
@@ -303,9 +303,9 @@
     },
     {
       "id": "2026-11-16-pmid-43032422",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-16-pmid-43032422",
+      "url": "https://wangmd-cn.com/#2026-11-16-pmid-43032422",
       "title": "Pilot Study: Preliminary Experience with Dual-strut Tip Support Using Repurposed Cephalic Trim Cartilage in East Asian Rhinoplasty",
-      "content_html": "<p><strong>事实</strong>：10例日本女性初鼻，鼻中隔延伸加头侧软骨重制双柱，随诊平均10.1个月，无感染、外露。</p><p><strong>点评</strong>：10例、无对照，原文自称生物力学优势仍是推测；省的是第二块供区，不是手术时间。</p><p>Ten Japanese women undergoing primary rhinoplasty received a trapezoidal septal extension graft plus paired columellar struts made from repurposed cephalic-trim cartilage, with mean follow-up of 10.1 months and no infection, extrusion, septal instability or columellar widening. With 10 patients, no control group and the authors themselves calling the biomechanical advantage theoretical, this is a way to avoid a second donor site rather than a faster operation.</p><p>Plastic and Reconstructive Surgery – Global Open · PMID 43032422</p>",
+      "content_html": "<p><strong>事实</strong>：10例日本女性初鼻，鼻中隔延伸加头侧软骨重制双柱，随诊平均10.1个月，无感染、外露。</p><p><strong>点评</strong>：10例、无对照，原文自称生物力学优势仍是推测；省的是第二块供区，不是手术时间。</p><p>Ten Japanese women undergoing primary rhinoplasty received a trapezoidal septal extension graft plus paired columellar struts made from repurposed cephalic-trim cartilage, with mean follow-up of 10.1 months and no infection, extrusion, septal instability or columellar widening. With 10 patients, no control group and the authors themselves calling the biomechanical advantage theoretical, this is a way to avoid a second donor site rather than a faster operation.</p><p>Plastic and Reconstructive Surgery – Global Open · Morello AM · From the MSA Surgical Arts, Naha, Okinawa, Japan · PMID 43032422</p>",
       "summary": "10例日本女性初鼻，鼻中隔延伸加头侧软骨重制双柱，随诊平均10.1个月，无感染、外露。 10例、无对照，原文自称生物力学优势仍是推测；省的是第二块供区，不是手术时间。",
       "date_published": "2026-11-16T08:00:00+08:00",
       "tags": [
@@ -317,9 +317,9 @@
     },
     {
       "id": "2026-11-16-pmid-42881298",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-16-pmid-42881298",
+      "url": "https://wangmd-cn.com/#2026-11-16-pmid-42881298",
       "title": "Capsulectomy Following Breast Implant Removal: Evidence-Based Indications and a Framework for Clinical Decision-Making",
-      "content_html": "<p><strong>事实</strong>：综述：无研究直接比较切除与保留包膜；9590例预注册队列未见BII症状差异，切除并发症更高。</p><p><strong>点评</strong>：包膜切除只有四个指征：确诊ALCL、包膜恶变、有症状钙化影响钼靶、III–IV级挛缩。其余别当常规。</p><p>This review finds no study directly comparing explantation with and without capsulectomy; the only pre-registered controlled cohort (n=9590) showed no difference in BII symptom prevalence, and capsulectomy carries more complications. Capsulectomy is supported by four indications — confirmed BIA-ALCL, capsular malignancy, symptomatic calcification impairing mammography, and grade III-IV contracture — and should not be routine beyond them.</p><p>Aesthetic Plastic Surgery · PMID 42881298</p>",
+      "content_html": "<p><strong>事实</strong>：综述：无研究直接比较切除与保留包膜；9590例预注册队列未见BII症状差异，切除并发症更高。</p><p><strong>点评</strong>：包膜切除只有四个指征：确诊ALCL、包膜恶变、有症状钙化影响钼靶、III–IV级挛缩。其余别当常规。</p><p>This review finds no study directly comparing explantation with and without capsulectomy; the only pre-registered controlled cohort (n=9590) showed no difference in BII symptom prevalence, and capsulectomy carries more complications. Capsulectomy is supported by four indications — confirmed BIA-ALCL, capsular malignancy, symptomatic calcification impairing mammography, and grade III-IV contracture — and should not be routine beyond them.</p><p>Aesthetic Plastic Surgery · MChir TB · Specialist Plastic Surgeon, Suite 2, 40 Clyde Road, Berwick, VIC, 3806, Australia · PMID 42881298</p>",
       "summary": "综述：无研究直接比较切除与保留包膜；9590例预注册队列未见BII症状差异，切除并发症更高。 包膜切除只有四个指征：确诊ALCL、包膜恶变、有症状钙化影响钼靶、III–IV级挛缩。其余别当常规。",
       "date_published": "2026-11-16T08:00:00+08:00",
       "tags": [
@@ -331,9 +331,9 @@
     },
     {
       "id": "2026-11-16-pmid-42741888",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-16-pmid-42741888",
+      "url": "https://wangmd-cn.com/#2026-11-16-pmid-42741888",
       "title": "Interval to Secondary Facelift: A Match-Cohort Analysis of Interval Time, Technique, and Complications",
-      "content_html": "<p><strong>事实</strong>：97对97配对：二次拉皮比初次短44.3分钟、更多用SMAS折叠，并发症无差异；间隔平均10.7年。</p><p><strong>点评</strong>：二次拉皮不必当高风险拒掉；初次越年轻间隔越长（r=-0.44）。单术者回顾性，别当承诺。</p><p>In 97 matched pairs, secondary facelifts took 44.3 minutes less than primaries and used SMAS plication more often, with complication rates no different; the mean interval was 10.7 years. A secondary facelift is not inherently high risk, and younger age at the primary operation predicted a longer interval (r=-0.44), but this is a single-surgeon retrospective cohort and not a promise.</p><p>Aesthetic Surgery Journal · PMID 42741888</p>",
+      "content_html": "<p><strong>事实</strong>：97对97配对：二次拉皮比初次短44.3分钟、更多用SMAS折叠，并发症无差异；间隔平均10.7年。</p><p><strong>点评</strong>：二次拉皮不必当高风险拒掉；初次越年轻间隔越长（r=-0.44）。单术者回顾性，别当承诺。</p><p>In 97 matched pairs, secondary facelifts took 44.3 minutes less than primaries and used SMAS plication more often, with complication rates no different; the mean interval was 10.7 years. A secondary facelift is not inherently high risk, and younger age at the primary operation predicted a longer interval (r=-0.44), but this is a single-surgeon retrospective cohort and not a promise.</p><p>Aesthetic Surgery Journal · Mandelbaum M ·  · PMID 42741888</p>",
       "summary": "97对97配对：二次拉皮比初次短44.3分钟、更多用SMAS折叠，并发症无差异；间隔平均10.7年。 二次拉皮不必当高风险拒掉；初次越年轻间隔越长（r=-0.44）。单术者回顾性，别当承诺。",
       "date_published": "2026-11-16T08:00:00+08:00",
       "tags": [
@@ -345,9 +345,9 @@
     },
     {
       "id": "2026-11-16-pmid-42864859",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-16-pmid-42864859",
+      "url": "https://wangmd-cn.com/#2026-11-16-pmid-42864859",
       "title": "Predictors and Themes of Perioperative Patient-Initiated Communication in Septorhinoplasty",
-      "content_html": "<p><strong>事实</strong>：306例鼻中隔鼻整形，64%在围手术期主动联系医疗组；术前问流程31%、问用药28%。</p><p><strong>点评</strong>：六成人会来问，问的是流程和用药，不是并发症；回顾性单中心，但术前须知该按这两块重写。</p><p>Among 306 septorhinoplasties, 197 patients (64%) initiated contact with the care team in the 30 days before or after surgery, with procedural details (31%) and medication questions (28%) leading preoperatively. Most calls are about logistics and medication rather than complications, so the preoperative handout should be rebuilt around those two topics, though this is a single-center retrospective review.</p><p>The Laryngoscope · PMID 42864859</p>",
+      "content_html": "<p><strong>事实</strong>：306例鼻中隔鼻整形，64%在围手术期主动联系医疗组；术前问流程31%、问用药28%。</p><p><strong>点评</strong>：六成人会来问，问的是流程和用药，不是并发症；回顾性单中心，但术前须知该按这两块重写。</p><p>Among 306 septorhinoplasties, 197 patients (64%) initiated contact with the care team in the 30 days before or after surgery, with procedural details (31%) and medication questions (28%) leading preoperatively. Most calls are about logistics and medication rather than complications, so the preoperative handout should be rebuilt around those two topics, though this is a single-center retrospective review.</p><p>The Laryngoscope · Tripuraneni P · Department of Otolaryngology-Head and Neck Surgery, MedStar Georgetown University Hospital, Washington, District of Columbia, USA · PMID 42864859</p>",
       "summary": "306例鼻中隔鼻整形，64%在围手术期主动联系医疗组；术前问流程31%、问用药28%。 六成人会来问，问的是流程和用药，不是并发症；回顾性单中心，但术前须知该按这两块重写。",
       "date_published": "2026-11-16T08:00:00+08:00",
       "tags": [
@@ -359,9 +359,9 @@
     },
     {
       "id": "2026-11-16-pmid-43032105",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-16-pmid-43032105",
+      "url": "https://wangmd-cn.com/#2026-11-16-pmid-43032105",
       "title": "Stabilizing breast implants with the double anchor capsule flap technique: insights from a retrospective case series of 30 patients",
-      "content_html": "<p><strong>事实</strong>：30例双侧翻修用双锚定包膜瓣固定假体，平均减容22.3cc，1年无复发下垂、无错位、无并发症。</p><p><strong>点评</strong>：0并发症的30例单臂系列不能当发生率；值得学的是拿血供包膜当锚，不是那个0。</p><p>In 30 bilateral revision cases using the double-anchor capsule flap technique, implant volume was reduced by a mean of 22.3 cc and there was no recurrent ptosis, malposition or complication at one year. A single-arm series of 30 with zero complications is not an incidence rate; the transferable idea is anchoring to vascularized capsule, not the zero.</p><p>JPRAS Open · PMID 43032105</p>",
+      "content_html": "<p><strong>事实</strong>：30例双侧翻修用双锚定包膜瓣固定假体，平均减容22.3cc，1年无复发下垂、无错位、无并发症。</p><p><strong>点评</strong>：0并发症的30例单臂系列不能当发生率；值得学的是拿血供包膜当锚，不是那个0。</p><p>In 30 bilateral revision cases using the double-anchor capsule flap technique, implant volume was reduced by a mean of 22.3 cc and there was no recurrent ptosis, malposition or complication at one year. A single-arm series of 30 with zero complications is not an incidence rate; the transferable idea is anchoring to vascularized capsule, not the zero.</p><p>JPRAS Open · Franco Arias DA · Interquirofanos, Cl. 7 #39 107 Piso3 y 4, Medellín, Colombia · PMID 43032105</p>",
       "summary": "30例双侧翻修用双锚定包膜瓣固定假体，平均减容22.3cc，1年无复发下垂、无错位、无并发症。 0并发症的30例单臂系列不能当发生率；值得学的是拿血供包膜当锚，不是那个0。",
       "date_published": "2026-11-16T08:00:00+08:00",
       "tags": [
@@ -373,9 +373,9 @@
     },
     {
       "id": "2026-11-16-pmid-42942299",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-16-pmid-42942299",
+      "url": "https://wangmd-cn.com/#2026-11-16-pmid-42942299",
       "title": "Beyond Cartilage Grafting in Rhinoplasty: Biopharmaceutical and Biomaterial Strategies for Nasal Cartilage Regeneration",
-      "content_html": "<p><strong>事实</strong>：综述：生长因子与小分子能启动软骨成基质但需时空控制；注射让结构软骨再生仍无临床证据。</p><p><strong>点评</strong>：近期能落地的是给现有移植物做生物增强、修补小缺损；把“打针长软骨”当项目卖，现在没有依据。</p><p>This narrative review finds that growth factors and small molecules can initiate cartilage matrix formation but require spatial and temporal control, and no clinical evidence yet supports injection-only regeneration of structural nasal cartilage. Near-term realistic uses are biologic enhancement of existing grafts and repair of small contained defects, not injectable reshaping sold as an alternative to grafting.</p><p>Life (Basel) · PMID 42942299</p>",
+      "content_html": "<p><strong>事实</strong>：综述：生长因子与小分子能启动软骨成基质但需时空控制；注射让结构软骨再生仍无临床证据。</p><p><strong>点评</strong>：近期能落地的是给现有移植物做生物增强、修补小缺损；把“打针长软骨”当项目卖，现在没有依据。</p><p>This narrative review finds that growth factors and small molecules can initiate cartilage matrix formation but require spatial and temporal control, and no clinical evidence yet supports injection-only regeneration of structural nasal cartilage. Near-term realistic uses are biologic enhancement of existing grafts and repair of small contained defects, not injectable reshaping sold as an alternative to grafting.</p><p>Life (Basel) · Yi KH · You and I Clinic, Seoul 06123, Republic of Korea · PMID 42942299</p>",
       "summary": "综述：生长因子与小分子能启动软骨成基质但需时空控制；注射让结构软骨再生仍无临床证据。 近期能落地的是给现有移植物做生物增强、修补小缺损；把“打针长软骨”当项目卖，现在没有依据。",
       "date_published": "2026-11-16T08:00:00+08:00",
       "tags": [
@@ -387,9 +387,9 @@
     },
     {
       "id": "2026-11-15-pmid-43011592",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-15-pmid-43011592",
+      "url": "https://wangmd-cn.com/#2026-11-15-pmid-43011592",
       "title": "Preservation and Management of the Superficial Nasal Musculoaponeurotic System to Enhance Infratip Contour: A Technical Report",
-      "content_html": "<p><strong>事实</strong>：226例开鼻手术保留鼻部SMAS做成SOON肌瓣并缝回，随诊8个月至3年，鼻小柱回缩与死腔减少。</p><p><strong>点评</strong>：死腔是鼻小柱回缩、鼻尖下叶塌的常被忽略来源；把筋膜当带血供的瓣缝回去思路对，但只有术者主观观察。</p><p>In 226 consecutive primary open rhinoplasties, the superficial nasal SMAS was preserved as a SOON muscle flap and re-secured over the tip framework, with reduced dead space and columellar retraction over 8 months to 3 years of follow-up. Dead space is an under-recognized driver of columellar retraction and a flat infratip; re-draping a vascularized SMAS flap is a sensible fix, but the reported benefit is the surgeon&#x27;s subjective observation with no objective measurement.</p><p>Cureus · PMID 43011592</p>",
+      "content_html": "<p><strong>事实</strong>：226例开鼻手术保留鼻部SMAS做成SOON肌瓣并缝回，随诊8个月至3年，鼻小柱回缩与死腔减少。</p><p><strong>点评</strong>：死腔是鼻小柱回缩、鼻尖下叶塌的常被忽略来源；把筋膜当带血供的瓣缝回去思路对，但只有术者主观观察。</p><p>In 226 consecutive primary open rhinoplasties, the superficial nasal SMAS was preserved as a SOON muscle flap and re-secured over the tip framework, with reduced dead space and columellar retraction over 8 months to 3 years of follow-up. Dead space is an under-recognized driver of columellar retraction and a flat infratip; re-draping a vascularized SMAS flap is a sensible fix, but the reported benefit is the surgeon&#x27;s subjective observation with no objective measurement.</p><p>Cureus · Burgos A · Rhinology and Facial Plastic Surgery, Private Practice, Mazatlán, MEX · PMID 43011592</p>",
       "summary": "226例开鼻手术保留鼻部SMAS做成SOON肌瓣并缝回，随诊8个月至3年，鼻小柱回缩与死腔减少。 死腔是鼻小柱回缩、鼻尖下叶塌的常被忽略来源；把筋膜当带血供的瓣缝回去思路对，但只有术者主观观察。",
       "date_published": "2026-11-15T08:00:00+08:00",
       "tags": [
@@ -401,9 +401,9 @@
     },
     {
       "id": "2026-11-15-pmid-42940423",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-15-pmid-42940423",
+      "url": "https://wangmd-cn.com/#2026-11-15-pmid-42940423",
       "title": "Factors Associated with Adults' Decisions to Undergo Rhinoplasty in Saudi Arabia: A Cross-Sectional Study",
-      "content_html": "<p><strong>事实</strong>：1591名沙特成人中26%考虑或已做鼻整形；女性OR 7.76，收入高者探索意愿反低67%。</p><p><strong>点评</strong>：拒做最常见的理由是宗教顾虑，最怕的是“鼻子和脸不搭”。初诊先问顾虑，别一上来讲术式。</p><p>Among 1,591 Saudi adults, 26% were considering or had undergone rhinoplasty; female sex raised the odds (OR 7.76) while higher income lowered the odds of exploring surgery by 67% (OR 0.33). Religious concerns were the leading stated reason for refusal and nasal-facial mismatch the most feared complication, so the first consult should surface the patient&#x27;s objections before any technique talk.</p><p>Healthcare (Basel) · PMID 42940423</p>",
+      "content_html": "<p><strong>事实</strong>：1591名沙特成人中26%考虑或已做鼻整形；女性OR 7.76，收入高者探索意愿反低67%。</p><p><strong>点评</strong>：拒做最常见的理由是宗教顾虑，最怕的是“鼻子和脸不搭”。初诊先问顾虑，别一上来讲术式。</p><p>Among 1,591 Saudi adults, 26% were considering or had undergone rhinoplasty; female sex raised the odds (OR 7.76) while higher income lowered the odds of exploring surgery by 67% (OR 0.33). Religious concerns were the leading stated reason for refusal and nasal-facial mismatch the most feared complication, so the first consult should surface the patient&#x27;s objections before any technique talk.</p><p>Healthcare (Basel) · Doumi R · Department of Family and Community Medicine, College of Medicine, Princess Nourah Bint Abdulrahman University, Riyadh 11671, Saudi Arabia · PMID 42940423</p>",
       "summary": "1591名沙特成人中26%考虑或已做鼻整形；女性OR 7.76，收入高者探索意愿反低67%。 拒做最常见的理由是宗教顾虑，最怕的是“鼻子和脸不搭”。初诊先问顾虑，别一上来讲术式。",
       "date_published": "2026-11-15T08:00:00+08:00",
       "tags": [
@@ -415,9 +415,9 @@
     },
     {
       "id": "2026-11-15-doi-10-21203-rs-11330171",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-15-doi-10-21203-rs-11330171",
+      "url": "https://wangmd-cn.com/#2026-11-15-doi-10-21203-rs-11330171",
       "title": "Postoperative nausea and vomiting after facelift surgery despite routine dual antiemetic prophylaxis",
-      "content_html": "<p><strong>事实</strong>：220例拉皮中96.36%用地塞米松加昂丹司琼双联预防，仍有62.27%恶心呕吐、49.09%呕吐。</p><p><strong>点评</strong>：双联预防仍六成中招，Apfel评分无预测力（p=0.262）；同做眼睑整形OR 5.67。</p><p>In 220 consecutive facelifts, 96.36% received dexamethasone plus ondansetron, yet 62.27% still developed PONV and 49.09% vomited within 24 hours. Dual prophylaxis still failed in six of ten patients and the Apfel score did not predict it (p=0.262); concurrent blepharoplasty carried an OR of 5.67, and satisfaction collapsed to 2.19% versus 81.93% in those with PONV.</p><p>Research Square (preprint) · PMID </p>",
+      "content_html": "<p><strong>事实</strong>：220例拉皮中96.36%用地塞米松加昂丹司琼双联预防，仍有62.27%恶心呕吐、49.09%呕吐。</p><p><strong>点评</strong>：双联预防仍六成中招，Apfel评分无预测力（p=0.262）；同做眼睑整形OR 5.67。</p><p>In 220 consecutive facelifts, 96.36% received dexamethasone plus ondansetron, yet 62.27% still developed PONV and 49.09% vomited within 24 hours. Dual prophylaxis still failed in six of ten patients and the Apfel score did not predict it (p=0.262); concurrent blepharoplasty carried an OR of 5.67, and satisfaction collapsed to 2.19% versus 81.93% in those with PONV.</p><p>Research Square (preprint) ·  ·  · PMID </p>",
       "summary": "220例拉皮中96.36%用地塞米松加昂丹司琼双联预防，仍有62.27%恶心呕吐、49.09%呕吐。 双联预防仍六成中招，Apfel评分无预测力（p=0.262）；同做眼睑整形OR 5.67。",
       "date_published": "2026-11-15T08:00:00+08:00",
       "tags": [
@@ -429,9 +429,9 @@
     },
     {
       "id": "2026-11-15-pmid-42896147",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-15-pmid-42896147",
+      "url": "https://wangmd-cn.com/#2026-11-15-pmid-42896147",
       "title": "A Review of Breast Implant Pocket Irrigation With Hypochlorous Acid to Reduce Capsular Contracture Risk",
-      "content_html": "<p><strong>事实</strong>：13篇文献全在同一期刊，两项临床研究有选择偏倚与利益冲突，无独立重复，唯一无冲突实验室研究不支持。</p><p><strong>点评</strong>：次氯酸冲洗防包膜挛缩，只有同一批人带股权的数据；连致病菌都没定。别当常规，别当卖点。</p><p>All 13 publications appeared in a single journal; both clinical studies carried selection bias and author conflicts of interest, no independent group replicated the result, and the one unconflicted laboratory study was not supportive. Hypochlorous acid irrigation rests on conflicted single-group data with no identified causative organism, so it should not be sold to patients as proven contracture prevention.</p><p>Annals of Plastic Surgery · PMID 42896147</p>",
+      "content_html": "<p><strong>事实</strong>：13篇文献全在同一期刊，两项临床研究有选择偏倚与利益冲突，无独立重复，唯一无冲突实验室研究不支持。</p><p><strong>点评</strong>：次氯酸冲洗防包膜挛缩，只有同一批人带股权的数据；连致病菌都没定。别当常规，别当卖点。</p><p>All 13 publications appeared in a single journal; both clinical studies carried selection bias and author conflicts of interest, no independent group replicated the result, and the one unconflicted laboratory study was not supportive. Hypochlorous acid irrigation rests on conflicted single-group data with no identified causative organism, so it should not be sold to patients as proven contracture prevention.</p><p>Annals of Plastic Surgery · Swanson E · Private Practice, Leawood, Kansas · PMID 42896147</p>",
       "summary": "13篇文献全在同一期刊，两项临床研究有选择偏倚与利益冲突，无独立重复，唯一无冲突实验室研究不支持。 次氯酸冲洗防包膜挛缩，只有同一批人带股权的数据；连致病菌都没定。别当常规，别当卖点。",
       "date_published": "2026-11-15T08:00:00+08:00",
       "tags": [
@@ -443,9 +443,9 @@
     },
     {
       "id": "2026-11-15-pmid-42913480",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-15-pmid-42913480",
+      "url": "https://wangmd-cn.com/#2026-11-15-pmid-42913480",
       "title": "Single-Stage Nipple Sparing Mastectomy with Concurrent Mastopexy: A Systematic Review and Meta-Analysis",
-      "content_html": "<p><strong>事实</strong>：19项研究1076个乳房，保留乳头切除同期固定：部分乳头坏死5.9%，全坏死0.9%，皮瓣坏死3.1%。</p><p><strong>点评</strong>：重度下垂不必先固定再等二期；但这是高度筛选人群的合并率，皮瓣血供没把握别硬上。</p><p>Across 19 studies and 1,076 breasts, single-stage nipple-sparing mastectomy with concurrent mastopexy showed partial NAC necrosis in 5.9%, total NAC necrosis in 0.9% and mastectomy flap necrosis in 3.1%. Single-stage surgery is defensible in well-selected ptotic patients, but these pooled rates come from highly selected series and do not license the technique when flap perfusion is marginal.</p><p>Aesthetic Surgery Journal · PMID 42913480</p>",
+      "content_html": "<p><strong>事实</strong>：19项研究1076个乳房，保留乳头切除同期固定：部分乳头坏死5.9%，全坏死0.9%，皮瓣坏死3.1%。</p><p><strong>点评</strong>：重度下垂不必先固定再等二期；但这是高度筛选人群的合并率，皮瓣血供没把握别硬上。</p><p>Across 19 studies and 1,076 breasts, single-stage nipple-sparing mastectomy with concurrent mastopexy showed partial NAC necrosis in 5.9%, total NAC necrosis in 0.9% and mastectomy flap necrosis in 3.1%. Single-stage surgery is defensible in well-selected ptotic patients, but these pooled rates come from highly selected series and do not license the technique when flap perfusion is marginal.</p><p>Aesthetic Surgery Journal · Gibson E · Division of Plastic and Reconstructive Surgery, University of California Davis Medical Center, Sacramento, CA · PMID 42913480</p>",
       "summary": "19项研究1076个乳房，保留乳头切除同期固定：部分乳头坏死5.9%，全坏死0.9%，皮瓣坏死3.1%。 重度下垂不必先固定再等二期；但这是高度筛选人群的合并率，皮瓣血供没把握别硬上。",
       "date_published": "2026-11-15T08:00:00+08:00",
       "tags": [
@@ -457,9 +457,9 @@
     },
     {
       "id": "2026-11-14-pmid-43017812",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-14-pmid-43017812",
+      "url": "https://wangmd-cn.com/#2026-11-14-pmid-43017812",
       "title": "Perioperative Interventions to Reduce Edema and Ecchymosis After Rhinoplasty: A Network Meta-Analysis of Randomized Controlled Trials",
-      "content_html": "<p><strong>事实</strong>：36项RCT网络meta：激素消肿退瘀最稳；氨甲环酸只对早期瘀斑有效（SMD -0.80）。</p><p><strong>点评</strong>：激素是唯一稳定的；激素+氨甲环酸的“最佳组合”证据等级低，只能算假设，别当定论。</p><p>In a network meta-analysis of 36 randomized trials, corticosteroids consistently reduced post-rhinoplasty edema and ecchymosis, while tranexamic acid only modestly reduced early ecchymosis (SMD -0.80). Corticosteroids were the only consistently supported agent; the corticosteroid-plus-TXA combination ranked highest on SUCRA but rests on sparse indirect evidence rated low to very low certainty.</p><p>Aesthetic Surgery Journal · PMID 43017812</p>",
+      "content_html": "<p><strong>事实</strong>：36项RCT网络meta：激素消肿退瘀最稳；氨甲环酸只对早期瘀斑有效（SMD -0.80）。</p><p><strong>点评</strong>：激素是唯一稳定的；激素+氨甲环酸的“最佳组合”证据等级低，只能算假设，别当定论。</p><p>In a network meta-analysis of 36 randomized trials, corticosteroids consistently reduced post-rhinoplasty edema and ecchymosis, while tranexamic acid only modestly reduced early ecchymosis (SMD -0.80). Corticosteroids were the only consistently supported agent; the corticosteroid-plus-TXA combination ranked highest on SUCRA but rests on sparse indirect evidence rated low to very low certainty.</p><p>Aesthetic Surgery Journal · Constante MM · Hospital do Servidor Público Municipal de São Paulo, São Paulo, Brazil · PMID 43017812</p>",
       "summary": "36项RCT网络meta：激素消肿退瘀最稳；氨甲环酸只对早期瘀斑有效（SMD -0.80）。 激素是唯一稳定的；激素+氨甲环酸的“最佳组合”证据等级低，只能算假设，别当定论。",
       "date_published": "2026-11-14T08:00:00+08:00",
       "tags": [
@@ -471,9 +471,9 @@
     },
     {
       "id": "2026-11-14-pmid-42974243",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-14-pmid-42974243",
+      "url": "https://wangmd-cn.com/#2026-11-14-pmid-42974243",
       "title": "Iatrogenic pseudoaneurysm formation in the medial orbitofrontal artery following rhinoplasty and nasal osteotomy: A case report",
-      "content_html": "<p><strong>事实</strong>：31岁男鼻整形截骨后颅内出血，造影见内侧眶额动脉假性动脉瘤，显微夹闭后无后遗症。</p><p><strong>点评</strong>：截骨后头痛、呕吐、意识变化别只当麻醉反应；尽早血管造影，罕见但致命。</p><p>A 31-year-old man developed intracerebral hemorrhage after rhinoplasty with osteotomy; angiography showed a medial orbitofrontal artery pseudoaneurysm, treated by microsurgical trapping and clipping with complete neurological recovery. Intracranial pseudoaneurysm after osteotomy is rare but catastrophic, so post-rhinoplasty hemorrhage and neuro symptoms warrant prompt vascular imaging instead of watchful waiting.</p><p>Surgical Neurology International · PMID 42974243</p>",
+      "content_html": "<p><strong>事实</strong>：31岁男鼻整形截骨后颅内出血，造影见内侧眶额动脉假性动脉瘤，显微夹闭后无后遗症。</p><p><strong>点评</strong>：截骨后头痛、呕吐、意识变化别只当麻醉反应；尽早血管造影，罕见但致命。</p><p>A 31-year-old man developed intracerebral hemorrhage after rhinoplasty with osteotomy; angiography showed a medial orbitofrontal artery pseudoaneurysm, treated by microsurgical trapping and clipping with complete neurological recovery. Intracranial pseudoaneurysm after osteotomy is rare but catastrophic, so post-rhinoplasty hemorrhage and neuro symptoms warrant prompt vascular imaging instead of watchful waiting.</p><p>Surgical Neurology International · Hasanpour M · Firoozgar Clinical Research Development Center, Department of Neurosurgery, Iran University of Medical Sciences, Tehran, Iran · PMID 42974243</p>",
       "summary": "31岁男鼻整形截骨后颅内出血，造影见内侧眶额动脉假性动脉瘤，显微夹闭后无后遗症。 截骨后头痛、呕吐、意识变化别只当麻醉反应；尽早血管造影，罕见但致命。",
       "date_published": "2026-11-14T08:00:00+08:00",
       "tags": [
@@ -485,9 +485,9 @@
     },
     {
       "id": "2026-11-14-pmid-42897248",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-14-pmid-42897248",
+      "url": "https://wangmd-cn.com/#2026-11-14-pmid-42897248",
       "title": "Quantifying Facial Rejuvenation after Deep Plane Facelift Using Convolutional Neural Network-Based Age Estimation: Correlation with Patient-Reported Outcomes on the FACE-Q Aesthetic Module",
-      "content_html": "<p><strong>事实</strong>：72例深层除皱，5个AI模型估龄降7.64岁（15.7%），与FACE-Q弱相关（ρ 0.25）。</p><p><strong>点评</strong>：AI估龄可当客观指标，但病人自评年轻多少才是主结局；两者的数别混着报。</p><p>In 72 deep-plane face and neck lifts, five CNN models estimated a mean age reduction of 7.64 years (15.7%), but AI estimates correlated only weakly with FACE-Q scores (rho 0.25). AI age estimation is reproducible as an objective metric, yet patient-perceived rejuvenation correlated far more strongly (rho 0.61) and should stay the primary outcome.</p><p>Aesthetic Plastic Surgery · PMID 42897248</p>",
+      "content_html": "<p><strong>事实</strong>：72例深层除皱，5个AI模型估龄降7.64岁（15.7%），与FACE-Q弱相关（ρ 0.25）。</p><p><strong>点评</strong>：AI估龄可当客观指标，但病人自评年轻多少才是主结局；两者的数别混着报。</p><p>In 72 deep-plane face and neck lifts, five CNN models estimated a mean age reduction of 7.64 years (15.7%), but AI estimates correlated only weakly with FACE-Q scores (rho 0.25). AI age estimation is reproducible as an objective metric, yet patient-perceived rejuvenation correlated far more strongly (rho 0.61) and should stay the primary outcome.</p><p>Aesthetic Plastic Surgery · Karaali S · Department of Plastic, Reconstructive and Aesthetic Surgery, Private practice, Istanbul, Turkey · PMID 42897248</p>",
       "summary": "72例深层除皱，5个AI模型估龄降7.64岁（15.7%），与FACE-Q弱相关（ρ 0.25）。 AI估龄可当客观指标，但病人自评年轻多少才是主结局；两者的数别混着报。",
       "date_published": "2026-11-14T08:00:00+08:00",
       "tags": [
@@ -499,9 +499,9 @@
     },
     {
       "id": "2026-11-14-pmid-42881301",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-14-pmid-42881301",
+      "url": "https://wangmd-cn.com/#2026-11-14-pmid-42881301",
       "title": "The Distal U-Shaped Capsule Sparing Technique (DUS-CS) for Revision Breast Augmentation: A Consecutive Clinical Series of 223 Patients",
-      "content_html": "<p><strong>事实</strong>：223例包膜挛缩翻修用U形保留包膜技术，现有随访内无复发、无双乳相通、无下移。</p><p><strong>点评</strong>：留部分包膜能稳住腔隙、少创伤；但这是单中心描述性研究，随访时长没写，别当治愈率。</p><p>In 223 consecutive revision augmentations, a U-shaped selective capsulectomy sparing medial, lateral and caudal capsule produced no recurrence of contracture, symmastia or bottoming out during available follow-up. Capsule-sparing revision preserves pocket geometry with less morbidity, but this single-center descriptive series does not report follow-up duration and cannot establish a recurrence rate.</p><p>Aesthetic Plastic Surgery · PMID 42881301</p>",
+      "content_html": "<p><strong>事实</strong>：223例包膜挛缩翻修用U形保留包膜技术，现有随访内无复发、无双乳相通、无下移。</p><p><strong>点评</strong>：留部分包膜能稳住腔隙、少创伤；但这是单中心描述性研究，随访时长没写，别当治愈率。</p><p>In 223 consecutive revision augmentations, a U-shaped selective capsulectomy sparing medial, lateral and caudal capsule produced no recurrence of contracture, symmastia or bottoming out during available follow-up. Capsule-sparing revision preserves pocket geometry with less morbidity, but this single-center descriptive series does not report follow-up duration and cannot establish a recurrence rate.</p><p>Aesthetic Plastic Surgery · Bromba AM · Department of Plastic and Aesthetic Surgery, Interdisciplinary Breast Center, Sana Kliniken Düsseldorf GmbH, Gräulinger Straße 120, 40625, Düsseldorf, Germany · PMID 42881301</p>",
       "summary": "223例包膜挛缩翻修用U形保留包膜技术，现有随访内无复发、无双乳相通、无下移。 留部分包膜能稳住腔隙、少创伤；但这是单中心描述性研究，随访时长没写，别当治愈率。",
       "date_published": "2026-11-14T08:00:00+08:00",
       "tags": [
@@ -513,9 +513,9 @@
     },
     {
       "id": "2026-11-14-pmid-42820993",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-14-pmid-42820993",
+      "url": "https://wangmd-cn.com/#2026-11-14-pmid-42820993",
       "title": "A Modified Pre-implantation Internal Fixation Suture Technique for Inframammary Fold Reconstruction in Implant-Based Breast Augmentation: A Retrospective Cohort Study",
-      "content_html": "<p><strong>事实</strong>：53例下皱襞入路用改良内固定缝法，3例假体下移&lt;5mm，无翻修，平均随访12个月。</p><p><strong>点评</strong>：技术可行，但“满意度100%”出自单术者回顾、无对照；假体位置得看更长期。</p><p>In 53 IMF-approach augmentations using a modified internal fixation suture, 3 implants displaced less than 5 mm inferiorly, none needed revision, and mean follow-up was 12 months. The technique is feasible for fold support, but a single-surgeon retrospective series claiming 100% satisfaction cannot establish superiority over standard closure.</p><p>Aesthetic Plastic Surgery · PMID 42820993</p>",
+      "content_html": "<p><strong>事实</strong>：53例下皱襞入路用改良内固定缝法，3例假体下移&lt;5mm，无翻修，平均随访12个月。</p><p><strong>点评</strong>：技术可行，但“满意度100%”出自单术者回顾、无对照；假体位置得看更长期。</p><p>In 53 IMF-approach augmentations using a modified internal fixation suture, 3 implants displaced less than 5 mm inferiorly, none needed revision, and mean follow-up was 12 months. The technique is feasible for fold support, but a single-surgeon retrospective series claiming 100% satisfaction cannot establish superiority over standard closure.</p><p>Aesthetic Plastic Surgery · Gao S · Department of Plastic Surgery, The Affiliated Friendship Plastic Surgery Hospital of Nanjing Medical University, No.146, Han-zhong Road, Nanjing, 210029, Jiangsu, China · PMID 42820993</p>",
       "summary": "53例下皱襞入路用改良内固定缝法，3例假体下移<5mm，无翻修，平均随访12个月。 技术可行，但“满意度100%”出自单术者回顾、无对照；假体位置得看更长期。",
       "date_published": "2026-11-14T08:00:00+08:00",
       "tags": [
@@ -527,9 +527,9 @@
     },
     {
       "id": "2026-11-13-pmid-43007373",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-13-pmid-43007373",
+      "url": "https://wangmd-cn.com/#2026-11-13-pmid-43007373",
       "title": "Prospective Assessment of Nasal Airway Function After Primary Open Rhinoplasty",
-      "content_html": "<p><strong>事实</strong>：32例美容开鼻鼻整形3个月，PNIF 76.9→86.2，NOSE 23.4→14.3，鼻塞感略差。</p><p><strong>点评</strong>：功能没变差、反而改善；但客观气流与患者感受互不相关，别拿PNIF替病人说话。</p><p>In 32 aesthetic-only open rhinoplasties, PNIF rose from 76.9 to 86.2 L/min and NOSE fell from 23.4 to 14.3 at 3 months, though the nasal-fullness item worsened slightly. Airway function was preserved and even improved, but objective airflow and patient-reported scores did not correlate, so neither can stand in for the other.</p><p>Aesthetic Plastic Surgery · PMID 43007373</p>",
+      "content_html": "<p><strong>事实</strong>：32例美容开鼻鼻整形3个月，PNIF 76.9→86.2，NOSE 23.4→14.3，鼻塞感略差。</p><p><strong>点评</strong>：功能没变差、反而改善；但客观气流与患者感受互不相关，别拿PNIF替病人说话。</p><p>In 32 aesthetic-only open rhinoplasties, PNIF rose from 76.9 to 86.2 L/min and NOSE fell from 23.4 to 14.3 at 3 months, though the nasal-fullness item worsened slightly. Airway function was preserved and even improved, but objective airflow and patient-reported scores did not correlate, so neither can stand in for the other.</p><p>Aesthetic Plastic Surgery · Koçdemir Erul N · Department of Otorhinolaryngology-Head and Neck Surgery, Beypazarı State Hospital, Ankara, Turkey · PMID 43007373</p>",
       "summary": "32例美容开鼻鼻整形3个月，PNIF 76.9→86.2，NOSE 23.4→14.3，鼻塞感略差。 功能没变差、反而改善；但客观气流与患者感受互不相关，别拿PNIF替病人说话。",
       "date_published": "2026-11-13T08:00:00+08:00",
       "tags": [
@@ -541,9 +541,9 @@
     },
     {
       "id": "2026-11-13-pmid-43001659",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-13-pmid-43001659",
+      "url": "https://wangmd-cn.com/#2026-11-13-pmid-43001659",
       "title": "A Single Rib Integrated Scaffold for Semiopen Revision Rhinoplasty After Nasolabial Flap",
-      "content_html": "<p><strong>事实</strong>：20例鼻唇沟皮瓣后翻修，四段肋软骨支架经双侧鼻翼缘送入，12个月ROE 48.5→88.2。</p><p><strong>点评</strong>：瘢痕挛缩做不了常规开放式时，这条路走得通；单术者20例，只算可行，不算优选。</p><p>In 20 revision cases after nasolabial flap, a four-component rib scaffold delivered through bilateral alar rim incisions raised ROE from 48.5 to 88.2 at 12 months with no infection or extrusion. A workable route when scar contracture makes the standard open approach hazardous, but this single-surgeon series of 20 establishes feasibility, not superiority.</p><p>Journal of Craniofacial Surgery · PMID 43001659</p>",
+      "content_html": "<p><strong>事实</strong>：20例鼻唇沟皮瓣后翻修，四段肋软骨支架经双侧鼻翼缘送入，12个月ROE 48.5→88.2。</p><p><strong>点评</strong>：瘢痕挛缩做不了常规开放式时，这条路走得通；单术者20例，只算可行，不算优选。</p><p>In 20 revision cases after nasolabial flap, a four-component rib scaffold delivered through bilateral alar rim incisions raised ROE from 48.5 to 88.2 at 12 months with no infection or extrusion. A workable route when scar contracture makes the standard open approach hazardous, but this single-surgeon series of 20 establishes feasibility, not superiority.</p><p>Journal of Craniofacial Surgery · Wu S · Department of Rhinoplasty and Nasal Reconstruction, Plastic Surgery Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China · PMID 43001659</p>",
       "summary": "20例鼻唇沟皮瓣后翻修，四段肋软骨支架经双侧鼻翼缘送入，12个月ROE 48.5→88.2。 瘢痕挛缩做不了常规开放式时，这条路走得通；单术者20例，只算可行，不算优选。",
       "date_published": "2026-11-13T08:00:00+08:00",
       "tags": [
@@ -555,9 +555,9 @@
     },
     {
       "id": "2026-11-13-pmid-42980382",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-13-pmid-42980382",
+      "url": "https://wangmd-cn.com/#2026-11-13-pmid-42980382",
       "title": "Prevention of Secondary Deformities at the Donor Site After Cartilage Transplantation",
-      "content_html": "<p><strong>事实</strong>：92例耳软骨取材随访6–18个月：45例无畸形、41例轻度、6例明显未修、0例重度。</p><p><strong>点评</strong>：供区畸形能压到轻中度，但“轻度”占四成多；别跟病人保证耳朵外形一点不变。</p><p>Among 92 auricular cartilage harvests followed 6 to 18 months, 45 ears had no deformity, 41 mild deformity, 6 noticeable but unrevised, and none severe. Modified incision and harvest sites keep donor-site deformity mild at worst, but with 45% mild contour change, promise patients nothing better than that.</p><p>Journal of Craniofacial Surgery · PMID 42980382</p>",
+      "content_html": "<p><strong>事实</strong>：92例耳软骨取材随访6–18个月：45例无畸形、41例轻度、6例明显未修、0例重度。</p><p><strong>点评</strong>：供区畸形能压到轻中度，但“轻度”占四成多；别跟病人保证耳朵外形一点不变。</p><p>Among 92 auricular cartilage harvests followed 6 to 18 months, 45 ears had no deformity, 41 mild deformity, 6 noticeable but unrevised, and none severe. Modified incision and harvest sites keep donor-site deformity mild at worst, but with 45% mild contour change, promise patients nothing better than that.</p><p>Journal of Craniofacial Surgery · Shi J · Department of Plastic Surgery, Shenzhen New Frontier United Family Hospital, Shenzhen, Guangdong Province · PMID 42980382</p>",
       "summary": "92例耳软骨取材随访6–18个月：45例无畸形、41例轻度、6例明显未修、0例重度。 供区畸形能压到轻中度，但“轻度”占四成多；别跟病人保证耳朵外形一点不变。",
       "date_published": "2026-11-13T08:00:00+08:00",
       "tags": [
@@ -569,9 +569,9 @@
     },
     {
       "id": "2026-11-13-doi-10.21203-rs.3.rs-11330171",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-13-doi-10.21203-rs.3.rs-11330171",
+      "url": "https://wangmd-cn.com/#2026-11-13-doi-10.21203-rs.3.rs-11330171",
       "title": "Postoperative nausea and vomiting after facelift surgery despite routine dual antiemetic prophylaxis",
-      "content_html": "<p><strong>事实</strong>：220例拉皮，96%用了地塞米松+昂丹司琼，仍62.3%发生恶心呕吐，49%呕吐，住院多9小时。</p><p><strong>点评</strong>：拉皮加眼睑、手术时间长，PONV风险明显升高；Apfel评分在这里不灵，双药预防不够。</p><p>In 220 facelifts with 96% receiving dexamethasone plus ondansetron, PONV still occurred in 62.3%, vomiting in 49%, and hospital stay was 9 hours longer. Concurrent blepharoplasty (OR 5.67) and longer operative time drove PONV while the Apfel score failed to predict it, so dual prophylaxis is not enough in combined long cases.</p><p>Research Square (preprint) · PMID </p>",
+      "content_html": "<p><strong>事实</strong>：220例拉皮，96%用了地塞米松+昂丹司琼，仍62.3%发生恶心呕吐，49%呕吐，住院多9小时。</p><p><strong>点评</strong>：拉皮加眼睑、手术时间长，PONV风险明显升高；Apfel评分在这里不灵，双药预防不够。</p><p>In 220 facelifts with 96% receiving dexamethasone plus ondansetron, PONV still occurred in 62.3%, vomiting in 49%, and hospital stay was 9 hours longer. Concurrent blepharoplasty (OR 5.67) and longer operative time drove PONV while the Apfel score failed to predict it, so dual prophylaxis is not enough in combined long cases.</p><p>Research Square (preprint) ·  ·  · PMID </p>",
       "summary": "220例拉皮，96%用了地塞米松+昂丹司琼，仍62.3%发生恶心呕吐，49%呕吐，住院多9小时。 拉皮加眼睑、手术时间长，PONV风险明显升高；Apfel评分在这里不灵，双药预防不够。",
       "date_published": "2026-11-13T08:00:00+08:00",
       "tags": [
@@ -583,9 +583,9 @@
     },
     {
       "id": "2026-11-13-pmid-42993310",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-13-pmid-42993310",
+      "url": "https://wangmd-cn.com/#2026-11-13-pmid-42993310",
       "title": "The Transumbilical Breast Augmentation: Safety and Satisfaction in a Systematic Review and Meta-analysis of 13,210 Breasts",
-      "content_html": "<p><strong>事实</strong>：17项研究、6605人：经脐隆胸血肿0.2%、包膜挛缩1.7%、再干预2.3%，手术约60分钟。</p><p><strong>点评</strong>：数字漂亮，但几乎全是单臂回顾、随访短，只能证明“能做”，不能证明优于腋下或乳晕。</p><p>Across 17 studies and 6,605 patients, transumbilical augmentation showed pooled hematoma 0.2%, capsular contracture 1.7%, and reintervention 2.3%, with a median 60-minute operative time. The low complication rates come almost entirely from retrospective single-arm series with short follow-up, so they support feasibility, not equivalence to axillary or periareolar access.</p><p>Aesthetic Plastic Surgery · PMID 42993310</p>",
+      "content_html": "<p><strong>事实</strong>：17项研究、6605人：经脐隆胸血肿0.2%、包膜挛缩1.7%、再干预2.3%，手术约60分钟。</p><p><strong>点评</strong>：数字漂亮，但几乎全是单臂回顾、随访短，只能证明“能做”，不能证明优于腋下或乳晕。</p><p>Across 17 studies and 6,605 patients, transumbilical augmentation showed pooled hematoma 0.2%, capsular contracture 1.7%, and reintervention 2.3%, with a median 60-minute operative time. The low complication rates come almost entirely from retrospective single-arm series with short follow-up, so they support feasibility, not equivalence to axillary or periareolar access.</p><p>Aesthetic Plastic Surgery · Gonçalves FGA · School of Medicine, Universidade de São Paulo, Sao Paulo, SP, Brazil · PMID 42993310</p>",
       "summary": "17项研究、6605人：经脐隆胸血肿0.2%、包膜挛缩1.7%、再干预2.3%，手术约60分钟。 数字漂亮，但几乎全是单臂回顾、随访短，只能证明“能做”，不能证明优于腋下或乳晕。",
       "date_published": "2026-11-13T08:00:00+08:00",
       "tags": [
@@ -597,9 +597,9 @@
     },
     {
       "id": "2026-11-13-pmid-42987925",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-13-pmid-42987925",
+      "url": "https://wangmd-cn.com/#2026-11-13-pmid-42987925",
       "title": "Five-Year Clinical Performance and Patient-Reported Outcomes of Mentor MemoryGel and MemoryShape Breast Implants (GLOW Study)",
-      "content_html": "<p><strong>事实</strong>：5年挛缩率：解剖型0.31%、Xtra 1.42%、圆形5.16%；再手术3–5.5%。</p><p><strong>点评</strong>：0.31%不能读成解剖型更安全，研究没做头对头；但“五年约二十分之一再手术”可以拿去谈话。</p><p>At 5 years in primary augmentation, Baker III/IV contracture was 0.31% with MemoryShape, 1.42% with MemoryGel Xtra, and 5.16% with MemoryGel; reoperation for implant-related reasons was 2.9% to 5.5%. The study was not powered for device comparison, so the anatomical implant&#x27;s 0.31% is not evidence of superiority; the 5-year reoperation rate near 1 in 20 is the number worth quoting.</p><p>Aesthetic Surgery Journal · PMID 42987925</p>",
+      "content_html": "<p><strong>事实</strong>：5年挛缩率：解剖型0.31%、Xtra 1.42%、圆形5.16%；再手术3–5.5%。</p><p><strong>点评</strong>：0.31%不能读成解剖型更安全，研究没做头对头；但“五年约二十分之一再手术”可以拿去谈话。</p><p>At 5 years in primary augmentation, Baker III/IV contracture was 0.31% with MemoryShape, 1.42% with MemoryGel Xtra, and 5.16% with MemoryGel; reoperation for implant-related reasons was 2.9% to 5.5%. The study was not powered for device comparison, so the anatomical implant&#x27;s 0.31% is not evidence of superiority; the 5-year reoperation rate near 1 in 20 is the number worth quoting.</p><p>Aesthetic Surgery Journal · Alderman A · North Atlanta Plastic Surgery, Alpharetta, GA · PMID 42987925</p>",
       "summary": "5年挛缩率：解剖型0.31%、Xtra 1.42%、圆形5.16%；再手术3–5.5%。 0.31%不能读成解剖型更安全，研究没做头对头；但“五年约二十分之一再手术”可以拿去谈话。",
       "date_published": "2026-11-13T08:00:00+08:00",
       "tags": [
@@ -611,9 +611,9 @@
     },
     {
       "id": "2026-11-12-pmid-42879137",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-12-pmid-42879137",
+      "url": "https://wangmd-cn.com/#2026-11-12-pmid-42879137",
       "title": "Association of Anxiety and Depression with Patient-Reported Outcomes After Functional and Aesthetic Rhinoplasty",
-      "content_html": "<p><strong>事实</strong>：功能鼻整形490例，焦虑或抑郁者术后NOSE更差（35.3对24.1），翻修OR 2.56；美容组179例无差异。</p><p><strong>点评</strong>：功能鼻整形合并焦虑抑郁，术前就要讲清翻修风险高、症状改善打折；美容鼻整形不必因此劝退，满意度没差。</p><p>In 490 functional septorhinoplasties, anxiety/depression patients had worse postoperative NOSE scores (35.3 vs 24.1) and higher revision odds (OR 2.56); among 179 aesthetic cases there was no difference. For functional cases, disclose the higher revision rate and smaller symptom gain; anxiety or depression should not disqualify aesthetic candidates, whose satisfaction was unaffected.</p><p>Plastic and Reconstructive Surgery · PMID 42879137</p>",
+      "content_html": "<p><strong>事实</strong>：功能鼻整形490例，焦虑或抑郁者术后NOSE更差（35.3对24.1），翻修OR 2.56；美容组179例无差异。</p><p><strong>点评</strong>：功能鼻整形合并焦虑抑郁，术前就要讲清翻修风险高、症状改善打折；美容鼻整形不必因此劝退，满意度没差。</p><p>In 490 functional septorhinoplasties, anxiety/depression patients had worse postoperative NOSE scores (35.3 vs 24.1) and higher revision odds (OR 2.56); among 179 aesthetic cases there was no difference. For functional cases, disclose the higher revision rate and smaller symptom gain; anxiety or depression should not disqualify aesthetic candidates, whose satisfaction was unaffected.</p><p>Plastic and Reconstructive Surgery · Lynn JV · Section of Plastic Surgery, Department of Surgery, University of Michigan, Ann Arbor, MI · PMID 42879137</p>",
       "summary": "功能鼻整形490例，焦虑或抑郁者术后NOSE更差（35.3对24.1），翻修OR 2.56；美容组179例无差异。 功能鼻整形合并焦虑抑郁，术前就要讲清翻修风险高、症状改善打折；美容鼻整形不必因此劝退，满意度没差。",
       "date_published": "2026-11-12T08:00:00+08:00",
       "tags": [
@@ -625,9 +625,9 @@
     },
     {
       "id": "2026-11-12-pmid-42888129",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-12-pmid-42888129",
+      "url": "https://wangmd-cn.com/#2026-11-12-pmid-42888129",
       "title": "The Effects of Preservation and Structural Rhinoplasty on Voice Parameters",
-      "content_html": "<p><strong>事实</strong>：40例女性鼻整形，术后3个月jitter、shimmer下降、HNR升高，两者相同；CPPS均无变化。</p><p><strong>点评</strong>：两种术式对嗓音只是细微扰动改善，别拿“术后声音更好”当卖点；CPPS没动，整体音质没有证据支持。</p><p>In 40 women, both preservation and structural rhinoplasty lowered jitter and shimmer and raised HNR at 3 months, with no change in CPPS and no meaningful between-technique difference. Only subclinical perturbation changes occurred; do not market voice improvement, since CPPS and overall voice quality did not change.</p><p>Journal of Voice · PMID 42888129</p>",
+      "content_html": "<p><strong>事实</strong>：40例女性鼻整形，术后3个月jitter、shimmer下降、HNR升高，两者相同；CPPS均无变化。</p><p><strong>点评</strong>：两种术式对嗓音只是细微扰动改善，别拿“术后声音更好”当卖点；CPPS没动，整体音质没有证据支持。</p><p>In 40 women, both preservation and structural rhinoplasty lowered jitter and shimmer and raised HNR at 3 months, with no change in CPPS and no meaningful between-technique difference. Only subclinical perturbation changes occurred; do not market voice improvement, since CPPS and overall voice quality did not change.</p><p>Journal of Voice · Kara K · Department of Otorhinolaryngology-Head and Neck Surgery, Adana City Training and Research Hospital, Adana, Türkiye. Electronic address: · PMID 42888129</p>",
       "summary": "40例女性鼻整形，术后3个月jitter、shimmer下降、HNR升高，两者相同；CPPS均无变化。 两种术式对嗓音只是细微扰动改善，别拿“术后声音更好”当卖点；CPPS没动，整体音质没有证据支持。",
       "date_published": "2026-11-12T08:00:00+08:00",
       "tags": [
@@ -639,9 +639,9 @@
     },
     {
       "id": "2026-11-12-pmid-42923336",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-12-pmid-42923336",
+      "url": "https://wangmd-cn.com/#2026-11-12-pmid-42923336",
       "title": "Menstrual cycle phase and early periorbital edema and ecchymosis after rhinoplasty: an observational study",
-      "content_html": "<p><strong>事实</strong>：72例开鼻整形，术后1、3天眼周水肿淤青卵泡期最低，黄体期与排卵期较高。</p><p><strong>点评</strong>：能挑时间的话，把择期鼻整形排在卵泡期（月经结束后一周），淤青会轻些；这是探索性观察，别当铁律。</p><p>In 72 women having open rhinoplasty, periorbital edema and ecchymosis on days 1 and 3 were lowest in the estimated follicular phase and higher in luteal and periovulatory phases. Schedule elective rhinoplasty in the follicular week if the patient can choose, while treating this exploratory finding as hypothesis-generating rather than a rule.</p><p>Frontiers in Surgery · PMID 42923336</p>",
+      "content_html": "<p><strong>事实</strong>：72例开鼻整形，术后1、3天眼周水肿淤青卵泡期最低，黄体期与排卵期较高。</p><p><strong>点评</strong>：能挑时间的话，把择期鼻整形排在卵泡期（月经结束后一周），淤青会轻些；这是探索性观察，别当铁律。</p><p>In 72 women having open rhinoplasty, periorbital edema and ecchymosis on days 1 and 3 were lowest in the estimated follicular phase and higher in luteal and periovulatory phases. Schedule elective rhinoplasty in the follicular week if the patient can choose, while treating this exploratory finding as hypothesis-generating rather than a rule.</p><p>Frontiers in Surgery · Topan YE · Department of Otorhinolaryngology, Faculty of Medicine, Uşak University, Uşak, Türkiye · PMID 42923336</p>",
       "summary": "72例开鼻整形，术后1、3天眼周水肿淤青卵泡期最低，黄体期与排卵期较高。 能挑时间的话，把择期鼻整形排在卵泡期（月经结束后一周），淤青会轻些；这是探索性观察，别当铁律。",
       "date_published": "2026-11-12T08:00:00+08:00",
       "tags": [
@@ -653,9 +653,9 @@
     },
     {
       "id": "2026-11-12-pmid-42836382",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-12-pmid-42836382",
+      "url": "https://wangmd-cn.com/#2026-11-12-pmid-42836382",
       "title": "Safety Profile of Standardized Tranexamic Acid (TXA) Dosing in Rhytidectomy: A Retrospective Comparative Cohort Study",
-      "content_html": "<p><strong>事实</strong>：1036例面颈除皱，局麻药加TXA（均582.6mg）未增加缺血或全身并发症，无永久面神经麻痹。</p><p><strong>点评</strong>：局麻里加TXA安全性站得住，可以常规用；但这篇只证明“不更危险”，少出血少淤青的获益要靠别的证据。</p><p>In 1,036 face and neck lifts, TXA in local anesthetic (mean 582.6 mg) was not associated with more ischemic or systemic complications; no permanent nerve paralysis occurred. The safety signal is reassuring enough for routine use, but this cohort only rules out added harm; the bleeding and bruising benefit rests on other studies.</p><p>Aesthetic Surgery Journal · PMID 42836382</p>",
+      "content_html": "<p><strong>事实</strong>：1036例面颈除皱，局麻药加TXA（均582.6mg）未增加缺血或全身并发症，无永久面神经麻痹。</p><p><strong>点评</strong>：局麻里加TXA安全性站得住，可以常规用；但这篇只证明“不更危险”，少出血少淤青的获益要靠别的证据。</p><p>In 1,036 face and neck lifts, TXA in local anesthetic (mean 582.6 mg) was not associated with more ischemic or systemic complications; no permanent nerve paralysis occurred. The safety signal is reassuring enough for routine use, but this cohort only rules out added harm; the bleeding and bruising benefit rests on other studies.</p><p>Aesthetic Surgery Journal · Langsdon SE · Private practice in Germantown, TN · PMID 42836382</p>",
       "summary": "1036例面颈除皱，局麻药加TXA（均582.6mg）未增加缺血或全身并发症，无永久面神经麻痹。 局麻里加TXA安全性站得住，可以常规用；但这篇只证明“不更危险”，少出血少淤青的获益要靠别的证据。",
       "date_published": "2026-11-12T08:00:00+08:00",
       "tags": [
@@ -667,9 +667,9 @@
     },
     {
       "id": "2026-11-12-pmid-42897247",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-12-pmid-42897247",
+      "url": "https://wangmd-cn.com/#2026-11-12-pmid-42897247",
       "title": "Implant-Compensable Ptosis: A Retrospective Cohort Study Comparing Polyurethane Breast Augmentation Alone Versus Augmentation-mastopexy in Patients with Mild Ptosis",
-      "content_html": "<p><strong>事实</strong>：90例聚氨酯假体，轻度下垂只放假体，24个月BREAST-Q 75.6对77.4（加悬吊），差1.8分。</p><p><strong>点评</strong>：轻下垂、不肯做悬吊的，选聚氨酯假体并控制容量≤350cc，可以只放假体；代价是乳头平均下移0.8cm。</p><p>In 90 women with polyurethane implants, implant-only augmentation in selected mild ptosis scored 75.6 on BREAST-Q at 24 months versus 77.4 for augmentation-mastopexy, with 36 minutes less operative time. For mild ptosis patients who decline a lift, polyurethane implants at 350 cc or less are a defensible option, accepting about 0.8 cm of nipple descent and unproven non-inferiority.</p><p>Aesthetic Plastic Surgery · PMID 42897247</p>",
+      "content_html": "<p><strong>事实</strong>：90例聚氨酯假体，轻度下垂只放假体，24个月BREAST-Q 75.6对77.4（加悬吊），差1.8分。</p><p><strong>点评</strong>：轻下垂、不肯做悬吊的，选聚氨酯假体并控制容量≤350cc，可以只放假体；代价是乳头平均下移0.8cm。</p><p>In 90 women with polyurethane implants, implant-only augmentation in selected mild ptosis scored 75.6 on BREAST-Q at 24 months versus 77.4 for augmentation-mastopexy, with 36 minutes less operative time. For mild ptosis patients who decline a lift, polyurethane implants at 350 cc or less are a defensible option, accepting about 0.8 cm of nipple descent and unproven non-inferiority.</p><p>Aesthetic Plastic Surgery · Soto SB · Department of Plastic Surgery, Hospital Angeles Chihuahua, Chihuahua, México · PMID 42897247</p>",
       "summary": "90例聚氨酯假体，轻度下垂只放假体，24个月BREAST-Q 75.6对77.4（加悬吊），差1.8分。 轻下垂、不肯做悬吊的，选聚氨酯假体并控制容量≤350cc，可以只放假体；代价是乳头平均下移0.8cm。",
       "date_published": "2026-11-12T08:00:00+08:00",
       "tags": [
@@ -681,9 +681,9 @@
     },
     {
       "id": "2026-11-12-pmid-42900384",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-12-pmid-42900384",
+      "url": "https://wangmd-cn.com/#2026-11-12-pmid-42900384",
       "title": "A Next-Generation Approach to Subglandular Breast Augmentation Using B-Lite Implants: The Feather Touch Technique",
-      "content_html": "<p><strong>事实</strong>：66例清醒状态肌下隆胸，多层筋膜平面阻滞全部完成、无改全麻，4例轻度位置问题，无严重并发症。</p><p><strong>点评</strong>：清醒隆胸技术上可行，关键在阻滞覆盖到位；但单组66例、IV级证据，别当成全麻的常规替代。</p><p>In 66 women, awake subglandular augmentation with a multilayer fascial-plane block was completed without conversion to general anesthesia; four minor positional issues and no major complications. Feasible when the block is thorough, but this is a single-arm level IV series and does not justify replacing general anesthesia as routine.</p><p>Aesthetic Plastic Surgery · PMID 42900384</p>",
+      "content_html": "<p><strong>事实</strong>：66例清醒状态肌下隆胸，多层筋膜平面阻滞全部完成、无改全麻，4例轻度位置问题，无严重并发症。</p><p><strong>点评</strong>：清醒隆胸技术上可行，关键在阻滞覆盖到位；但单组66例、IV级证据，别当成全麻的常规替代。</p><p>In 66 women, awake subglandular augmentation with a multilayer fascial-plane block was completed without conversion to general anesthesia; four minor positional issues and no major complications. Feasible when the block is thorough, but this is a single-arm level IV series and does not justify replacing general anesthesia as routine.</p><p>Aesthetic Plastic Surgery · Chioibaș DR · Department of Surgery, Emergency Discipline, &quot;Victor Babes&quot; University of Medicine and Pharmacy, 300041, Timisoara, Romania · PMID 42900384</p>",
       "summary": "66例清醒状态肌下隆胸，多层筋膜平面阻滞全部完成、无改全麻，4例轻度位置问题，无严重并发症。 清醒隆胸技术上可行，关键在阻滞覆盖到位；但单组66例、IV级证据，别当成全麻的常规替代。",
       "date_published": "2026-11-12T08:00:00+08:00",
       "tags": [
@@ -695,9 +695,9 @@
     },
     {
       "id": "2026-11-11-pmid-42869429",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-11-pmid-42869429",
+      "url": "https://wangmd-cn.com/#2026-11-11-pmid-42869429",
       "title": "Evaluation of Costal Cartilage Calcification Using Plain Radiographic Images",
-      "content_html": "<p><strong>事实</strong>：183例鼻整形1098段肋软骨，平片钙化检出54.1%；重度钙化高峰在40–49岁。</p><p><strong>点评</strong>：术前一张肋骨平片能少一次台上意外；40多岁女性重度钙化风险最高，别只按年龄想当然。</p><p>In 183 rhinoplasty patients (1,098 rib segments), plain radiographs detected costal cartilage calcification in 54.1%, with severe calcification peaking at age 40-49 (25.8%). A routine rib series avoids intraoperative surprises; women in their 40s carry the highest risk of severe calcification, not the oldest patients.</p><p>Aesthetic Surgery Journal · PMID 42869429</p>",
+      "content_html": "<p><strong>事实</strong>：183例鼻整形1098段肋软骨，平片钙化检出54.1%；重度钙化高峰在40–49岁。</p><p><strong>点评</strong>：术前一张肋骨平片能少一次台上意外；40多岁女性重度钙化风险最高，别只按年龄想当然。</p><p>In 183 rhinoplasty patients (1,098 rib segments), plain radiographs detected costal cartilage calcification in 54.1%, with severe calcification peaking at age 40-49 (25.8%). A routine rib series avoids intraoperative surprises; women in their 40s carry the highest risk of severe calcification, not the oldest patients.</p><p>Aesthetic Surgery Journal · Yoo SH · Department of Otorhinolaryngology, Dankook University College of Medicine, Cheonan, Korea · PMID 42869429</p>",
       "summary": "183例鼻整形1098段肋软骨，平片钙化检出54.1%；重度钙化高峰在40–49岁。 术前一张肋骨平片能少一次台上意外；40多岁女性重度钙化风险最高，别只按年龄想当然。",
       "date_published": "2026-11-11T08:00:00+08:00",
       "tags": [
@@ -709,9 +709,9 @@
     },
     {
       "id": "2026-11-11-pmid-42941334",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-11-pmid-42941334",
+      "url": "https://wangmd-cn.com/#2026-11-11-pmid-42941334",
       "title": "Does Previous Septoplasty Affect Rhinoplasty Outcomes? A Comparative Analysis of Functional, Psychological and Self-Assessment Measures",
-      "content_html": "<p><strong>事实</strong>：75例鼻中隔鼻整形，27例曾做鼻中隔成形；术后6个月外观满意度更低，功能与生活质量仍改善。</p><p><strong>点评</strong>：有鼻中隔手术史的，外观预期要提前压低；功能该做还得做，别因既往史劝退。</p><p>Among 75 rhinoseptoplasty patients, 27 (36%) had prior septoplasty and reported lower cosmetic satisfaction at 1 and 6 months, although nasal function and quality of life improved significantly. Lower the aesthetic expectation for prior-septoplasty patients, but do not let surgical history discourage a functionally indicated procedure.</p><p>Journal of Clinical Medicine · PMID 42941334</p>",
+      "content_html": "<p><strong>事实</strong>：75例鼻中隔鼻整形，27例曾做鼻中隔成形；术后6个月外观满意度更低，功能与生活质量仍改善。</p><p><strong>点评</strong>：有鼻中隔手术史的，外观预期要提前压低；功能该做还得做，别因既往史劝退。</p><p>Among 75 rhinoseptoplasty patients, 27 (36%) had prior septoplasty and reported lower cosmetic satisfaction at 1 and 6 months, although nasal function and quality of life improved significantly. Lower the aesthetic expectation for prior-septoplasty patients, but do not let surgical history discourage a functionally indicated procedure.</p><p>Journal of Clinical Medicine · Jadczak M · Department of Otolaryngology with Division of Cranio-Maxillo-Facial Surgery, Military Institute of Medicine-National Research Institute, 04-141 Warsaw, Poland · PMID 42941334</p>",
       "summary": "75例鼻中隔鼻整形，27例曾做鼻中隔成形；术后6个月外观满意度更低，功能与生活质量仍改善。 有鼻中隔手术史的，外观预期要提前压低；功能该做还得做，别因既往史劝退。",
       "date_published": "2026-11-11T08:00:00+08:00",
       "tags": [
@@ -723,9 +723,9 @@
     },
     {
       "id": "2026-11-11-pmid-42942299",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-11-pmid-42942299",
+      "url": "https://wangmd-cn.com/#2026-11-11-pmid-42942299",
       "title": "Beyond Cartilage Grafting in Rhinoplasty: Biopharmaceutical and Biomaterial Strategies for Nasal Cartilage Regeneration",
-      "content_html": "<p><strong>事实</strong>：叙述性综述：鼻软骨再生近期只能增强移植骨、修补小缺损，注射再生还替不了结构支架。</p><p><strong>点评</strong>：生长因子、外泌体、可注射水凝胶多在体外或关节数据；先当移植物辅助，别当卖点。</p><p>This narrative review concludes that near-term nasal cartilage regeneration can enhance existing grafts and repair small contained defects, but injection-only regeneration cannot replace structural support. Growth factors, extracellular vesicles and injectable hydrogels remain largely in vitro or articular evidence; use them as graft adjuncts, not marketing claims.</p><p>Life · PMID 42942299</p>",
+      "content_html": "<p><strong>事实</strong>：叙述性综述：鼻软骨再生近期只能增强移植骨、修补小缺损，注射再生还替不了结构支架。</p><p><strong>点评</strong>：生长因子、外泌体、可注射水凝胶多在体外或关节数据；先当移植物辅助，别当卖点。</p><p>This narrative review concludes that near-term nasal cartilage regeneration can enhance existing grafts and repair small contained defects, but injection-only regeneration cannot replace structural support. Growth factors, extracellular vesicles and injectable hydrogels remain largely in vitro or articular evidence; use them as graft adjuncts, not marketing claims.</p><p>Life · Yi KH · You and I Clinic, Seoul 06123, Republic of Korea · PMID 42942299</p>",
       "summary": "叙述性综述：鼻软骨再生近期只能增强移植骨、修补小缺损，注射再生还替不了结构支架。 生长因子、外泌体、可注射水凝胶多在体外或关节数据；先当移植物辅助，别当卖点。",
       "date_published": "2026-11-11T08:00:00+08:00",
       "tags": [
@@ -737,9 +737,9 @@
     },
     {
       "id": "2026-11-11-pmid-42864533",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-11-pmid-42864533",
+      "url": "https://wangmd-cn.com/#2026-11-11-pmid-42864533",
       "title": "Comparative Vector Analysis in Deep Plane Rhytidectomy: Evaluating Combined Horizontal and Oblique SMAS Fixation Strategies in Face and Neck Lifting",
-      "content_html": "<p><strong>事实</strong>：80例深层除皱分4组：面部斜向+颈部水平固定，FACE-Q 88.4、WSRS改善2.4分，最优。</p><p><strong>点评</strong>：面颈别用同一个矢量：面斜拉、颈水平收，主观客观都更好；回顾性单中心，先学思路。</p><p>In 80 deep-plane facelifts, oblique facial plus horizontal neck fixation scored highest (FACE-Q 88.4; WSRS improvement 2.4 points) versus three other vector combinations. Use different vectors for face and neck; the retrospective single-center design supports the concept, not a definitive standard.</p><p>Aesthetic Plastic Surgery · PMID 42864533</p>",
+      "content_html": "<p><strong>事实</strong>：80例深层除皱分4组：面部斜向+颈部水平固定，FACE-Q 88.4、WSRS改善2.4分，最优。</p><p><strong>点评</strong>：面颈别用同一个矢量：面斜拉、颈水平收，主观客观都更好；回顾性单中心，先学思路。</p><p>In 80 deep-plane facelifts, oblique facial plus horizontal neck fixation scored highest (FACE-Q 88.4; WSRS improvement 2.4 points) versus three other vector combinations. Use different vectors for face and neck; the retrospective single-center design supports the concept, not a definitive standard.</p><p>Aesthetic Plastic Surgery · Cinar F · Department of Plastic, Reconstructive and Aesthetic Surgery, Private Clinic of Fatih Cinar, 34700, Nisantasi, Istanbul, Turkey · PMID 42864533</p>",
       "summary": "80例深层除皱分4组：面部斜向+颈部水平固定，FACE-Q 88.4、WSRS改善2.4分，最优。 面颈别用同一个矢量：面斜拉、颈水平收，主观客观都更好；回顾性单中心，先学思路。",
       "date_published": "2026-11-11T08:00:00+08:00",
       "tags": [
@@ -751,9 +751,9 @@
     },
     {
       "id": "2026-11-11-pmid-42980684",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-11-pmid-42980684",
+      "url": "https://wangmd-cn.com/#2026-11-11-pmid-42980684",
       "title": "Trends in Patient Profile and Surgical Preferences for Breast Augmentation in China: A Retrospective Cohort Study Before and After the COVID-19 Era",
-      "content_html": "<p><strong>事实</strong>：682例中国隆胸：疫后更年长、假体更大（262.7对253.2cc）、圆型51.8%，满意度反降。</p><p><strong>点评</strong>：客人更懂、更敢花钱，不等于更满意；咨询重点从“做大”转到术后预期和长期形态。</p><p>In 682 Chinese augmentation patients, the post-pandemic cohort was older, chose larger (262.7 vs 253.2 cc) and more round implants (51.8% vs 34.9%), yet breast satisfaction declined. Better-informed, higher-spending patients are not more satisfied; shift counseling from size to expectations and long-term shape.</p><p>Aesthetic Plastic Surgery · PMID 42980684</p>",
+      "content_html": "<p><strong>事实</strong>：682例中国隆胸：疫后更年长、假体更大（262.7对253.2cc）、圆型51.8%，满意度反降。</p><p><strong>点评</strong>：客人更懂、更敢花钱，不等于更满意；咨询重点从“做大”转到术后预期和长期形态。</p><p>In 682 Chinese augmentation patients, the post-pandemic cohort was older, chose larger (262.7 vs 253.2 cc) and more round implants (51.8% vs 34.9%), yet breast satisfaction declined. Better-informed, higher-spending patients are not more satisfied; shift counseling from size to expectations and long-term shape.</p><p>Aesthetic Plastic Surgery · Yuan GH · Xiaolan Clinical Institute of Shantou University Medical College, 65 Middle Jucheng Road, Zhongshan City, Guangdong Province, People&#x27;s Republic of China · PMID 42980684</p>",
       "summary": "682例中国隆胸：疫后更年长、假体更大（262.7对253.2cc）、圆型51.8%，满意度反降。 客人更懂、更敢花钱，不等于更满意；咨询重点从“做大”转到术后预期和长期形态。",
       "date_published": "2026-11-11T08:00:00+08:00",
       "tags": [
@@ -765,9 +765,9 @@
     },
     {
       "id": "2026-11-11-pmid-42910395",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-11-pmid-42910395",
+      "url": "https://wangmd-cn.com/#2026-11-11-pmid-42910395",
       "title": "Holidays With Perks: A Registry-based Study Investigating Revision Procedures Among Patients With Breast Implants Inserted Overseas",
-      "content_html": "<p><strong>事实</strong>：30,579例假体翻修中11.7%为境外植入；境外组破裂27.0%、移位24.9%，均高于境内。</p><p><strong>点评</strong>：低价旅行隆胸的账最后算在翻修和公立医院上；接诊先问植入地、假体型号和原始记录。</p><p>Of 30,579 breast implant revisions, 11.7% involved overseas-inserted devices, with higher rupture (27.0% vs 24.5%) and malposition (24.9% vs 20.5%). Cosmetic tourism shifts costs to revision surgery and public hospitals; ask overseas patients for implant records before planning.</p><p>Plastic and Reconstructive Surgery – Global Open · PMID 42910395</p>",
+      "content_html": "<p><strong>事实</strong>：30,579例假体翻修中11.7%为境外植入；境外组破裂27.0%、移位24.9%，均高于境内。</p><p><strong>点评</strong>：低价旅行隆胸的账最后算在翻修和公立医院上；接诊先问植入地、假体型号和原始记录。</p><p>Of 30,579 breast implant revisions, 11.7% involved overseas-inserted devices, with higher rupture (27.0% vs 24.5%) and malposition (24.9% vs 20.5%). Cosmetic tourism shifts costs to revision surgery and public hospitals; ask overseas patients for implant records before planning.</p><p>Plastic and Reconstructive Surgery – Global Open · Cevik J · From the Department of Plastic and Reconstructive Surgery, Monash Health, Dandenong, VIC, Australia · PMID 42910395</p>",
       "summary": "30,579例假体翻修中11.7%为境外植入；境外组破裂27.0%、移位24.9%，均高于境内。 低价旅行隆胸的账最后算在翻修和公立医院上；接诊先问植入地、假体型号和原始记录。",
       "date_published": "2026-11-11T08:00:00+08:00",
       "tags": [
@@ -779,9 +779,9 @@
     },
     {
       "id": "2026-11-10-pmid-42993309",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-10-pmid-42993309",
+      "url": "https://wangmd-cn.com/#2026-11-10-pmid-42993309",
       "title": "Design and Application of a Novel Device for Nasal Tip Flexibility and Stability",
-      "content_html": "<p><strong>事实</strong>：自制装置测50名女性鼻尖四点，1.5N下位移8.6–11.2mm。</p><p><strong>点评</strong>：把鼻尖软硬度变成数字，方向有价值；但只有50例正常人、无术前术后对比，先当基线工具。</p><p>A custom device measured four nasal-tip points in 50 young Chinese women under 1.5 N; mean displacement was 8.6–11.2 mm. Quantifying tip flexibility is useful, but 50 normal subjects without before-after surgery data make this a baseline tool, not evidence of clinical benefit.</p><p>Aesthetic Plastic Surgery · PMID 42993309</p>",
+      "content_html": "<p><strong>事实</strong>：自制装置测50名女性鼻尖四点，1.5N下位移8.6–11.2mm。</p><p><strong>点评</strong>：把鼻尖软硬度变成数字，方向有价值；但只有50例正常人、无术前术后对比，先当基线工具。</p><p>A custom device measured four nasal-tip points in 50 young Chinese women under 1.5 N; mean displacement was 8.6–11.2 mm. Quantifying tip flexibility is useful, but 50 normal subjects without before-after surgery data make this a baseline tool, not evidence of clinical benefit.</p><p>Aesthetic Plastic Surgery · Chang J · Department of Plastic and Aesthetic Surgery, The Affiliated Changsha Central Hospital, Hengyang Medical School, University of South China, Changsha, 410021, Hunan, China · PMID 42993309</p>",
       "summary": "自制装置测50名女性鼻尖四点，1.5N下位移8.6–11.2mm。 把鼻尖软硬度变成数字，方向有价值；但只有50例正常人、无术前术后对比，先当基线工具。",
       "date_published": "2026-11-10T08:00:00+08:00",
       "tags": [
@@ -793,9 +793,9 @@
     },
     {
       "id": "2026-11-10-pmid-42978517",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-10-pmid-42978517",
+      "url": "https://wangmd-cn.com/#2026-11-10-pmid-42978517",
       "title": "Clinical Outcomes of Nasal Tip Infantile Hemangiomas: A Retrospective Cohort Study",
-      "content_html": "<p><strong>事实</strong>：58例鼻尖血管瘤：口服普萘洛尔者3岁时后遗症67.9%，未治者100%。</p><p><strong>点评</strong>：早用普萘洛尔，2mg/kg多半够；外用噻吗洛尔别拿来拖延口服治疗。</p><p>In 58 infants with nasal-tip infantile hemangioma, propranolol was associated with fewer sequelae at age 3 (67.9% vs 100% untreated); low and high doses performed similarly. Start oral propranolol early at about 2 mg/kg/day, and do not let topical timolol delay it.</p><p>Pediatric Dermatology · PMID 42978517</p>",
+      "content_html": "<p><strong>事实</strong>：58例鼻尖血管瘤：口服普萘洛尔者3岁时后遗症67.9%，未治者100%。</p><p><strong>点评</strong>：早用普萘洛尔，2mg/kg多半够；外用噻吗洛尔别拿来拖延口服治疗。</p><p>In 58 infants with nasal-tip infantile hemangioma, propranolol was associated with fewer sequelae at age 3 (67.9% vs 100% untreated); low and high doses performed similarly. Start oral propranolol early at about 2 mg/kg/day, and do not let topical timolol delay it.</p><p>Pediatric Dermatology · Belmesk L · Division of Dermatology, Department of Pediatrics, CHU Sainte-Justine, Université de Montreal, Montreal, Quebec, Canada · PMID 42978517</p>",
       "summary": "58例鼻尖血管瘤：口服普萘洛尔者3岁时后遗症67.9%，未治者100%。 早用普萘洛尔，2mg/kg多半够；外用噻吗洛尔别拿来拖延口服治疗。",
       "date_published": "2026-11-10T08:00:00+08:00",
       "tags": [
@@ -807,9 +807,9 @@
     },
     {
       "id": "2026-11-10-pmid-42864553",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-10-pmid-42864553",
+      "url": "https://wangmd-cn.com/#2026-11-10-pmid-42864553",
       "title": "Assessing the Effectiveness of Bupivacaine for Managing Pain Post-rhinoplasty: A Triple-blinded Controlled Clinical Trial",
-      "content_html": "<p><strong>事实</strong>：212例鼻整形：布比卡因表面+阻滞，镇痛药更少、恶心呕吐更低、满意度最高。</p><p><strong>点评</strong>：II级证据；组合组省镇痛药、少恶心、满意度最高，表面组疼痛评分最低，按需选。</p><p>In a triple-blind RCT of 212 patients, combined topical and nerve-block bupivacaine reduced analgesic use and postoperative nausea/vomiting and gave the highest satisfaction. Level II evidence supports combining topical and block bupivacaine; topical alone gave the lowest pain scores but did not reduce analgesic consumption.</p><p>Aesthetic Plastic Surgery · PMID 42864553</p>",
+      "content_html": "<p><strong>事实</strong>：212例鼻整形：布比卡因表面+阻滞，镇痛药更少、恶心呕吐更低、满意度最高。</p><p><strong>点评</strong>：II级证据；组合组省镇痛药、少恶心、满意度最高，表面组疼痛评分最低，按需选。</p><p>In a triple-blind RCT of 212 patients, combined topical and nerve-block bupivacaine reduced analgesic use and postoperative nausea/vomiting and gave the highest satisfaction. Level II evidence supports combining topical and block bupivacaine; topical alone gave the lowest pain scores but did not reduce analgesic consumption.</p><p>Aesthetic Plastic Surgery · Kaboodkhani R · Department of Otolaryngology, Otolaryngology Research Center, Shiraz University of Medical Sciences, Shiraz, Iran · PMID 42864553</p>",
       "summary": "212例鼻整形：布比卡因表面+阻滞，镇痛药更少、恶心呕吐更低、满意度最高。 II级证据；组合组省镇痛药、少恶心、满意度最高，表面组疼痛评分最低，按需选。",
       "date_published": "2026-11-10T08:00:00+08:00",
       "tags": [
@@ -821,9 +821,9 @@
     },
     {
       "id": "2026-11-10-pmid-42872381",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-10-pmid-42872381",
+      "url": "https://wangmd-cn.com/#2026-11-10-pmid-42872381",
       "title": "Endoscopic Facelift with Isolation of the Fronto-Temporal Facial Nerve Branches: A Clinical Study of 300 Cases",
-      "content_html": "<p><strong>事实</strong>：300例内镜拉皮，全程游离额颞支：无永久面神经损伤，暂时性额肌无力100%。</p><p><strong>点评</strong>：解剖清楚、可复制，代价是人人都暂时抬眉无力；单臂研究证明不了这买卖划算。</p><p>In 300 consecutive endoscopic facelifts with circumferential isolation of the fronto-temporal branches, no permanent nerve injury occurred, but all patients had transient frontalis weakness; median recovery was 14 days. The technique is reproducible, but universal temporary brow weakness and the lack of a control group leave the risk-benefit trade-off unproven.</p><p>Aesthetic Surgery Journal · PMID 42872381</p>",
+      "content_html": "<p><strong>事实</strong>：300例内镜拉皮，全程游离额颞支：无永久面神经损伤，暂时性额肌无力100%。</p><p><strong>点评</strong>：解剖清楚、可复制，代价是人人都暂时抬眉无力；单臂研究证明不了这买卖划算。</p><p>In 300 consecutive endoscopic facelifts with circumferential isolation of the fronto-temporal branches, no permanent nerve injury occurred, but all patients had transient frontalis weakness; median recovery was 14 days. The technique is reproducible, but universal temporary brow weakness and the lack of a control group leave the risk-benefit trade-off unproven.</p><p>Aesthetic Surgery Journal · Renert G · Plastic surgeon in private practice, Bucharest, Romania · PMID 42872381</p>",
       "summary": "300例内镜拉皮，全程游离额颞支：无永久面神经损伤，暂时性额肌无力100%。 解剖清楚、可复制，代价是人人都暂时抬眉无力；单臂研究证明不了这买卖划算。",
       "date_published": "2026-11-10T08:00:00+08:00",
       "tags": [
@@ -835,9 +835,9 @@
     },
     {
       "id": "2026-11-10-pmid-42993310",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-10-pmid-42993310",
+      "url": "https://wangmd-cn.com/#2026-11-10-pmid-42993310",
       "title": "The Transumbilical Breast Augmentation: Safety and Satisfaction in a Systematic Review and Meta-analysis of 13,210 Breasts",
-      "content_html": "<p><strong>事实</strong>：17项研究、13,210侧乳房：脐入路血肿0.2%、包膜挛缩1.7%、再干预2.3%。</p><p><strong>点评</strong>：数字漂亮，但几乎全是单臂回顾、随访短；适合极怕疤的人，不该当默认术式。</p><p>A meta-analysis of 17 studies and 13,210 breasts found pooled TUBA rates of hematoma 0.2%, capsular contracture 1.7% and reintervention 2.3%, with high satisfaction but mostly retrospective single-arm data. The complication rates look excellent, but moderate bias and short follow-up make TUBA an option for scar avoidance, not a new default.</p><p>Aesthetic Plastic Surgery · PMID 42993310</p>",
+      "content_html": "<p><strong>事实</strong>：17项研究、13,210侧乳房：脐入路血肿0.2%、包膜挛缩1.7%、再干预2.3%。</p><p><strong>点评</strong>：数字漂亮，但几乎全是单臂回顾、随访短；适合极怕疤的人，不该当默认术式。</p><p>A meta-analysis of 17 studies and 13,210 breasts found pooled TUBA rates of hematoma 0.2%, capsular contracture 1.7% and reintervention 2.3%, with high satisfaction but mostly retrospective single-arm data. The complication rates look excellent, but moderate bias and short follow-up make TUBA an option for scar avoidance, not a new default.</p><p>Aesthetic Plastic Surgery · Gonçalves FGA · School of Medicine, Universidade de São Paulo, Sao Paulo, SP, Brazil · PMID 42993310</p>",
       "summary": "17项研究、13,210侧乳房：脐入路血肿0.2%、包膜挛缩1.7%、再干预2.3%。 数字漂亮，但几乎全是单臂回顾、随访短；适合极怕疤的人，不该当默认术式。",
       "date_published": "2026-11-10T08:00:00+08:00",
       "tags": [
@@ -849,9 +849,9 @@
     },
     {
       "id": "2026-11-10-pmid-42987925",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-10-pmid-42987925",
+      "url": "https://wangmd-cn.com/#2026-11-10-pmid-42987925",
       "title": "Five-Year Clinical Performance and Patient-Reported Outcomes of Mentor MemoryGel and MemoryShape Breast Implants (GLOW Study)",
-      "content_html": "<p><strong>事实</strong>：5年随访：初次隆胸包膜挛缩MemoryShape 0.31%、Xtra 1.42%、普通圆型5.16%。</p><p><strong>点评</strong>：五年数据都算低，但研究没设计头对头，别拿这三个数直接排优劣。</p><p>In the GLOW 5-year interim analysis, Baker III/IV capsular contracture rates in primary augmentation were 0.31% for MemoryShape, 1.42% for MemoryGel Xtra and 5.16% for MemoryGel non-Xtra; the study was not designed for direct comparison. All three rates are low, but without a head-to-head design the ranking is descriptive, not a reason to switch implants.</p><p>Aesthetic Surgery Journal · PMID 42987925</p>",
+      "content_html": "<p><strong>事实</strong>：5年随访：初次隆胸包膜挛缩MemoryShape 0.31%、Xtra 1.42%、普通圆型5.16%。</p><p><strong>点评</strong>：五年数据都算低，但研究没设计头对头，别拿这三个数直接排优劣。</p><p>In the GLOW 5-year interim analysis, Baker III/IV capsular contracture rates in primary augmentation were 0.31% for MemoryShape, 1.42% for MemoryGel Xtra and 5.16% for MemoryGel non-Xtra; the study was not designed for direct comparison. All three rates are low, but without a head-to-head design the ranking is descriptive, not a reason to switch implants.</p><p>Aesthetic Surgery Journal · Alderman A · North Atlanta Plastic Surgery, Alpharetta, GA · PMID 42987925</p>",
       "summary": "5年随访：初次隆胸包膜挛缩MemoryShape 0.31%、Xtra 1.42%、普通圆型5.16%。 五年数据都算低，但研究没设计头对头，别拿这三个数直接排优劣。",
       "date_published": "2026-11-10T08:00:00+08:00",
       "tags": [
@@ -863,9 +863,9 @@
     },
     {
       "id": "2026-11-09-pmid-42897251",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-09-pmid-42897251",
+      "url": "https://wangmd-cn.com/#2026-11-09-pmid-42897251",
       "title": "\"Dou-gong\" Technique: A Novel Biomechanical Approach to Injection Rhinoplasty Based on Nasal Ligament Anatomy",
-      "content_html": "<p><strong>事实</strong>：100例回顾：以鼻韧带为支点、骨膜上注射透明质酸，分五区，无血管栓塞。</p><p><strong>点评</strong>：把注射从堆量改成撑韧带，方向对；但100例无对照、无客观测量，只能算可行。</p><p>In a 100-patient retrospective series, a five-zone &quot;Dou-gong&quot; technique injected hyaluronic acid above periosteum or perichondrium to reinforce nasal ligament support, with no vascular occlusion or material displacement. Shifting injection rhinoplasty from volume stacking to ligament support is conceptually right, but a single-arm Level IV series without objective measurement proves feasibility only.</p><p>Aesthetic Plastic Surgery · PMID 42897251</p>",
+      "content_html": "<p><strong>事实</strong>：100例回顾：以鼻韧带为支点、骨膜上注射透明质酸，分五区，无血管栓塞。</p><p><strong>点评</strong>：把注射从堆量改成撑韧带，方向对；但100例无对照、无客观测量，只能算可行。</p><p>In a 100-patient retrospective series, a five-zone &quot;Dou-gong&quot; technique injected hyaluronic acid above periosteum or perichondrium to reinforce nasal ligament support, with no vascular occlusion or material displacement. Shifting injection rhinoplasty from volume stacking to ligament support is conceptually right, but a single-arm Level IV series without objective measurement proves feasibility only.</p><p>Aesthetic Plastic Surgery · Sun C · Department of Plastic Surgery, Peking University Third Hospital, Beijing, China · PMID 42897251</p>",
       "summary": "100例回顾：以鼻韧带为支点、骨膜上注射透明质酸，分五区，无血管栓塞。 把注射从堆量改成撑韧带，方向对；但100例无对照、无客观测量，只能算可行。",
       "date_published": "2026-11-09T08:00:00+08:00",
       "tags": [
@@ -877,9 +877,9 @@
     },
     {
       "id": "2026-11-09-pmid-42869968",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-09-pmid-42869968",
+      "url": "https://wangmd-cn.com/#2026-11-09-pmid-42869968",
       "title": "Integrated Perioperative Infection Management Measures (PSMS-11) for ePTFE Rhinoplasty in East Asian Patients: A Large-Sample, Long-Term Retrospective Study",
-      "content_html": "<p><strong>事实</strong>：1153例ePTFE鼻整形：感染率1.6%，过半发生在术后6个月以后，含1年以上迟发。</p><p><strong>点评</strong>：感染不看前三个月就漏一半；抽烟、翻修、皮肤炎症是术前能改的变量。</p><p>Among 1,153 consecutive ePTFE rhinoplasties, overall infection incidence was about 1.6%, and more than half of infections presented beyond six months, including cases after one year. Late-onset infection is common rather than exceptional, so follow-up must extend past the first year and modifiable risks such as smoking and revision belong in preoperative planning.</p><p>Aesthetic Plastic Surgery · PMID 42869968</p>",
+      "content_html": "<p><strong>事实</strong>：1153例ePTFE鼻整形：感染率1.6%，过半发生在术后6个月以后，含1年以上迟发。</p><p><strong>点评</strong>：感染不看前三个月就漏一半；抽烟、翻修、皮肤炎症是术前能改的变量。</p><p>Among 1,153 consecutive ePTFE rhinoplasties, overall infection incidence was about 1.6%, and more than half of infections presented beyond six months, including cases after one year. Late-onset infection is common rather than exceptional, so follow-up must extend past the first year and modifiable risks such as smoking and revision belong in preoperative planning.</p><p>Aesthetic Plastic Surgery · Yi K · Department of Plastic and Aesthetic (Burn) Surgery, The Second Xiangya Hospital of Central South University, Changsha City, Hunan Province, People&#x27;s Republic of China · PMID 42869968</p>",
       "summary": "1153例ePTFE鼻整形：感染率1.6%，过半发生在术后6个月以后，含1年以上迟发。 感染不看前三个月就漏一半；抽烟、翻修、皮肤炎症是术前能改的变量。",
       "date_published": "2026-11-09T08:00:00+08:00",
       "tags": [
@@ -891,9 +891,9 @@
     },
     {
       "id": "2026-11-09-pmid-42914090",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-09-pmid-42914090",
+      "url": "https://wangmd-cn.com/#2026-11-09-pmid-42914090",
       "title": "Compromised nasal skin in functional rhinoplasty: a literature review and proposal of a clinical management protocol",
-      "content_html": "<p><strong>事实</strong>：综述：鼻皮肤坏死主因是翻修、吸烟、皮瓣过度打薄；早期硝酸甘油、高压氧、己酮可可碱可救。</p><p><strong>点评</strong>：真正该背的是风险清单和早期识别；等皮肤发黑再上药，多半只剩清创。</p><p>A review identified revision surgery, smoking and aggressive flap thinning as the main risk factors for nasal skin necrosis, with early topical nitroglycerin, hyperbaric oxygen and pentoxifylline suggested for salvage. The protocol&#x27;s value lies in preoperative risk stratification and early recognition; salvage drugs started after the skin turns black rarely change the outcome.</p><p>Acta Otorrinolaringologica Española · PMID 42914090</p>",
+      "content_html": "<p><strong>事实</strong>：综述：鼻皮肤坏死主因是翻修、吸烟、皮瓣过度打薄；早期硝酸甘油、高压氧、己酮可可碱可救。</p><p><strong>点评</strong>：真正该背的是风险清单和早期识别；等皮肤发黑再上药，多半只剩清创。</p><p>A review identified revision surgery, smoking and aggressive flap thinning as the main risk factors for nasal skin necrosis, with early topical nitroglycerin, hyperbaric oxygen and pentoxifylline suggested for salvage. The protocol&#x27;s value lies in preoperative risk stratification and early recognition; salvage drugs started after the skin turns black rarely change the outcome.</p><p>Acta Otorrinolaringologica Española · Martínez-Villasmil V · Servicio de Otorrinolaringología. Complejo Hospitalario Universitario de Pontevedra. Pontevedra, Spain. Electronic address: · PMID 42914090</p>",
       "summary": "综述：鼻皮肤坏死主因是翻修、吸烟、皮瓣过度打薄；早期硝酸甘油、高压氧、己酮可可碱可救。 真正该背的是风险清单和早期识别；等皮肤发黑再上药，多半只剩清创。",
       "date_published": "2026-11-09T08:00:00+08:00",
       "tags": [
@@ -905,9 +905,9 @@
     },
     {
       "id": "2026-11-09-pmid-42873118",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-09-pmid-42873118",
+      "url": "https://wangmd-cn.com/#2026-11-09-pmid-42873118",
       "title": "A Composite Internal Stabilization Strategy associated with Absence of Postoperative Hematoma After Facelift: A 561-Patient Comparative Series",
-      "content_html": "<p><strong>事实</strong>：561例拉皮：内部止血网加渐进张力缝合，不放引流不加压，血肿清创0例，对照5.9%。</p><p><strong>点评</strong>：降到0靠的是消灭死腔不是压迫包扎；但面神经暂时麻痹10.4%，签字前得说。</p><p>In a 561-patient comparative series, an internal hemostatic network with progressive tension sutures and no drains or compression produced zero hematomas requiring evacuation versus 5.9% in controls, with transient marginal mandibular weakness in 10.4%. Eliminating dead space beats external pressure for hematoma prevention, but a 10.4% transient nerve weakness rate is the price and belongs in consent.</p><p>Plastic and Reconstructive Surgery · PMID 42873118</p>",
+      "content_html": "<p><strong>事实</strong>：561例拉皮：内部止血网加渐进张力缝合，不放引流不加压，血肿清创0例，对照5.9%。</p><p><strong>点评</strong>：降到0靠的是消灭死腔不是压迫包扎；但面神经暂时麻痹10.4%，签字前得说。</p><p>In a 561-patient comparative series, an internal hemostatic network with progressive tension sutures and no drains or compression produced zero hematomas requiring evacuation versus 5.9% in controls, with transient marginal mandibular weakness in 10.4%. Eliminating dead space beats external pressure for hematoma prevention, but a 10.4% transient nerve weakness rate is the price and belongs in consent.</p><p>Plastic and Reconstructive Surgery · Pellini E · - Plastic Surgeon - Private Practitioner - Porto Alegre, Brazil · PMID 42873118</p>",
       "summary": "561例拉皮：内部止血网加渐进张力缝合，不放引流不加压，血肿清创0例，对照5.9%。 降到0靠的是消灭死腔不是压迫包扎；但面神经暂时麻痹10.4%，签字前得说。",
       "date_published": "2026-11-09T08:00:00+08:00",
       "tags": [
@@ -919,9 +919,9 @@
     },
     {
       "id": "2026-11-09-pmid-42897244",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-09-pmid-42897244",
+      "url": "https://wangmd-cn.com/#2026-11-09-pmid-42897244",
       "title": "When Does Grade I Ptosis Require Mastopexy? Implant-Only Augmentation in 198 Patients: A Clinical Framework for Patient Selection",
-      "content_html": "<p><strong>事实</strong>：198例Ⅰ度下垂只放假体：翻修2例（1.0%），仅1人后来加做提乳，无包膜挛缩。</p><p><strong>点评</strong>：Ⅰ度下垂不是提乳的自动指征；腺体量和组织厚度，比测量数据更能决定加不加疤。</p><p>Of 198 women with Grade I ptosis selected for dual-plane augmentation alone, 1.0% were revised for superior malposition, one later chose mastopexy and none developed contracture. Grade I ptosis is not an automatic mastopexy indication; glandular volume, tissue quality and expectation alignment decide whether extra scars are justified.</p><p>Aesthetic Plastic Surgery · PMID 42897244</p>",
+      "content_html": "<p><strong>事实</strong>：198例Ⅰ度下垂只放假体：翻修2例（1.0%），仅1人后来加做提乳，无包膜挛缩。</p><p><strong>点评</strong>：Ⅰ度下垂不是提乳的自动指征；腺体量和组织厚度，比测量数据更能决定加不加疤。</p><p>Of 198 women with Grade I ptosis selected for dual-plane augmentation alone, 1.0% were revised for superior malposition, one later chose mastopexy and none developed contracture. Grade I ptosis is not an automatic mastopexy indication; glandular volume, tissue quality and expectation alignment decide whether extra scars are justified.</p><p>Aesthetic Plastic Surgery · Eisenberg TS · Division of Plastic and Reconstructive Surgery, Nazareth Hospital/St. Mary Medical Center, Philadelphia, PA, USA · PMID 42897244</p>",
       "summary": "198例Ⅰ度下垂只放假体：翻修2例（1.0%），仅1人后来加做提乳，无包膜挛缩。 Ⅰ度下垂不是提乳的自动指征；腺体量和组织厚度，比测量数据更能决定加不加疤。",
       "date_published": "2026-11-09T08:00:00+08:00",
       "tags": [
@@ -933,9 +933,9 @@
     },
     {
       "id": "2026-11-09-pmid-42886861",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-09-pmid-42886861",
+      "url": "https://wangmd-cn.com/#2026-11-09-pmid-42886861",
       "title": "Breast Implant Flipping: Prevalence, Clinical Correlation, and Independent Risk Factors in a Consecutive Ultrasound Cohort",
-      "content_html": "<p><strong>事实</strong>：590例超声筛查：假体翻转12.7%，大体积、胸肌前、缺软组织覆盖是独立风险。</p><p><strong>点评</strong>：八个人里一个翻转，多数没症状；随访加个超声，比追问手感靠谱。</p><p>In 590 consecutive patients screened with high-resolution ultrasound, implant flipping was found in 12.7%, independently associated with larger volume, prepectoral placement and lack of soft tissue support. One in eight implants is flipped, often silently; in-office ultrasound turns a vague complaint into an objective finding and belongs in routine follow-up.</p><p>Aesthetic Surgery Journal · PMID 42886861</p>",
+      "content_html": "<p><strong>事实</strong>：590例超声筛查：假体翻转12.7%，大体积、胸肌前、缺软组织覆盖是独立风险。</p><p><strong>点评</strong>：八个人里一个翻转，多数没症状；随访加个超声，比追问手感靠谱。</p><p>In 590 consecutive patients screened with high-resolution ultrasound, implant flipping was found in 12.7%, independently associated with larger volume, prepectoral placement and lack of soft tissue support. One in eight implants is flipped, often silently; in-office ultrasound turns a vague complaint into an objective finding and belongs in routine follow-up.</p><p>Aesthetic Surgery Journal · McGuire P · Washington University, St Louis, MO · PMID 42886861</p>",
       "summary": "590例超声筛查：假体翻转12.7%，大体积、胸肌前、缺软组织覆盖是独立风险。 八个人里一个翻转，多数没症状；随访加个超声，比追问手感靠谱。",
       "date_published": "2026-11-09T08:00:00+08:00",
       "tags": [
@@ -947,9 +947,9 @@
     },
     {
       "id": "2026-11-08-pmid-42951306",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-08-pmid-42951306",
+      "url": "https://wangmd-cn.com/#2026-11-08-pmid-42951306",
       "title": "Accuracy of Navigated Osteotomies in Rhinoplasty: A Cadaveric Analysis",
-      "content_html": "<p><strong>事实</strong>：9具尸头18侧电磁导航截骨，实际截骨线与规划平均偏差1.5mm，经鼻与经皮入路无差异。</p><p><strong>点评</strong>：导航能把截骨做到亚毫米级，但尸头没出血没肿胀；真实价值在二次鼻和畸形鼻，不在常规截骨。</p><p>In nine cadaver heads, 18 electromagnetically navigated osteotomies deviated from the planned nasomaxillary suture by a mean of 1.5 mm, with transnasal and percutaneous routes equally accurate. Sub-millimeter accuracy in a bloodless cadaver model proves feasibility, not superiority; navigation earns its cost in revision and distorted anatomy, not routine osteotomy.</p><p>The Laryngoscope · PMID 42951306</p>",
+      "content_html": "<p><strong>事实</strong>：9具尸头18侧电磁导航截骨，实际截骨线与规划平均偏差1.5mm，经鼻与经皮入路无差异。</p><p><strong>点评</strong>：导航能把截骨做到亚毫米级，但尸头没出血没肿胀；真实价值在二次鼻和畸形鼻，不在常规截骨。</p><p>In nine cadaver heads, 18 electromagnetically navigated osteotomies deviated from the planned nasomaxillary suture by a mean of 1.5 mm, with transnasal and percutaneous routes equally accurate. Sub-millimeter accuracy in a bloodless cadaver model proves feasibility, not superiority; navigation earns its cost in revision and distorted anatomy, not routine osteotomy.</p><p>The Laryngoscope · Lauwers TA · Department of Otorhinolaryngology Head and Neck Surgery, University Hospital Zürich, University of Zürich, Zürich, Switzerland · PMID 42951306</p>",
       "summary": "9具尸头18侧电磁导航截骨，实际截骨线与规划平均偏差1.5mm，经鼻与经皮入路无差异。 导航能把截骨做到亚毫米级，但尸头没出血没肿胀；真实价值在二次鼻和畸形鼻，不在常规截骨。",
       "date_published": "2026-11-08T08:00:00+08:00",
       "tags": [
@@ -961,9 +961,9 @@
     },
     {
       "id": "2026-11-08-pmid-42950360",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-08-pmid-42950360",
+      "url": "https://wangmd-cn.com/#2026-11-08-pmid-42950360",
       "title": "Infraorbital versus sphenopalatine ganglion block for patient-reported recovery after septorhinoplasty: A randomized controlled trial",
-      "content_html": "<p><strong>事实</strong>：90例鼻中隔鼻整形RCT：眶下神经阻滞24小时QoR-15为129.1分，蝶腭神经节阻滞116.6分。</p><p><strong>点评</strong>：眶下阻滞疼痛和恢复质量全面胜出，补救镇痛11%对53%；鼻整形术后镇痛该换默认选项。</p><p>In a 90-patient RCT, ultrasound-guided infraorbital block beat transnasal sphenopalatine ganglion block on 24-hour QoR-15 (129.1 vs 116.6), with rescue analgesia in 11.4% versus 53.3%. The margin exceeds the minimal clinically important difference and cuts rescue opioid use fivefold; infraorbital block deserves to become the default for septorhinoplasty.</p><p>Journal of Clinical Anesthesia · PMID 42950360</p>",
+      "content_html": "<p><strong>事实</strong>：90例鼻中隔鼻整形RCT：眶下神经阻滞24小时QoR-15为129.1分，蝶腭神经节阻滞116.6分。</p><p><strong>点评</strong>：眶下阻滞疼痛和恢复质量全面胜出，补救镇痛11%对53%；鼻整形术后镇痛该换默认选项。</p><p>In a 90-patient RCT, ultrasound-guided infraorbital block beat transnasal sphenopalatine ganglion block on 24-hour QoR-15 (129.1 vs 116.6), with rescue analgesia in 11.4% versus 53.3%. The margin exceeds the minimal clinically important difference and cuts rescue opioid use fivefold; infraorbital block deserves to become the default for septorhinoplasty.</p><p>Journal of Clinical Anesthesia · Keklicek Ö · Department of Anesthesiology and Reanimation, University of Health Sciences, Konya City Hospital, Konya, Türkiye · PMID 42950360</p>",
       "summary": "90例鼻中隔鼻整形RCT：眶下神经阻滞24小时QoR-15为129.1分，蝶腭神经节阻滞116.6分。 眶下阻滞疼痛和恢复质量全面胜出，补救镇痛11%对53%；鼻整形术后镇痛该换默认选项。",
       "date_published": "2026-11-08T08:00:00+08:00",
       "tags": [
@@ -975,9 +975,9 @@
     },
     {
       "id": "2026-11-08-pmid-42937516",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-08-pmid-42937516",
+      "url": "https://wangmd-cn.com/#2026-11-08-pmid-42937516",
       "title": "The V-Shaped Subdomal Graft: A Structural Template for Geometric Control of the Nasal Tip",
-      "content_html": "<p><strong>事实</strong>：PRS提出V形鼻小柱下移植物，用几何模板同时控制鼻尖宽度、高度与旋转。</p><p><strong>点评</strong>：把鼻尖控制做成模板，说明手感难复制；思路值得学，但一块移植物解决不了所有鼻尖。</p><p>A PRS technique paper introduces a V-shaped subdomal graft as a geometric template for controlling tip width, height and rotation together. Template-driven tip surgery is valuable as a teaching scaffold, but it cannot replace diagnosing the underlying support deficit case by case.</p><p>Plastic and Reconstructive Surgery · PMID 42937516</p>",
+      "content_html": "<p><strong>事实</strong>：PRS提出V形鼻小柱下移植物，用几何模板同时控制鼻尖宽度、高度与旋转。</p><p><strong>点评</strong>：把鼻尖控制做成模板，说明手感难复制；思路值得学，但一块移植物解决不了所有鼻尖。</p><p>A PRS technique paper introduces a V-shaped subdomal graft as a geometric template for controlling tip width, height and rotation together. Template-driven tip surgery is valuable as a teaching scaffold, but it cannot replace diagnosing the underlying support deficit case by case.</p><p>Plastic and Reconstructive Surgery · Salah AM · Private Practice, Avara Plastic Surgery Center, Cairo, Egypt · PMID 42937516</p>",
       "summary": "PRS提出V形鼻小柱下移植物，用几何模板同时控制鼻尖宽度、高度与旋转。 把鼻尖控制做成模板，说明手感难复制；思路值得学，但一块移植物解决不了所有鼻尖。",
       "date_published": "2026-11-08T08:00:00+08:00",
       "tags": [
@@ -989,9 +989,9 @@
     },
     {
       "id": "2026-11-08-pmid-42955309",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-08-pmid-42955309",
+      "url": "https://wangmd-cn.com/#2026-11-08-pmid-42955309",
       "title": "Artificial Intelligence in Facelift Surgery: A Systematic Review of Objective Outcome Assessment and Patient-Perceived Rejuvenation",
-      "content_html": "<p><strong>事实</strong>：9项研究的系统综述：AI测得减龄1.7–5.8岁，比患者自感年轻程度低35%–50%。</p><p><strong>点评</strong>：机器算出的岁数不能当疗效指标，患者照镜子那一眼才是；AI目前只能做辅助记录。</p><p>Across nine studies, AI age estimation after facelift showed 1.7 to 5.8 years of reduction but underestimated patient-perceived rejuvenation by 35% to 50%. Systematic discordance with patient perception means AI-derived age is a research metric, not an outcome measure to quote in clinic.</p><p>Aesthetic Plastic Surgery · PMID 42955309</p>",
+      "content_html": "<p><strong>事实</strong>：9项研究的系统综述：AI测得减龄1.7–5.8岁，比患者自感年轻程度低35%–50%。</p><p><strong>点评</strong>：机器算出的岁数不能当疗效指标，患者照镜子那一眼才是；AI目前只能做辅助记录。</p><p>Across nine studies, AI age estimation after facelift showed 1.7 to 5.8 years of reduction but underestimated patient-perceived rejuvenation by 35% to 50%. Systematic discordance with patient perception means AI-derived age is a research metric, not an outcome measure to quote in clinic.</p><p>Aesthetic Plastic Surgery · Ozdemir M · Department of Plastic and Aesthetic Surgery, Atlas University Hospital, Topkapı Turgut Özal Millet Cd., Fatih, 34093, Istanbul, Turkey · PMID 42955309</p>",
       "summary": "9项研究的系统综述：AI测得减龄1.7–5.8岁，比患者自感年轻程度低35%–50%。 机器算出的岁数不能当疗效指标，患者照镜子那一眼才是；AI目前只能做辅助记录。",
       "date_published": "2026-11-08T08:00:00+08:00",
       "tags": [
@@ -1003,9 +1003,9 @@
     },
     {
       "id": "2026-11-08-pmid-42969680",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-08-pmid-42969680",
+      "url": "https://wangmd-cn.com/#2026-11-08-pmid-42969680",
       "title": "Clinical Outcomes of Submuscular vs Subglandular Implant Placement in Primary Cosmetic Breast Augmentation: A Systematic Review and Meta-analysis",
-      "content_html": "<p><strong>事实</strong>：12项研究4534例：肌下/双平面总体并发症OR 0.49，包膜挛缩OR 0.58，血肿OR 0.30。</p><p><strong>点评</strong>：肌下赢在并发症，满意度和再手术率却没差别；腺体覆盖够的瘦病人，不必一刀切放肌下。</p><p>Pooling 12 studies and 4,534 patients, submuscular or dual-plane placement had lower odds of overall complications (OR 0.49), contracture (OR 0.58) and hematoma (OR 0.30), with no difference in satisfaction or reoperation. Lower complication odds are real, but unchanged satisfaction and reoperation mean implant plane should follow tissue coverage, not habit.</p><p>Aesthetic Surgery Journal · PMID 42969680</p>",
+      "content_html": "<p><strong>事实</strong>：12项研究4534例：肌下/双平面总体并发症OR 0.49，包膜挛缩OR 0.58，血肿OR 0.30。</p><p><strong>点评</strong>：肌下赢在并发症，满意度和再手术率却没差别；腺体覆盖够的瘦病人，不必一刀切放肌下。</p><p>Pooling 12 studies and 4,534 patients, submuscular or dual-plane placement had lower odds of overall complications (OR 0.49), contracture (OR 0.58) and hematoma (OR 0.30), with no difference in satisfaction or reoperation. Lower complication odds are real, but unchanged satisfaction and reoperation mean implant plane should follow tissue coverage, not habit.</p><p>Aesthetic Surgery Journal · Cao Q ·  · PMID 42969680</p>",
       "summary": "12项研究4534例：肌下/双平面总体并发症OR 0.49，包膜挛缩OR 0.58，血肿OR 0.30。 肌下赢在并发症，满意度和再手术率却没差别；腺体覆盖够的瘦病人，不必一刀切放肌下。",
       "date_published": "2026-11-08T08:00:00+08:00",
       "tags": [
@@ -1017,9 +1017,9 @@
     },
     {
       "id": "2026-11-08-pmid-42973786",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-08-pmid-42973786",
+      "url": "https://wangmd-cn.com/#2026-11-08-pmid-42973786",
       "title": "Association of Ultrasound-Guided PECS II Block with Postoperative Pain Scores and Recovery Outcomes in Subpectoral Breast Augmentation: A Retrospective Cohort Study",
-      "content_html": "<p><strong>事实</strong>：48例胸肌下隆胸回顾：加PECS II阻滞后PACU疼痛评分1分对4分，无人需补救哌替啶。</p><p><strong>点评</strong>：样本小、回顾性，但差距大得不像偶然；把PECS II写进常规镇痛，成本低收益明确。</p><p>In 48 subpectoral augmentations, adding a PECS II block cut PACU pain scores (median 1 vs 4) and eliminated protocol-driven rescue meperidine (0% vs 71.4%). Retrospective and small, but the effect size is too large to dismiss; PECS II is a cheap addition to standard multimodal analgesia.</p><p>Journal of Multidisciplinary Healthcare · PMID 42973786</p>",
+      "content_html": "<p><strong>事实</strong>：48例胸肌下隆胸回顾：加PECS II阻滞后PACU疼痛评分1分对4分，无人需补救哌替啶。</p><p><strong>点评</strong>：样本小、回顾性，但差距大得不像偶然；把PECS II写进常规镇痛，成本低收益明确。</p><p>In 48 subpectoral augmentations, adding a PECS II block cut PACU pain scores (median 1 vs 4) and eliminated protocol-driven rescue meperidine (0% vs 71.4%). Retrospective and small, but the effect size is too large to dismiss; PECS II is a cheap addition to standard multimodal analgesia.</p><p>Journal of Multidisciplinary Healthcare · Gunduz E · Department of Anesthesiology, Istanbul Atlas University School of Medicine, Istanbul, Turkey · PMID 42973786</p>",
       "summary": "48例胸肌下隆胸回顾：加PECS II阻滞后PACU疼痛评分1分对4分，无人需补救哌替啶。 样本小、回顾性，但差距大得不像偶然；把PECS II写进常规镇痛，成本低收益明确。",
       "date_published": "2026-11-08T08:00:00+08:00",
       "tags": [
@@ -1031,9 +1031,9 @@
     },
     {
       "id": "2026-11-07-pmid-42971217",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-07-pmid-42971217",
+      "url": "https://wangmd-cn.com/#2026-11-07-pmid-42971217",
       "title": "Septorhinoplasty: The Open Approach",
-      "content_html": "<p><strong>事实</strong>：德国耳鼻喉科杂志刊出开放入路鼻中隔鼻整形专题，聚焦该入路的技术要点。</p><p><strong>点评</strong>：开放入路的价值在复杂病例的暴露与固定，不该当默认术式；条件允许时，闭合入路仍值得先考虑。</p><p>A German ENT journal runs a focused piece on the open-approach septorhinoplasty and its technical points. The open approach earns its place in complex cases, not as a default; consider a closed approach first when anatomy allows.</p><p>Laryngo-Rhino-Otologie · PMID 42971217</p>",
+      "content_html": "<p><strong>事实</strong>：德国耳鼻喉科杂志刊出开放入路鼻中隔鼻整形专题，聚焦该入路的技术要点。</p><p><strong>点评</strong>：开放入路的价值在复杂病例的暴露与固定，不该当默认术式；条件允许时，闭合入路仍值得先考虑。</p><p>A German ENT journal runs a focused piece on the open-approach septorhinoplasty and its technical points. The open approach earns its place in complex cases, not as a default; consider a closed approach first when anatomy allows.</p><p>Laryngo-Rhino-Otologie · Santer M · Medizinische Universität Innsbruck, Universitätsklinik für Hals-, Nasen- und Ohrenheilkunde sowie Kopf- und Halschirurgie, Österreich, Innsbruck · PMID 42971217</p>",
       "summary": "德国耳鼻喉科杂志刊出开放入路鼻中隔鼻整形专题，聚焦该入路的技术要点。 开放入路的价值在复杂病例的暴露与固定，不该当默认术式；条件允许时，闭合入路仍值得先考虑。",
       "date_published": "2026-11-07T08:00:00+08:00",
       "tags": [
@@ -1045,9 +1045,9 @@
     },
     {
       "id": "2026-11-05-pmid-42937516",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-05-pmid-42937516",
+      "url": "https://wangmd-cn.com/#2026-11-05-pmid-42937516",
       "title": "The V-Shaped Subdomal Graft: A Structural Template for Geometric Control of the Nasal Tip",
-      "content_html": "<p><strong>事实</strong>：PRS 提出 V 形鼻尖下移植物，用一块可预判的软骨模板对鼻尖做几何化控制。</p><p><strong>点评</strong>：模板化的价值在于可复制，但要盯住鼻尖投影的长期稳定性——这类文章最常见的坑是随访短、样本小。</p><p>PRS introduces a V-shaped subdomal graft as a predictable template for geometric tip control. Templates are only worth it if tip projection holds at 2+ years; check follow-up before adopting.</p><p>Plastic and Reconstructive Surgery · PMID 42937516</p>",
+      "content_html": "<p><strong>事实</strong>：PRS 提出 V 形鼻尖下移植物，用一块可预判的软骨模板对鼻尖做几何化控制。</p><p><strong>点评</strong>：模板化的价值在于可复制，但要盯住鼻尖投影的长期稳定性——这类文章最常见的坑是随访短、样本小。</p><p>PRS introduces a V-shaped subdomal graft as a predictable template for geometric tip control. Templates are only worth it if tip projection holds at 2+ years; check follow-up before adopting.</p><p>Plastic and Reconstructive Surgery · Salah AM · Private Practice, Avara Plastic Surgery Center, Cairo, Egypt · PMID 42937516</p>",
       "summary": "PRS 提出 V 形鼻尖下移植物，用一块可预判的软骨模板对鼻尖做几何化控制。 模板化的价值在于可复制，但要盯住鼻尖投影的长期稳定性——这类文章最常见的坑是随访短、样本小。",
       "date_published": "2026-11-05T08:00:00+08:00",
       "tags": [
@@ -1059,9 +1059,9 @@
     },
     {
       "id": "2026-11-05-pmid-42951306",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-05-pmid-42951306",
+      "url": "https://wangmd-cn.com/#2026-11-05-pmid-42951306",
       "title": "Accuracy of Navigated Osteotomies in Rhinoplasty: A Cadaveric Analysis",
-      "content_html": "<p><strong>事实</strong>：九具尸体、18 侧电磁导航截骨显示，导航能让截骨线更贴近鼻上颌缝。</p><p><strong>点评</strong>：把「手感」变成可测误差是好事，但导航的机器成本和每台多出的 10 分钟，才是它进不了日间手术室的真实原因。</p><p>Electromagnetic navigation placed osteotomies closer to the nasomaxillary suture in nine cadavers (n=18). Turning feel into a measured error is progress; capital cost and added setup time remain the adoption barrier.</p><p>The Laryngoscope · PMID 42951306</p>",
+      "content_html": "<p><strong>事实</strong>：九具尸体、18 侧电磁导航截骨显示，导航能让截骨线更贴近鼻上颌缝。</p><p><strong>点评</strong>：把「手感」变成可测误差是好事，但导航的机器成本和每台多出的 10 分钟，才是它进不了日间手术室的真实原因。</p><p>Electromagnetic navigation placed osteotomies closer to the nasomaxillary suture in nine cadavers (n=18). Turning feel into a measured error is progress; capital cost and added setup time remain the adoption barrier.</p><p>The Laryngoscope · Lauwers TA · Department of Otorhinolaryngology Head and Neck Surgery, University Hospital Zürich, University of Zürich, Zürich, Switzerland · PMID 42951306</p>",
       "summary": "九具尸体、18 侧电磁导航截骨显示，导航能让截骨线更贴近鼻上颌缝。 把「手感」变成可测误差是好事，但导航的机器成本和每台多出的 10 分钟，才是它进不了日间手术室的真实原因。",
       "date_published": "2026-11-05T08:00:00+08:00",
       "tags": [
@@ -1073,9 +1073,9 @@
     },
     {
       "id": "2026-11-05-pmid-42950360",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-05-pmid-42950360",
+      "url": "https://wangmd-cn.com/#2026-11-05-pmid-42950360",
       "title": "Infraorbital versus sphenopalatine ganglion block for patient-reported recovery after septorhinoplasty: a randomized controlled trial",
-      "content_html": "<p><strong>事实</strong>：90 例随机对照：眶下神经阻滞 vs 蝶腭神经节阻滞，主要终点是术后 24 小时恢复质量。</p><p><strong>点评</strong>：这是能明天就改方案的那类证据——如果眶下阻滞不劣，操作更简单、超声引导更熟悉，值得换。</p><p>A 90-patient RCT compared infraorbital with sphenopalatine ganglion block on 24-hour recovery quality. Actionable now: if infraorbital block is non-inferior, it is easier to teach and to schedule.</p><p>Journal of Clinical Anesthesia · PMID 42950360</p>",
+      "content_html": "<p><strong>事实</strong>：90 例随机对照：眶下神经阻滞 vs 蝶腭神经节阻滞，主要终点是术后 24 小时恢复质量。</p><p><strong>点评</strong>：这是能明天就改方案的那类证据——如果眶下阻滞不劣，操作更简单、超声引导更熟悉，值得换。</p><p>A 90-patient RCT compared infraorbital with sphenopalatine ganglion block on 24-hour recovery quality. Actionable now: if infraorbital block is non-inferior, it is easier to teach and to schedule.</p><p>Journal of Clinical Anesthesia · Keklicek Ö · Department of Anesthesiology and Reanimation, University of Health Sciences, Konya City Hospital, Konya, Türkiye · PMID 42950360</p>",
       "summary": "90 例随机对照：眶下神经阻滞 vs 蝶腭神经节阻滞，主要终点是术后 24 小时恢复质量。 这是能明天就改方案的那类证据——如果眶下阻滞不劣，操作更简单、超声引导更熟悉，值得换。",
       "date_published": "2026-11-05T08:00:00+08:00",
       "tags": [
@@ -1087,9 +1087,9 @@
     },
     {
       "id": "2026-11-05-pmid-42980382",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-05-pmid-42980382",
+      "url": "https://wangmd-cn.com/#2026-11-05-pmid-42980382",
       "title": "Prevention of Secondary Deformities at the Donor Site After Cartilage Transplantation",
-      "content_html": "<p><strong>事实</strong>：92 例耳软骨移植：术前耳模塑形 + 耳轮内侧切口，降低供区继发畸形。</p><p><strong>点评</strong>：供区畸形是患者术后最常抱怨却最少被写进论文的部分，这篇给了可照做的流程。</p><p>In 92 patients, preoperative ear splinting plus antihelix-side incisions reduced donor-site deformity. Donor-site deformity is under-reported and over-complained about; this gives a repeatable protocol.</p><p>Journal of Craniofacial Surgery · PMID 42980382</p>",
+      "content_html": "<p><strong>事实</strong>：92 例耳软骨移植：术前耳模塑形 + 耳轮内侧切口，降低供区继发畸形。</p><p><strong>点评</strong>：供区畸形是患者术后最常抱怨却最少被写进论文的部分，这篇给了可照做的流程。</p><p>In 92 patients, preoperative ear splinting plus antihelix-side incisions reduced donor-site deformity. Donor-site deformity is under-reported and over-complained about; this gives a repeatable protocol.</p><p>Journal of Craniofacial Surgery · Shi J · Department of Plastic Surgery, Shenzhen New Frontier United Family Hospital, Shenzhen, Guangdong Province · PMID 42980382</p>",
       "summary": "92 例耳软骨移植：术前耳模塑形 + 耳轮内侧切口，降低供区继发畸形。 供区畸形是患者术后最常抱怨却最少被写进论文的部分，这篇给了可照做的流程。",
       "date_published": "2026-11-05T08:00:00+08:00",
       "tags": [
@@ -1101,9 +1101,9 @@
     },
     {
       "id": "2026-11-05-pmid-42955309",
-      "url": "https://timsurg-boop.github.io/rhinoplasty-daily/#2026-11-05-pmid-42955309",
+      "url": "https://wangmd-cn.com/#2026-11-05-pmid-42955309",
       "title": "Artificial Intelligence in Facelift Surgery: A Systematic Review of Objective Outcome Assessment and Patient-Perceived Rejuvenation",
-      "content_html": "<p><strong>事实</strong>：系统综述纳入 9 项研究，评估 AI 判断提升术后年轻化的客观性与患者主观感知的一致性。</p><p><strong>点评</strong>：结论大概率是「AI 算得准、但和患者自己觉得好不好看不完全一致」——这正是咨询时最该讲的那句话。</p><p>Nine studies reviewed on AI-based age estimation and its concordance with patient-perceived rejuvenation. Expect a gap between algorithmic age gain and patient satisfaction; that gap is the consultation script.</p><p>Aesthetic Plastic Surgery · PMID 42955309</p>",
+      "content_html": "<p><strong>事实</strong>：系统综述纳入 9 项研究，评估 AI 判断提升术后年轻化的客观性与患者主观感知的一致性。</p><p><strong>点评</strong>：结论大概率是「AI 算得准、但和患者自己觉得好不好看不完全一致」——这正是咨询时最该讲的那句话。</p><p>Nine studies reviewed on AI-based age estimation and its concordance with patient-perceived rejuvenation. Expect a gap between algorithmic age gain and patient satisfaction; that gap is the consultation script.</p><p>Aesthetic Plastic Surgery · Ozdemir M · Department of Plastic and Aesthetic Surgery, Atlas University Hospital, Topkapı Turgut Özal Millet Cd., Fatih, 34093, Istanbul, Turkey · PMID 42955309</p>",
       "summary": "系统综述纳入 9 项研究，评估 AI 判断提升术后年轻化的客观性与患者主观感知的一致性。 结论大概率是「AI 算得准、但和患者自己觉得好不好看不完全一致」——这正是咨询时最该讲的那句话。",
       "date_published": "2026-11-05T08:00:00+08:00",
       "tags": [

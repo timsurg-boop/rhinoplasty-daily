@@ -19,7 +19,9 @@
       "take_zh": "把注射从堆量改成撑韧带，方向对；但100例无对照、无客观测量，只能算可行。",
       "scene_zh": "想打针又怕变假鼻子的，先看他韧带松不松，不是先算毫升。",
       "fact_en": "In a 100-patient retrospective series, a five-zone \"Dou-gong\" technique injected hyaluronic acid above periosteum or perichondrium to reinforce nasal ligament support, with no vascular occlusion or material displacement.",
-      "take_en": "Shifting injection rhinoplasty from volume stacking to ligament support is conceptually right, but a single-arm Level IV series without objective measurement proves feasibility only."
+      "take_en": "Shifting injection rhinoplasty from volume stacking to ligament support is conceptually right, but a single-arm Level IV series without objective measurement proves feasibility only.",
+      "first_author": "Sun C",
+      "first_affil": "Department of Plastic Surgery, Peking University Third Hospital, Beijing, China"
     },
     {
       "id": "2026-11-09-pmid-42869968",
@@ -36,7 +38,9 @@
       "take_zh": "感染不看前三个月就漏一半；抽烟、翻修、皮肤炎症是术前能改的变量。",
       "scene_zh": "做ePTFE的病人半年后红肿发热，别当感冒治，先想到假体。",
       "fact_en": "Among 1,153 consecutive ePTFE rhinoplasties, overall infection incidence was about 1.6%, and more than half of infections presented beyond six months, including cases after one year.",
-      "take_en": "Late-onset infection is common rather than exceptional, so follow-up must extend past the first year and modifiable risks such as smoking and revision belong in preoperative planning."
+      "take_en": "Late-onset infection is common rather than exceptional, so follow-up must extend past the first year and modifiable risks such as smoking and revision belong in preoperative planning.",
+      "first_author": "Yi K",
+      "first_affil": "Department of Plastic and Aesthetic (Burn) Surgery, The Second Xiangya Hospital of Central South University, Changsha City, Hunan Province, People's Republic of China"
     },
     {
       "id": "2026-11-09-pmid-42914090",
@@ -53,7 +57,9 @@
       "take_zh": "真正该背的是风险清单和早期识别；等皮肤发黑再上药，多半只剩清创。",
       "scene_zh": "抽烟又要翻修的，术前把皮肤风险讲透，别等拆线才解释。",
       "fact_en": "A review identified revision surgery, smoking and aggressive flap thinning as the main risk factors for nasal skin necrosis, with early topical nitroglycerin, hyperbaric oxygen and pentoxifylline suggested for salvage.",
-      "take_en": "The protocol's value lies in preoperative risk stratification and early recognition; salvage drugs started after the skin turns black rarely change the outcome."
+      "take_en": "The protocol's value lies in preoperative risk stratification and early recognition; salvage drugs started after the skin turns black rarely change the outcome.",
+      "first_author": "Martínez-Villasmil V",
+      "first_affil": "Servicio de Otorrinolaringología. Complejo Hospitalario Universitario de Pontevedra. Pontevedra, Spain. Electronic address:"
     },
     {
       "id": "2026-11-09-pmid-42873118",
@@ -70,7 +76,9 @@
       "take_zh": "降到0靠的是消灭死腔不是压迫包扎；但面神经暂时麻痹10.4%，签字前得说。",
       "scene_zh": "怕血肿又不想缠头绷带的，可以谈这做法，下颌缘麻痹要提前交代。",
       "fact_en": "In a 561-patient comparative series, an internal hemostatic network with progressive tension sutures and no drains or compression produced zero hematomas requiring evacuation versus 5.9% in controls, with transient marginal mandibular weakness in 10.4%.",
-      "take_en": "Eliminating dead space beats external pressure for hematoma prevention, but a 10.4% transient nerve weakness rate is the price and belongs in consent."
+      "take_en": "Eliminating dead space beats external pressure for hematoma prevention, but a 10.4% transient nerve weakness rate is the price and belongs in consent.",
+      "first_author": "Pellini E",
+      "first_affil": "- Plastic Surgeon - Private Practitioner - Porto Alegre, Brazil"
     },
     {
       "id": "2026-11-09-pmid-42897244",
@@ -87,7 +95,9 @@
       "take_zh": "Ⅰ度下垂不是提乳的自动指征；腺体量和组织厚度，比测量数据更能决定加不加疤。",
       "scene_zh": "病人说不想多两道疤，我先捏组织厚度，再谈能不能只放假体。",
       "fact_en": "Of 198 women with Grade I ptosis selected for dual-plane augmentation alone, 1.0% were revised for superior malposition, one later chose mastopexy and none developed contracture.",
-      "take_en": "Grade I ptosis is not an automatic mastopexy indication; glandular volume, tissue quality and expectation alignment decide whether extra scars are justified."
+      "take_en": "Grade I ptosis is not an automatic mastopexy indication; glandular volume, tissue quality and expectation alignment decide whether extra scars are justified.",
+      "first_author": "Eisenberg TS",
+      "first_affil": "Division of Plastic and Reconstructive Surgery, Nazareth Hospital/St. Mary Medical Center, Philadelphia, PA, USA"
     },
     {
       "id": "2026-11-09-pmid-42886861",
@@ -104,7 +114,9 @@
       "take_zh": "八个人里一个翻转，多数没症状；随访加个超声，比追问手感靠谱。",
       "scene_zh": "病人说一边摸着不对劲，先扫超声看补片朝哪边，别急着说没事。",
       "fact_en": "In 590 consecutive patients screened with high-resolution ultrasound, implant flipping was found in 12.7%, independently associated with larger volume, prepectoral placement and lack of soft tissue support.",
-      "take_en": "One in eight implants is flipped, often silently; in-office ultrasound turns a vague complaint into an objective finding and belongs in routine follow-up."
+      "take_en": "One in eight implants is flipped, often silently; in-office ultrasound turns a vague complaint into an objective finding and belongs in routine follow-up.",
+      "first_author": "McGuire P",
+      "first_affil": "Washington University, St Louis, MO"
     }
   ]
 }

@@ -19,7 +19,9 @@
       "take_zh": "激素是唯一稳定的；激素+氨甲环酸的“最佳组合”证据等级低，只能算假设，别当定论。",
       "scene_zh": "消肿药里激素最靠谱，氨甲环酸锦上添花；所谓组合最优，证据还不够硬。",
       "fact_en": "In a network meta-analysis of 36 randomized trials, corticosteroids consistently reduced post-rhinoplasty edema and ecchymosis, while tranexamic acid only modestly reduced early ecchymosis (SMD -0.80).",
-      "take_en": "Corticosteroids were the only consistently supported agent; the corticosteroid-plus-TXA combination ranked highest on SUCRA but rests on sparse indirect evidence rated low to very low certainty."
+      "take_en": "Corticosteroids were the only consistently supported agent; the corticosteroid-plus-TXA combination ranked highest on SUCRA but rests on sparse indirect evidence rated low to very low certainty.",
+      "first_author": "Constante MM",
+      "first_affil": "Hospital do Servidor Público Municipal de São Paulo, São Paulo, Brazil"
     },
     {
       "id": "2026-11-14-pmid-42974243",
@@ -36,7 +38,9 @@
       "take_zh": "截骨后头痛、呕吐、意识变化别只当麻醉反应；尽早血管造影，罕见但致命。",
       "scene_zh": "隆鼻截骨后剧烈头痛、喷射性呕吐，先排颅内出血，别急着说“麻药还没过”。",
       "fact_en": "A 31-year-old man developed intracerebral hemorrhage after rhinoplasty with osteotomy; angiography showed a medial orbitofrontal artery pseudoaneurysm, treated by microsurgical trapping and clipping with complete neurological recovery.",
-      "take_en": "Intracranial pseudoaneurysm after osteotomy is rare but catastrophic, so post-rhinoplasty hemorrhage and neuro symptoms warrant prompt vascular imaging instead of watchful waiting."
+      "take_en": "Intracranial pseudoaneurysm after osteotomy is rare but catastrophic, so post-rhinoplasty hemorrhage and neuro symptoms warrant prompt vascular imaging instead of watchful waiting.",
+      "first_author": "Hasanpour M",
+      "first_affil": "Firoozgar Clinical Research Development Center, Department of Neurosurgery, Iran University of Medical Sciences, Tehran, Iran"
     },
     {
       "id": "2026-11-14-pmid-42897248",
@@ -53,7 +57,9 @@
       "take_zh": "AI估龄可当客观指标，但病人自评年轻多少才是主结局；两者的数别混着报。",
       "scene_zh": "照片测出来年轻七岁半，可病人满不满意，还得看问卷，不是看算法。",
       "fact_en": "In 72 deep-plane face and neck lifts, five CNN models estimated a mean age reduction of 7.64 years (15.7%), but AI estimates correlated only weakly with FACE-Q scores (rho 0.25).",
-      "take_en": "AI age estimation is reproducible as an objective metric, yet patient-perceived rejuvenation correlated far more strongly (rho 0.61) and should stay the primary outcome."
+      "take_en": "AI age estimation is reproducible as an objective metric, yet patient-perceived rejuvenation correlated far more strongly (rho 0.61) and should stay the primary outcome.",
+      "first_author": "Karaali S",
+      "first_affil": "Department of Plastic, Reconstructive and Aesthetic Surgery, Private practice, Istanbul, Turkey"
     },
     {
       "id": "2026-11-14-pmid-42881301",
@@ -70,7 +76,9 @@
       "take_zh": "留部分包膜能稳住腔隙、少创伤；但这是单中心描述性研究，随访时长没写，别当治愈率。",
       "scene_zh": "挛缩不一定全切包膜，留一部分反而稳；长期复发率现在还没数。",
       "fact_en": "In 223 consecutive revision augmentations, a U-shaped selective capsulectomy sparing medial, lateral and caudal capsule produced no recurrence of contracture, symmastia or bottoming out during available follow-up.",
-      "take_en": "Capsule-sparing revision preserves pocket geometry with less morbidity, but this single-center descriptive series does not report follow-up duration and cannot establish a recurrence rate."
+      "take_en": "Capsule-sparing revision preserves pocket geometry with less morbidity, but this single-center descriptive series does not report follow-up duration and cannot establish a recurrence rate.",
+      "first_author": "Bromba AM",
+      "first_affil": "Department of Plastic and Aesthetic Surgery, Interdisciplinary Breast Center, Sana Kliniken Düsseldorf GmbH, Gräulinger Straße 120, 40625, Düsseldorf, Germany"
     },
     {
       "id": "2026-11-14-pmid-42820993",
@@ -87,7 +95,9 @@
       "take_zh": "技术可行，但“满意度100%”出自单术者回顾、无对照；假体位置得看更长期。",
       "scene_zh": "下皱襞多缝一道确实不容易往下掉；百分百满意这种话，听听就好。",
       "fact_en": "In 53 IMF-approach augmentations using a modified internal fixation suture, 3 implants displaced less than 5 mm inferiorly, none needed revision, and mean follow-up was 12 months.",
-      "take_en": "The technique is feasible for fold support, but a single-surgeon retrospective series claiming 100% satisfaction cannot establish superiority over standard closure."
+      "take_en": "The technique is feasible for fold support, but a single-surgeon retrospective series claiming 100% satisfaction cannot establish superiority over standard closure.",
+      "first_author": "Gao S",
+      "first_affil": "Department of Plastic Surgery, The Affiliated Friendship Plastic Surgery Hospital of Nanjing Medical University, No.146, Han-zhong Road, Nanjing, 210029, Jiangsu, China"
     }
   ]
 }

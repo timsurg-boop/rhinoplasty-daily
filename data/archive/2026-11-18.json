@@ -19,7 +19,9 @@
       "take_zh": "满意度涨53分好看，但随访期零翻修不合常理，更像随访短或失访，别照抄这组数。",
       "scene_zh": "这个满意度分数先别急着信，得问他们随访了多久。",
       "fact_en": "In 263 primary rhinoplasties by a single surgeon, ROE improved from 31.5 to 84.8, with no major complications or revisions reported.",
-      "take_en": "A 53-point ROE gain alongside zero revisions over follow-up points to short or incomplete follow-up rather than surgical superiority."
+      "take_en": "A 53-point ROE gain alongside zero revisions over follow-up points to short or incomplete follow-up rather than surgical superiority.",
+      "first_author": "Alzayadneh I",
+      "first_affil": "Department of Otolaryngology, Head & Neck Surgery, Mutah University, Mutah, Karak, 61710, Jordan"
     },
     {
       "id": "2026-11-18-pmid-42853803",
@@ -37,7 +39,9 @@
       "take_zh": "12例、无对照、无客观通气测量，“全部满意”只能算可行性信号，不能算疗效。",
       "scene_zh": "鼻翼塌、鼻阀窄的翻修可以留一块L形肋软骨，但别承诺一次到位。",
       "fact_en": "Twelve revision patients received bilateral L-shaped costal cartilage lateral crural grafts; at a mean 9.5 months there were no infections, exposures, warping or recurrences.",
-      "take_en": "Twelve uncontrolled cases judged by surgeon and patient report show feasibility only, not efficacy."
+      "take_en": "Twelve uncontrolled cases judged by surgeon and patient report show feasibility only, not efficacy.",
+      "first_author": "Yenigun A",
+      "first_affil": "Department of Otorhinolaryngology, Faculty of Medicine, Bezmialem Vakif University, Fatih, Istanbul, Turkey"
     },
     {
       "id": "2026-11-18-pmid-42809129",
@@ -54,7 +58,9 @@
       "take_zh": "样本30、非随机、随访短；能说两种做法鼻尖上区反应不同，不能说哪个更好。",
       "scene_zh": "选高鼻中隔就得接受鼻尖上区掉得多一点，术前先讲清。",
       "fact_en": "In 30 preservation rhinoplasties measured on standardized photographs, the high septal technique lowered the supratip more while the low septal approach left it relatively higher.",
-      "take_en": "Thirty non-randomized cases with short follow-up describe how the two variants move the supratip, not which one is better."
+      "take_en": "Thirty non-randomized cases with short follow-up describe how the two variants move the supratip, not which one is better.",
+      "first_author": "Ekici RF",
+      "first_affil": "Department of Plastic, Reconstructive and Aesthetic Surgery, Karaman Training and Research Hospital, Üniversite Mahallesi, 1984 Street No:1, 70200, Karaman, Turkey"
     },
     {
       "id": "2026-11-18-pmid-43039989",
@@ -72,7 +78,9 @@
       "take_zh": "位移大不等于好看，分组按时间先后而非随机，耐久性作者自己也没测。",
       "scene_zh": "别拿毫米数跟病人许诺，拉得多不代表拉得好。",
       "fact_en": "In 32 patients imaged at six months, the preservation facelift displaced the medial midface 4.75 mm laterally versus 2.54 mm for the deep plane lift.",
-      "take_en": "More displacement is not a better face, allocation followed chronology rather than randomization, and durability was not measured."
+      "take_en": "More displacement is not a better face, allocation followed chronology rather than randomization, and durability was not measured.",
+      "first_author": "Roskies M",
+      "first_affil": "Yorkville Plastic Surgery Centre, Toronto, ON, Canada"
     },
     {
       "id": "2026-11-18-preprint-rs-11330171",
@@ -106,7 +114,9 @@
       "take_zh": "证据只能定性汇总、测量工具各异；可用于术前告知，不能用来给切口排名。",
       "scene_zh": "乳晕切口感觉恢复慢一些，多半会好，这个术前就要说。",
       "fact_en": "Across 26 studies and 9,190 patients, most sensory loss after augmentation recovered within 6 to 12 months, with more early nipple hypoesthesia after periareolar incisions.",
-      "take_en": "Heterogeneous measures forced a qualitative synthesis, so this informs consent rather than ranking incisions."
+      "take_en": "Heterogeneous measures forced a qualitative synthesis, so this informs consent rather than ranking incisions.",
+      "first_author": "Ghadban E",
+      "first_affil": "Department of Plastic and Reconstructive Surgery, Saint George Hospital University Medical Center, Beirut, Lebanon"
     }
   ]
 }

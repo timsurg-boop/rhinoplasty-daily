@@ -19,7 +19,9 @@
       "take_zh": "导航能把截骨做到亚毫米级，但尸头没出血没肿胀；真实价值在二次鼻和畸形鼻，不在常规截骨。",
       "scene_zh": "病人问能不能截得更准，我说准不准靠设计和手感，导航是给复杂病例上保险。",
       "fact_en": "In nine cadaver heads, 18 electromagnetically navigated osteotomies deviated from the planned nasomaxillary suture by a mean of 1.5 mm, with transnasal and percutaneous routes equally accurate.",
-      "take_en": "Sub-millimeter accuracy in a bloodless cadaver model proves feasibility, not superiority; navigation earns its cost in revision and distorted anatomy, not routine osteotomy."
+      "take_en": "Sub-millimeter accuracy in a bloodless cadaver model proves feasibility, not superiority; navigation earns its cost in revision and distorted anatomy, not routine osteotomy.",
+      "first_author": "Lauwers TA",
+      "first_affil": "Department of Otorhinolaryngology Head and Neck Surgery, University Hospital Zürich, University of Zürich, Zürich, Switzerland"
     },
     {
       "id": "2026-11-08-pmid-42950360",
@@ -36,7 +38,9 @@
       "take_zh": "眶下阻滞疼痛和恢复质量全面胜出，补救镇痛11%对53%；鼻整形术后镇痛该换默认选项。",
       "scene_zh": "术后疼不疼，很大程度取决于麻醉打的是哪一针，这事术前就该跟病人说清楚。",
       "fact_en": "In a 90-patient RCT, ultrasound-guided infraorbital block beat transnasal sphenopalatine ganglion block on 24-hour QoR-15 (129.1 vs 116.6), with rescue analgesia in 11.4% versus 53.3%.",
-      "take_en": "The margin exceeds the minimal clinically important difference and cuts rescue opioid use fivefold; infraorbital block deserves to become the default for septorhinoplasty."
+      "take_en": "The margin exceeds the minimal clinically important difference and cuts rescue opioid use fivefold; infraorbital block deserves to become the default for septorhinoplasty.",
+      "first_author": "Keklicek Ö",
+      "first_affil": "Department of Anesthesiology and Reanimation, University of Health Sciences, Konya City Hospital, Konya, Türkiye"
     },
     {
       "id": "2026-11-08-pmid-42937516",
@@ -53,7 +57,9 @@
       "take_zh": "把鼻尖控制做成模板，说明手感难复制；思路值得学，但一块移植物解决不了所有鼻尖。",
       "scene_zh": "鼻尖不够翘又怕做太高，这种病人我先看鼻中隔支撑够不够，而不是先加块移植物。",
       "fact_en": "A PRS technique paper introduces a V-shaped subdomal graft as a geometric template for controlling tip width, height and rotation together.",
-      "take_en": "Template-driven tip surgery is valuable as a teaching scaffold, but it cannot replace diagnosing the underlying support deficit case by case."
+      "take_en": "Template-driven tip surgery is valuable as a teaching scaffold, but it cannot replace diagnosing the underlying support deficit case by case.",
+      "first_author": "Salah AM",
+      "first_affil": "Private Practice, Avara Plastic Surgery Center, Cairo, Egypt"
     },
     {
       "id": "2026-11-08-pmid-42955309",
@@ -70,7 +76,9 @@
       "take_zh": "机器算出的岁数不能当疗效指标，患者照镜子那一眼才是；AI目前只能做辅助记录。",
       "scene_zh": "病人拿手机测脸龄给我看，我会说那玩意儿只认皱纹，不认松弛。",
       "fact_en": "Across nine studies, AI age estimation after facelift showed 1.7 to 5.8 years of reduction but underestimated patient-perceived rejuvenation by 35% to 50%.",
-      "take_en": "Systematic discordance with patient perception means AI-derived age is a research metric, not an outcome measure to quote in clinic."
+      "take_en": "Systematic discordance with patient perception means AI-derived age is a research metric, not an outcome measure to quote in clinic.",
+      "first_author": "Ozdemir M",
+      "first_affil": "Department of Plastic and Aesthetic Surgery, Atlas University Hospital, Topkapı Turgut Özal Millet Cd., Fatih, 34093, Istanbul, Turkey"
     },
     {
       "id": "2026-11-08-pmid-42969680",
@@ -87,7 +95,8 @@
       "take_zh": "肌下赢在并发症，满意度和再手术率却没差别；腺体覆盖够的瘦病人，不必一刀切放肌下。",
       "scene_zh": "病人问放肌肉下还是腺体下，我说先看你皮够不够厚、腺体盖不盖得住假体边缘。",
       "fact_en": "Pooling 12 studies and 4,534 patients, submuscular or dual-plane placement had lower odds of overall complications (OR 0.49), contracture (OR 0.58) and hematoma (OR 0.30), with no difference in satisfaction or reoperation.",
-      "take_en": "Lower complication odds are real, but unchanged satisfaction and reoperation mean implant plane should follow tissue coverage, not habit."
+      "take_en": "Lower complication odds are real, but unchanged satisfaction and reoperation mean implant plane should follow tissue coverage, not habit.",
+      "first_author": "Cao Q"
     },
     {
       "id": "2026-11-08-pmid-42973786",
@@ -104,7 +113,9 @@
       "take_zh": "样本小、回顾性，但差距大得不像偶然；把PECS II写进常规镇痛，成本低收益明确。",
       "scene_zh": "怕疼的病人，我会提前说麻醉能在胸壁加一针阻滞，术后第一晚差别很明显。",
       "fact_en": "In 48 subpectoral augmentations, adding a PECS II block cut PACU pain scores (median 1 vs 4) and eliminated protocol-driven rescue meperidine (0% vs 71.4%).",
-      "take_en": "Retrospective and small, but the effect size is too large to dismiss; PECS II is a cheap addition to standard multimodal analgesia."
+      "take_en": "Retrospective and small, but the effect size is too large to dismiss; PECS II is a cheap addition to standard multimodal analgesia.",
+      "first_author": "Gunduz E",
+      "first_affil": "Department of Anesthesiology, Istanbul Atlas University School of Medicine, Istanbul, Turkey"
     }
   ]
 }

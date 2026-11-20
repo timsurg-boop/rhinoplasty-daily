@@ -19,7 +19,9 @@
       "take_zh": "功能鼻整形合并焦虑抑郁，术前就要讲清翻修风险高、症状改善打折；美容鼻整形不必因此劝退，满意度没差。",
       "scene_zh": "功能上合并焦虑抑郁的，先把翻修率和改善幅度说在前面，别承诺一次到位。",
       "fact_en": "In 490 functional septorhinoplasties, anxiety/depression patients had worse postoperative NOSE scores (35.3 vs 24.1) and higher revision odds (OR 2.56); among 179 aesthetic cases there was no difference.",
-      "take_en": "For functional cases, disclose the higher revision rate and smaller symptom gain; anxiety or depression should not disqualify aesthetic candidates, whose satisfaction was unaffected."
+      "take_en": "For functional cases, disclose the higher revision rate and smaller symptom gain; anxiety or depression should not disqualify aesthetic candidates, whose satisfaction was unaffected.",
+      "first_author": "Lynn JV",
+      "first_affil": "Section of Plastic Surgery, Department of Surgery, University of Michigan, Ann Arbor, MI"
     },
     {
       "id": "2026-11-12-pmid-42888129",
@@ -36,7 +38,9 @@
       "take_zh": "两种术式对嗓音只是细微扰动改善，别拿“术后声音更好”当卖点；CPPS没动，整体音质没有证据支持。",
       "scene_zh": "声音不会变差，也说不上变好，这个别当承诺。",
       "fact_en": "In 40 women, both preservation and structural rhinoplasty lowered jitter and shimmer and raised HNR at 3 months, with no change in CPPS and no meaningful between-technique difference.",
-      "take_en": "Only subclinical perturbation changes occurred; do not market voice improvement, since CPPS and overall voice quality did not change."
+      "take_en": "Only subclinical perturbation changes occurred; do not market voice improvement, since CPPS and overall voice quality did not change.",
+      "first_author": "Kara K",
+      "first_affil": "Department of Otorhinolaryngology-Head and Neck Surgery, Adana City Training and Research Hospital, Adana, Türkiye. Electronic address:"
     },
     {
       "id": "2026-11-12-pmid-42923336",
@@ -53,7 +57,9 @@
       "take_zh": "能挑时间的话，把择期鼻整形排在卵泡期（月经结束后一周），淤青会轻些；这是探索性观察，别当铁律。",
       "scene_zh": "时间能自己定的，月经干净后那一周做，眼睛肿和淤青会轻一点。",
       "fact_en": "In 72 women having open rhinoplasty, periorbital edema and ecchymosis on days 1 and 3 were lowest in the estimated follicular phase and higher in luteal and periovulatory phases.",
-      "take_en": "Schedule elective rhinoplasty in the follicular week if the patient can choose, while treating this exploratory finding as hypothesis-generating rather than a rule."
+      "take_en": "Schedule elective rhinoplasty in the follicular week if the patient can choose, while treating this exploratory finding as hypothesis-generating rather than a rule.",
+      "first_author": "Topan YE",
+      "first_affil": "Department of Otorhinolaryngology, Faculty of Medicine, Uşak University, Uşak, Türkiye"
     },
     {
       "id": "2026-11-12-pmid-42836382",
@@ -70,7 +76,9 @@
       "take_zh": "局麻里加TXA安全性站得住，可以常规用；但这篇只证明“不更危险”，少出血少淤青的获益要靠别的证据。",
       "scene_zh": "麻药里加TXA，一千多例没多出事，出血还少。",
       "fact_en": "In 1,036 face and neck lifts, TXA in local anesthetic (mean 582.6 mg) was not associated with more ischemic or systemic complications; no permanent nerve paralysis occurred.",
-      "take_en": "The safety signal is reassuring enough for routine use, but this cohort only rules out added harm; the bleeding and bruising benefit rests on other studies."
+      "take_en": "The safety signal is reassuring enough for routine use, but this cohort only rules out added harm; the bleeding and bruising benefit rests on other studies.",
+      "first_author": "Langsdon SE",
+      "first_affil": "Private practice in Germantown, TN"
     },
     {
       "id": "2026-11-12-pmid-42897247",
@@ -87,7 +95,9 @@
       "take_zh": "轻下垂、不肯做悬吊的，选聚氨酯假体并控制容量≤350cc，可以只放假体；代价是乳头平均下移0.8cm。",
       "scene_zh": "轻度下垂不想开悬吊，就用聚氨酯假体、容量别贪大，乳头会略往下走一点。",
       "fact_en": "In 90 women with polyurethane implants, implant-only augmentation in selected mild ptosis scored 75.6 on BREAST-Q at 24 months versus 77.4 for augmentation-mastopexy, with 36 minutes less operative time.",
-      "take_en": "For mild ptosis patients who decline a lift, polyurethane implants at 350 cc or less are a defensible option, accepting about 0.8 cm of nipple descent and unproven non-inferiority."
+      "take_en": "For mild ptosis patients who decline a lift, polyurethane implants at 350 cc or less are a defensible option, accepting about 0.8 cm of nipple descent and unproven non-inferiority.",
+      "first_author": "Soto SB",
+      "first_affil": "Department of Plastic Surgery, Hospital Angeles Chihuahua, Chihuahua, México"
     },
     {
       "id": "2026-11-12-pmid-42900384",
@@ -104,7 +114,9 @@
       "take_zh": "清醒隆胸技术上可行，关键在阻滞覆盖到位；但单组66例、IV级证据，别当成全麻的常规替代。",
       "scene_zh": "想恢复快可以试清醒做，但别指望全程没感觉。",
       "fact_en": "In 66 women, awake subglandular augmentation with a multilayer fascial-plane block was completed without conversion to general anesthesia; four minor positional issues and no major complications.",
-      "take_en": "Feasible when the block is thorough, but this is a single-arm level IV series and does not justify replacing general anesthesia as routine."
+      "take_en": "Feasible when the block is thorough, but this is a single-arm level IV series and does not justify replacing general anesthesia as routine.",
+      "first_author": "Chioibaș DR",
+      "first_affil": "Department of Surgery, Emergency Discipline, \"Victor Babes\" University of Medicine and Pharmacy, 300041, Timisoara, Romania"
     }
   ]
 }

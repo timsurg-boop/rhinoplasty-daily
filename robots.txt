@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://timsurg-boop.github.io/rhinoplasty-daily/sitemap.xml
+Sitemap: https://wangmd-cn.com/sitemap.xml

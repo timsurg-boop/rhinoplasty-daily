@@ -65,6 +65,7 @@ h2{font-size:18px;line-height:1.4;margin:0 0 10px;font-weight:600}
 h2 a{color:var(--ink);text-decoration:none}
 h2 a:hover{color:var(--accent)}
 .journal{font-size:12px;color:var(--muted);margin-bottom:14px}
+.journal .affil{display:block;font-size:11.5px;color:var(--muted);opacity:.85;margin-top:2px;line-height:1.45}
 .journal a{color:var(--muted)}
 .line{margin:8px 0}
 .line b{font-weight:600}
@@ -163,11 +164,13 @@ def item_card(it, comments_by_id):
         f'<div class="comment"><div class="who">{esc(c.get("name") or "匿名")} · {esc(c.get("ts","")[:16].replace("T"," "))}</div>{esc(c.get("text"))}</div>'
         for c in cs
     )
+    affil_html = (f'<span class="affil">{esc(it.get("first_affil"))}</span>'
+                  if it.get("first_affil") else "")
     return f"""
 <article class="item" id="{esc(it['id'])}">
   <div class="tagrow">{''.join(f'<span class="tag">{esc(t)}</span>' for t in it.get('tags', []))}</div>
   <h2><a href="https://pubmed.ncbi.nlm.nih.gov/{esc(it.get('pmid',''))}/" rel="noopener">{esc(it['title'])}</a></h2>
-  <div class="journal">{esc(it['journal'])} · PMID {esc(it.get('pmid',''))} · <a href="https://doi.org/{esc(it.get('doi',''))}" rel="noopener">doi</a></div>
+  <div class="journal">{esc(it['journal'])} · {esc(it.get('first_author','')) or '—'} · PMID {esc(it.get('pmid',''))} · <a href="https://doi.org/{esc(it.get('doi',''))}" rel="noopener">doi</a>{affil_html}</div>
   <p class="line fact"><b>事实｜</b>{esc(it['fact_zh'])}</p>
   <p class="line take"><b>点评｜</b>{esc(it['take_zh'])}</p>
   <p class="en">{esc(it['fact_en'])} {esc(it['take_en'])}</p>
@@ -285,7 +288,7 @@ def render_feed(days):
             f"<p><strong>事实</strong>：{esc(it['fact_zh'])}</p>"
             f"<p><strong>点评</strong>：{esc(it['take_zh'])}</p>"
             f"<p>{esc(it['fact_en'])} {esc(it['take_en'])}</p>"
-            f"<p>{esc(it['journal'])} · PMID {esc(it.get('pmid',''))}</p>"
+            f"<p>{esc(it['journal'])} · {esc(it.get('first_author',''))} · {esc(it.get('first_affil',''))} · PMID {esc(it.get('pmid',''))}</p>"
         )
         items.append({
             "id": it["id"],
@@ -343,6 +346,8 @@ def render_llms(days):
             lines += [
                 f"### {it['title']}",
                 f"- 期刊: {it['journal']}",
+                f"- 第一作者: {it.get('first_author','')}",
+                f"- 单位: {it.get('first_affil','')}",
                 f"- PMID: {it.get('pmid','')} | DOI: {it.get('doi','')}",
                 f"- 事实: {it['fact_zh']}",
                 f"- 点评: {it['take_zh']}",

@@ -19,7 +19,9 @@
       "take_zh": "自体肋换来的是通气不是外形；翻修率15.2%对24.0%区间跨零，别当优势讲。",
       "scene_zh": "用异体肋省一块胸口疤，通气可能差一点，这个术前要说清。",
       "fact_en": "In 129 adults (33 autologous, 96 cadaveric rib grafts), autologous recipients averaged obstruction scores 14.0 points lower over follow-up (95% CI -24.2 to -3.9), with no significant difference in cosmetic scores or revisions (15.2% vs 24.0%).",
-      "take_en": "Autologous rib bought better breathing, not a better-looking nose, and the revision gap is too imprecise to sell as an advantage."
+      "take_en": "Autologous rib bought better breathing, not a better-looking nose, and the revision gap is too imprecise to sell as an advantage.",
+      "first_author": "Du DK",
+      "first_affil": "Washington University School of Medicine in St. Louis, St. Louis, Missouri, USA"
     },
     {
       "id": "2026-11-17-pmid-42950360",
@@ -36,7 +38,9 @@
       "take_zh": "12.5分超过8分最小临床意义，补救镇痛11.4%对53.3%；单中心，等重复。",
       "scene_zh": "鼻子术后疼得凶的，打眶下，不打蝶腭。",
       "fact_en": "In a 90-patient randomized trial, infraorbital nerve block produced a 24-hour QoR-15 of 129.1 versus 116.6 for sphenopalatine ganglion block, with rescue analgesia in 11.4% versus 53.3%.",
-      "take_en": "The 12.5-point gap exceeds the 8-point minimal important difference and halves rescue analgesia, but it is one centre's result awaiting replication."
+      "take_en": "The 12.5-point gap exceeds the 8-point minimal important difference and halves rescue analgesia, but it is one centre's result awaiting replication.",
+      "first_author": "Keklicek Ö",
+      "first_affil": "Department of Anesthesiology and Reanimation, University of Health Sciences, Konya City Hospital, Konya, Türkiye"
     },
     {
       "id": "2026-11-17-pmid-42897251",
@@ -53,7 +57,9 @@
       "take_zh": "把填充从堆容量改成撑韧带，思路新；无对照、无客观测量，只能算可行。",
       "scene_zh": "打鼻子别只往里堆量，先把鼻尖、鼻小柱的韧带撑住。",
       "fact_en": "One hundred injection-rhinoplasty patients were treated with a 27-gauge needle above periosteum or perichondrium at five nasal zones to reinforce ligament support, with no vascular occlusion or filler displacement.",
-      "take_en": "Reframing filler as ligament support rather than volume is a real idea, but with no control group and no objective measurement it only shows feasibility."
+      "take_en": "Reframing filler as ligament support rather than volume is a real idea, but with no control group and no objective measurement it only shows feasibility.",
+      "first_author": "Sun C",
+      "first_affil": "Department of Plastic Surgery, Peking University Third Hospital, Beijing, China"
     },
     {
       "id": "2026-11-17-pmid-42791356",
@@ -70,7 +76,9 @@
       "take_zh": "血肿2.5%、血清肿1.25%，比全麻组不差；但这是筛选过的ASA I-II、单术者。",
       "scene_zh": "怕全麻、身体条件好的，拉皮可以在肿胀液下做，出血反而少。",
       "fact_en": "Eighty ASA I-II patients underwent SMAS plication facelift with platysmaplasty under tumescent local anesthesia over ten years, with a 10% complication rate (hematoma 2.5%) and no conversions to general anesthesia.",
-      "take_en": "Those complication rates are respectable, but this is a single-surgeon series in selected ASA I-II patients, not a comparison against general anesthesia."
+      "take_en": "Those complication rates are respectable, but this is a single-surgeon series in selected ASA I-II patients, not a comparison against general anesthesia.",
+      "first_author": "De Riso S",
+      "first_affil": "Department of Medical, Surgical and Experimental Sciences, Plastic Surgery Unit, Sassari University Hospital Trust, University of Sassari, Sassari, Italy"
     },
     {
       "id": "2026-11-17-pmid-42993310",
@@ -87,7 +95,9 @@
       "take_zh": "数据低得好看，但几乎都是单臂回顾、随访短，作者自己说不能证明等效。",
       "scene_zh": "想肚脐进去不留疤可以，但别拿这组数字说它比腋下安全。",
       "fact_en": "A meta-analysis of 17 studies and 6,605 patients (13,210 breasts) pooled transumbilical augmentation to 0.2% hematoma, 1.7% capsular contracture and 2.3% reintervention.",
-      "take_en": "Almost all included series were retrospective single-arm studies with short follow-up, so these low rates describe published experience rather than prove equivalence to standard incisions."
+      "take_en": "Almost all included series were retrospective single-arm studies with short follow-up, so these low rates describe published experience rather than prove equivalence to standard incisions.",
+      "first_author": "Gonçalves FGA",
+      "first_affil": "School of Medicine, Universidade de São Paulo, Sao Paulo, SP, Brazil"
     },
     {
       "id": "2026-11-17-pmid-42969680",
@@ -104,7 +114,8 @@
       "take_zh": "并发症更少，满意度和再手术没差别；层次还是按软组织厚度和动画畸形定。",
       "scene_zh": "瘦、皮下薄、怕包膜挛缩的放肌下，但别承诺更好看。",
       "fact_en": "Pooled data from 12 studies (4,534 breasts) showed submuscular or dual-plane placement had lower odds of overall complications (OR 0.49), capsular contracture (0.58) and hematoma (0.30), with no difference in satisfaction or reoperation.",
-      "take_en": "Fewer complications does not mean a better-looking breast; pocket choice still follows tissue coverage, animation deformity and the individual patient."
+      "take_en": "Fewer complications does not mean a better-looking breast; pocket choice still follows tissue coverage, animation deformity and the individual patient.",
+      "first_author": "Cao Q"
     }
   ]
 }
