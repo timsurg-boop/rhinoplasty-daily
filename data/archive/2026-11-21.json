@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-21",
+  "updated": "2026-11-21T07:40:00+08:00",
+  "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
+  "window": "2026-11-14..11-21；7 日内鼻整形真正新增仅 1 条（PMID 43053604，青少年医美指南综述）；第 2 条为 10-10 未评点补收（PMID 42941334）；拉皮、PRP、颅骨修复、小阴唇本期不取，第 3 条轮换到隆胸（PMID 43049881，11-18）",
+  "items": [
+    {
+      "id": "2026-11-21-pmid-43053604",
+      "pmid": "43053604",
+      "doi": "10.1093/asj/sjag265",
+      "journal": "Aesthetic Surgery Journal",
+      "title": "Determining the Appropriate Age for Aesthetic Procedures in Minors: A Review of the Guidelines, Outcomes, and Ethical Considerations",
+      "tags": [
+        "鼻整形",
+        "青少年",
+        "伦理与指南"
+      ],
+      "fact_zh": "系统综述青少年医美指南与实践：覆盖注射、激光、皮肤护理，以及耳整形、鼻整形、缩乳、隆胸等手术；各国最低年龄推荐差异很大，多数项目没有统一门槛；纳入研究普遍报告筛选合适者安全性好、满意度高。",
+      "take_zh": "创新点：把指南、结局与伦理放进同一篇比较，明确“多数手术没有标准年龄”是现状而非疏漏。意义：接诊未成年人时，别把家长签字当合格线，要单独评估心理成熟度、动机与对风险的理解，把“能做”和“该做”分开说。",
+      "scene_zh": "十七岁女孩要做鼻整形，家长问能不能做，我说签字只是法律，能不能做要看她讲不讲得清两年后想变成什么样。",
+      "fact_en": "This review synthesises regulatory guidance, safety outcomes and ethical principles for aesthetic procedures in minors, covering injectables, lasers and skin care as well as otoplasty, rhinoplasty, breast reduction and breast augmentation. Minimum age recommendations vary widely between countries and procedures, and most operations have no standard age threshold. Included studies generally report favourable safety, high satisfaction and psychosocial improvement in appropriately selected adolescents.",
+      "take_en": "Its contribution is putting guidelines, outcomes and ethics side by side, making clear that the absence of a standard age is the current state rather than an oversight. For adolescent rhinoplasty, parental consent is a legal floor, not a fitness test; maturity, motivation and comprehension of risk should decide, and 'can be done' must be separated from 'should be done'.",
+      "first_author": "Gimenez Lynch C",
+      "first_affil": "Herbert Wertheim College of Medicine, Florida International University, Miami, FL, USA"
+    },
+    {
+      "id": "2026-11-21-pmid-42941334",
+      "pmid": "42941334",
+      "doi": "10.3390/jcm15207819",
+      "journal": "Journal of Clinical Medicine",
+      "title": "Does Previous Septoplasty Affect Rhinoplasty Outcomes? A Comparative Analysis of Functional, Psychological and Self-Assessment Measures",
+      "tags": [
+        "鼻整形",
+        "鼻中隔",
+        "翻修"
+      ],
+      "fact_zh": "75 例鼻中隔鼻整形前瞻队列，27 例（36%）既往有鼻中隔手术、48 例初诊；术后 1、6 个月测 ROE、SCHNOS、NOSE。既往手术组 1 个月总体满意度更低、1 与 6 个月外观评分更差；两组鼻塞均改善。",
+      "take_zh": "创新点：把“做过鼻中隔还能不能做鼻整形”从经验判断变成带量表的前瞻对比，且把外观与功能分开看。意义：二次鼻中隔患者术前要单独交代外观恢复更慢、早期满意度偏低，但不因此劝退；无未手术对照组，只能算术前术后变化。",
+      "scene_zh": "患者说以前做过鼻中隔，问还能不能隆鼻，我说能，但外观这块头半年可能没第一次做的人满意，先把预期降下来。",
+      "fact_en": "In a prospective cohort of 75 rhinoseptoplasty patients, 27 (36%) had prior septoplasty and 48 were primary cases; ROE, SCHNOS and NOSE were measured before surgery and at 1 and 6 months, with quality of life and self-esteem also assessed. Prior septoplasty was associated with lower overall satisfaction at 1 month and worse cosmetic scores at 1 and 6 months, while nasal obstruction, quality of life and self-esteem improved in both groups.",
+      "take_en": "It turns 'can you operate after a previous septoplasty' into a measured prospective comparison and separates appearance from function. For these patients, consent should state slower cosmetic recovery and lower early satisfaction without discouraging surgery; with no unoperated control group, the changes are observed pre- to postoperative differences rather than proof of causation.",
+      "first_author": "Jadczak M",
+      "first_affil": "Department of Otolaryngology with Division of Cranio-Maxillo-Facial Surgery, Military Institute of Medicine-National Research Institute, 04-141 Warsaw, Poland"
+    },
+    {
+      "id": "2026-11-21-pmid-43049881",
+      "pmid": "43049881",
+      "doi": "10.1007/s00266-026-06428-4",
+      "journal": "Aesthetic Plastic Surgery",
+      "title": "Impact of Implant Surface Texture on Complication Rates in Primary Breast Augmentation: A Systematic Review and Meta-analysis",
+      "tags": [
+        "隆胸",
+        "假体表面",
+        "系统综述"
+      ],
+      "fact_zh": "12 项研究、17,726 例初次隆胸的 meta 分析：毛面假体下移更少（RR 0.10，95%CI 0.03–0.33），包膜挛缩、感染、血清肿、再手术无差异；胸肌下放置感染率更低；期内无 BIA-ALCL 病例。",
+      "take_zh": "创新点：把“毛面防下移、光面更安全”两边说法放到近 1.8 万例里对齐，毛面只在机械稳定上赢，其余并发症没差别。意义：选假体按解剖条件与放置层次定，腺体前放置要把感染风险讲清；零例 ALCL 只是随访期短，不能当免责。",
+      "scene_zh": "患者问光面还是毛面好，我说毛面不容易往下掉，但感染、包膜这些没差别，关键看你胸壁条件和我放在哪一层。",
+      "fact_en": "Twelve studies covering 17,726 primary augmentations were pooled. Textured implants significantly reduced bottoming-out (RR 0.10; 95% CI 0.03-0.33), while capsular contracture, infection, seroma and reoperation showed no significant difference; subpectoral placement had lower infection than prepectoral, and no BIA-ALCL case occurred during follow-up.",
+      "take_en": "It lines up both camps' claims across nearly 18,000 patients: texture wins only on mechanical stability, with no difference in other complications. Implant choice should follow anatomy and plane rather than market fashion, prepectoral placement needs an explicit infection discussion, and zero ALCL cases reflect short follow-up, not absolution.",
+      "first_author": "Neves C",
+      "first_affil": "Faculty of Medicine, University of Porto, Al. Prof. Hernâni Monteiro, 4200-319, Porto, Portugal. carolinabrandaoneves@gmail.com"
+    }
+  ]
+}

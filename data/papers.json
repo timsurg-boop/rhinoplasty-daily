@@ -1,65 +1,65 @@
 {
-  "date": "2026-11-20",
-  "updated": "2026-11-20T07:40:00+08:00",
+  "date": "2026-11-21",
+  "updated": "2026-11-21T07:40:00+08:00",
   "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
-  "window": "2026-11-13..11-20；7 日内鼻整形、拉皮均无新增可用文献（鼻整形唯一新增为对 11-15 肋软骨文的受邀评论；隆胸唯一新增为乳房再造短视频分析，与隆胸无关，均不收）；本期 3 条为 08-10..09-29 未评点补收",
+  "window": "2026-11-14..11-21；7 日内鼻整形真正新增仅 1 条（PMID 43053604，青少年医美指南综述）；第 2 条为 10-10 未评点补收（PMID 42941334）；拉皮、PRP、颅骨修复、小阴唇本期不取，第 3 条轮换到隆胸（PMID 43049881，11-18）",
   "items": [
     {
-      "id": "2026-11-20-pmid-42765934",
-      "pmid": "42765934",
-      "doi": "10.1097/prs.0000000000013464",
-      "journal": "Plastic and Reconstructive Surgery",
-      "title": "Detecting Manipulated Online Rhinoplasty Images Using an Artificial Intelligence Facial Authenticity Localization (FAL) Model",
+      "id": "2026-11-21-pmid-43053604",
+      "pmid": "43053604",
+      "doi": "10.1093/asj/sjag265",
+      "journal": "Aesthetic Surgery Journal",
+      "title": "Determining the Appropriate Age for Aesthetic Procedures in Minors: A Review of the Guidelines, Outcomes, and Ethical Considerations",
       "tags": [
         "鼻整形",
-        "人工智能",
-        "医患沟通"
+        "青少年",
+        "伦理与指南"
       ],
-      "fact_zh": "抓取 RealSelf 公开图库连续 600 张鼻整形术后照，用 FAL 模型检测像素级真伪：19.5%（117/600）存在几何篡改。200 张原始临床照假阳性 1.5%，50 张 Facetune 变形照全部检出，敏感度 100%。",
-      "take_zh": "创新点：AI 真伪检测首次在整形外科图片上大规模跑，把“照片修过”从印象变成 19.5% 这个可核的数。意义：面诊时患者拿来当模板的参考图，可以先过一遍检测，再谈能不能做。",
-      "scene_zh": "患者拿网红图问能不能做成这样，我先跑一遍检测：这图修过，咱们按你自己的鼻骨谈。",
-      "fact_en": "The Facial Authenticity Localization model was applied to the first 600 consecutive postoperative rhinoplasty photos in RealSelf's public gallery, flagging geometric manipulation in 19.5% (117/600; 95% CI 16.3-22.7%). Specificity testing on 200 presumed-unedited clinical photos gave a 1.5% false-positive rate, and all 50 Facetune-warped images were detected (sensitivity 100%).",
-      "take_en": "This is the first large-scale authenticity audit of aesthetic-surgery media, converting 'that photo is edited' into a measurable 19.5%. It offers a defensible pre-consultation check on the reference images patients bring, though validation covered only Facetune-style warps.",
-      "first_author": "Olabiran A",
-      "first_affil": "Norwich Medical School, University of East Anglia, Norfolk, UK"
+      "fact_zh": "系统综述青少年医美指南与实践：覆盖注射、激光、皮肤护理，以及耳整形、鼻整形、缩乳、隆胸等手术；各国最低年龄推荐差异很大，多数项目没有统一门槛；纳入研究普遍报告筛选合适者安全性好、满意度高。",
+      "take_zh": "创新点：把指南、结局与伦理放进同一篇比较，明确“多数手术没有标准年龄”是现状而非疏漏。意义：接诊未成年人时，别把家长签字当合格线，要单独评估心理成熟度、动机与对风险的理解，把“能做”和“该做”分开说。",
+      "scene_zh": "十七岁女孩要做鼻整形，家长问能不能做，我说签字只是法律，能不能做要看她讲不讲得清两年后想变成什么样。",
+      "fact_en": "This review synthesises regulatory guidance, safety outcomes and ethical principles for aesthetic procedures in minors, covering injectables, lasers and skin care as well as otoplasty, rhinoplasty, breast reduction and breast augmentation. Minimum age recommendations vary widely between countries and procedures, and most operations have no standard age threshold. Included studies generally report favourable safety, high satisfaction and psychosocial improvement in appropriately selected adolescents.",
+      "take_en": "Its contribution is putting guidelines, outcomes and ethics side by side, making clear that the absence of a standard age is the current state rather than an oversight. For adolescent rhinoplasty, parental consent is a legal floor, not a fitness test; maturity, motivation and comprehension of risk should decide, and 'can be done' must be separated from 'should be done'.",
+      "first_author": "Gimenez Lynch C",
+      "first_affil": "Herbert Wertheim College of Medicine, Florida International University, Miami, FL, USA"
     },
     {
-      "id": "2026-11-20-pmid-42806791",
-      "pmid": "42806791",
-      "doi": "10.1177/26893614261492482",
-      "journal": "Facial Plastic Surgery & Aesthetic Medicine",
-      "title": "Nasal Airflow Changes in Dorsal Preservation Rhinoplasty: A Computational Fluid Dynamics Analysis in Human Anatomic Specimens",
+      "id": "2026-11-21-pmid-42941334",
+      "pmid": "42941334",
+      "doi": "10.3390/jcm15207819",
+      "journal": "Journal of Clinical Medicine",
+      "title": "Does Previous Septoplasty Affect Rhinoplasty Outcomes? A Comparative Analysis of Functional, Psychological and Self-Assessment Measures",
       "tags": [
         "鼻整形",
-        "保鼻背",
-        "鼻腔通气"
+        "鼻中隔",
+        "翻修"
       ],
-      "fact_zh": "4 具新鲜人体解剖标本，锥形束 CT 建模后做计算流体力学模拟，比较鼻中隔成形与保鼻背鼻整形的气流：除 1 例外，术后鼻阻力均下降，变化方向随上外侧软骨在内鼻阀顶端的朝向而不同。",
-      "take_zh": "创新点：保鼻背对通气的影响，此前只有小样本量表和鼻阻力计、结论互相打架；这篇首次在真实解剖标本上用流体力学算出阻力变化。意义：不必预设保鼻背会堵，但差异取决于上外侧软骨朝向。",
-      "scene_zh": "患者问保鼻背会不会堵，我说多数不会、甚至更通，但你上外侧软骨怎么长的决定结果。",
-      "fact_en": "Computational fluid dynamics was run on cone-beam CT models of four fresh human anatomic specimens before and after septoplasty and dorsal preservation rhinoplasty. Nasal resistance decreased in every specimen but one, and the direction of change tracked the orientation of the upper lateral cartilage at the apical internal nasal valve.",
-      "take_en": "Earlier evidence on preservation and airflow came from small rhinomanometry and questionnaire samples that disagreed; this is the first CFD quantification in real anatomic specimens. It argues against assuming preservation stiffens the airway, but four specimens establish direction, not a magnitude to quote in consent.",
-      "first_author": "Miller JR",
-      "first_affil": "Department of Otolaryngology-Head & Neck Surgery, Ochsner Health System, New Orleans, Louisiana, USA"
+      "fact_zh": "75 例鼻中隔鼻整形前瞻队列，27 例（36%）既往有鼻中隔手术、48 例初诊；术后 1、6 个月测 ROE、SCHNOS、NOSE。既往手术组 1 个月总体满意度更低、1 与 6 个月外观评分更差；两组鼻塞均改善。",
+      "take_zh": "创新点：把“做过鼻中隔还能不能做鼻整形”从经验判断变成带量表的前瞻对比，且把外观与功能分开看。意义：二次鼻中隔患者术前要单独交代外观恢复更慢、早期满意度偏低，但不因此劝退；无未手术对照组，只能算术前术后变化。",
+      "scene_zh": "患者说以前做过鼻中隔，问还能不能隆鼻，我说能，但外观这块头半年可能没第一次做的人满意，先把预期降下来。",
+      "fact_en": "In a prospective cohort of 75 rhinoseptoplasty patients, 27 (36%) had prior septoplasty and 48 were primary cases; ROE, SCHNOS and NOSE were measured before surgery and at 1 and 6 months, with quality of life and self-esteem also assessed. Prior septoplasty was associated with lower overall satisfaction at 1 month and worse cosmetic scores at 1 and 6 months, while nasal obstruction, quality of life and self-esteem improved in both groups.",
+      "take_en": "It turns 'can you operate after a previous septoplasty' into a measured prospective comparison and separates appearance from function. For these patients, consent should state slower cosmetic recovery and lower early satisfaction without discouraging surgery; with no unoperated control group, the changes are observed pre- to postoperative differences rather than proof of causation.",
+      "first_author": "Jadczak M",
+      "first_affil": "Department of Otolaryngology with Division of Cranio-Maxillo-Facial Surgery, Military Institute of Medicine-National Research Institute, 04-141 Warsaw, Poland"
     },
     {
-      "id": "2026-11-20-pmid-42576065",
-      "pmid": "42576065",
-      "doi": "10.1007/s00266-026-06138-x",
+      "id": "2026-11-21-pmid-43049881",
+      "pmid": "43049881",
+      "doi": "10.1007/s00266-026-06428-4",
       "journal": "Aesthetic Plastic Surgery",
-      "title": "Deep Plane Facelifts: A Systematic Review and Meta-Analysis of Outcomes",
+      "title": "Impact of Implant Surface Texture on Complication Rates in Primary Breast Augmentation: A Systematic Review and Meta-analysis",
       "tags": [
-        "拉皮",
-        "深层平面",
+        "隆胸",
+        "假体表面",
         "系统综述"
       ],
-      "fact_zh": "45 项研究、10,784 例深层平面拉皮的系统综述与 meta 分析：总体并发症 6.6%，无永久性面神经损伤，暂时性面神经损伤 1.2%、血肿 1.8%、血清肿 1.7%、感染 0.8%、增生性瘢痕 2.8%、皮肤坏死 0.1%。",
-      "take_zh": "创新点：把“深层平面容易伤面神经”这个流传几十年的顾虑，用一万例合并率压到零例永久损伤。意义：面诊不必再拿神经风险劝人改做 SMAS，该谈的是血肿 1.8%、瘢痕 2.8%；外观更优仍是主观评价。",
-      "scene_zh": "患者怕拉皮伤神经，我说一万多例里没有一例永久损伤，要担心的是血肿和疤痕。",
-      "fact_en": "A PRISMA systematic review and meta-analysis pooled 45 studies and 10,784 deep plane facelifts: overall complications were 6.6%, with no permanent facial nerve injury and temporary nerve injury at 1.2%. Haematoma occurred in 1.8%, seroma 1.7%, infection 0.8%, hypertrophic scarring 2.8% and skin necrosis 0.1%.",
-      "take_en": "It retires the decades-old fear that deep plane dissection costs facial nerve function, with zero permanent injuries across more than ten thousand cases. Consent can shift to haematoma 1.8% and scarring 2.8%; the claimed aesthetic superiority over SMAS remains a subjective judgement.",
-      "first_author": "Koroma P",
-      "first_affil": "Department of Otolaryngology, Mid Yorkshire Teaching Hospital Trust, Aberford Road, Wakefield, WF1 4DG, United Kingdom"
+      "fact_zh": "12 项研究、17,726 例初次隆胸的 meta 分析：毛面假体下移更少（RR 0.10，95%CI 0.03–0.33），包膜挛缩、感染、血清肿、再手术无差异；胸肌下放置感染率更低；期内无 BIA-ALCL 病例。",
+      "take_zh": "创新点：把“毛面防下移、光面更安全”两边说法放到近 1.8 万例里对齐，毛面只在机械稳定上赢，其余并发症没差别。意义：选假体按解剖条件与放置层次定，腺体前放置要把感染风险讲清；零例 ALCL 只是随访期短，不能当免责。",
+      "scene_zh": "患者问光面还是毛面好，我说毛面不容易往下掉，但感染、包膜这些没差别，关键看你胸壁条件和我放在哪一层。",
+      "fact_en": "Twelve studies covering 17,726 primary augmentations were pooled. Textured implants significantly reduced bottoming-out (RR 0.10; 95% CI 0.03-0.33), while capsular contracture, infection, seroma and reoperation showed no significant difference; subpectoral placement had lower infection than prepectoral, and no BIA-ALCL case occurred during follow-up.",
+      "take_en": "It lines up both camps' claims across nearly 18,000 patients: texture wins only on mechanical stability, with no difference in other complications. Implant choice should follow anatomy and plane rather than market fashion, prepectoral placement needs an explicit infection discussion, and zero ALCL cases reflect short follow-up, not absolution.",
+      "first_author": "Neves C",
+      "first_affil": "Faculty of Medicine, University of Porto, Al. Prof. Hernâni Monteiro, 4200-319, Porto, Portugal. carolinabrandaoneves@gmail.com"
     }
   ]
 }
