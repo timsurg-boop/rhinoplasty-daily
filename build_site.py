@@ -441,7 +441,7 @@ def build():
         "feed.json": json.dumps(render_feed(days), ensure_ascii=False, indent=2),
         "rss.xml": render_rss(days),
         "llms.txt": render_llms(days),
-        "robots.txt": "User-agent: *\nAllow: /\n\nSitemap: %s/sitemap.xml\n" % BASE_URL,
+        "robots.txt": "User-agent: *\nAllow: /\nDisallow: /v/\n\nSitemap: %s/sitemap.xml\n" % BASE_URL,
         "sitemap.xml": (
             '<?xml version="1.0" encoding="UTF-8"?>\n'
             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
