@@ -6,6 +6,7 @@ import html
 import json
 import os
 import re
+import sys
 from datetime import datetime
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -402,8 +403,35 @@ def render_archive_page(day, comments_by_id):
 </main></body></html>"""
 
 
+def _ensure_affiliations(days):
+    """渲染前补齐第一作者单位：只补缺的，失败不影响出页。"""
+    missing = sorted({str(it.get("pmid")) for _, it in all_items(days)
+                      if it.get("pmid") and not it.get("first_affil")})
+    if not missing:
+        return
+    try:
+        root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        if root not in sys.path:
+            sys.path.insert(0, root)
+        import enrich_affiliation as ea
+        recs = ea.fetch(missing)
+    except Exception as exc:  # 网络异常时照常出页
+        print("affiliation lookup skipped:", exc)
+        return
+    for _, it in all_items(days):
+        rec = recs.get(str(it.get("pmid") or ""))
+        if not rec:
+            continue
+        fa, af = ea.first_author(rec), ea.affiliation(rec)
+        if fa and not it.get("first_author"):
+            it["first_author"] = fa
+        if af and not it.get("first_affil"):
+            it["first_affil"] = af
+
+
 def build():
     days = load_days()
+    _ensure_affiliations(days)
     comments = load_comments()
     by_id = {}
     for c in comments:
