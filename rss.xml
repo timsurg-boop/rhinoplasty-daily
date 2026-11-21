@@ -2,7 +2,19 @@
 <rss version="2.0"><channel>
 <title>鼻整形文献评点 · Rhinoplasty Daily Commentary</title><link>https://wangmd-cn.com</link>
 <description>鼻整形与面部提升新文献，一句事实一句点评</description>
-<language>zh-cn</language><item><title>Determining the Appropriate Age for Aesthetic Procedures in Minors: A Review of the Guidelines, Outcomes, and Ethical Considerations</title>
+<language>zh-cn</language><item><title>Multimodal AI for Rhinoplasty Consultation and Simulation: A Blinded Expert Evaluation</title>
+<link>https://pubmed.ncbi.nlm.nih.gov/43063989/</link>
+<guid isPermaLink="false">2026-11-22-pmid-43063989</guid>
+<description>20 例鼻整形患者照片，多模态人工智能生成咨询与术后模拟图；4 名盲法面整形医生按 12 项五分制评分。语言清晰度 4.05 分最高，术式适当性 2.90、方案与模拟一致性 2.33 分垫底；完全认可方案仅 7.6%。 创新点：首次让盲法专家按患者逐个打分多模态人工智能的咨询文本与模拟图，而非只看图像是否逼真。意义：模拟图可作沟通工具，不能当术前承诺；方案必须由医生独立制定，接诊时先问患者是否拿人工智能图来对标。</description>
+<pubDate>Sun, 22 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Patient-Reported Functional and Cosmetic Outcomes after Rhinoplasty with Autologous Versus Cadaveric Rib Cartilage Grafts</title>
+<link>https://pubmed.ncbi.nlm.nih.gov/43035971/</link>
+<guid isPermaLink="false">2026-11-22-pmid-43035971</guid>
+<description>129 例鼻整形队列，33 例自体、96 例异体肋软骨，95.3% 作撑开移植物。调整模型示自体组鼻塞更低（差值 −14.02，95%CI −24.19 至 −3.85），外观相近；翻修率 15.2% 对 24.0%。 创新点：把自体与异体肋软骨放进同一纵向患者报告结局模型，129 例是目前该问题较大的对比样本。意义：功能诉求强的患者可优先考虑自体肋软骨；翻修率差 8.8 个百分点但置信区间跨零，交代时只能说是趋势，不能承诺更低。</description>
+<pubDate>Sun, 22 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Neuropsychiatric outcomes after decompressive craniectomy and cranioplasty: a systematic review and meta-analysis (systematic review)</title>
+<link>https://pubmed.ncbi.nlm.nih.gov/43062567/</link>
+<guid isPermaLink="false">2026-11-22-pmid-43062567</guid>
+<description>24 项研究、877 例去骨瓣减压患者的系统综述与 meta 分析，12 项、305 例入池：抑郁合并患病率 47%（95%CI 40–54%），焦虑 46%；两项纵向研究示颅骨修补后情绪改善，但样本小。 创新点：首次把去骨瓣减压后的抑郁与焦虑做成合并患病率，量化到接近一半。意义：颅骨修补不能只谈外形与脑保护，术前应常规筛情绪，把修补前后当作心理随访节点；文中效应量不宜直接引用，纵向证据仍薄。</description>
+<pubDate>Sun, 22 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Determining the Appropriate Age for Aesthetic Procedures in Minors: A Review of the Guidelines, Outcomes, and Ethical Considerations</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/43053604/</link>
 <guid isPermaLink="false">2026-11-21-pmid-43053604</guid>
 <description>系统综述青少年医美指南与实践：覆盖注射、激光、皮肤护理，以及耳整形、鼻整形、缩乳、隆胸等手术；各国最低年龄推荐差异很大，多数项目没有统一门槛；纳入研究普遍报告筛选合适者安全性好、满意度高。 创新点：把指南、结局与伦理放进同一篇比较，明确“多数手术没有标准年龄”是现状而非疏漏。意义：接诊未成年人时，别把家长签字当合格线，要单独评估心理成熟度、动机与对风险的理解，把“能做”和“该做”分开说。</description>

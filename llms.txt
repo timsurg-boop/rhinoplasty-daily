@@ -7,6 +7,38 @@
 - RSS: https://wangmd-cn.com/rss.xml
 - Sitemap: https://wangmd-cn.com/sitemap.xml
 
+## 2026-11-22
+
+### Multimodal AI for Rhinoplasty Consultation and Simulation: A Blinded Expert Evaluation
+- 期刊: Facial Plastic Surgery
+- 第一作者: Hack S
+- 单位: Sheba Medical Center, University of Nicosia, Tel HaShomer, Israel
+- PMID: 43063989 | DOI: 10.1055/a-3003-2319
+- 事实: 20 例鼻整形患者照片，多模态人工智能生成咨询与术后模拟图；4 名盲法面整形医生按 12 项五分制评分。语言清晰度 4.05 分最高，术式适当性 2.90、方案与模拟一致性 2.33 分垫底；完全认可方案仅 7.6%。
+- 点评: 创新点：首次让盲法专家按患者逐个打分多模态人工智能的咨询文本与模拟图，而非只看图像是否逼真。意义：模拟图可作沟通工具，不能当术前承诺；方案必须由医生独立制定，接诊时先问患者是否拿人工智能图来对标。
+- English: Preoperative photographs from 20 rhinoplasty patients were used by a multimodal AI (GPT-5.5) to generate a consultation in a standardised patient-voiced prompt and a simulated postoperative image; four blinded fellowship-trained facial plastic surgeons rated each output on 12 five-point items, two utility items and one surgical-plan agreement item, with mixed models using crossed random effects for case and evaluator. Language clarity scored highest at 4.05/5, whereas procedure appropriateness (2.90), avoidance of inappropriate procedures (2.59) and plan-to-simulation fidelity (2.33) were lowest, and full agreement with the surgical plan occurred in only 7.6% of assessments. Its contribution is a blinded, per-patient item-by-item evaluation of both AI text and AI imagery rather than a judgement of how convincing the pictures look. Simulations can support conversation but cannot serve as a preoperative promise; the operative plan must remain the surgeon's, and clinics should ask at consultation whether the patient is benchmarking against an AI-generated image.
+- Permalink: https://wangmd-cn.com/#2026-11-22-pmid-43063989
+
+### Patient-Reported Functional and Cosmetic Outcomes after Rhinoplasty with Autologous Versus Cadaveric Rib Cartilage Grafts
+- 期刊: Facial Plastic Surgery & Aesthetic Medicine
+- 第一作者: Du DK
+- 单位: Washington University School of Medicine in St. Louis, St. Louis, Missouri, USA
+- PMID: 43035971 | DOI: 10.1177/26893614261499033
+- 事实: 129 例鼻整形队列，33 例自体、96 例异体肋软骨，95.3% 作撑开移植物。调整模型示自体组鼻塞更低（差值 −14.02，95%CI −24.19 至 −3.85），外观相近；翻修率 15.2% 对 24.0%。
+- 点评: 创新点：把自体与异体肋软骨放进同一纵向患者报告结局模型，129 例是目前该问题较大的对比样本。意义：功能诉求强的患者可优先考虑自体肋软骨；翻修率差 8.8 个百分点但置信区间跨零，交代时只能说是趋势，不能承诺更低。
+- English: This retrospective cohort followed 129 adults undergoing rhinoplasty between 2018 and 2025, 33 with autologous and 96 with cadaveric rib cartilage, used mainly as spreader grafts (95.3%). Adjusted mixed-effects models showed lower mean obstruction scores across follow-up in autologous recipients (difference -14.02; 95% CI -24.19 to -3.85) with similar cosmetic scores (-7.05; 95% CI -16.33 to 2.22), and revisions occurred in 15.2% versus 24.0%. It places autologous and cadaveric rib grafts in one longitudinal patient-reported outcome model, and 129 patients is a comparatively large sample for this question. Where breathing is the priority, autologous rib has the functional edge; the 8.8-point revision gap has a confidence interval crossing zero, so consent should present it as a trend rather than a promise.
+- Permalink: https://wangmd-cn.com/#2026-11-22-pmid-43035971
+
+### Neuropsychiatric outcomes after decompressive craniectomy and cranioplasty: a systematic review and meta-analysis (systematic review)
+- 期刊: Neurosurgical Review
+- 第一作者: Bari SSM
+- 单位: Department of Neurosurgery, Queen's Hospital, Barking, Havering and Redbridge University Hospitals NHS Trust, London, UK
+- PMID: 43062567 | DOI: 10.1007/s10143-026-04560-y
+- 事实: 24 项研究、877 例去骨瓣减压患者的系统综述与 meta 分析，12 项、305 例入池：抑郁合并患病率 47%（95%CI 40–54%），焦虑 46%；两项纵向研究示颅骨修补后情绪改善，但样本小。
+- 点评: 创新点：首次把去骨瓣减压后的抑郁与焦虑做成合并患病率，量化到接近一半。意义：颅骨修补不能只谈外形与脑保护，术前应常规筛情绪，把修补前后当作心理随访节点；文中效应量不宜直接引用，纵向证据仍薄。
+- English: This systematic review and meta-analysis pooled 24 studies (N=877) of patients after decompressive craniectomy, with 12 studies (N=305) in the quantitative synthesis. Pooled prevalence was 47% for depression (95% CI 40-54%) and 46% for anxiety (95% CI 38-54%); two longitudinal studies suggested reduced anxiety and depression 12 months after cranioplasty, although small cohorts may have inflated those effect sizes. Its contribution is the first pooled estimate of post-decompressive-craniectomy depression and anxiety, putting the burden near one in two patients. Cranioplasty should therefore be framed as more than contour and brain protection: screen mood before surgery and treat the repair as a psychological follow-up checkpoint, while citing the longitudinal effect sizes cautiously.
+- Permalink: https://wangmd-cn.com/#2026-11-22-pmid-43062567
+
 ## 2026-11-21
 
 ### Determining the Appropriate Age for Aesthetic Procedures in Minors: A Review of the Guidelines, Outcomes, and Ethical Considerations
