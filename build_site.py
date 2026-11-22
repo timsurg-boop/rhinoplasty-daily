@@ -103,7 +103,7 @@ code{background:#efece5;padding:1px 5px;border-radius:4px;font-size:13px}
 """
 
 HERO = """<section class="hero">
-  <img src="/brand/avatar.jpg" alt="王艇医生" width="88" height="88" loading="lazy">
+  <img src="brand/avatar.jpg" alt="王艇医生" width="88" height="88" loading="lazy">
   <div>
     <p class="who">王艇</p>
     <div class="role">副主任医师 · 技术院长 · 悦星澜（大连）医疗美容</div>
@@ -218,11 +218,7 @@ def render_index(days, comments):
                     "sameAs": f"https://pubmed.ncbi.nlm.nih.gov/{it.get('pmid','')}/",
                     "isPartOf": {"@type": "Periodical", "name": it["journal"]},
                     "abstract": it["fact_zh"],
-                    "review": {
-                        "@type": "Review",
-                        "reviewBody": it["take_zh"],
-                        "author": {"@type": "Person", "name": "小红"},
-                    },
+                    "description": it["take_zh"],
                 },
             }
             for i, it in enumerate(today["items"])
@@ -252,7 +248,7 @@ def render_index(days, comments):
 {cards}
 {archive_html}
 <footer>
-  <p>机器可读：<code>/feed.json</code>（JSON Feed 1.1）、<code>/rss.xml</code>、<code>/llms.txt</code>、<code>/sitemap.xml</code>。页面内嵌 schema.org ItemList + Review 结构化数据。</p>
+  <p>机器可读：<code>/feed.json</code>（JSON Feed 1.1）、<code>/rss.xml</code>、<code>/llms.txt</code>、<code>/sitemap.xml</code>。页面内嵌 schema.org ItemList 结构化数据。</p>
   <p>内容仅供同行讨论，不构成医疗建议。</p>
 </footer>
 </main>
