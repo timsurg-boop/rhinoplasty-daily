@@ -8,6 +8,7 @@
 - `/brand/facts.json` — 事实核对表，每条带 status（confirmed / consistent / unverified / conflict）与来源，是唯一口径来源
 - `/brand/faq.json` — 术后常见问题，schema.org FAQPage 结构，来自面诊转写，措辞待本人复核
 - `/brand/qa/` — 一问一页：每个真实患者问题一个独立 URL，标题即问句，首段给带单位答案（2026-11-08 新增）
+- `/brand/doctor.html` — 医生档案页：姓名、职称、医师执业证书编码、执业地点沿革、教育与学术；与全站共用一个 Physician `@id`，是实体（sameAs）的规范主页（2026-11-23 新增）
 - `/brand/patient.html` — 患者可读页面
 - `/brand/index.html` — 机器版页面，内嵌同一份 Physician JSON-LD
 - 互链闭环：两页 HTML 的 `<link rel="alternate" type="text/plain">` 指向本文件；`doctor.json` 与 `faq.json` 的 `url` / `mainEntityOfPage` 指回 `/brand/index.html`，JSON → HTML → llms 三点可达

@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-23",
+ "updated": "2026-11-23T07:34:23+08:00",
+ "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
+ "window": "2026-11-16..11-23；鼻整形新增 6 条，取 2 条（11-20 尸头肋/耳软骨、11-19 鼻远端缺损帆形瓣）；第 3 条按轮换取 PRP（11-20 24 周大鼠颅骨缺损）；拉皮仅 1 条且 11-18 已用，隆胸、颅骨修复、小阴唇本期不取（小阴唇无新增）",
+ "items": [
+  {
+   "id": "2026-11-23-pmid-43062723",
+   "pmid": "43062723",
+   "doi": "10.1007/s00276-026-04039-x",
+   "journal": "Surgical and Radiologic Anatomy",
+   "title": "Anatomical Handling Properties of Costal and Auricular Cartilage in Fresh-frozen Cadaveric Models for Revision Rhinoplasty",
+   "tags": [
+    "鼻整形",
+    "肋软骨",
+    "耳软骨",
+    "解剖训练"
+   ],
+   "fact_zh": "10 具新鲜冷冻尸头加 2 具胸段标本，双侧取第 5–8 肋软骨与耳甲软骨，记录切取、雕刻、缝合表现。肋软骨层状削薄 85% 碎裂，无一块能做成撑开或鼻中隔延伸移植；耳软骨保持弹性，可反复雕刻并承受缝合。",
+   "take_zh": "创新点：首次系统检验新鲜冷冻标本能否模拟肋软骨移植制备，而不是默认尸头都能练。意义：尸头课上肋软骨只练切取和胸廓入路，雕刻改用耳软骨或更新鲜标本，别让学员在钙化肋上反复失败。",
+   "scene_zh": "年轻医生问能不能用尸头练肋软骨雕刻，我说这标本一削就碎，先用耳软骨练手，肋软骨只练切口和取骨。",
+   "fact_en": "Ten fresh-frozen cadaveric heads and two thoracic specimens were dissected, harvesting costal cartilage bilaterally from ribs 5–8 and auricular cartilage through a posterior conchal approach, with graft size, preparation time, carvability, laminar fragmentation and suturability recorded. Laminar thinning fragmented costal cartilage in 85% of attempts, thicker slices showed microfractures and broke during suturing, and no costal graft was suitable for spreader or septal extension graft simulation, whereas auricular cartilage stayed elastic, carved reproducibly and held sutures.",
+   "take_en": "The study is the first systematic test of whether fresh-frozen cadavers can simulate costal graft preparation, instead of assuming any cadaver head will do. In dissection training the ribs remain useful for harvest and thoracic exposure, but carving practice should use auricular cartilage or fresher tissue, so trainees are not set up to fail on calcified rib.",
+   "first_author": "Russo F",
+   "first_affil": "Unit of Plastic Surgery, University of Naples \"Federico II\", Naples, Italy"
+  },
+  {
+   "id": "2026-11-23-pmid-43049350",
+   "pmid": "43049350",
+   "doi": "10.1097/dss.0000000000005456",
+   "journal": "Dermatologic Surgery",
+   "title": "The Sail-Shaped Modification for Reconstruction of Distal Nasal Defects",
+   "tags": [
+    "鼻整形",
+    "鼻部重建",
+    "局部皮瓣"
+   ],
+   "fact_zh": "30 例 Mohs micrographic surgery（莫氏显微手术，MMS）后鼻远端缺损，用改良帆形鼻背旋转推进皮瓣单期修复；缺损 0.4–3.1 平方厘米（均值 0.96），随访均 9 个月，无并发症、无二次修整。",
+   "take_zh": "创新点：皮瓣起点往远端移、回切加长，皮瓣活动度变大而瘢痕走向不变。意义：鼻尖、鼻翼旁小到中等缺损可单期关闭，不必动鼻唇沟皮瓣；延长回切沿鼻侧阴影线走，瘢痕更隐蔽。",
+   "scene_zh": "患者鼻尖切完基底细胞癌缺一块，问要不要从脸上另取皮，我说用鼻背这块转下来就够，一次做完，疤藏在鼻侧。",
+   "fact_en": "Thirty consecutive patients underwent single-stage reconstruction of caudal nasal defects after Mohs micrographic surgery (MMS) with a sail-shaped modification of the dorsal nasal rotation-advancement flap, placing the takeoff point more distally and extending the back cut to gain mobility while keeping scar orientation favourable; defect area was 0.4–3.1 cm² (mean 0.96). At a mean follow-up of 9 months there were no postoperative complications and no revisions.",
+   "take_en": "The modification gains flap mobility without changing the direction of the scar, letting small to medium defects of the nasal tip and ala close in one stage rather than pulling in a nasolabial flap. The extended back cut is hidden along the nasal sidewall shadow line, a design detail worth copying when planning the incision.",
+   "first_author": "Hunter ER",
+   "first_affil": "Department of Dermatology, Hospital of the University of Pennsylvania, Philadelphia, PA, USA"
+  },
+  {
+   "id": "2026-11-23-pmid-43059485",
+   "pmid": "43059485",
+   "doi": "10.1097/scs.0000000000013598",
+   "journal": "Journal of Craniofacial Surgery",
+   "title": "Platelet-Rich Plasma Does Not Enhance Demineralized Bone Matrix Repair of Critical-Size Calvarial Defects: A 24-Week Study",
+   "tags": [
+    "PRP",
+    "骨移植",
+    "颅面修复"
+   ],
+   "fact_zh": "32 只鼠 8 mm 颅骨缺损分四组：空白、platelet-rich plasma（富血小板血浆，PRP）、demineralized bone matrix（脱钙骨基质，DBM）、合用，24 周。DBM 单用优于合用，PRP 同空白。",
+   "take_zh": "创新点：随访拉到 24 周并设单用植骨对照，推翻 8–12 周研究里加 PRP 更好的印象。意义：颅面骨移植不必默认掺 PRP，掺了可能延迟闭合；读这类文章先看随访是否超过 12 周。",
+   "scene_zh": "患者问骨缺损修补要不要加自己的血浆，我说动物实验里加了反而闭合慢，这笔钱先省下。",
+   "fact_en": "In a randomised four-arm study, 8 mm critical-size calvarial defects in 32 rats were left untreated or filled with platelet-rich plasma (PRP), demineralized bone matrix (DBM), or both, eight animals per group, and followed by computed tomography to 24 weeks with histological grading. Both matrix groups closed faster than untreated and PRP-only defects, but diverged from week 12: by 24 weeks every matrix-alone animal had closed more than every animal given the combination, and PRP alone never differed from untreated.",
+   "take_en": "Its contribution is a 24-week horizon with a graft-alone arm, which undercuts the 8–12 week studies that made adding PRP look beneficial. Adding PRP to DBM produced no extra bone and may delay closure, so cranial grafting should not add PRP by default, and combination studies should be read with their follow-up length in mind.",
+   "first_author": "Alioğlu C",
+   "first_affil": "Department of Plastic, Reconstructive and Aesthetic Surgery, Kartal Lütfi Kırdar City Hospital, University of Health Sciences, Istanbul, Turkey"
+  }
+ ]
+}

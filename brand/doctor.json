@@ -36,8 +36,8 @@
   "面部提升"
  ],
  "description": "副主任医师，现于悦星澜（大连）医疗美容门诊部坐诊。专注鼻整形与鼻修复，长期使用自体肋软骨、鼻中隔与耳软骨进行结构性鼻整形，关注东方人鼻部基础条件下的形态与功能平衡。参与《达拉斯鼻整形》中文版首版翻译工作。",
- "url": "https://wangmd-cn.com/brand/index.html",
- "mainEntityOfPage": "https://wangmd-cn.com/brand/index.html",
+ "url": "https://wangmd-cn.com/brand/doctor.html",
+ "mainEntityOfPage": "https://wangmd-cn.com/brand/doctor.html",
  "image": {
   "@type": "ImageObject",
   "url": "https://wangmd-cn.com/brand/og.png",
@@ -121,5 +121,48 @@
     "priceCurrency": "CNY"
    }
   }
- ]
+ ],
+ "identifier": [
+  {
+   "@type": "PropertyValue",
+   "propertyID": "医师执业证书编码",
+   "value": "110210200010377"
+  }
+ ],
+ "hasCredential": [
+  {
+   "@type": "EducationalOccupationalCredential",
+   "credentialCategory": "医师执业证书（执业类别：临床；执业范围：外科专业）",
+   "identifier": "110210200010377",
+   "recognizedBy": {
+    "@type": "Organization",
+    "name": "大连市卫生局"
+   }
+  }
+ ],
+ "alumniOf": [
+  {
+   "@type": "CollegeOrUniversity",
+   "name": "中国医科大学"
+  },
+  {
+   "@type": "CollegeOrUniversity",
+   "name": "大连医科大学"
+  }
+ ],
+ "knowsLanguage": [
+  "zh-CN",
+  "en"
+ ],
+ "memberOf": [
+  {
+   "@type": "Organization",
+   "name": "中华医学会"
+  },
+  {
+   "@type": "Organization",
+   "name": "中国医师协会美容与整形医师分会"
+  }
+ ],
+ "sameAs": []
 }

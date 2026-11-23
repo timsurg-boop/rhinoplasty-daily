@@ -1,66 +1,68 @@
 {
- "date": "2026-11-23",
- "updated": "2026-11-23T07:34:23+08:00",
+ "date": "2026-11-24",
+ "updated": "2026-11-24T07:33:51+08:00",
  "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
- "window": "2026-11-16..11-23；鼻整形新增 6 条，取 2 条（11-20 尸头肋/耳软骨、11-19 鼻远端缺损帆形瓣）；第 3 条按轮换取 PRP（11-20 24 周大鼠颅骨缺损）；拉皮仅 1 条且 11-18 已用，隆胸、颅骨修复、小阴唇本期不取（小阴唇无新增）",
+ "window": "2026-11-17..11-24；鼻整形 7 日内新增仅 1 条未评点（11-19 唇岛状瓣，摘要缺失），第 1 条补收 11-13 双支撑杆（10 例），第 2 条补收 11-10 线雕移位个案；第 3 条按轮换取隆胸（11-20 信箱瓣乳房上提 84 例）；拉皮、小阴唇无新增，颅骨修复、PRP 本期不取",
  "items": [
   {
-   "id": "2026-11-23-pmid-43062723",
-   "pmid": "43062723",
-   "doi": "10.1007/s00276-026-04039-x",
-   "journal": "Surgical and Radiologic Anatomy",
-   "title": "Anatomical Handling Properties of Costal and Auricular Cartilage in Fresh-frozen Cadaveric Models for Revision Rhinoplasty",
+   "id": "2026-11-24-pmid-43032422",
+   "pmid": "43032422",
+   "doi": "10.1097/gox.0000000000008156",
+   "journal": "Plastic and Reconstructive Surgery – Global Open",
+   "title": "Pilot Study: Preliminary Experience with Dual-strut Tip Support Using Repurposed Cephalic Trim Cartilage in East Asian Rhinoplasty",
    "tags": [
     "鼻整形",
-    "肋软骨",
-    "耳软骨",
-    "解剖训练"
+    "鼻尖支撑",
+    "软骨移植",
+    "东亚鼻"
    ],
-   "fact_zh": "10 具新鲜冷冻尸头加 2 具胸段标本，双侧取第 5–8 肋软骨与耳甲软骨，记录切取、雕刻、缝合表现。肋软骨层状削薄 85% 碎裂，无一块能做成撑开或鼻中隔延伸移植；耳软骨保持弹性，可反复雕刻并承受缝合。",
-   "take_zh": "创新点：首次系统检验新鲜冷冻标本能否模拟肋软骨移植制备，而不是默认尸头都能练。意义：尸头课上肋软骨只练切取和胸廓入路，雕刻改用耳软骨或更新鲜标本，别让学员在钙化肋上反复失败。",
-   "scene_zh": "年轻医生问能不能用尸头练肋软骨雕刻，我说这标本一削就碎，先用耳软骨练手，肋软骨只练切口和取骨。",
-   "fact_en": "Ten fresh-frozen cadaveric heads and two thoracic specimens were dissected, harvesting costal cartilage bilaterally from ribs 5–8 and auricular cartilage through a posterior conchal approach, with graft size, preparation time, carvability, laminar fragmentation and suturability recorded. Laminar thinning fragmented costal cartilage in 85% of attempts, thicker slices showed microfractures and broke during suturing, and no costal graft was suitable for spreader or septal extension graft simulation, whereas auricular cartilage stayed elastic, carved reproducibly and held sutures.",
-   "take_en": "The study is the first systematic test of whether fresh-frozen cadavers can simulate costal graft preparation, instead of assuming any cadaver head will do. In dissection training the ribs remain useful for harvest and thoracic exposure, but carving practice should use auricular cartilage or fresher tissue, so trainees are not set up to fail on calcified rib.",
-   "first_author": "Russo F",
-   "first_affil": "Unit of Plastic Surgery, University of Naples \"Federico II\", Naples, Italy"
+   "fact_zh": "回顾性 10 例东亚初次鼻整形（日本女性，平均 33.7 岁），用梯形鼻中隔延伸移植物加双侧鼻小柱支撑杆，支撑杆取自已切除的鼻翼软骨头侧缘；随访 10.1 个月，无感染、移植物外露、鼻中隔不稳或鼻尖变形。",
+   "take_zh": "创新点：把本该丢弃的头侧缘软骨改造成双支撑杆，不额外取耳或肋软骨就强化鼻尖三脚架。意义：鼻中隔软骨不足、只需中等鼻尖支撑的东亚鼻可少开一处供区；但仅 10 例、无客观测量，属初步可行。",
+   "scene_zh": "患者问鼻尖能不能撑起来又不想多开一刀取软骨，我说可以把修鼻翼时切下的那点软骨留下做两根支撑，但只适合中等程度、鼻中隔够用的人。",
+   "fact_en": "In a retrospective pilot, 10 Japanese women (mean age 33.7 years) underwent primary East Asian rhinoplasty with a trapezoidal septal extension graft plus paired columellar struts fashioned from cephalic-trim cartilage that would otherwise be discarded. The struts were fixed to the distal graft and native medial crura; over a mean 10.1 months (range 7–14) there were no infections, graft extrusions, septal instability, significant tip deformity, external nasal valve compromise or columellar widening.",
+   "take_en": "The innovation is reusing excised cephalic cartilage as paired struts, reinforcing the native tripod without a second donor site. It may suit moderate tip repositioning when septal cartilage is limited, but with 10 patients, no objective outcomes and no comparison group, the biomechanical benefit remains theoretical.",
+   "first_author": "Morello AM",
+   "first_affil": "MSA Surgical Arts, Naha, Okinawa, Japan"
   },
   {
-   "id": "2026-11-23-pmid-43049350",
-   "pmid": "43049350",
-   "doi": "10.1097/dss.0000000000005456",
-   "journal": "Dermatologic Surgery",
-   "title": "The Sail-Shaped Modification for Reconstruction of Distal Nasal Defects",
+   "id": "2026-11-24-pmid-43012028",
+   "pmid": "43012028",
+   "doi": "10.1097/gox.0000000000008126",
+   "journal": "Plastic and Reconstructive Surgery – Global Open",
+   "title": "Cephalad Migration of Permanent Thread Fragments Following Nose Augmentation by Thread",
    "tags": [
     "鼻整形",
-    "鼻部重建",
-    "局部皮瓣"
+    "线雕",
+    "并发症",
+    "异物移位"
    ],
-   "fact_zh": "30 例 Mohs micrographic surgery（莫氏显微手术，MMS）后鼻远端缺损，用改良帆形鼻背旋转推进皮瓣单期修复；缺损 0.4–3.1 平方厘米（均值 0.96），随访均 9 个月，无并发症、无二次修整。",
-   "take_zh": "创新点：皮瓣起点往远端移、回切加长，皮瓣活动度变大而瘢痕走向不变。意义：鼻尖、鼻翼旁小到中等缺损可单期关闭，不必动鼻唇沟皮瓣；延长回切沿鼻侧阴影线走，瘢痕更隐蔽。",
-   "scene_zh": "患者鼻尖切完基底细胞癌缺一块，问要不要从脸上另取皮，我说用鼻背这块转下来就够，一次做完，疤藏在鼻侧。",
-   "fact_en": "Thirty consecutive patients underwent single-stage reconstruction of caudal nasal defects after Mohs micrographic surgery (MMS) with a sail-shaped modification of the dorsal nasal rotation-advancement flap, placing the takeoff point more distally and extending the back cut to gain mobility while keeping scar orientation favourable; defect area was 0.4–3.1 cm² (mean 0.96). At a mean follow-up of 9 months there were no postoperative complications and no revisions.",
-   "take_en": "The modification gains flap mobility without changing the direction of the scar, letting small to medium defects of the nasal tip and ala close in one stage rather than pulling in a nasolabial flap. The extended back cut is hidden along the nasal sidewall shadow line, a design detail worth copying when planning the incision.",
-   "first_author": "Hunter ER",
-   "first_affil": "Department of Dermatology, Hospital of the University of Pennsylvania, Philadelphia, PA, USA"
+   "fact_zh": "1 例 54 岁女性，鼻部线雕隆鼻 5 年后额部不平、眉间硬块；手术取出 8 段移位线（2 蓝 6 透明），nuclear magnetic resonance（核磁共振，NMR）证实为聚丙烯-聚乳酸共聚物。",
+   "take_zh": "创新点：把多年后的线头移位追到具体共聚物材料与皱眉肌、额肌反复收缩的力学，而非笼统异物反应。意义：问诊要追问线材成分和植入年限，眉间、额部不明硬结先想到线头上移，取出按深部异物设计。",
+   "scene_zh": "患者说五年前做过线雕隆鼻，现在眉间鼓了个硬包，我问她记不记得当时用的什么线，她说忘了——这种就得按永久线移位来查。",
+   "fact_en": "A 54-year-old woman presented five years after thread-based nasal augmentation with forehead irregularity and a firm glabellar mass; exploration retrieved eight migrated thread fragments (two blue, six transparent) along the glabella and forehead. Nuclear magnetic resonance identified the material as a polypropylene–polylactic acid copolymer, and repeated procerus and frontalis contraction with unidirectional barbs was thought to drive cephalad migration.",
+   "take_en": "The value is tracing a late thread complication to a specific copolymer and to muscle mechanics rather than a generic foreign-body reaction. Ask patients about thread composition and implant age, and treat unexplained glabellar or forehead nodules after nasal threading as possible migrated threads; retrieval needs a deep-foreign-body approach.",
+   "first_author": "Yun CW",
+   "first_affil": "View Aesthetic Plastic Surgery Clinic, Seoul, Republic of Korea"
   },
   {
-   "id": "2026-11-23-pmid-43059485",
-   "pmid": "43059485",
-   "doi": "10.1097/scs.0000000000013598",
-   "journal": "Journal of Craniofacial Surgery",
-   "title": "Platelet-Rich Plasma Does Not Enhance Demineralized Bone Matrix Repair of Critical-Size Calvarial Defects: A 24-Week Study",
+   "id": "2026-11-24-pmid-43066456",
+   "pmid": "43066456",
+   "doi": "10.1097/gox.0000000000008237",
+   "journal": "Plastic and Reconstructive Surgery – Global Open",
+   "title": "Mailbox Flap Mastopexy: Structural Internal Support Technique to Enhance Lower Pole Stability Breast Ptosis Correction",
    "tags": [
-    "PRP",
-    "骨移植",
-    "颅面修复"
+    "隆胸",
+    "乳房上提",
+    "假体",
+    "BREAST-Q"
    ],
-   "fact_zh": "32 只鼠 8 mm 颅骨缺损分四组：空白、platelet-rich plasma（富血小板血浆，PRP）、demineralized bone matrix（脱钙骨基质，DBM）、合用，24 周。DBM 单用优于合用，PRP 同空白。",
-   "take_zh": "创新点：随访拉到 24 周并设单用植骨对照，推翻 8–12 周研究里加 PRP 更好的印象。意义：颅面骨移植不必默认掺 PRP，掺了可能延迟闭合；读这类文章先看随访是否超过 12 周。",
-   "scene_zh": "患者问骨缺损修补要不要加自己的血浆，我说动物实验里加了反而闭合慢，这笔钱先省下。",
-   "fact_en": "In a randomised four-arm study, 8 mm critical-size calvarial defects in 32 rats were left untreated or filled with platelet-rich plasma (PRP), demineralized bone matrix (DBM), or both, eight animals per group, and followed by computed tomography to 24 weeks with histological grading. Both matrix groups closed faster than untreated and PRP-only defects, but diverged from week 12: by 24 weeks every matrix-alone animal had closed more than every animal given the combination, and PRP alone never differed from untreated.",
-   "take_en": "Its contribution is a 24-week horizon with a graft-alone arm, which undercuts the 8–12 week studies that made adding PRP look beneficial. Adding PRP to DBM produced no extra bone and may delay closure, so cranial grafting should not add PRP by default, and combination studies should be read with their follow-up length in mind.",
-   "first_author": "Alioğlu C",
-   "first_affil": "Department of Plastic, Reconstructive and Aesthetic Surgery, Kartal Lütfi Kırdar City Hospital, University of Health Sciences, Istanbul, Turkey"
+   "fact_zh": "84 例假体隆胸同期乳房上提（2021–2024），平均 39.7 岁，60.7% 为二次上提；4×4 厘米皮腺瓣锚定胸大肌，90.5% 完全矫正下垂，并发症 23.8%，BREAST-Q 从 35.2 升至 93.8 分。",
+   "take_zh": "创新点：用一块 4×4 厘米去上皮皮腺瓣锚到胸大肌做内支撑，把下极稳定从皮肤受力改成结构受力。意义：假体隆胸合并中度下垂、尤其二次上提可少依赖皮肤张力；但并发症 23.8%、无对照，满意度和随访期要如实讲。",
+   "scene_zh": "患者问隆胸同时能不能把下垂一起提上去，我说可以，但会用一块自己的腺体瓣兜住下极，疤痕和愈合不良的风险要先讲清楚。",
+   "fact_en": "In a retrospective cohort of 84 patients having mastopexy with implants between 2021 and 2024 (mean age 39.7 years, mean BMI 23.7), 60.7% were secondary lifts and most had Regnault grade 2 (65.5%) or 3 (31.0%) ptosis. A 4 × 4 cm dermoglandular flap was anchored to the pectoralis with limited subpectoral myotomy; complete ptosis correction was achieved in 90.5%, complications occurred in 23.8% (mainly minor wound dehiscence 5.9%, hypertrophic scar 3.6%, asymmetry 3.6%), and BREAST-Q scores rose from 35.2 to 93.8 (P < 0.001).",
+   "take_en": "The innovation is a dermoglandular flap fixed to the pectoralis to support the lower pole structurally instead of relying on skin. It is a reasonable option for moderate ptosis with implants, especially secondary lifts, but the 23.8% complication rate and lack of a control group mean the satisfaction gain and follow-up must be presented honestly.",
+   "first_author": "Centeno-Silva J",
+   "first_affil": "Sensabell, Madrid–Valencia, Spain"
   }
  ]
 }
