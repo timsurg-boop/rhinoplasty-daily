@@ -12,7 +12,6 @@ from datetime import datetime
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data", "papers.json")
 ARCHIVE = os.path.join(HERE, "data", "archive")
-COMMENTS = os.path.join(HERE, "data", "comments.jsonl")
 
 # 站点部署位置决定两件事：站内链接前缀、绝对 URL 前缀。
 # 1) 仓库里有 CNAME（已绑自定义域名）→ 站点在根路径，前缀为空。
@@ -79,15 +78,6 @@ h2 a:hover{color:var(--accent)}
 .related{margin-top:12px;font-size:13px;color:var(--muted);line-height:1.7}
 .related a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--line)}
 .related a:hover{color:var(--accent)}
-.hint{font-size:12px;color:var(--muted);margin:6px 0 0}
-.comments{margin-top:16px}
-.comment{background:#fff;border:1px solid var(--line);border-radius:8px;padding:10px 12px;margin:8px 0;font-size:14px}
-.comment .who{color:var(--muted);font-size:12px;margin-bottom:2px}
-form{display:flex;gap:8px;margin-top:10px}
-input,textarea{font:inherit;font-size:14px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:#fff;width:100%}
-textarea{resize:vertical;min-height:46px}
-button{font:inherit;font-size:14px;padding:8px 16px;border:1px solid var(--ink);background:var(--ink);color:#fff;border-radius:8px;cursor:pointer;white-space:nowrap}
-button:hover{background:var(--accent);border-color:var(--accent)}
 .archive{margin-top:40px}
 .archive h3{font-size:14px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--line);padding-bottom:8px}
 .archive ul{list-style:none;padding:0}
@@ -148,20 +138,6 @@ def load_days():
     return [days[k] for k in sorted(days, reverse=True)]
 
 
-def load_comments():
-    out = []
-    if os.path.exists(COMMENTS):
-        with open(COMMENTS, encoding="utf-8") as fh:
-            for line in fh:
-                line = line.strip()
-                if line:
-                    try:
-                        out.append(json.loads(line))
-                    except json.JSONDecodeError:
-                        pass
-    return out
-
-
 def esc(text):
     return html.escape(str(text or ""))
 
@@ -185,15 +161,9 @@ def related_items(it, days, limit=3):
     return hits[:limit]
 
 
-def item_card(it, comments_by_id, days=None):
-    cs = comments_by_id.get(it["id"], [])
-    c_html = "".join(
-        f'<div class="comment"><div class="who">{esc(c.get("name") or "匿名")} · {esc(c.get("ts","")[:16].replace("T"," "))}</div>{esc(c.get("text"))}</div>'
-        for c in cs
-    )
+def item_card(it, days=None):
     affil_html = (f'<span class="affil">{esc(it.get("first_affil"))}</span>'
                   if it.get("first_affil") else "")
-    comments_html = f'<div class="comments">{c_html}</div>' if c_html else ""
     rel = related_items(it, days or [], limit=3)
     if rel:
         links = " · ".join(
@@ -212,23 +182,12 @@ def item_card(it, comments_by_id, days=None):
   <p class="line take"><b>点评｜</b>{esc(it['take_zh'])}</p>
   <p class="en">{esc(it['fact_en'])} {esc(it['take_en'])}</p>
   {rel_html}
-  {comments_html}
-  <form onsubmit="return postComment(event,'{esc(it['id'])}')">
-    <input name="name" placeholder="署名（可空）" style="max-width:150px">
-    <textarea name="text" placeholder="写一句你的判断、异议或临床经验…" required></textarea>
-    <button type="submit">批注</button>
-  </form>
-  <p class="hint">批注公开显示在你留言的这条文献下方；请勿填写患者姓名、影像或任何可识别信息。</p>
 </article>"""
 
 
-def render_index(days, comments):
-    by_id = {}
-    for c in comments:
-        by_id.setdefault(c.get("item_id"), []).append(c)
-
+def render_index(days):
     today = days[0]
-    cards = "".join(item_card(it, by_id, days) for it in today["items"])
+    cards = "".join(item_card(it, days) for it in today["items"])
 
     try:
         gap = (datetime.now().date() - datetime.strptime(today["date"], "%Y-%m-%d").date()).days
@@ -279,7 +238,7 @@ def render_index(days, comments):
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(SITE_TITLE)} · {esc(today['date'])}</title>
 <link rel="canonical" href="{BASE_URL}/">
-<meta name="description" content="每天 3-5 条鼻整形与面部提升新文献，一句事实 + 一句点评，可批注、可订阅。">
+<meta name="description" content="每天 3-5 条鼻整形与面部提升新文献，一句事实 + 一句点评，可订阅。">
 <link rel="alternate" type="application/feed+json" href="/feed.json" title="JSON Feed">
 <link rel="alternate" type="application/rss+xml" href="/rss.xml" title="RSS">
 <script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>
@@ -301,21 +260,6 @@ def render_index(days, comments):
   <p>内容仅供同行讨论，不构成医疗建议。</p>
 </footer>
 </main>
-<script>
-async function postComment(e, id) {{
-  e.preventDefault();
-  const f = e.target;
-  const text = f.text.value.trim();
-  if (!text) return false;
-  const res = await fetch('/api/comment', {{
-    method: 'POST', headers: {{'Content-Type': 'application/json'}},
-    body: JSON.stringify({{item_id: id, name: f.name.value.trim(), text}})
-  }});
-  if (res.ok) {{ location.hash = id; location.reload(); }}
-  else {{ alert('保存失败，检查本地服务是否在运行'); }}
-  return false;
-}}
-</script>
 </body>
 </html>
 """
@@ -434,8 +378,8 @@ def render_sitemap_extra(default_date):
     return "".join(out)
 
 
-def render_archive_page(day, comments_by_id, days=None):
-    cards = "".join(item_card(it, comments_by_id, days) for it in day["items"])
+def render_archive_page(day, days=None):
+    cards = "".join(item_card(it, days) for it in day["items"])
     return f"""<!doctype html>
 <html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -480,12 +424,8 @@ def _ensure_affiliations(days):
 def build():
     days = load_days()
     _ensure_affiliations(days)
-    comments = load_comments()
-    by_id = {}
-    for c in comments:
-        by_id.setdefault(c.get("item_id"), []).append(c)
     pages = {
-        "index.html": render_index(days, comments),
+        "index.html": render_index(days),
         "feed.json": json.dumps(render_feed(days), ensure_ascii=False, indent=2),
         "rss.xml": render_rss(days),
         "llms.txt": render_llms(days),
@@ -505,7 +445,7 @@ def build():
             fh.write(body)
     os.makedirs(os.path.join(HERE, "archive"), exist_ok=True)
     for day in days:
-        page = fix_links(render_archive_page(day, by_id, days))
+        page = fix_links(render_archive_page(day, days))
         with open(os.path.join(HERE, "archive", f"{day['date']}.html"), "w", encoding="utf-8") as fh:
             fh.write(page)
     return list(pages)

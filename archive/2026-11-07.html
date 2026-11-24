@@ -32,15 +32,6 @@ h2 a:hover{color:var(--accent)}
 .related{margin-top:12px;font-size:13px;color:var(--muted);line-height:1.7}
 .related a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--line)}
 .related a:hover{color:var(--accent)}
-.hint{font-size:12px;color:var(--muted);margin:6px 0 0}
-.comments{margin-top:16px}
-.comment{background:#fff;border:1px solid var(--line);border-radius:8px;padding:10px 12px;margin:8px 0;font-size:14px}
-.comment .who{color:var(--muted);font-size:12px;margin-bottom:2px}
-form{display:flex;gap:8px;margin-top:10px}
-input,textarea{font:inherit;font-size:14px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:#fff;width:100%}
-textarea{resize:vertical;min-height:46px}
-button{font:inherit;font-size:14px;padding:8px 16px;border:1px solid var(--ink);background:var(--ink);color:#fff;border-radius:8px;cursor:pointer;white-space:nowrap}
-button:hover{background:var(--accent);border-color:var(--accent)}
 .archive{margin-top:40px}
 .archive h3{font-size:14px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--line);padding-bottom:8px}
 .archive ul{list-style:none;padding:0}
@@ -73,13 +64,6 @@ code{background:#efece5;padding:1px 5px;border-radius:4px;font-size:13px}
   <p class="line take"><b>点评｜</b>开放入路的价值在复杂病例的暴露与固定，不该当默认术式；条件允许时，闭合入路仍值得先考虑。</p>
   <p class="en">A German ENT journal runs a focused piece on the open-approach septorhinoplasty and its technical points. The open approach earns its place in complex cases, not as a default; consider a closed approach first when anatomy allows.</p>
   
-  
-  <form onsubmit="return postComment(event,'2026-11-07-pmid-42971217')">
-    <input name="name" placeholder="署名（可空）" style="max-width:150px">
-    <textarea name="text" placeholder="写一句你的判断、异议或临床经验…" required></textarea>
-    <button type="submit">批注</button>
-  </form>
-  <p class="hint">批注公开显示在你留言的这条文献下方；请勿填写患者姓名、影像或任何可识别信息。</p>
 </article>
 <footer><p>机器可读：<code>/feed.json</code>、<code>/rss.xml</code>、<code>/llms.txt</code>。</p></footer>
 </main></body></html>
