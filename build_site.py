@@ -49,6 +49,7 @@ def fix_links(markup):
 
 
 SITE_TITLE = "鼻整形文献评点 · Rhinoplasty Daily Commentary"
+RECENT_DAYS = 14
 
 CSS = """
 :root{--bg:#fbfaf7;--ink:#1a1a1a;--muted:#6b6b6b;--line:#e2ded6;--accent:#8c2f2f}
@@ -73,6 +74,12 @@ h2 a:hover{color:var(--accent)}
 .line.fact b{color:#2f4f7f}
 .line.take b{color:var(--accent)}
 .en{color:var(--muted);font-size:14px;margin-top:10px;padding-left:12px;border-left:2px solid var(--line)}
+.updated{font-size:12px;color:var(--muted);margin-top:2px}
+.stale{margin:14px 0 0;padding:10px 12px;border:1px solid #e8d9b5;background:#fdf7e8;border-radius:8px;font-size:13px;color:#6b5a2e}
+.related{margin-top:12px;font-size:13px;color:var(--muted);line-height:1.7}
+.related a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--line)}
+.related a:hover{color:var(--accent)}
+.hint{font-size:12px;color:var(--muted);margin:6px 0 0}
 .comments{margin-top:16px}
 .comment{background:#fff;border:1px solid var(--line);border-radius:8px;padding:10px 12px;margin:8px 0;font-size:14px}
 .comment .who{color:var(--muted);font-size:12px;margin-bottom:2px}
@@ -159,7 +166,26 @@ def esc(text):
     return html.escape(str(text or ""))
 
 
-def item_card(it, comments_by_id):
+def related_items(it, days, limit=3):
+    """按标签找同主题、日期更早的条目（同一天的不算），最近优先。"""
+    tags = set(it.get("tags") or [])
+    if not tags:
+        return []
+    own_day = str(it.get("id", ""))[:10]
+    hits = []
+    for day in days:
+        if day["date"] == own_day:
+            continue
+        for other in day["items"]:
+            if other.get("id") == it.get("id"):
+                continue
+            if tags & set(other.get("tags") or []):
+                hits.append((day["date"], other))
+    hits.sort(key=lambda pair: pair[0], reverse=True)
+    return hits[:limit]
+
+
+def item_card(it, comments_by_id, days=None):
     cs = comments_by_id.get(it["id"], [])
     c_html = "".join(
         f'<div class="comment"><div class="who">{esc(c.get("name") or "匿名")} · {esc(c.get("ts","")[:16].replace("T"," "))}</div>{esc(c.get("text"))}</div>'
@@ -167,6 +193,16 @@ def item_card(it, comments_by_id):
     )
     affil_html = (f'<span class="affil">{esc(it.get("first_affil"))}</span>'
                   if it.get("first_affil") else "")
+    comments_html = f'<div class="comments">{c_html}</div>' if c_html else ""
+    rel = related_items(it, days or [], limit=3)
+    if rel:
+        links = " · ".join(
+            f'<a href="/archive/{esc(d)}.html#{esc(o["id"])}">{esc(o["title"][:52])}</a>'
+            for d, o in rel
+        )
+        rel_html = f'<p class="related"><b>同题旧文｜</b>{links}</p>'
+    else:
+        rel_html = ""
     return f"""
 <article class="item" id="{esc(it['id'])}">
   <div class="tagrow">{''.join(f'<span class="tag">{esc(t)}</span>' for t in it.get('tags', []))}</div>
@@ -175,12 +211,14 @@ def item_card(it, comments_by_id):
   <p class="line fact"><b>事实｜</b>{esc(it['fact_zh'])}</p>
   <p class="line take"><b>点评｜</b>{esc(it['take_zh'])}</p>
   <p class="en">{esc(it['fact_en'])} {esc(it['take_en'])}</p>
-  <div class="comments">{c_html or '<p style="color:#8a8a8a;font-size:13px;margin:6px 0">还没有批注</p>'}</div>
+  {rel_html}
+  {comments_html}
   <form onsubmit="return postComment(event,'{esc(it['id'])}')">
     <input name="name" placeholder="署名（可空）" style="max-width:150px">
     <textarea name="text" placeholder="写一句你的判断、异议或临床经验…" required></textarea>
     <button type="submit">批注</button>
   </form>
+  <p class="hint">批注公开显示在你留言的这条文献下方；请勿填写患者姓名、影像或任何可识别信息。</p>
 </article>"""
 
 
@@ -190,7 +228,16 @@ def render_index(days, comments):
         by_id.setdefault(c.get("item_id"), []).append(c)
 
     today = days[0]
-    cards = "".join(item_card(it, by_id) for it in today["items"])
+    cards = "".join(item_card(it, by_id, days) for it in today["items"])
+
+    try:
+        gap = (datetime.now().date() - datetime.strptime(today["date"], "%Y-%m-%d").date()).days
+    except Exception:
+        gap = 0
+    stale_html = ""
+    if gap >= 3:
+        stale_html = (f'<div class="stale">本期尚未更新：最新一期为 {esc(today["date"])}，'
+                      f'已 {gap} 天前。每日管线可能中断，请以页面日期为准。</div>')
 
     older = []
     for day in days[1:]:
@@ -244,6 +291,8 @@ def render_index(days, comments):
 <header>
   <h1>{esc(SITE_TITLE)}</h1>
   <div class="meta">{esc(today['date'])} · 来源 {esc(today.get('source',''))} · 窗口 {esc(today.get('window',''))} · <a href="/llms.txt">llms.txt</a> · <a href="/feed.json">feed.json</a></div>
+  <div class="updated">最后更新：{esc(today['date'])} · 每日 3–5 条，事实与点评各一句，附 PMID/DOI</div>
+  {stale_html}
 </header>
 {cards}
 {archive_html}
@@ -335,9 +384,12 @@ def render_llms(days):
         f"- JSON Feed: {BASE_URL}/feed.json",
         f"- RSS: {BASE_URL}/rss.xml",
         f"- Sitemap: {BASE_URL}/sitemap.xml",
+        f"- 完整归档: {BASE_URL}/archive/",
         "",
     ]
-    for day in days:
+    if len(days) > RECENT_DAYS:
+        lines += [f"\u672c\u6587\u4ec5\u5217\u6700\u8fd1 {RECENT_DAYS} \u671f\uff08{days[0]['date']} \u81f3 {days[RECENT_DAYS - 1]['date']}\uff09\uff1b\u66f4\u65e9\u5185\u5bb9\u89c1\u5f52\u6863\u76ee\u5f55\u3002", ""]
+    for day in days[:RECENT_DAYS]:
         lines += [f"## {day['date']}", ""]
         for it in day["items"]:
             lines += [
@@ -382,8 +434,8 @@ def render_sitemap_extra(default_date):
     return "".join(out)
 
 
-def render_archive_page(day, comments_by_id):
-    cards = "".join(item_card(it, comments_by_id) for it in day["items"])
+def render_archive_page(day, comments_by_id, days=None):
+    cards = "".join(item_card(it, comments_by_id, days) for it in day["items"])
     return f"""<!doctype html>
 <html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -453,7 +505,7 @@ def build():
             fh.write(body)
     os.makedirs(os.path.join(HERE, "archive"), exist_ok=True)
     for day in days:
-        page = fix_links(render_archive_page(day, by_id))
+        page = fix_links(render_archive_page(day, by_id, days))
         with open(os.path.join(HERE, "archive", f"{day['date']}.html"), "w", encoding="utf-8") as fh:
             fh.write(page)
     return list(pages)

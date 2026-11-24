@@ -27,6 +27,12 @@ h2 a:hover{color:var(--accent)}
 .line.fact b{color:#2f4f7f}
 .line.take b{color:var(--accent)}
 .en{color:var(--muted);font-size:14px;margin-top:10px;padding-left:12px;border-left:2px solid var(--line)}
+.updated{font-size:12px;color:var(--muted);margin-top:2px}
+.stale{margin:14px 0 0;padding:10px 12px;border:1px solid #e8d9b5;background:#fdf7e8;border-radius:8px;font-size:13px;color:#6b5a2e}
+.related{margin-top:12px;font-size:13px;color:var(--muted);line-height:1.7}
+.related a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--line)}
+.related a:hover{color:var(--accent)}
+.hint{font-size:12px;color:var(--muted);margin:6px 0 0}
 .comments{margin-top:16px}
 .comment{background:#fff;border:1px solid var(--line);border-radius:8px;padding:10px 12px;margin:8px 0;font-size:14px}
 .comment .who{color:var(--muted);font-size:12px;margin-bottom:2px}
@@ -66,12 +72,14 @@ code{background:#efece5;padding:1px 5px;border-radius:4px;font-size:13px}
   <p class="line fact"><b>事实｜</b>德国耳鼻喉科杂志刊出开放入路鼻中隔鼻整形专题，聚焦该入路的技术要点。</p>
   <p class="line take"><b>点评｜</b>开放入路的价值在复杂病例的暴露与固定，不该当默认术式；条件允许时，闭合入路仍值得先考虑。</p>
   <p class="en">A German ENT journal runs a focused piece on the open-approach septorhinoplasty and its technical points. The open approach earns its place in complex cases, not as a default; consider a closed approach first when anatomy allows.</p>
-  <div class="comments"><p style="color:#8a8a8a;font-size:13px;margin:6px 0">还没有批注</p></div>
+  
+  
   <form onsubmit="return postComment(event,'2026-11-07-pmid-42971217')">
     <input name="name" placeholder="署名（可空）" style="max-width:150px">
     <textarea name="text" placeholder="写一句你的判断、异议或临床经验…" required></textarea>
     <button type="submit">批注</button>
   </form>
+  <p class="hint">批注公开显示在你留言的这条文献下方；请勿填写患者姓名、影像或任何可识别信息。</p>
 </article>
 <footer><p>机器可读：<code>/feed.json</code>、<code>/rss.xml</code>、<code>/llms.txt</code>。</p></footer>
 </main></body></html>
