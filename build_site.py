@@ -8,6 +8,7 @@ import os
 import re
 import sys
 from datetime import datetime
+from urllib.parse import quote
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "data", "papers.json")
@@ -48,6 +49,7 @@ def fix_links(markup):
 
 
 SITE_TITLE = "鼻整形文献评点 · Rhinoplasty Daily Commentary"
+MAIL_TO = "timsurg@icloud.com"
 RECENT_DAYS = 14
 
 CSS = """
@@ -78,6 +80,8 @@ h2 a:hover{color:var(--accent)}
 .related{margin-top:12px;font-size:13px;color:var(--muted);line-height:1.7}
 .related a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--line)}
 .related a:hover{color:var(--accent)}
+.respond{margin-top:10px;font-size:13px;color:var(--muted)}
+.respond a{color:var(--ink)}
 .archive{margin-top:40px}
 .archive h3{font-size:14px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--line);padding-bottom:8px}
 .archive ul{list-style:none;padding:0}
@@ -173,6 +177,15 @@ def item_card(it, days=None):
         rel_html = f'<p class="related"><b>同题旧文｜</b>{links}</p>'
     else:
         rel_html = ""
+    subject = f"批注｜{it['id'][:10]}｜PMID {it.get('pmid','')}｜{it['title'][:36]}"
+    body = (f"\n\n—— 文献：{it['title']}\n"
+            f"—— 链接：{BASE_URL}/#{it['id']}\n"
+            f"—— PMID：{it.get('pmid','')}\n"
+            f"（请勿写患者姓名、影像或任何可识别信息）")
+    mail_href = (f"mailto:{MAIL_TO}?subject={quote(subject)}"
+                 f"&body={quote(body)}")
+    respond_html = (f'<p class="respond">有异议或临床经验？'
+                    f'<a href="{esc(mail_href)}">写信给编辑部</a>（1–2 个工作日回复）</p>')
     return f"""
 <article class="item" id="{esc(it['id'])}">
   <div class="tagrow">{''.join(f'<span class="tag">{esc(t)}</span>' for t in it.get('tags', []))}</div>
@@ -182,6 +195,7 @@ def item_card(it, days=None):
   <p class="line take"><b>点评｜</b>{esc(it['take_zh'])}</p>
   <p class="en">{esc(it['fact_en'])} {esc(it['take_en'])}</p>
   {rel_html}
+  {respond_html}
 </article>"""
 
 
