@@ -1,68 +1,68 @@
 {
- "date": "2026-11-24",
- "updated": "2026-11-24T07:33:51+08:00",
- "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
- "window": "2026-11-17..11-24；鼻整形 7 日内新增仅 1 条未评点（11-19 唇岛状瓣，摘要缺失），第 1 条补收 11-13 双支撑杆（10 例），第 2 条补收 11-10 线雕移位个案；第 3 条按轮换取隆胸（11-20 信箱瓣乳房上提 84 例）；拉皮、小阴唇无新增，颅骨修复、PRP 本期不取",
- "items": [
-  {
-   "id": "2026-11-24-pmid-43032422",
-   "pmid": "43032422",
-   "doi": "10.1097/gox.0000000000008156",
-   "journal": "Plastic and Reconstructive Surgery – Global Open",
-   "title": "Pilot Study: Preliminary Experience with Dual-strut Tip Support Using Repurposed Cephalic Trim Cartilage in East Asian Rhinoplasty",
-   "tags": [
-    "鼻整形",
-    "鼻尖支撑",
-    "软骨移植",
-    "东亚鼻"
-   ],
-   "fact_zh": "回顾性 10 例东亚初次鼻整形（日本女性，平均 33.7 岁），用梯形鼻中隔延伸移植物加双侧鼻小柱支撑杆，支撑杆取自已切除的鼻翼软骨头侧缘；随访 10.1 个月，无感染、移植物外露、鼻中隔不稳或鼻尖变形。",
-   "take_zh": "创新点：把本该丢弃的头侧缘软骨改造成双支撑杆，不额外取耳或肋软骨就强化鼻尖三脚架。意义：鼻中隔软骨不足、只需中等鼻尖支撑的东亚鼻可少开一处供区；但仅 10 例、无客观测量，属初步可行。",
-   "scene_zh": "患者问鼻尖能不能撑起来又不想多开一刀取软骨，我说可以把修鼻翼时切下的那点软骨留下做两根支撑，但只适合中等程度、鼻中隔够用的人。",
-   "fact_en": "In a retrospective pilot, 10 Japanese women (mean age 33.7 years) underwent primary East Asian rhinoplasty with a trapezoidal septal extension graft plus paired columellar struts fashioned from cephalic-trim cartilage that would otherwise be discarded. The struts were fixed to the distal graft and native medial crura; over a mean 10.1 months (range 7–14) there were no infections, graft extrusions, septal instability, significant tip deformity, external nasal valve compromise or columellar widening.",
-   "take_en": "The innovation is reusing excised cephalic cartilage as paired struts, reinforcing the native tripod without a second donor site. It may suit moderate tip repositioning when septal cartilage is limited, but with 10 patients, no objective outcomes and no comparison group, the biomechanical benefit remains theoretical.",
-   "first_author": "Morello AM",
-   "first_affil": "MSA Surgical Arts, Naha, Okinawa, Japan"
-  },
-  {
-   "id": "2026-11-24-pmid-43012028",
-   "pmid": "43012028",
-   "doi": "10.1097/gox.0000000000008126",
-   "journal": "Plastic and Reconstructive Surgery – Global Open",
-   "title": "Cephalad Migration of Permanent Thread Fragments Following Nose Augmentation by Thread",
-   "tags": [
-    "鼻整形",
-    "线雕",
-    "并发症",
-    "异物移位"
-   ],
-   "fact_zh": "1 例 54 岁女性，鼻部线雕隆鼻 5 年后额部不平、眉间硬块；手术取出 8 段移位线（2 蓝 6 透明），nuclear magnetic resonance（核磁共振，NMR）证实为聚丙烯-聚乳酸共聚物。",
-   "take_zh": "创新点：把多年后的线头移位追到具体共聚物材料与皱眉肌、额肌反复收缩的力学，而非笼统异物反应。意义：问诊要追问线材成分和植入年限，眉间、额部不明硬结先想到线头上移，取出按深部异物设计。",
-   "scene_zh": "患者说五年前做过线雕隆鼻，现在眉间鼓了个硬包，我问她记不记得当时用的什么线，她说忘了——这种就得按永久线移位来查。",
-   "fact_en": "A 54-year-old woman presented five years after thread-based nasal augmentation with forehead irregularity and a firm glabellar mass; exploration retrieved eight migrated thread fragments (two blue, six transparent) along the glabella and forehead. Nuclear magnetic resonance identified the material as a polypropylene–polylactic acid copolymer, and repeated procerus and frontalis contraction with unidirectional barbs was thought to drive cephalad migration.",
-   "take_en": "The value is tracing a late thread complication to a specific copolymer and to muscle mechanics rather than a generic foreign-body reaction. Ask patients about thread composition and implant age, and treat unexplained glabellar or forehead nodules after nasal threading as possible migrated threads; retrieval needs a deep-foreign-body approach.",
-   "first_author": "Yun CW",
-   "first_affil": "View Aesthetic Plastic Surgery Clinic, Seoul, Republic of Korea"
-  },
-  {
-   "id": "2026-11-24-pmid-43066456",
-   "pmid": "43066456",
-   "doi": "10.1097/gox.0000000000008237",
-   "journal": "Plastic and Reconstructive Surgery – Global Open",
-   "title": "Mailbox Flap Mastopexy: Structural Internal Support Technique to Enhance Lower Pole Stability Breast Ptosis Correction",
-   "tags": [
-    "隆胸",
-    "乳房上提",
-    "假体",
-    "BREAST-Q"
-   ],
-   "fact_zh": "84 例假体隆胸同期乳房上提（2021–2024），平均 39.7 岁，60.7% 为二次上提；4×4 厘米皮腺瓣锚定胸大肌，90.5% 完全矫正下垂，并发症 23.8%，BREAST-Q 从 35.2 升至 93.8 分。",
-   "take_zh": "创新点：用一块 4×4 厘米去上皮皮腺瓣锚到胸大肌做内支撑，把下极稳定从皮肤受力改成结构受力。意义：假体隆胸合并中度下垂、尤其二次上提可少依赖皮肤张力；但并发症 23.8%、无对照，满意度和随访期要如实讲。",
-   "scene_zh": "患者问隆胸同时能不能把下垂一起提上去，我说可以，但会用一块自己的腺体瓣兜住下极，疤痕和愈合不良的风险要先讲清楚。",
-   "fact_en": "In a retrospective cohort of 84 patients having mastopexy with implants between 2021 and 2024 (mean age 39.7 years, mean BMI 23.7), 60.7% were secondary lifts and most had Regnault grade 2 (65.5%) or 3 (31.0%) ptosis. A 4 × 4 cm dermoglandular flap was anchored to the pectoralis with limited subpectoral myotomy; complete ptosis correction was achieved in 90.5%, complications occurred in 23.8% (mainly minor wound dehiscence 5.9%, hypertrophic scar 3.6%, asymmetry 3.6%), and BREAST-Q scores rose from 35.2 to 93.8 (P < 0.001).",
-   "take_en": "The innovation is a dermoglandular flap fixed to the pectoralis to support the lower pole structurally instead of relying on skin. It is a reasonable option for moderate ptosis with implants, especially secondary lifts, but the 23.8% complication rate and lack of a control group mean the satisfaction gain and follow-up must be presented honestly.",
-   "first_author": "Centeno-Silva J",
-   "first_affil": "Sensabell, Madrid–Valencia, Spain"
-  }
- ]
+  "date": "2026-11-25",
+  "updated": "2026-11-25T07:32:03+08:00",
+  "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
+  "window": "2026-11-18..11-25；鼻整形 2 条（11-23 唇裂鼻单柱支撑+碎肋软骨 16 例、11-20 多模态 AI 咨询双盲评分 20 例）；第 3 条按轮换取拉皮（11-23 术中颧面神经定位 158 例）；PRP 本期仅有骨科、喉科、勃起功能及摘要缺失的毛发条目，不取；颅骨修复 3 条（系统综述、战伤野战个案、PEEK 预印本）本轮不取；小阴唇 0 条。",
+  "items": [
+    {
+      "id": "2026-11-25-pmid-43070927",
+      "pmid": "43070927",
+      "doi": "10.1097/scs.0000000000013617",
+      "journal": "Journal of Craniofacial Surgery",
+      "title": "Septum-Anchored Teostrut With Diced Costal Cartilage for Definitive Asian Cleft Rhinoplasty",
+      "tags": [
+        "鼻整形",
+        "唇裂鼻",
+        "肋软骨",
+        "鼻背填充"
+      ],
+      "fact_zh": "回顾性 16 例亚洲唇腭裂修复后患者，做定型期鼻整形：鼻尖用锚定在鼻中隔的单柱移植物（Teostrut）支撑，鼻背用切碎肋软骨铺垫。术后照片测量鼻背偏斜改善 0.9°，鼻翼角不对称改善约 11–13°，69% 患者自报鼻通气好转，无重大并发症。",
+      "take_zh": "创新点：把鼻中隔锚定的单柱移植物和切碎肋软骨合用于亚洲唇裂鼻，16 例且有客观照片测量。意义：唇裂鼻二次修复可拿碎软骨垫鼻背、避开整块移植的僵硬；但无对照组、随访期没报，只算初步可行。",
+      "scene_zh": "患者问唇裂的鼻子做过一次还能不能再修，我说能，鼻尖拿一根固定在鼻中隔的支撑顶着，鼻背用碎肋软骨一点点垫，但得先看你鼻中隔够不够使。",
+      "fact_en": "This retrospective series reports 16 Asian patients with repaired cleft lip and palate who underwent definitive rhinoplasty using a septum-anchored monopod graft (Teostrut) for tip support plus diced costal cartilage for dorsal augmentation. Photographic analysis showed 0.9 degrees of improvement in dorsum deviation and roughly 11 to 13 degrees of correction in alar angle asymmetry; 69% of patients reported functional improvement and there were no major complications.",
+      "take_en": "The innovation is pairing a septum-anchored monopod strut with diced costal cartilage in the Asian cleft nose, with objective photographic measurement in 16 cases. It offers a reproducible way to support the tip and camouflage the dorsum in secondary cleft deformity, but the series has no control group and does not report follow-up length, so it remains preliminary.",
+      "first_author": "Bangun K",
+      "first_affil": "Cleft and Craniofacial Center, Cipto Mangunkusumo General Hospital, Jakarta"
+    },
+    {
+      "id": "2026-11-25-pmid-43063989",
+      "pmid": "43063989",
+      "doi": "10.1055/a-3003-2319",
+      "journal": "Facial Plastic Surgery",
+      "title": "Multimodal AI for Rhinoplasty Consultation and Simulation: A Blinded Expert Evaluation",
+      "tags": [
+        "鼻整形",
+        "人工智能",
+        "术前沟通",
+        "模拟图"
+      ],
+      "fact_zh": "让 GPT-5.5 用 20 例鼻整形患者术前照片生成咨询话术和术后模拟图，4 名双盲面整形外科医生按 12 项五分制打分。语言清晰度最高 4.05 分，手术方案适当性 2.90、避免不必要手术 2.59、方案与模拟图一致性 2.33 最低；医生完全认可方案仅 7.6%。",
+      "take_zh": "创新点：首次用双盲专家评分检验多模态模型在真实鼻整形病例上的咨询与模拟输出，而非演示。意义：模拟图好看不等于方案对，门诊可拿它当沟通辅助，不能让患者照图定手术；适应证、该不该做仍要医生逐条复核。",
+      "scene_zh": "患者拿着手机里生成的模拟图问能不能照这个做，我说图只能看个大概方向，真正切多少、垫哪里还得当面量，图上的鼻子不一定适合长在你脸上。",
+      "fact_en": "Preoperative photographs from 20 rhinoplasty patients were given to GPT-5.5, which generated consultation text and simulated postoperative images; four blinded fellowship-trained facial plastic surgeons rated each output on 12 five-point items plus utility and plan-agreement questions. Language clarity scored highest at 4.05 of 5, whereas procedure appropriateness (2.90), avoidance of inappropriate procedures (2.59) and plan-to-simulation fidelity (2.33) were weakest. Surgeons fully agreed with the proposed plan in only 7.6% of assessments.",
+      "take_en": "The innovation is a blinded, case-level validity test of multimodal AI on real rhinoplasty consultations rather than a demonstration. The findings support supervised adjunctive use only: wording reads well and simulations look plausible, but patient-specific surgical validity is inconsistent, so an image should never be treated as a surgical promise.",
+      "first_author": "Hack S",
+      "first_affil": "Sheba Medical Center, University of Nicosia, City St. George's University London School of Medicine, Program Delivered by University of Nicosia at the Chaim Sheba Medical Center, Tel Aviv District, Israel, Tel HaShomer"
+    },
+    {
+      "id": "2026-11-25-pmid-43071833",
+      "pmid": "43071833",
+      "doi": "10.1093/asj/sjag264",
+      "journal": "Aesthetic Surgery Journal",
+      "title": "Intraoperative Mapping of the Zygomaticofacial Nerve: Implications for Safe Dissection in Endoscopic Facelift Surgery",
+      "tags": [
+        "拉皮",
+        "解剖",
+        "颧面神经",
+        "内窥镜"
+      ],
+      "fact_zh": "前瞻性研究在 158 例内窥镜拉皮术中，用 30° 内镜双侧辨认颧面神经（zygomaticofacial nerve，ZFN）出孔与分支。单支右侧 82%、左侧 87%，双孔 13% 与 8%，三孔≤2%，双侧缺如 4%；颧面孔距眶下缘约 5.5 mm、距颧弓约 10 mm，左右对称。",
+      "take_zh": "创新点：颧面神经数据此前多来自尸体，这是 158 例活体术中实测，同类里样本最大。意义：颧区剥离时按距眶下缘 5.5 mm、距颧弓 10 mm 找神经出孔位置，可少伤分支、减少术后颊部麻木；但只测出孔，未随访感觉功能。",
+      "scene_zh": "患者问拉皮做完脸会不会麻，我说颧骨那块有根细神经，我按量出来的位置绕开它，麻的机会小，但少数人术后还是会木一阵。",
+      "fact_en": "In a prospective intraoperative study of 158 patients undergoing endoscopic facelift, the zygomaticofacial nerve (ZFN) and its foramina were mapped bilaterally under 30-degree endoscopic magnification. A single branch was present in 82% of right and 87% of left sides, double foramina in 13% and 8%, triple foramina in 2% or fewer, and bilateral absence in 4%; mean nerve count was slightly higher on the right (1.13 plus or minus 0.48 versus 1.04 plus or minus 0.38). The foramen averaged about 5.5 mm from the infraorbital rim and 10 mm from the zygomatic arch, with strong bilateral symmetry.",
+      "take_en": "The innovation is living-tissue measurement in 158 patients, the largest series of its kind, where earlier ZFN data came almost entirely from cadavers. Those two distances give a practical landmark for dissection in the zygomatic region, although the study mapped foramina only and did not follow postoperative sensation.",
+      "first_author": "Askeroglu U",
+      "first_affil": ""
+    }
+  ]
 }

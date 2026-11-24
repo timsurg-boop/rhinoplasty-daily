@@ -6,6 +6,51 @@
   "language": "zh-CN",
   "items": [
     {
+      "id": "2026-11-25-pmid-43070927",
+      "url": "https://wangmd-cn.com/#2026-11-25-pmid-43070927",
+      "title": "Septum-Anchored Teostrut With Diced Costal Cartilage for Definitive Asian Cleft Rhinoplasty",
+      "content_html": "<p><strong>事实</strong>：回顾性 16 例亚洲唇腭裂修复后患者，做定型期鼻整形：鼻尖用锚定在鼻中隔的单柱移植物（Teostrut）支撑，鼻背用切碎肋软骨铺垫。术后照片测量鼻背偏斜改善 0.9°，鼻翼角不对称改善约 11–13°，69% 患者自报鼻通气好转，无重大并发症。</p><p><strong>点评</strong>：创新点：把鼻中隔锚定的单柱移植物和切碎肋软骨合用于亚洲唇裂鼻，16 例且有客观照片测量。意义：唇裂鼻二次修复可拿碎软骨垫鼻背、避开整块移植的僵硬；但无对照组、随访期没报，只算初步可行。</p><p>This retrospective series reports 16 Asian patients with repaired cleft lip and palate who underwent definitive rhinoplasty using a septum-anchored monopod graft (Teostrut) for tip support plus diced costal cartilage for dorsal augmentation. Photographic analysis showed 0.9 degrees of improvement in dorsum deviation and roughly 11 to 13 degrees of correction in alar angle asymmetry; 69% of patients reported functional improvement and there were no major complications. The innovation is pairing a septum-anchored monopod strut with diced costal cartilage in the Asian cleft nose, with objective photographic measurement in 16 cases. It offers a reproducible way to support the tip and camouflage the dorsum in secondary cleft deformity, but the series has no control group and does not report follow-up length, so it remains preliminary.</p><p>Journal of Craniofacial Surgery · Bangun K · Cleft and Craniofacial Center, Cipto Mangunkusumo General Hospital, Jakarta · PMID 43070927</p>",
+      "summary": "回顾性 16 例亚洲唇腭裂修复后患者，做定型期鼻整形：鼻尖用锚定在鼻中隔的单柱移植物（Teostrut）支撑，鼻背用切碎肋软骨铺垫。术后照片测量鼻背偏斜改善 0.9°，鼻翼角不对称改善约 11–13°，69% 患者自报鼻通气好转，无重大并发症。 创新点：把鼻中隔锚定的单柱移植物和切碎肋软骨合用于亚洲唇裂鼻，16 例且有客观照片测量。意义：唇裂鼻二次修复可拿碎软骨垫鼻背、避开整块移植的僵硬；但无对照组、随访期没报，只算初步可行。",
+      "date_published": "2026-11-25T08:00:00+08:00",
+      "tags": [
+        "鼻整形",
+        "唇裂鼻",
+        "肋软骨",
+        "鼻背填充"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/43070927/"
+    },
+    {
+      "id": "2026-11-25-pmid-43063989",
+      "url": "https://wangmd-cn.com/#2026-11-25-pmid-43063989",
+      "title": "Multimodal AI for Rhinoplasty Consultation and Simulation: A Blinded Expert Evaluation",
+      "content_html": "<p><strong>事实</strong>：让 GPT-5.5 用 20 例鼻整形患者术前照片生成咨询话术和术后模拟图，4 名双盲面整形外科医生按 12 项五分制打分。语言清晰度最高 4.05 分，手术方案适当性 2.90、避免不必要手术 2.59、方案与模拟图一致性 2.33 最低；医生完全认可方案仅 7.6%。</p><p><strong>点评</strong>：创新点：首次用双盲专家评分检验多模态模型在真实鼻整形病例上的咨询与模拟输出，而非演示。意义：模拟图好看不等于方案对，门诊可拿它当沟通辅助，不能让患者照图定手术；适应证、该不该做仍要医生逐条复核。</p><p>Preoperative photographs from 20 rhinoplasty patients were given to GPT-5.5, which generated consultation text and simulated postoperative images; four blinded fellowship-trained facial plastic surgeons rated each output on 12 five-point items plus utility and plan-agreement questions. Language clarity scored highest at 4.05 of 5, whereas procedure appropriateness (2.90), avoidance of inappropriate procedures (2.59) and plan-to-simulation fidelity (2.33) were weakest. Surgeons fully agreed with the proposed plan in only 7.6% of assessments. The innovation is a blinded, case-level validity test of multimodal AI on real rhinoplasty consultations rather than a demonstration. The findings support supervised adjunctive use only: wording reads well and simulations look plausible, but patient-specific surgical validity is inconsistent, so an image should never be treated as a surgical promise.</p><p>Facial Plastic Surgery · Hack S · Sheba Medical Center, University of Nicosia, City St. George&#x27;s University London School of Medicine, Program Delivered by University of Nicosia at the Chaim Sheba Medical Center, Tel Aviv District, Israel, Tel HaShomer · PMID 43063989</p>",
+      "summary": "让 GPT-5.5 用 20 例鼻整形患者术前照片生成咨询话术和术后模拟图，4 名双盲面整形外科医生按 12 项五分制打分。语言清晰度最高 4.05 分，手术方案适当性 2.90、避免不必要手术 2.59、方案与模拟图一致性 2.33 最低；医生完全认可方案仅 7.6%。 创新点：首次用双盲专家评分检验多模态模型在真实鼻整形病例上的咨询与模拟输出，而非演示。意义：模拟图好看不等于方案对，门诊可拿它当沟通辅助，不能让患者照图定手术；适应证、该不该做仍要医生逐条复核。",
+      "date_published": "2026-11-25T08:00:00+08:00",
+      "tags": [
+        "鼻整形",
+        "人工智能",
+        "术前沟通",
+        "模拟图"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/43063989/"
+    },
+    {
+      "id": "2026-11-25-pmid-43071833",
+      "url": "https://wangmd-cn.com/#2026-11-25-pmid-43071833",
+      "title": "Intraoperative Mapping of the Zygomaticofacial Nerve: Implications for Safe Dissection in Endoscopic Facelift Surgery",
+      "content_html": "<p><strong>事实</strong>：前瞻性研究在 158 例内窥镜拉皮术中，用 30° 内镜双侧辨认颧面神经（zygomaticofacial nerve，ZFN）出孔与分支。单支右侧 82%、左侧 87%，双孔 13% 与 8%，三孔≤2%，双侧缺如 4%；颧面孔距眶下缘约 5.5 mm、距颧弓约 10 mm，左右对称。</p><p><strong>点评</strong>：创新点：颧面神经数据此前多来自尸体，这是 158 例活体术中实测，同类里样本最大。意义：颧区剥离时按距眶下缘 5.5 mm、距颧弓 10 mm 找神经出孔位置，可少伤分支、减少术后颊部麻木；但只测出孔，未随访感觉功能。</p><p>In a prospective intraoperative study of 158 patients undergoing endoscopic facelift, the zygomaticofacial nerve (ZFN) and its foramina were mapped bilaterally under 30-degree endoscopic magnification. A single branch was present in 82% of right and 87% of left sides, double foramina in 13% and 8%, triple foramina in 2% or fewer, and bilateral absence in 4%; mean nerve count was slightly higher on the right (1.13 plus or minus 0.48 versus 1.04 plus or minus 0.38). The foramen averaged about 5.5 mm from the infraorbital rim and 10 mm from the zygomatic arch, with strong bilateral symmetry. The innovation is living-tissue measurement in 158 patients, the largest series of its kind, where earlier ZFN data came almost entirely from cadavers. Those two distances give a practical landmark for dissection in the zygomatic region, although the study mapped foramina only and did not follow postoperative sensation.</p><p>Aesthetic Surgery Journal · Askeroglu U · Dr Askeroglu is a plastic surgeon · PMID 43071833</p>",
+      "summary": "前瞻性研究在 158 例内窥镜拉皮术中，用 30° 内镜双侧辨认颧面神经（zygomaticofacial nerve，ZFN）出孔与分支。单支右侧 82%、左侧 87%，双孔 13% 与 8%，三孔≤2%，双侧缺如 4%；颧面孔距眶下缘约 5.5 mm、距颧弓约 10 mm，左右对称。 创新点：颧面神经数据此前多来自尸体，这是 158 例活体术中实测，同类里样本最大。意义：颧区剥离时按距眶下缘 5.5 mm、距颧弓 10 mm 找神经出孔位置，可少伤分支、减少术后颊部麻木；但只测出孔，未随访感觉功能。",
+      "date_published": "2026-11-25T08:00:00+08:00",
+      "tags": [
+        "拉皮",
+        "解剖",
+        "颧面神经",
+        "内窥镜"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/43071833/"
+    },
+    {
       "id": "2026-11-24-pmid-43032422",
       "url": "https://wangmd-cn.com/#2026-11-24-pmid-43032422",
       "title": "Pilot Study: Preliminary Experience with Dual-strut Tip Support Using Repurposed Cephalic Trim Cartilage in East Asian Rhinoplasty",
@@ -97,7 +142,7 @@
       "id": "2026-11-22-pmid-43063989",
       "url": "https://wangmd-cn.com/#2026-11-22-pmid-43063989",
       "title": "Multimodal AI for Rhinoplasty Consultation and Simulation: A Blinded Expert Evaluation",
-      "content_html": "<p><strong>事实</strong>：20 例鼻整形患者照片，多模态人工智能生成咨询与术后模拟图；4 名盲法面整形医生按 12 项五分制评分。语言清晰度 4.05 分最高，术式适当性 2.90、方案与模拟一致性 2.33 分垫底；完全认可方案仅 7.6%。</p><p><strong>点评</strong>：创新点：首次让盲法专家按患者逐个打分多模态人工智能的咨询文本与模拟图，而非只看图像是否逼真。意义：模拟图可作沟通工具，不能当术前承诺；方案必须由医生独立制定，接诊时先问患者是否拿人工智能图来对标。</p><p>Preoperative photographs from 20 rhinoplasty patients were used by a multimodal AI (GPT-5.5) to generate a consultation in a standardised patient-voiced prompt and a simulated postoperative image; four blinded fellowship-trained facial plastic surgeons rated each output on 12 five-point items, two utility items and one surgical-plan agreement item, with mixed models using crossed random effects for case and evaluator. Language clarity scored highest at 4.05/5, whereas procedure appropriateness (2.90), avoidance of inappropriate procedures (2.59) and plan-to-simulation fidelity (2.33) were lowest, and full agreement with the surgical plan occurred in only 7.6% of assessments. Its contribution is a blinded, per-patient item-by-item evaluation of both AI text and AI imagery rather than a judgement of how convincing the pictures look. Simulations can support conversation but cannot serve as a preoperative promise; the operative plan must remain the surgeon&#x27;s, and clinics should ask at consultation whether the patient is benchmarking against an AI-generated image.</p><p>Facial Plastic Surgery · Hack S · Sheba Medical Center, University of Nicosia, Tel HaShomer, Israel · PMID 43063989</p>",
+      "content_html": "<p><strong>事实</strong>：20 例鼻整形患者照片，多模态人工智能生成咨询与术后模拟图；4 名盲法面整形医生按 12 项五分制评分。语言清晰度 4.05 分最高，术式适当性 2.90、方案与模拟一致性 2.33 分垫底；完全认可方案仅 7.6%。</p><p><strong>点评</strong>：创新点：首次让盲法专家按患者逐个打分多模态人工智能的咨询文本与模拟图，而非只看图像是否逼真。意义：模拟图可作沟通工具，不能当术前承诺；方案必须由医生独立制定，接诊时先问患者是否拿人工智能图来对标。</p><p>Preoperative photographs from 20 rhinoplasty patients were used by a multimodal AI (GPT-5.5) to generate a consultation in a standardised patient-voiced prompt and a simulated postoperative image; four blinded fellowship-trained facial plastic surgeons rated each output on 12 five-point items, two utility items and one surgical-plan agreement item, with mixed models using crossed random effects for case and evaluator. Language clarity scored highest at 4.05/5, whereas procedure appropriateness (2.90), avoidance of inappropriate procedures (2.59) and plan-to-simulation fidelity (2.33) were lowest, and full agreement with the surgical plan occurred in only 7.6% of assessments. Its contribution is a blinded, per-patient item-by-item evaluation of both AI text and AI imagery rather than a judgement of how convincing the pictures look. Simulations can support conversation but cannot serve as a preoperative promise; the operative plan must remain the surgeon&#x27;s, and clinics should ask at consultation whether the patient is benchmarking against an AI-generated image.</p><p>Facial Plastic Surgery · Hack S · Sheba Medical Center, University of Nicosia, City St. George&#x27;s University London School of Medicine, Program Delivered by University of Nicosia at the Chaim Sheba Medical Center, Tel Aviv District, Israel, Tel HaShomer · PMID 43063989</p>",
       "summary": "20 例鼻整形患者照片，多模态人工智能生成咨询与术后模拟图；4 名盲法面整形医生按 12 项五分制评分。语言清晰度 4.05 分最高，术式适当性 2.90、方案与模拟一致性 2.33 分垫底；完全认可方案仅 7.6%。 创新点：首次让盲法专家按患者逐个打分多模态人工智能的咨询文本与模拟图，而非只看图像是否逼真。意义：模拟图可作沟通工具，不能当术前承诺；方案必须由医生独立制定，接诊时先问患者是否拿人工智能图来对标。",
       "date_published": "2026-11-22T08:00:00+08:00",
       "tags": [

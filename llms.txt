@@ -8,7 +8,39 @@
 - Sitemap: https://wangmd-cn.com/sitemap.xml
 - 完整归档: https://wangmd-cn.com/archive/
 
-本文仅列最近 14 期（2026-11-24 至 2026-11-11）；更早内容见归档目录。
+本文仅列最近 14 期（2026-11-25 至 2026-11-12）；更早内容见归档目录。
+
+## 2026-11-25
+
+### Septum-Anchored Teostrut With Diced Costal Cartilage for Definitive Asian Cleft Rhinoplasty
+- 期刊: Journal of Craniofacial Surgery
+- 第一作者: Bangun K
+- 单位: Cleft and Craniofacial Center, Cipto Mangunkusumo General Hospital, Jakarta
+- PMID: 43070927 | DOI: 10.1097/scs.0000000000013617
+- 事实: 回顾性 16 例亚洲唇腭裂修复后患者，做定型期鼻整形：鼻尖用锚定在鼻中隔的单柱移植物（Teostrut）支撑，鼻背用切碎肋软骨铺垫。术后照片测量鼻背偏斜改善 0.9°，鼻翼角不对称改善约 11–13°，69% 患者自报鼻通气好转，无重大并发症。
+- 点评: 创新点：把鼻中隔锚定的单柱移植物和切碎肋软骨合用于亚洲唇裂鼻，16 例且有客观照片测量。意义：唇裂鼻二次修复可拿碎软骨垫鼻背、避开整块移植的僵硬；但无对照组、随访期没报，只算初步可行。
+- English: This retrospective series reports 16 Asian patients with repaired cleft lip and palate who underwent definitive rhinoplasty using a septum-anchored monopod graft (Teostrut) for tip support plus diced costal cartilage for dorsal augmentation. Photographic analysis showed 0.9 degrees of improvement in dorsum deviation and roughly 11 to 13 degrees of correction in alar angle asymmetry; 69% of patients reported functional improvement and there were no major complications. The innovation is pairing a septum-anchored monopod strut with diced costal cartilage in the Asian cleft nose, with objective photographic measurement in 16 cases. It offers a reproducible way to support the tip and camouflage the dorsum in secondary cleft deformity, but the series has no control group and does not report follow-up length, so it remains preliminary.
+- Permalink: https://wangmd-cn.com/#2026-11-25-pmid-43070927
+
+### Multimodal AI for Rhinoplasty Consultation and Simulation: A Blinded Expert Evaluation
+- 期刊: Facial Plastic Surgery
+- 第一作者: Hack S
+- 单位: Sheba Medical Center, University of Nicosia, City St. George's University London School of Medicine, Program Delivered by University of Nicosia at the Chaim Sheba Medical Center, Tel Aviv District, Israel, Tel HaShomer
+- PMID: 43063989 | DOI: 10.1055/a-3003-2319
+- 事实: 让 GPT-5.5 用 20 例鼻整形患者术前照片生成咨询话术和术后模拟图，4 名双盲面整形外科医生按 12 项五分制打分。语言清晰度最高 4.05 分，手术方案适当性 2.90、避免不必要手术 2.59、方案与模拟图一致性 2.33 最低；医生完全认可方案仅 7.6%。
+- 点评: 创新点：首次用双盲专家评分检验多模态模型在真实鼻整形病例上的咨询与模拟输出，而非演示。意义：模拟图好看不等于方案对，门诊可拿它当沟通辅助，不能让患者照图定手术；适应证、该不该做仍要医生逐条复核。
+- English: Preoperative photographs from 20 rhinoplasty patients were given to GPT-5.5, which generated consultation text and simulated postoperative images; four blinded fellowship-trained facial plastic surgeons rated each output on 12 five-point items plus utility and plan-agreement questions. Language clarity scored highest at 4.05 of 5, whereas procedure appropriateness (2.90), avoidance of inappropriate procedures (2.59) and plan-to-simulation fidelity (2.33) were weakest. Surgeons fully agreed with the proposed plan in only 7.6% of assessments. The innovation is a blinded, case-level validity test of multimodal AI on real rhinoplasty consultations rather than a demonstration. The findings support supervised adjunctive use only: wording reads well and simulations look plausible, but patient-specific surgical validity is inconsistent, so an image should never be treated as a surgical promise.
+- Permalink: https://wangmd-cn.com/#2026-11-25-pmid-43063989
+
+### Intraoperative Mapping of the Zygomaticofacial Nerve: Implications for Safe Dissection in Endoscopic Facelift Surgery
+- 期刊: Aesthetic Surgery Journal
+- 第一作者: Askeroglu U
+- 单位: Dr Askeroglu is a plastic surgeon
+- PMID: 43071833 | DOI: 10.1093/asj/sjag264
+- 事实: 前瞻性研究在 158 例内窥镜拉皮术中，用 30° 内镜双侧辨认颧面神经（zygomaticofacial nerve，ZFN）出孔与分支。单支右侧 82%、左侧 87%，双孔 13% 与 8%，三孔≤2%，双侧缺如 4%；颧面孔距眶下缘约 5.5 mm、距颧弓约 10 mm，左右对称。
+- 点评: 创新点：颧面神经数据此前多来自尸体，这是 158 例活体术中实测，同类里样本最大。意义：颧区剥离时按距眶下缘 5.5 mm、距颧弓 10 mm 找神经出孔位置，可少伤分支、减少术后颊部麻木；但只测出孔，未随访感觉功能。
+- English: In a prospective intraoperative study of 158 patients undergoing endoscopic facelift, the zygomaticofacial nerve (ZFN) and its foramina were mapped bilaterally under 30-degree endoscopic magnification. A single branch was present in 82% of right and 87% of left sides, double foramina in 13% and 8%, triple foramina in 2% or fewer, and bilateral absence in 4%; mean nerve count was slightly higher on the right (1.13 plus or minus 0.48 versus 1.04 plus or minus 0.38). The foramen averaged about 5.5 mm from the infraorbital rim and 10 mm from the zygomatic arch, with strong bilateral symmetry. The innovation is living-tissue measurement in 158 patients, the largest series of its kind, where earlier ZFN data came almost entirely from cadavers. Those two distances give a practical landmark for dissection in the zygomatic region, although the study mapped foramina only and did not follow postoperative sensation.
+- Permalink: https://wangmd-cn.com/#2026-11-25-pmid-43071833
 
 ## 2026-11-24
 
@@ -79,7 +111,7 @@
 ### Multimodal AI for Rhinoplasty Consultation and Simulation: A Blinded Expert Evaluation
 - 期刊: Facial Plastic Surgery
 - 第一作者: Hack S
-- 单位: Sheba Medical Center, University of Nicosia, Tel HaShomer, Israel
+- 单位: Sheba Medical Center, University of Nicosia, City St. George's University London School of Medicine, Program Delivered by University of Nicosia at the Chaim Sheba Medical Center, Tel Aviv District, Israel, Tel HaShomer
 - PMID: 43063989 | DOI: 10.1055/a-3003-2319
 - 事实: 20 例鼻整形患者照片，多模态人工智能生成咨询与术后模拟图；4 名盲法面整形医生按 12 项五分制评分。语言清晰度 4.05 分最高，术式适当性 2.90、方案与模拟一致性 2.33 分垫底；完全认可方案仅 7.6%。
 - 点评: 创新点：首次让盲法专家按患者逐个打分多模态人工智能的咨询文本与模拟图，而非只看图像是否逼真。意义：模拟图可作沟通工具，不能当术前承诺；方案必须由医生独立制定，接诊时先问患者是否拿人工智能图来对标。
@@ -645,65 +677,3 @@
 - 点评: 清醒隆胸技术上可行，关键在阻滞覆盖到位；但单组66例、IV级证据，别当成全麻的常规替代。
 - English: In 66 women, awake subglandular augmentation with a multilayer fascial-plane block was completed without conversion to general anesthesia; four minor positional issues and no major complications. Feasible when the block is thorough, but this is a single-arm level IV series and does not justify replacing general anesthesia as routine.
 - Permalink: https://wangmd-cn.com/#2026-11-12-pmid-42900384
-
-## 2026-11-11
-
-### Evaluation of Costal Cartilage Calcification Using Plain Radiographic Images
-- 期刊: Aesthetic Surgery Journal
-- 第一作者: Yoo SH
-- 单位: Department of Otorhinolaryngology, Dankook University College of Medicine, Cheonan, Korea
-- PMID: 42869429 | DOI: 10.1093/asj/sjag222
-- 事实: 183例鼻整形1098段肋软骨，平片钙化检出54.1%；重度钙化高峰在40–49岁。
-- 点评: 术前一张肋骨平片能少一次台上意外；40多岁女性重度钙化风险最高，别只按年龄想当然。
-- English: In 183 rhinoplasty patients (1,098 rib segments), plain radiographs detected costal cartilage calcification in 54.1%, with severe calcification peaking at age 40-49 (25.8%). A routine rib series avoids intraoperative surprises; women in their 40s carry the highest risk of severe calcification, not the oldest patients.
-- Permalink: https://wangmd-cn.com/#2026-11-11-pmid-42869429
-
-### Does Previous Septoplasty Affect Rhinoplasty Outcomes? A Comparative Analysis of Functional, Psychological and Self-Assessment Measures
-- 期刊: Journal of Clinical Medicine
-- 第一作者: Jadczak M
-- 单位: Department of Otolaryngology with Division of Cranio-Maxillo-Facial Surgery, Military Institute of Medicine-National Research Institute, 04-141 Warsaw, Poland
-- PMID: 42941334 | DOI: 10.3390/jcm15207819
-- 事实: 75例鼻中隔鼻整形，27例曾做鼻中隔成形；术后6个月外观满意度更低，功能与生活质量仍改善。
-- 点评: 有鼻中隔手术史的，外观预期要提前压低；功能该做还得做，别因既往史劝退。
-- English: Among 75 rhinoseptoplasty patients, 27 (36%) had prior septoplasty and reported lower cosmetic satisfaction at 1 and 6 months, although nasal function and quality of life improved significantly. Lower the aesthetic expectation for prior-septoplasty patients, but do not let surgical history discourage a functionally indicated procedure.
-- Permalink: https://wangmd-cn.com/#2026-11-11-pmid-42941334
-
-### Beyond Cartilage Grafting in Rhinoplasty: Biopharmaceutical and Biomaterial Strategies for Nasal Cartilage Regeneration
-- 期刊: Life
-- 第一作者: Yi KH
-- 单位: You and I Clinic, Seoul 06123, Republic of Korea
-- PMID: 42942299 | DOI: 10.3390/life16101713
-- 事实: 叙述性综述：鼻软骨再生近期只能增强移植骨、修补小缺损，注射再生还替不了结构支架。
-- 点评: 生长因子、外泌体、可注射水凝胶多在体外或关节数据；先当移植物辅助，别当卖点。
-- English: This narrative review concludes that near-term nasal cartilage regeneration can enhance existing grafts and repair small contained defects, but injection-only regeneration cannot replace structural support. Growth factors, extracellular vesicles and injectable hydrogels remain largely in vitro or articular evidence; use them as graft adjuncts, not marketing claims.
-- Permalink: https://wangmd-cn.com/#2026-11-11-pmid-42942299
-
-### Comparative Vector Analysis in Deep Plane Rhytidectomy: Evaluating Combined Horizontal and Oblique SMAS Fixation Strategies in Face and Neck Lifting
-- 期刊: Aesthetic Plastic Surgery
-- 第一作者: Cinar F
-- 单位: Department of Plastic, Reconstructive and Aesthetic Surgery, Private Clinic of Fatih Cinar, 34700, Nisantasi, Istanbul, Turkey
-- PMID: 42864533 | DOI: 10.1007/s00266-026-06377-y
-- 事实: 80例深层除皱分4组：面部斜向+颈部水平固定，FACE-Q 88.4、WSRS改善2.4分，最优。
-- 点评: 面颈别用同一个矢量：面斜拉、颈水平收，主观客观都更好；回顾性单中心，先学思路。
-- English: In 80 deep-plane facelifts, oblique facial plus horizontal neck fixation scored highest (FACE-Q 88.4; WSRS improvement 2.4 points) versus three other vector combinations. Use different vectors for face and neck; the retrospective single-center design supports the concept, not a definitive standard.
-- Permalink: https://wangmd-cn.com/#2026-11-11-pmid-42864533
-
-### Trends in Patient Profile and Surgical Preferences for Breast Augmentation in China: A Retrospective Cohort Study Before and After the COVID-19 Era
-- 期刊: Aesthetic Plastic Surgery
-- 第一作者: Yuan GH
-- 单位: Xiaolan Clinical Institute of Shantou University Medical College, 65 Middle Jucheng Road, Zhongshan City, Guangdong Province, People's Republic of China
-- PMID: 42980684 | DOI: 10.1007/s00266-026-06410-0
-- 事实: 682例中国隆胸：疫后更年长、假体更大（262.7对253.2cc）、圆型51.8%，满意度反降。
-- 点评: 客人更懂、更敢花钱，不等于更满意；咨询重点从“做大”转到术后预期和长期形态。
-- English: In 682 Chinese augmentation patients, the post-pandemic cohort was older, chose larger (262.7 vs 253.2 cc) and more round implants (51.8% vs 34.9%), yet breast satisfaction declined. Better-informed, higher-spending patients are not more satisfied; shift counseling from size to expectations and long-term shape.
-- Permalink: https://wangmd-cn.com/#2026-11-11-pmid-42980684
-
-### Holidays With Perks: A Registry-based Study Investigating Revision Procedures Among Patients With Breast Implants Inserted Overseas
-- 期刊: Plastic and Reconstructive Surgery – Global Open
-- 第一作者: Cevik J
-- 单位: From the Department of Plastic and Reconstructive Surgery, Monash Health, Dandenong, VIC, Australia
-- PMID: 42910395 | DOI: 10.1097/gox.0000000000008147
-- 事实: 30,579例假体翻修中11.7%为境外植入；境外组破裂27.0%、移位24.9%，均高于境内。
-- 点评: 低价旅行隆胸的账最后算在翻修和公立医院上；接诊先问植入地、假体型号和原始记录。
-- English: Of 30,579 breast implant revisions, 11.7% involved overseas-inserted devices, with higher rupture (27.0% vs 24.5%) and malposition (24.9% vs 20.5%). Cosmetic tourism shifts costs to revision surgery and public hospitals; ask overseas patients for implant records before planning.
-- Permalink: https://wangmd-cn.com/#2026-11-11-pmid-42910395
