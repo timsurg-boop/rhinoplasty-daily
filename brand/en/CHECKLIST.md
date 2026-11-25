@@ -1,7 +1,7 @@
 写入者：小蓝（OpenClaw · Mac mini）
 归属：王艇
 协作：小蓝可改；王艇可改
-更新时间：2026-11-25 02:00
+更新时间：2026-11-26 02:00
 
 ---
 
@@ -11,7 +11,7 @@
 写法：短句、数字加单位、限定条件写在同一段；不做机翻腔。
 生成脚本：`~/lobsterai/project/brand_ops/build_en_pages.py`（PAGES 列表追加条目后跑 `--apply`）。
 
-## 已完成（15）
+## 已完成（18）
 
 - [x] 鼻修复大概多少钱 → en/qa/revision-rhinoplasty-cost.html
 - [x] 从国外飞回来要请几天假 → en/qa/days-off-for-rhinoplasty.html
@@ -28,20 +28,24 @@
 - [x] followup（回国后随访） → en/qa/followup.html（2026-11-25）
 - [x] 隆鼻后多久可以坐飞机 → en/qa/when-can-i-fly-after-rhinoplasty.html（2026-11-25）
 - [x] 隆鼻后多久看起来自然 → en/qa/when-does-rhinoplasty-look-natural.html（2026-11-25）
+- [x] 隆鼻感染了怎么处理 → en/qa/infection-after-rhinoplasty.html（2026-11-26）
+- [x] 术后多久能运动 → en/qa/exercise-after-rhinoplasty.html（2026-11-26）
+- [x] 单侧操作后肿得不对称正常吗 → en/qa/asymmetric-swelling-after-one-sided-surgery.html（2026-11-26）
 
-## 待做（7 + 主页）
+## 待做（4 + 主页）
 
 按优先级排，每晚 3 页：
 
-1. [ ] 多久看起来自然
-2. [ ] 隆鼻感染了怎么处理
-3. [ ] 术后多久能运动
-4. [ ] 单侧操作后肿得不对称正常吗
-5. [ ] 口腔内切口多久能吃饭
-6. [ ] 术后能吃什么水果
-7. [ ] 术后能喝冰美式吗
-8. [ ] patient.html（患者主页，长页，单独一轮）
-9. [ ] index.html（资料页）
+1. [ ] 口腔内切口多久能吃饭
+2. [ ] 术后能吃什么水果
+3. [ ] 术后能喝冰美式吗
+4. [ ] patient.html（患者主页，长页，单独一轮）
+5. [ ] index.html（资料页）
+
+备注（2026-11-26）：原待做第 1 项「多久看起来自然」是 `qa/多久看起来自然.html`，与已上线的
+`qa/隆鼻后多久看起来自然.html` 同一主题、数字口径冲突（前者写「2 个月肿胀高峰、4–5 个月开始自然、
+2 年左右稳定」，后者写「第 2–3 天就好看、第 5 天开始消肿、2 周起稳定」），且中文页页脚标「草稿，
+未对外发布」。本晚未译，避免英文站出现两份互相矛盾的答案；待王艇定哪份为准后再处理。
 
 ## 验收
 

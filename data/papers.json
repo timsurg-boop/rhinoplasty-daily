@@ -1,68 +1,68 @@
 {
-  "date": "2026-11-25",
-  "updated": "2026-11-25T07:32:03+08:00",
+  "date": "2026-11-26",
+  "updated": "2026-11-26T07:31:25+08:00",
   "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
-  "window": "2026-11-18..11-25；鼻整形 2 条（11-23 唇裂鼻单柱支撑+碎肋软骨 16 例、11-20 多模态 AI 咨询双盲评分 20 例）；第 3 条按轮换取拉皮（11-23 术中颧面神经定位 158 例）；PRP 本期仅有骨科、喉科、勃起功能及摘要缺失的毛发条目，不取；颅骨修复 3 条（系统综述、战伤野战个案、PEEK 预印本）本轮不取；小阴唇 0 条。",
+  "window": "2026-11-19..11-26；鼻整形 2 条（11-20 新鲜冷冻尸体肋/耳软骨植片准备 10 具、11-23 单侧唇裂中期鼻整形家长问卷 20 例）；第 3 条按轮换取颅骨修复（11-20 去骨瓣减压后精神心理结局系统综述 24 项/877 例）；拉皮 1 条（颧面神经术中定位）昨日已用、今日不重；隆胸 2 条（乳房上提 84 例、未成年人手术综述）本轮不取；PRP 仅骨科、喉科、勃起功能、毛发及大鼠颅骨缺损条目，不取；小阴唇 0 条。",
   "items": [
     {
-      "id": "2026-11-25-pmid-43070927",
-      "pmid": "43070927",
-      "doi": "10.1097/scs.0000000000013617",
+      "id": "2026-11-26-pmid-43062723",
+      "pmid": "43062723",
+      "doi": "10.1007/s00276-026-04039-x",
+      "journal": "Surgical and Radiologic Anatomy",
+      "title": "Anatomical Handling Properties of Costal and Auricular Cartilage in Fresh-frozen Cadaveric Models for Revision Rhinoplasty",
+      "tags": [
+        "鼻整形",
+        "修复鼻整形",
+        "肋软骨",
+        "耳软骨",
+        "标本训练"
+      ],
+      "fact_zh": "10 具新鲜冷冻尸体头颈加 2 个胸部标本，双侧取第 5–8 肋软骨和耳廓软骨，比较切取、切薄片、缝合的手感。肋软骨硬脆似钙化，切薄片 85% 碎裂，稍厚也见微骨折、缝合时断开；耳软骨保持弹性，能稳定切薄片、缝合不断。",
+      "take_zh": "创新点：此前没人系统评估新鲜冷冻尸体能否模拟修复鼻整形的软骨准备。意义：在这种标本上练肋软骨切薄片，手感会练偏；练耳软骨雕刻更可靠，肋软骨只适合练开胸取骨那一段。",
+      "scene_zh": "年轻医生问拿尸体标本练切肋软骨行不行，我说切薄片十有八九碎，先拿耳软骨练刀工，肋软骨只练取骨。",
+      "fact_en": "Ten fresh-frozen cadaveric heads and two thoracic specimens were dissected, with costal cartilage taken bilaterally from ribs 5-8 and auricular cartilage through a posterior conchal approach, then rated for graft dimensions, preparation time, carvability, laminar fragmentation and suturability. Costal cartilage behaved as rigid, brittle and calcified: laminar thinning fragmented in 85% of attempts, and thicker slices showed microfractures and broke during suturing. Auricular cartilage kept its elasticity, carved into reproducible laminas and held sutures.",
+      "take_en": "The study is the first systematic look at whether fresh-frozen cadavers can stand in for the cartilage work of revision rhinoplasty, and the answer is source-specific. Practising thin costal laminas on these specimens teaches the wrong feel, whereas auricular cartilage is a fair model for carving; rib harvest retains value only as thoracic-exposure training.",
+      "first_author": "Russo F",
+      "first_affil": "Unit of Plastic Surgery, University of Naples \"Federico II\", Naples, Italy"
+    },
+    {
+      "id": "2026-11-26-pmid-43070921",
+      "pmid": "43070921",
+      "doi": "10.1097/scs.0000000000013603",
       "journal": "Journal of Craniofacial Surgery",
-      "title": "Septum-Anchored Teostrut With Diced Costal Cartilage for Definitive Asian Cleft Rhinoplasty",
+      "title": "Perception Meets Precision: Parent-Reported Outcomes of Intermediate Rhinoplasty in Unilateral Cleft Lip",
       "tags": [
         "鼻整形",
         "唇裂鼻",
-        "肋软骨",
-        "鼻背填充"
+        "患者报告结局"
       ],
-      "fact_zh": "回顾性 16 例亚洲唇腭裂修复后患者，做定型期鼻整形：鼻尖用锚定在鼻中隔的单柱移植物（Teostrut）支撑，鼻背用切碎肋软骨铺垫。术后照片测量鼻背偏斜改善 0.9°，鼻翼角不对称改善约 11–13°，69% 患者自报鼻通气好转，无重大并发症。",
-      "take_zh": "创新点：把鼻中隔锚定的单柱移植物和切碎肋软骨合用于亚洲唇裂鼻，16 例且有客观照片测量。意义：唇裂鼻二次修复可拿碎软骨垫鼻背、避开整块移植的僵硬；但无对照组、随访期没报，只算初步可行。",
-      "scene_zh": "患者问唇裂的鼻子做过一次还能不能再修，我说能，鼻尖拿一根固定在鼻中隔的支撑顶着，鼻背用碎肋软骨一点点垫，但得先看你鼻中隔够不够使。",
-      "fact_en": "This retrospective series reports 16 Asian patients with repaired cleft lip and palate who underwent definitive rhinoplasty using a septum-anchored monopod graft (Teostrut) for tip support plus diced costal cartilage for dorsal augmentation. Photographic analysis showed 0.9 degrees of improvement in dorsum deviation and roughly 11 to 13 degrees of correction in alar angle asymmetry; 69% of patients reported functional improvement and there were no major complications.",
-      "take_en": "The innovation is pairing a septum-anchored monopod strut with diced costal cartilage in the Asian cleft nose, with objective photographic measurement in 16 cases. It offers a reproducible way to support the tip and camouflage the dorsum in secondary cleft deformity, but the series has no control group and does not report follow-up length, so it remains preliminary.",
+      "fact_zh": "印尼唇腭裂中心 2019–2025 年的中期鼻整形患儿，28 位家长中 20 位完成 Byrne 问卷，随访 1.5 个月至 6 年。90% 满意；鼻尖突度中位分 5 升到 8.5，对称性 5 到 7，通气 8 到 9。",
+      "take_zh": "创新点：用经验证的问卷把家长眼中的效果量成可比的分数，随访跨度近 6 年。意义：术前谈话可以把突度、对称性大概能改善多少讲成具体档次，不只说会好看一些；但无对照、年龄跨度大，只能当参考。",
+      "scene_zh": "家长问孩子唇裂的鼻子现在做还是等长大做，我说中期先做一回，多数家长事后觉得鼻尖立起来了，但一次做不完美，长大还要再看。",
+      "fact_en": "Parents of children with unilateral cleft lip and palate who had intermediate rhinoplasty at Indonesia's national cleft centre between 2019 and 2025 were surveyed with the validated Byrne Questionnaire; 20 of 28 eligible parents responded (71.4%), with follow-up from 1.5 months to almost 6 years. Ninety percent reported satisfaction, and median scores rose from 5 to 8.5 for tip projection, 5 to 7 for symmetry, 5 to 7 for appearance and 8 to 9 for breathing.",
+      "take_en": "The innovation is quantifying the parent's view with a validated instrument across a follow-up span of nearly six years, albeit in a small single-centre sample. It lets a consultation put expected gains in projection and symmetry into concrete grades instead of vague reassurance, but the absence of a control group and the wide age range keep it at the level of reference data.",
       "first_author": "Bangun K",
-      "first_affil": "Cleft and Craniofacial Center, Cipto Mangunkusumo General Hospital, Jakarta"
+      "first_affil": "Division of Plastic Reconstructive and Aesthetic Surgery, Universitas Indonesia - Cipto Mangunkusumo Hospital, Jakarta, Indonesia"
     },
     {
-      "id": "2026-11-25-pmid-43063989",
-      "pmid": "43063989",
-      "doi": "10.1055/a-3003-2319",
-      "journal": "Facial Plastic Surgery",
-      "title": "Multimodal AI for Rhinoplasty Consultation and Simulation: A Blinded Expert Evaluation",
+      "id": "2026-11-26-pmid-43062567",
+      "pmid": "43062567",
+      "doi": "10.1007/s10143-026-04560-y",
+      "journal": "Neurosurgical Review",
+      "title": "Neuropsychiatric Outcomes After Decompressive Craniectomy and Cranioplasty: A Systematic Review and Meta-analysis（systematic review）",
       "tags": [
-        "鼻整形",
-        "人工智能",
-        "术前沟通",
-        "模拟图"
+        "颅骨修复",
+        "去骨瓣减压",
+        "颅骨修补",
+        "精神心理结局"
       ],
-      "fact_zh": "让 GPT-5.5 用 20 例鼻整形患者术前照片生成咨询话术和术后模拟图，4 名双盲面整形外科医生按 12 项五分制打分。语言清晰度最高 4.05 分，手术方案适当性 2.90、避免不必要手术 2.59、方案与模拟图一致性 2.33 最低；医生完全认可方案仅 7.6%。",
-      "take_zh": "创新点：首次用双盲专家评分检验多模态模型在真实鼻整形病例上的咨询与模拟输出，而非演示。意义：模拟图好看不等于方案对，门诊可拿它当沟通辅助，不能让患者照图定手术；适应证、该不该做仍要医生逐条复核。",
-      "scene_zh": "患者拿着手机里生成的模拟图问能不能照这个做，我说图只能看个大概方向，真正切多少、垫哪里还得当面量，图上的鼻子不一定适合长在你脸上。",
-      "fact_en": "Preoperative photographs from 20 rhinoplasty patients were given to GPT-5.5, which generated consultation text and simulated postoperative images; four blinded fellowship-trained facial plastic surgeons rated each output on 12 five-point items plus utility and plan-agreement questions. Language clarity scored highest at 4.05 of 5, whereas procedure appropriateness (2.90), avoidance of inappropriate procedures (2.59) and plan-to-simulation fidelity (2.33) were weakest. Surgeons fully agreed with the proposed plan in only 7.6% of assessments.",
-      "take_en": "The innovation is a blinded, case-level validity test of multimodal AI on real rhinoplasty consultations rather than a demonstration. The findings support supervised adjunctive use only: wording reads well and simulations look plausible, but patient-specific surgical validity is inconsistent, so an image should never be treated as a surgical promise.",
-      "first_author": "Hack S",
-      "first_affil": "Sheba Medical Center, University of Nicosia, City St. George's University London School of Medicine, Program Delivered by University of Nicosia at the Chaim Sheba Medical Center, Tel Aviv District, Israel, Tel HaShomer"
-    },
-    {
-      "id": "2026-11-25-pmid-43071833",
-      "pmid": "43071833",
-      "doi": "10.1093/asj/sjag264",
-      "journal": "Aesthetic Surgery Journal",
-      "title": "Intraoperative Mapping of the Zygomaticofacial Nerve: Implications for Safe Dissection in Endoscopic Facelift Surgery",
-      "tags": [
-        "拉皮",
-        "解剖",
-        "颧面神经",
-        "内窥镜"
-      ],
-      "fact_zh": "前瞻性研究在 158 例内窥镜拉皮术中，用 30° 内镜双侧辨认颧面神经（zygomaticofacial nerve，ZFN）出孔与分支。单支右侧 82%、左侧 87%，双孔 13% 与 8%，三孔≤2%，双侧缺如 4%；颧面孔距眶下缘约 5.5 mm、距颧弓约 10 mm，左右对称。",
-      "take_zh": "创新点：颧面神经数据此前多来自尸体，这是 158 例活体术中实测，同类里样本最大。意义：颧区剥离时按距眶下缘 5.5 mm、距颧弓 10 mm 找神经出孔位置，可少伤分支、减少术后颊部麻木；但只测出孔，未随访感觉功能。",
-      "scene_zh": "患者问拉皮做完脸会不会麻，我说颧骨那块有根细神经，我按量出来的位置绕开它，麻的机会小，但少数人术后还是会木一阵。",
-      "fact_en": "In a prospective intraoperative study of 158 patients undergoing endoscopic facelift, the zygomaticofacial nerve (ZFN) and its foramina were mapped bilaterally under 30-degree endoscopic magnification. A single branch was present in 82% of right and 87% of left sides, double foramina in 13% and 8%, triple foramina in 2% or fewer, and bilateral absence in 4%; mean nerve count was slightly higher on the right (1.13 plus or minus 0.48 versus 1.04 plus or minus 0.38). The foramen averaged about 5.5 mm from the infraorbital rim and 10 mm from the zygomatic arch, with strong bilateral symmetry.",
-      "take_en": "The innovation is living-tissue measurement in 158 patients, the largest series of its kind, where earlier ZFN data came almost entirely from cadavers. Those two distances give a practical landmark for dissection in the zygomatic region, although the study mapped foramina only and did not follow postoperative sensation.",
-      "first_author": "Askeroglu U",
-      "first_affil": ""
+      "fact_zh": "系统综述 24 项研究、877 例去骨瓣减压患者，12 项、305 例进 Meta 分析。抑郁患病率 47%（95%CI 40–54%），焦虑 46%（38–54%）；仅 2 项纵向研究报修补后 12 个月焦虑抑郁下降。",
+      "take_zh": "创新点：把去骨瓣减压后抑郁焦虑的发生率合并成可比数字，样本量超过多数单中心报告。意义：这类患者随访该常规筛情绪和认知，不只盯骨窗与影像；修补术前谈话也可以提一句心理状态有改善可能。",
+      "scene_zh": "家属问骨头补回去人会不会清醒些、脾气会不会好，我说有一部分人情绪确实好转，但补之前近一半人就有抑郁焦虑，得单独查、单独治。",
+      "fact_en": "This systematic review and meta-analysis pooled 24 studies (877 patients) after decompressive craniectomy, with 12 studies (305 patients) entering the meta-analysis. Pooled prevalence was 47% for depression (95% CI 40-54%) and 46% for anxiety (38-54%); only two longitudinal studies reported falls in both at 12 months after cranioplasty, and the authors caution that those large effect sizes may be inflated by small cohorts.",
+      "take_en": "The innovation is turning scattered single-centre reports into pooled prevalence figures for psychiatric morbidity after decompressive craniectomy. The practical consequence is that these patients need routine mood and cognitive screening alongside bone-window and imaging follow-up, and that pre-cranioplasty counselling can mention a likely psychological gain without promising it.",
+      "first_author": "Bari SSM",
+      "first_affil": "Department of Neurosurgery, Queen's Hospital, Barking, Havering and Redbridge University Hospitals NHS Trust, London, UK"
     }
   ]
 }
