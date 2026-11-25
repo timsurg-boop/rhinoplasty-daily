@@ -110,7 +110,7 @@ HERO = """<section class="hero">
     <div class="role">副主任医师 · 技术院长 · 悦星澜（大连）医疗美容</div>
     <p class="pos">专注鼻整形与鼻修复。以自体肋软骨、鼻中隔与耳软骨做结构性鼻整形，关注东方人鼻部基础条件下的形态与功能平衡；参与《达拉斯鼻整形》中文版首版翻译。</p>
     <div class="chips"><span class="chip">鼻修复</span><span class="chip">肋软骨鼻综合</span><span class="chip">鼻中隔延长</span><span class="chip">耳软骨鼻尖</span><span class="chip">驼峰鼻矫正</span><span class="chip">面部提升</span></div>
-    <div class="links"><a href="/brand/index.html">医生资料与价格区间 →</a><a href="/brand/patient.html">患者版说明</a></div>
+    <div class="links"><a href="/brand/index.html">医生资料与价格区间 →</a><a href="/brand/patient.html">患者版说明</a><a href="/frontier/">前沿 · 读论文 →</a></div>
   </div>
 </section>"""
 
@@ -373,7 +373,7 @@ def render_sitemap_extra(default_date):
     """
     from urllib.parse import quote
     seen, out = set(), []
-    for sub in ("brand", "archive"):
+    for sub in ("brand", "archive", "frontier"):
         root = os.path.join(HERE, sub)
         if not os.path.isdir(root):
             continue
