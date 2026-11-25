@@ -1,0 +1,58 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>1.29 克的机器蜂，第一次不靠外接电脑自己飞</title>
+<meta name="description" content="昆虫大小的飞行机器人，过去必须靠场地里的摄像机和场地外的计算机才能稳住。MIT 把感知和计算全塞进 1.29 克，它自己飞了 30 秒，绕过障碍，落在一朵向日葵上。">
+<link rel="canonical" href="https://wangmd-cn.com/frontier/insect-robot-flight.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="1.29 克的机器蜂，第一次不靠外接电脑自己飞">
+<meta property="og:description" content="昆虫大小的飞行机器人，过去必须靠场地里的摄像机和场地外的计算机才能稳住。MIT 把感知和计算全塞进 1.29 克，它自己飞了 30 秒，绕过障碍，落在一朵向日葵上。">
+<meta property="og:url" content="https://wangmd-cn.com/frontier/insect-robot-flight.html">
+<meta property="og:site_name" content="王艇医生 · 前沿">
+<style>
+:root{--bg:#fbfaf7;--ink:#1a1a1a;--muted:#6b6b6b;--line:#e6e2da;--accent:#8c2f2f}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.78 -apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif}
+main{max-width:700px;margin:0 auto;padding:52px 26px 88px}
+a{color:var(--accent)}
+.top{font-size:13px;color:var(--muted);margin-bottom:34px}
+.top a{color:var(--muted);text-decoration:none;margin-right:16px}
+h1{font-size:27px;line-height:1.42;margin:0 0 10px;font-weight:600;letter-spacing:.01em}
+.no{font-size:12px;letter-spacing:.18em;color:var(--accent);margin-bottom:14px}
+.meta{font-size:13px;color:var(--muted);border-bottom:1px solid var(--line);padding-bottom:16px;margin-bottom:26px}
+.meta b{font-weight:600;color:#444}
+.lead{font-size:18px;line-height:1.75;color:#333;border-left:3px solid var(--accent);padding:2px 0 2px 16px;margin:0 0 34px}
+p{margin:0 0 20px}
+h2{font-size:17px;margin:38px 0 12px;border-bottom:1px solid var(--line);padding-bottom:8px}
+.src{background:#fff;border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin:38px 0 0;font-size:13px;line-height:1.9;color:#444}
+.src b{color:var(--muted);font-weight:500;display:inline-block;min-width:64px}
+.take{border-top:1px solid var(--line);margin-top:34px;padding-top:16px;font-size:16px;color:var(--accent)}
+.take span{color:var(--muted);font-size:13px;display:block;margin-bottom:6px;letter-spacing:.1em}
+ol.list{padding-left:22px;margin:0 0 20px}
+ol.list li{margin-bottom:12px}
+ul.idx{list-style:none;padding:0;margin:30px 0 0}
+ul.idx li{border-bottom:1px solid var(--line);padding:18px 0}
+ul.idx .d{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums;letter-spacing:.06em}
+ul.idx a.t{display:block;font-size:17px;line-height:1.55;color:var(--ink);text-decoration:none;margin:4px 0 6px}
+ul.idx a.t:hover{color:var(--accent)}
+ul.idx .j{font-size:12px;color:var(--muted)}
+.nav{display:flex;justify-content:space-between;gap:18px;margin-top:52px;font-size:14px;border-top:1px solid var(--line);padding-top:18px}
+.nav a{text-decoration:none}
+.nav .r{text-align:right}
+footer{margin-top:44px;color:var(--muted);font-size:12px;border-top:1px solid var(--line);padding-top:14px;line-height:1.9}
+</style></head><body><main>
+<div class="top"><a href="/frontier/">前沿</a><a href="/">鼻整形文献评点</a><a href="/brand/index.html">医生资料</a></div>
+<div class="no">前沿 · 第 7 期 · 2026-11-25</div>
+<h1>1.29 克的机器蜂，第一次不靠外接电脑自己飞</h1>
+<div class="meta"><b>Science Robotics</b> · 2026-11-18 · 原文 集成机载感知与计算的昆虫尺度扑翼机器人受控飞行</div>
+<p class="lead">昆虫大小的飞行机器人，过去必须靠场地里的摄像机和场地外的计算机才能稳住。MIT 把感知和计算全塞进 1.29 克，它自己飞了 30 秒，绕过障碍，落在一朵向日葵上。</p>
+<p>真的昆虫在枝叶间穿行，几乎不费力。同样大小的机器人做不到：它要靠动作捕捉系统提供位置，靠机外的计算机算控制量，才能不摔。</p><p>这就把它们锁在实验室里了。搜救、精细农业这类真实场景，一条都用不上。</p><p>这次的整机重 1.29 克，指的是整架机器，不是载荷。</p><p>机上带了一套传感器、状态估计器和低层控制器，位置精度到厘米级，能悬停，也能跟轨迹。</p><p>控制分两层：人只给高层指令，比如往哪个方向走；扇翅膀这种低层动作由机器人自己管。</p><p>关键实验是在动作捕捉系统外面做的：飞了 30 秒，避开障碍，最后落在一朵向日葵上。</p><p>作者把它定位为给微型飞行机器人打开下一步：机载规划、机载能源。</p>
+<div class="src">
+<b>期刊</b>Science Robotics，2026-11-18<br>
+<b>标题</b>Controlled flight of an insect-scale flapping-wing robot via integrated onboard sensing and computation<br>
+<b>作者</b>Hsiao YH, Kieu QP, Guan Z, Kim S, Cai J, Matteson O, How JP, Helbling EF, Chen Y<br>
+<b>DOI</b><a href="https://doi.org/10.1126/scirobotics.aeg6618" rel="noopener" target="_blank">10.1126/scirobotics.aeg6618</a><br><b>PMID</b>43050494
+</div>
+<div class="take"><span>一句话</span>这一步的意义不在飞得多好，而在「出了实验室」。以前昆虫级机器人是演示，现在才开始能当工具用。</div>
+<div class="nav"><div><a href="/frontier/microglia-myelin-forgetting.html">← 第 6 期：运动记忆会忘，是因为小胶质细胞把髓鞘吃掉了</a></div><div class="r"><a href="/frontier/soft-enteroscopic-robot.html">第 8 期：一条会爬的软管子，钻进了两米小肠 →</a></div></div>
+<footer>中文为编译改写，事实以原文摘要为准；标题与数字均可回溯到所附 DOI。本栏为读书笔记，不构成医疗建议。<br>王艇 · <a href="/brand/index.html">医生资料</a> · <a href="/">鼻整形文献评点</a> · <a href="/disclaimer.html">免责声明</a></footer>
+</main></body></html>

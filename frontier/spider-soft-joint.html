@@ -1,0 +1,58 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>一个软关节，不加第二套执行器也能双向转</title>
+<meta name="description" content="软体关节要双向转，通常得塞两套互相对抗的执行器。重庆大学与南洋理工的做法是让一对电液执行器产生多轴应变，往哪边转由关节自己的状态决定。">
+<link rel="canonical" href="https://wangmd-cn.com/frontier/spider-soft-joint.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="一个软关节，不加第二套执行器也能双向转">
+<meta property="og:description" content="软体关节要双向转，通常得塞两套互相对抗的执行器。重庆大学与南洋理工的做法是让一对电液执行器产生多轴应变，往哪边转由关节自己的状态决定。">
+<meta property="og:url" content="https://wangmd-cn.com/frontier/spider-soft-joint.html">
+<meta property="og:site_name" content="王艇医生 · 前沿">
+<style>
+:root{--bg:#fbfaf7;--ink:#1a1a1a;--muted:#6b6b6b;--line:#e6e2da;--accent:#8c2f2f}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.78 -apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif}
+main{max-width:700px;margin:0 auto;padding:52px 26px 88px}
+a{color:var(--accent)}
+.top{font-size:13px;color:var(--muted);margin-bottom:34px}
+.top a{color:var(--muted);text-decoration:none;margin-right:16px}
+h1{font-size:27px;line-height:1.42;margin:0 0 10px;font-weight:600;letter-spacing:.01em}
+.no{font-size:12px;letter-spacing:.18em;color:var(--accent);margin-bottom:14px}
+.meta{font-size:13px;color:var(--muted);border-bottom:1px solid var(--line);padding-bottom:16px;margin-bottom:26px}
+.meta b{font-weight:600;color:#444}
+.lead{font-size:18px;line-height:1.75;color:#333;border-left:3px solid var(--accent);padding:2px 0 2px 16px;margin:0 0 34px}
+p{margin:0 0 20px}
+h2{font-size:17px;margin:38px 0 12px;border-bottom:1px solid var(--line);padding-bottom:8px}
+.src{background:#fff;border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin:38px 0 0;font-size:13px;line-height:1.9;color:#444}
+.src b{color:var(--muted);font-weight:500;display:inline-block;min-width:64px}
+.take{border-top:1px solid var(--line);margin-top:34px;padding-top:16px;font-size:16px;color:var(--accent)}
+.take span{color:var(--muted);font-size:13px;display:block;margin-bottom:6px;letter-spacing:.1em}
+ol.list{padding-left:22px;margin:0 0 20px}
+ol.list li{margin-bottom:12px}
+ul.idx{list-style:none;padding:0;margin:30px 0 0}
+ul.idx li{border-bottom:1px solid var(--line);padding:18px 0}
+ul.idx .d{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums;letter-spacing:.06em}
+ul.idx a.t{display:block;font-size:17px;line-height:1.55;color:var(--ink);text-decoration:none;margin:4px 0 6px}
+ul.idx a.t:hover{color:var(--accent)}
+ul.idx .j{font-size:12px;color:var(--muted)}
+.nav{display:flex;justify-content:space-between;gap:18px;margin-top:52px;font-size:14px;border-top:1px solid var(--line);padding-top:18px}
+.nav a{text-decoration:none}
+.nav .r{text-align:right}
+footer{margin-top:44px;color:var(--muted);font-size:12px;border-top:1px solid var(--line);padding-top:14px;line-height:1.9}
+</style></head><body><main>
+<div class="top"><a href="/frontier/">前沿</a><a href="/">鼻整形文献评点</a><a href="/brand/index.html">医生资料</a></div>
+<div class="no">前沿 · 第 9 期 · 2026-11-25</div>
+<h1>一个软关节，不加第二套执行器也能双向转</h1>
+<div class="meta"><b>Science Advances</b> · 2026-10-23 · 原文 受蜘蛛启发的电液多轴应变驱动的双向机器人关节</div>
+<p class="lead">软体关节要双向转，通常得塞两套互相对抗的执行器。重庆大学与南洋理工的做法是让一对电液执行器产生多轴应变，往哪边转由关节自己的状态决定。</p>
+<p>跟电机和伺服比，软执行器做角运动更适合复杂环境，也更适合跟人接触。但它们天生只能单向弯。</p><p>要双向，就得加一套对抗执行器，或者加限位模块。加了之后结构变复杂，两套东西还会互相顶，控制也跟着变难。</p><p>这次的做法是一对同步控制的电液执行器，产生多轴应变。往哪个方向转，由关节当时的物理状态决定。不加额外零件，也不需要用异步控制器去协调两边。</p><p>性能：正向 2851 度每秒，反向 1934 度每秒，最大行程 156.8 度，响应频率到 40 赫兹，还能带载荷。</p><p>能自展开、自折叠、往复摆动。</p><p>作者用三个集成关节的装置验证了它作为「单通道控制的多功能驱动单元」可行。</p>
+<div class="src">
+<b>期刊</b>Science Advances，2026-10-23<br>
+<b>标题</b>Spider-inspired bidirectional robotic joints driven by electrohydraulic multiaxial strain<br>
+<b>作者</b>Yuan Z, Huang S, Zhou L, Zhu X, Luo J, Lum GZ, Chen R<br>
+<b>DOI</b><a href="https://doi.org/10.1126/sciadv.aei2880" rel="noopener" target="_blank">10.1126/sciadv.aei2880</a><br><b>PMID</b>42912998
+</div>
+<div class="take"><span>一句话</span>亮点不是快，是减零件：把方向选择写进结构本身，控制通道就从两条变一条。仿生在这里学的是蜘蛛腿的关节结构，不是外形。</div>
+<div class="nav"><div><a href="/frontier/soft-enteroscopic-robot.html">← 第 8 期：一条会爬的软管子，钻进了两米小肠</a></div><div class="r"></div></div>
+<footer>中文为编译改写，事实以原文摘要为准；标题与数字均可回溯到所附 DOI。本栏为读书笔记，不构成医疗建议。<br>王艇 · <a href="/brand/index.html">医生资料</a> · <a href="/">鼻整形文献评点</a> · <a href="/disclaimer.html">免责声明</a></footer>
+</main></body></html>
