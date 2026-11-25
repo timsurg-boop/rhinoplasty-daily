@@ -271,7 +271,7 @@ def render_index(days):
 {archive_html}
 <footer>
   <p>机器可读：<code>/feed.json</code>（JSON Feed 1.1）、<code>/rss.xml</code>、<code>/llms.txt</code>、<code>/sitemap.xml</code>。页面内嵌 schema.org ItemList 结构化数据。</p>
-  <p>内容仅供同行讨论，不构成医疗建议。</p>
+  <p>内容仅供同行讨论，不构成医疗建议。详见<a href="/disclaimer.html">免责声明</a>。</p>
 </footer>
 </main>
 </body>
@@ -389,6 +389,12 @@ def render_sitemap_extra(default_date):
                 seen.add(url)
                 lm = datetime.fromtimestamp(os.path.getmtime(full)).strftime("%Y-%m-%d")
                 out.append(f"<url><loc>{url}</loc><lastmod>{lm}</lastmod></url>")
+    dpath = os.path.join(HERE, "disclaimer.html")
+    if os.path.exists(dpath):
+        url = f"{BASE_URL}/disclaimer.html"
+        if url not in seen:
+            lm = datetime.fromtimestamp(os.path.getmtime(dpath)).strftime("%Y-%m-%d")
+            out.append(f"<url><loc>{url}</loc><lastmod>{lm}</lastmod></url>")
     return "".join(out)
 
 
@@ -405,7 +411,7 @@ def render_archive_page(day, days=None):
 <header><h1>{esc(SITE_TITLE)}</h1>
 <div class="meta"><a href="/">← 最新一期</a> · {esc(day['date'])}</div></header>
 {cards}
-<footer><p>机器可读：<code>/feed.json</code>、<code>/rss.xml</code>、<code>/llms.txt</code>。</p></footer>
+<footer><p>机器可读：<code>/feed.json</code>、<code>/rss.xml</code>、<code>/llms.txt</code>。内容为文献编译与同行讨论，不构成医疗建议，详见<a href="/disclaimer.html">免责声明</a>。</p></footer>
 </main></body></html>"""
 
 
