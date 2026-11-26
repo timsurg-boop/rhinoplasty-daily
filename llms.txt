@@ -8,7 +8,39 @@
 - Sitemap: https://wangmd-cn.com/sitemap.xml
 - 完整归档: https://wangmd-cn.com/archive/
 
-本文仅列最近 14 期（2026-11-26 至 2026-11-13）；更早内容见归档目录。
+本文仅列最近 14 期（2026-11-27 至 2026-11-14）；更早内容见归档目录。
+
+## 2026-11-27
+
+### From Surface to Framework: Feasibility of Paired Three-Dimensional Nasal Morphometry in Open Rhinoplasty
+- 期刊: Facial Plastic Surgery
+- 第一作者: Farrokhian N
+- 单位: Department of Otolaryngology-Head and Neck Surgery, University of Kansas School of Medicine, Kansas City, USA
+- PMID: 43085748 | DOI: 10.1055/a-3012-8897
+- 事实: 前瞻队列 19 例开放鼻整形患者（平均 38.8 岁），术中用手机 Polycam 拍外鼻和暴露的下外侧软骨，生成三维点云。XGBoost 模型判断软骨头侧朝向的准确率 0.895（95%CI 0.669–0.987），AUC 0.911。
+- 点评: 创新点：把外鼻和术中软骨配成同一套手机三维点云，属概念验证。意义：术前手机扫描有望提示鼻尖软骨朝向和支撑，但 19 例、单中心，现在只是研究工具，进不了门诊决策。
+- English: In a prospective cohort, 19 patients (mean age 38.8 years, SD 14.2) undergoing open rhinoplasty had the external nose photographed with the Polycam smartphone app and the exposed lower lateral cartilage scanned intraoperatively, producing paired three-dimensional point clouds. An XGBoost model predicted the cephalic orientation of the lower lateral cartilage with an accuracy of 0.895 (95% CI 0.669-0.987) and an ROC AUC of 0.911 (95% CI 0.744-1.000). The contribution is a paired external-and-intraoperative 3D dataset from living patients, captured with a consumer phone rather than a dedicated scanner, and a first machine-learning test of whether surface shape carries information about cartilage orientation. It points toward scan-based planning and objective outcome tracking, but with 19 patients and no validation cohort it remains a research tool, not a consultation aid.
+- Permalink: https://wangmd-cn.com/#2026-11-27-pmid-43085748
+
+### Septum-Anchored Teostrut With Diced Costal Cartilage for Definitive Asian Cleft Rhinoplasty
+- 期刊: Journal of Craniofacial Surgery
+- 第一作者: Bangun K
+- 单位: Cleft and Craniofacial Center, Cipto Mangunkusumo General Hospital, Jakarta, Indonesia
+- PMID: 43070927 | DOI: 10.1097/scs.0000000000013617
+- 事实: 回顾性 16 例唇腭裂修复后亚洲患者，定型鼻整形用鼻中隔锚定单极支撑（Teostrut）加 diced costal cartilage（切碎肋软骨，DCC）垫鼻背。鼻背偏斜改善 0.9 度，鼻翼角不对称改善 11–13 度，69% 自报通气好转，无重大并发症。
+- 点评: 创新点：把鼻中隔锚定支撑和切碎肋软骨垫背合在一台手术，专门对付唇裂鼻同时缺鼻背和鼻尖支撑。意义：一次手术既抬鼻尖又垫鼻背，可当定型方案模板；但 16 例、无对照，长期回缩没数据。
+- English: This retrospective case series followed 16 Asian patients with repaired cleft lip and palate who had definitive rhinoplasty using a septum-anchored monopod graft (Teostrut) combined with diced costal cartilage (DCC) for dorsal augmentation. Photographic analysis showed dorsum deviation improved by 0.9 degrees and alar angle asymmetry by roughly 11 to 13 degrees, while 69% of patients reported functional improvement and no major complications occurred. The innovation is pairing a septum-anchored strut with diced costal cartilage in the cleft nose, where both the dorsum and the tip base are deficient and single-technique reports are scarce. It offers a reproducible one-stage way to hold tip projection while filling the dorsum, but the series is small, single-surgeon and uncontrolled, so long-term resorption and stability remain unknown.
+- Permalink: https://wangmd-cn.com/#2026-11-27-pmid-43070927
+
+### Mailbox Flap Mastopexy: Structural Internal Support Technique to Enhance Lower Pole Stability Breast Ptosis Correction
+- 期刊: Plastic and Reconstructive Surgery Global Open
+- 第一作者: Centeno-Silva J
+- 单位: Private practice, Sensabell, Madrid-Valencia, Spain
+- PMID: 43066456 | DOI: 10.1097/gox.0000000000008237
+- 事实: 回顾性 84 例假体乳房上提（2021–2024），用 4×4 cm 腺体皮瓣锚到胸大肌做内部支撑。完全纠正下垂 90.5%，残余 9.5%；并发症 23.8%（裂开 5.9%、增生瘢痕 3.6%、不对称 3.6%）；BREAST-Q 35.2 升到 93.8。
+- 点评: 创新点：把下极支撑从皮肤改到锚在胸大肌上的腺体皮瓣，针对假体上提后反复下垂。意义：术前谈话可照这个并发症谱讲，近四分之一有并发症、多为轻微；但六成是二次手术、无对照，长期维持仍看个人经验。
+- English: In a retrospective cohort of 84 patients who had mastopexy with implants between 2021 and 2024, a 4 x 4 cm dermoglandular flap was anchored to the pectoralis muscle to support the lower pole, with limited subpectoral myotomy and individualized pocket dissection. Complete ptosis correction was achieved in 90.5% and mild residual ptosis in 9.5%; complications occurred in 23.8%, mainly minor dehiscence (5.9%), hypertrophic scars (3.6%) and asymmetry (3.6%). BREAST-Q scores rose from 35.2 to 93.8 (P < 0.001). The innovation is shifting lower-pole support from skin to a vascularised dermoglandular flap fixed to muscle, aimed at the recurrent ptosis that plagues implant-based lifts. It gives surgeons a concrete anchor and a realistic complication profile for consent, but with 60.7% secondary cases and no control group the durability claim still rests on one team's series.
+- Permalink: https://wangmd-cn.com/#2026-11-27-pmid-43066456
 
 ## 2026-11-26
 
@@ -585,65 +617,3 @@
 - 点评: 技术可行，但“满意度100%”出自单术者回顾、无对照；假体位置得看更长期。
 - English: In 53 IMF-approach augmentations using a modified internal fixation suture, 3 implants displaced less than 5 mm inferiorly, none needed revision, and mean follow-up was 12 months. The technique is feasible for fold support, but a single-surgeon retrospective series claiming 100% satisfaction cannot establish superiority over standard closure.
 - Permalink: https://wangmd-cn.com/#2026-11-14-pmid-42820993
-
-## 2026-11-13
-
-### Prospective Assessment of Nasal Airway Function After Primary Open Rhinoplasty
-- 期刊: Aesthetic Plastic Surgery
-- 第一作者: Koçdemir Erul N
-- 单位: Department of Otorhinolaryngology-Head and Neck Surgery, Beypazarı State Hospital, Ankara, Turkey
-- PMID: 43007373 | DOI: 10.1007/s00266-026-06413-x
-- 事实: 32例美容开鼻鼻整形3个月，PNIF 76.9→86.2，NOSE 23.4→14.3，鼻塞感略差。
-- 点评: 功能没变差、反而改善；但客观气流与患者感受互不相关，别拿PNIF替病人说话。
-- English: In 32 aesthetic-only open rhinoplasties, PNIF rose from 76.9 to 86.2 L/min and NOSE fell from 23.4 to 14.3 at 3 months, though the nasal-fullness item worsened slightly. Airway function was preserved and even improved, but objective airflow and patient-reported scores did not correlate, so neither can stand in for the other.
-- Permalink: https://wangmd-cn.com/#2026-11-13-pmid-43007373
-
-### A Single Rib Integrated Scaffold for Semiopen Revision Rhinoplasty After Nasolabial Flap
-- 期刊: Journal of Craniofacial Surgery
-- 第一作者: Wu S
-- 单位: Department of Rhinoplasty and Nasal Reconstruction, Plastic Surgery Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China
-- PMID: 43001659 | DOI: 10.1097/SCS.0000000000011731
-- 事实: 20例鼻唇沟皮瓣后翻修，四段肋软骨支架经双侧鼻翼缘送入，12个月ROE 48.5→88.2。
-- 点评: 瘢痕挛缩做不了常规开放式时，这条路走得通；单术者20例，只算可行，不算优选。
-- English: In 20 revision cases after nasolabial flap, a four-component rib scaffold delivered through bilateral alar rim incisions raised ROE from 48.5 to 88.2 at 12 months with no infection or extrusion. A workable route when scar contracture makes the standard open approach hazardous, but this single-surgeon series of 20 establishes feasibility, not superiority.
-- Permalink: https://wangmd-cn.com/#2026-11-13-pmid-43001659
-
-### Prevention of Secondary Deformities at the Donor Site After Cartilage Transplantation
-- 期刊: Journal of Craniofacial Surgery
-- 第一作者: Shi J
-- 单位: Department of Plastic Surgery, Shenzhen New Frontier United Family Hospital, Shenzhen, Guangdong Province
-- PMID: 42980382 | DOI: 10.1097/SCS.0000000000011647
-- 事实: 92例耳软骨取材随访6–18个月：45例无畸形、41例轻度、6例明显未修、0例重度。
-- 点评: 供区畸形能压到轻中度，但“轻度”占四成多；别跟病人保证耳朵外形一点不变。
-- English: Among 92 auricular cartilage harvests followed 6 to 18 months, 45 ears had no deformity, 41 mild deformity, 6 noticeable but unrevised, and none severe. Modified incision and harvest sites keep donor-site deformity mild at worst, but with 45% mild contour change, promise patients nothing better than that.
-- Permalink: https://wangmd-cn.com/#2026-11-13-pmid-42980382
-
-### Postoperative nausea and vomiting after facelift surgery despite routine dual antiemetic prophylaxis
-- 期刊: Research Square (preprint)
-- 第一作者: 
-- 单位: 
-- PMID:  | DOI: 10.21203/rs.3.rs-11330171/v1
-- 事实: 220例拉皮，96%用了地塞米松+昂丹司琼，仍62.3%发生恶心呕吐，49%呕吐，住院多9小时。
-- 点评: 拉皮加眼睑、手术时间长，PONV风险明显升高；Apfel评分在这里不灵，双药预防不够。
-- English: In 220 facelifts with 96% receiving dexamethasone plus ondansetron, PONV still occurred in 62.3%, vomiting in 49%, and hospital stay was 9 hours longer. Concurrent blepharoplasty (OR 5.67) and longer operative time drove PONV while the Apfel score failed to predict it, so dual prophylaxis is not enough in combined long cases.
-- Permalink: https://wangmd-cn.com/#2026-11-13-doi-10.21203-rs.3.rs-11330171
-
-### The Transumbilical Breast Augmentation: Safety and Satisfaction in a Systematic Review and Meta-analysis of 13,210 Breasts
-- 期刊: Aesthetic Plastic Surgery
-- 第一作者: Gonçalves FGA
-- 单位: School of Medicine, Universidade de São Paulo, Sao Paulo, SP, Brazil
-- PMID: 42993310 | DOI: 10.1007/s00266-026-06362-5
-- 事实: 17项研究、6605人：经脐隆胸血肿0.2%、包膜挛缩1.7%、再干预2.3%，手术约60分钟。
-- 点评: 数字漂亮，但几乎全是单臂回顾、随访短，只能证明“能做”，不能证明优于腋下或乳晕。
-- English: Across 17 studies and 6,605 patients, transumbilical augmentation showed pooled hematoma 0.2%, capsular contracture 1.7%, and reintervention 2.3%, with a median 60-minute operative time. The low complication rates come almost entirely from retrospective single-arm series with short follow-up, so they support feasibility, not equivalence to axillary or periareolar access.
-- Permalink: https://wangmd-cn.com/#2026-11-13-pmid-42993310
-
-### Five-Year Clinical Performance and Patient-Reported Outcomes of Mentor MemoryGel and MemoryShape Breast Implants (GLOW Study)
-- 期刊: Aesthetic Surgery Journal
-- 第一作者: Alderman A
-- 单位: North Atlanta Plastic Surgery, Alpharetta, GA
-- PMID: 42987925 | DOI: 10.1093/asj/sjag234
-- 事实: 5年挛缩率：解剖型0.31%、Xtra 1.42%、圆形5.16%；再手术3–5.5%。
-- 点评: 0.31%不能读成解剖型更安全，研究没做头对头；但“五年约二十分之一再手术”可以拿去谈话。
-- English: At 5 years in primary augmentation, Baker III/IV contracture was 0.31% with MemoryShape, 1.42% with MemoryGel Xtra, and 5.16% with MemoryGel; reoperation for implant-related reasons was 2.9% to 5.5%. The study was not powered for device comparison, so the anatomical implant's 0.31% is not evidence of superiority; the 5-year reoperation rate near 1 in 20 is the number worth quoting.
-- Permalink: https://wangmd-cn.com/#2026-11-13-pmid-42987925

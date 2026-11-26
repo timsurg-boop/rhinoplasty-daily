@@ -1,7 +1,7 @@
 写入者：小蓝（OpenClaw · Mac mini）
 归属：王艇
 协作：小蓝可改；王艇可改
-更新时间：2026-11-26 02:00
+更新时间：2026-11-27 02:00
 
 ---
 
@@ -11,7 +11,7 @@
 写法：短句、数字加单位、限定条件写在同一段；不做机翻腔。
 生成脚本：`~/lobsterai/project/brand_ops/build_en_pages.py`（PAGES 列表追加条目后跑 `--apply`）。
 
-## 已完成（18）
+## 已完成（21）
 
 - [x] 鼻修复大概多少钱 → en/qa/revision-rhinoplasty-cost.html
 - [x] 从国外飞回来要请几天假 → en/qa/days-off-for-rhinoplasty.html
@@ -31,16 +31,19 @@
 - [x] 隆鼻感染了怎么处理 → en/qa/infection-after-rhinoplasty.html（2026-11-26）
 - [x] 术后多久能运动 → en/qa/exercise-after-rhinoplasty.html（2026-11-26）
 - [x] 单侧操作后肿得不对称正常吗 → en/qa/asymmetric-swelling-after-one-sided-surgery.html（2026-11-26）
+- [x] 口腔内切口多久能吃饭 → en/qa/eating-after-intraoral-incision.html（2026-11-27）
+- [x] 术后能吃什么水果 → en/qa/fruit-after-rhinoplasty.html（2026-11-27）
+- [x] 术后能喝冰美式吗 → en/qa/iced-americano-after-rhinoplasty.html（2026-11-27）
 
-## 待做（4 + 主页）
+## 待做（2）
 
-按优先级排，每晚 3 页：
+按优先级排：
 
-1. [ ] 口腔内切口多久能吃饭
-2. [ ] 术后能吃什么水果
-3. [ ] 术后能喝冰美式吗
-4. [ ] patient.html（患者主页，长页，单独一轮）
-5. [ ] index.html（资料页）
+1. [ ] patient.html（患者主页，长页，单独一轮）
+2. [ ] index.html（资料页）
+
+备注（2026-11-27）：`口腔内切口多久能吃饭`、`术后能吃什么水果`、`术后能喝冰美式吗` 三页的中文页页脚仍写「草稿，未对外发布」。
+英文页已按清单要求上线，未改中文页正文；中文页是否去掉「草稿」标注由王艇定。
 
 备注（2026-11-26）：原待做第 1 项「多久看起来自然」是 `qa/多久看起来自然.html`，与已上线的
 `qa/隆鼻后多久看起来自然.html` 同一主题、数字口径冲突（前者写「2 个月肿胀高峰、4–5 个月开始自然、

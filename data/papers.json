@@ -1,68 +1,53 @@
 {
-  "date": "2026-11-26",
-  "updated": "2026-11-26T07:31:25+08:00",
+  "date": "2026-11-27",
+  "updated": "2026-11-27T07:45:00+08:00",
   "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
-  "window": "2026-11-19..11-26；鼻整形 2 条（11-20 新鲜冷冻尸体肋/耳软骨植片准备 10 具、11-23 单侧唇裂中期鼻整形家长问卷 20 例）；第 3 条按轮换取颅骨修复（11-20 去骨瓣减压后精神心理结局系统综述 24 项/877 例）；拉皮 1 条（颧面神经术中定位）昨日已用、今日不重；隆胸 2 条（乳房上提 84 例、未成年人手术综述）本轮不取；PRP 仅骨科、喉科、勃起功能、毛发及大鼠颅骨缺损条目，不取；小阴唇 0 条。",
+  "window": "2026-11-20..11-27；鼻整形 2 条（11-25 手机摄影测量配对三维鼻形态 19 例、11-23 唇裂鼻 Teostrut 加切碎肋软骨 16 例）；第 3 条按轮换取隆胸（11-20 信箱皮瓣乳房上提 84 例）——昨日第 3 条为颅骨修复，今日不连科，小阴唇 0 条、拉皮唯一 1 条（颧面神经定位）昨日已列不重；PRP 7 条均为喉科嗅觉、骨科膝踝、勃起功能、眼科及大鼠颅骨缺损，按口径不取；颅骨修复 4 条（3D 轮廓测量、PEEK 伤口并发症、精神心理综述、评论）本期让位轮换。",
   "items": [
     {
-      "id": "2026-11-26-pmid-43062723",
-      "pmid": "43062723",
-      "doi": "10.1007/s00276-026-04039-x",
-      "journal": "Surgical and Radiologic Anatomy",
-      "title": "Anatomical Handling Properties of Costal and Auricular Cartilage in Fresh-frozen Cadaveric Models for Revision Rhinoplasty",
-      "tags": [
-        "鼻整形",
-        "修复鼻整形",
-        "肋软骨",
-        "耳软骨",
-        "标本训练"
-      ],
-      "fact_zh": "10 具新鲜冷冻尸体头颈加 2 个胸部标本，双侧取第 5–8 肋软骨和耳廓软骨，比较切取、切薄片、缝合的手感。肋软骨硬脆似钙化，切薄片 85% 碎裂，稍厚也见微骨折、缝合时断开；耳软骨保持弹性，能稳定切薄片、缝合不断。",
-      "take_zh": "创新点：此前没人系统评估新鲜冷冻尸体能否模拟修复鼻整形的软骨准备。意义：在这种标本上练肋软骨切薄片，手感会练偏；练耳软骨雕刻更可靠，肋软骨只适合练开胸取骨那一段。",
-      "scene_zh": "年轻医生问拿尸体标本练切肋软骨行不行，我说切薄片十有八九碎，先拿耳软骨练刀工，肋软骨只练取骨。",
-      "fact_en": "Ten fresh-frozen cadaveric heads and two thoracic specimens were dissected, with costal cartilage taken bilaterally from ribs 5-8 and auricular cartilage through a posterior conchal approach, then rated for graft dimensions, preparation time, carvability, laminar fragmentation and suturability. Costal cartilage behaved as rigid, brittle and calcified: laminar thinning fragmented in 85% of attempts, and thicker slices showed microfractures and broke during suturing. Auricular cartilage kept its elasticity, carved into reproducible laminas and held sutures.",
-      "take_en": "The study is the first systematic look at whether fresh-frozen cadavers can stand in for the cartilage work of revision rhinoplasty, and the answer is source-specific. Practising thin costal laminas on these specimens teaches the wrong feel, whereas auricular cartilage is a fair model for carving; rib harvest retains value only as thoracic-exposure training.",
-      "first_author": "Russo F",
-      "first_affil": "Unit of Plastic Surgery, University of Naples \"Federico II\", Naples, Italy"
+      "id": "2026-11-27-pmid-43085748",
+      "pmid": "43085748",
+      "doi": "10.1055/a-3012-8897",
+      "journal": "Facial Plastic Surgery",
+      "title": "From Surface to Framework: Feasibility of Paired Three-Dimensional Nasal Morphometry in Open Rhinoplasty",
+      "tags": ["鼻整形", "三维成像", "摄影测量", "人工智能"],
+      "fact_zh": "前瞻队列 19 例开放鼻整形患者（平均 38.8 岁），术中用手机 Polycam 拍外鼻和暴露的下外侧软骨，生成三维点云。XGBoost 模型判断软骨头侧朝向的准确率 0.895（95%CI 0.669–0.987），AUC 0.911。",
+      "take_zh": "创新点：把外鼻和术中软骨配成同一套手机三维点云，属概念验证。意义：术前手机扫描有望提示鼻尖软骨朝向和支撑，但 19 例、单中心，现在只是研究工具，进不了门诊决策。",
+      "scene_zh": "患者问术前用手机扫一下能不能看出鼻尖软骨什么样，我说现在还在研究阶段，扫出来只能看个大概，真定方案还得切开看。",
+      "fact_en": "In a prospective cohort, 19 patients (mean age 38.8 years, SD 14.2) undergoing open rhinoplasty had the external nose photographed with the Polycam smartphone app and the exposed lower lateral cartilage scanned intraoperatively, producing paired three-dimensional point clouds. An XGBoost model predicted the cephalic orientation of the lower lateral cartilage with an accuracy of 0.895 (95% CI 0.669-0.987) and an ROC AUC of 0.911 (95% CI 0.744-1.000).",
+      "take_en": "The contribution is a paired external-and-intraoperative 3D dataset from living patients, captured with a consumer phone rather than a dedicated scanner, and a first machine-learning test of whether surface shape carries information about cartilage orientation. It points toward scan-based planning and objective outcome tracking, but with 19 patients and no validation cohort it remains a research tool, not a consultation aid.",
+      "first_author": "Farrokhian N",
+      "first_affil": "Department of Otolaryngology-Head and Neck Surgery, University of Kansas School of Medicine, Kansas City, USA"
     },
     {
-      "id": "2026-11-26-pmid-43070921",
-      "pmid": "43070921",
-      "doi": "10.1097/scs.0000000000013603",
+      "id": "2026-11-27-pmid-43070927",
+      "pmid": "43070927",
+      "doi": "10.1097/scs.0000000000013617",
       "journal": "Journal of Craniofacial Surgery",
-      "title": "Perception Meets Precision: Parent-Reported Outcomes of Intermediate Rhinoplasty in Unilateral Cleft Lip",
-      "tags": [
-        "鼻整形",
-        "唇裂鼻",
-        "患者报告结局"
-      ],
-      "fact_zh": "印尼唇腭裂中心 2019–2025 年的中期鼻整形患儿，28 位家长中 20 位完成 Byrne 问卷，随访 1.5 个月至 6 年。90% 满意；鼻尖突度中位分 5 升到 8.5，对称性 5 到 7，通气 8 到 9。",
-      "take_zh": "创新点：用经验证的问卷把家长眼中的效果量成可比的分数，随访跨度近 6 年。意义：术前谈话可以把突度、对称性大概能改善多少讲成具体档次，不只说会好看一些；但无对照、年龄跨度大，只能当参考。",
-      "scene_zh": "家长问孩子唇裂的鼻子现在做还是等长大做，我说中期先做一回，多数家长事后觉得鼻尖立起来了，但一次做不完美，长大还要再看。",
-      "fact_en": "Parents of children with unilateral cleft lip and palate who had intermediate rhinoplasty at Indonesia's national cleft centre between 2019 and 2025 were surveyed with the validated Byrne Questionnaire; 20 of 28 eligible parents responded (71.4%), with follow-up from 1.5 months to almost 6 years. Ninety percent reported satisfaction, and median scores rose from 5 to 8.5 for tip projection, 5 to 7 for symmetry, 5 to 7 for appearance and 8 to 9 for breathing.",
-      "take_en": "The innovation is quantifying the parent's view with a validated instrument across a follow-up span of nearly six years, albeit in a small single-centre sample. It lets a consultation put expected gains in projection and symmetry into concrete grades instead of vague reassurance, but the absence of a control group and the wide age range keep it at the level of reference data.",
+      "title": "Septum-Anchored Teostrut With Diced Costal Cartilage for Definitive Asian Cleft Rhinoplasty",
+      "tags": ["鼻整形", "唇裂鼻", "肋软骨", "鼻中隔"],
+      "fact_zh": "回顾性 16 例唇腭裂修复后亚洲患者，定型鼻整形用鼻中隔锚定单极支撑（Teostrut）加 diced costal cartilage（切碎肋软骨，DCC）垫鼻背。鼻背偏斜改善 0.9 度，鼻翼角不对称改善 11–13 度，69% 自报通气好转，无重大并发症。",
+      "take_zh": "创新点：把鼻中隔锚定支撑和切碎肋软骨垫背合在一台手术，专门对付唇裂鼻同时缺鼻背和鼻尖支撑。意义：一次手术既抬鼻尖又垫鼻背，可当定型方案模板；但 16 例、无对照，长期回缩没数据。",
+      "scene_zh": "患者问唇裂的鼻子能不能一次做好，我说一次能把鼻尖抬起来、鼻背垫平，但软骨以后可能还会缩一点，得留一次修的余地。",
+      "fact_en": "This retrospective case series followed 16 Asian patients with repaired cleft lip and palate who had definitive rhinoplasty using a septum-anchored monopod graft (Teostrut) combined with diced costal cartilage (DCC) for dorsal augmentation. Photographic analysis showed dorsum deviation improved by 0.9 degrees and alar angle asymmetry by roughly 11 to 13 degrees, while 69% of patients reported functional improvement and no major complications occurred.",
+      "take_en": "The innovation is pairing a septum-anchored strut with diced costal cartilage in the cleft nose, where both the dorsum and the tip base are deficient and single-technique reports are scarce. It offers a reproducible one-stage way to hold tip projection while filling the dorsum, but the series is small, single-surgeon and uncontrolled, so long-term resorption and stability remain unknown.",
       "first_author": "Bangun K",
-      "first_affil": "Division of Plastic Reconstructive and Aesthetic Surgery, Universitas Indonesia - Cipto Mangunkusumo Hospital, Jakarta, Indonesia"
+      "first_affil": "Cleft and Craniofacial Center, Cipto Mangunkusumo General Hospital, Jakarta, Indonesia"
     },
     {
-      "id": "2026-11-26-pmid-43062567",
-      "pmid": "43062567",
-      "doi": "10.1007/s10143-026-04560-y",
-      "journal": "Neurosurgical Review",
-      "title": "Neuropsychiatric Outcomes After Decompressive Craniectomy and Cranioplasty: A Systematic Review and Meta-analysis（systematic review）",
-      "tags": [
-        "颅骨修复",
-        "去骨瓣减压",
-        "颅骨修补",
-        "精神心理结局"
-      ],
-      "fact_zh": "系统综述 24 项研究、877 例去骨瓣减压患者，12 项、305 例进 Meta 分析。抑郁患病率 47%（95%CI 40–54%），焦虑 46%（38–54%）；仅 2 项纵向研究报修补后 12 个月焦虑抑郁下降。",
-      "take_zh": "创新点：把去骨瓣减压后抑郁焦虑的发生率合并成可比数字，样本量超过多数单中心报告。意义：这类患者随访该常规筛情绪和认知，不只盯骨窗与影像；修补术前谈话也可以提一句心理状态有改善可能。",
-      "scene_zh": "家属问骨头补回去人会不会清醒些、脾气会不会好，我说有一部分人情绪确实好转，但补之前近一半人就有抑郁焦虑，得单独查、单独治。",
-      "fact_en": "This systematic review and meta-analysis pooled 24 studies (877 patients) after decompressive craniectomy, with 12 studies (305 patients) entering the meta-analysis. Pooled prevalence was 47% for depression (95% CI 40-54%) and 46% for anxiety (38-54%); only two longitudinal studies reported falls in both at 12 months after cranioplasty, and the authors caution that those large effect sizes may be inflated by small cohorts.",
-      "take_en": "The innovation is turning scattered single-centre reports into pooled prevalence figures for psychiatric morbidity after decompressive craniectomy. The practical consequence is that these patients need routine mood and cognitive screening alongside bone-window and imaging follow-up, and that pre-cranioplasty counselling can mention a likely psychological gain without promising it.",
-      "first_author": "Bari SSM",
-      "first_affil": "Department of Neurosurgery, Queen's Hospital, Barking, Havering and Redbridge University Hospitals NHS Trust, London, UK"
+      "id": "2026-11-27-pmid-43066456",
+      "pmid": "43066456",
+      "doi": "10.1097/gox.0000000000008237",
+      "journal": "Plastic and Reconstructive Surgery Global Open",
+      "title": "Mailbox Flap Mastopexy: Structural Internal Support Technique to Enhance Lower Pole Stability Breast Ptosis Correction",
+      "tags": ["隆胸", "乳房上提", "假体", "内部支撑"],
+      "fact_zh": "回顾性 84 例假体乳房上提（2021–2024），用 4×4 cm 腺体皮瓣锚到胸大肌做内部支撑。完全纠正下垂 90.5%，残余 9.5%；并发症 23.8%（裂开 5.9%、增生瘢痕 3.6%、不对称 3.6%）；BREAST-Q 35.2 升到 93.8。",
+      "take_zh": "创新点：把下极支撑从皮肤改到锚在胸大肌上的腺体皮瓣，针对假体上提后反复下垂。意义：术前谈话可照这个并发症谱讲，近四分之一有并发症、多为轻微；但六成是二次手术、无对照，长期维持仍看个人经验。",
+      "scene_zh": "患者问上提以后会不会过两年又垂下来，我说这法子是把皮瓣缝到肌肉上当支撑，比单靠皮肤稳一些，但没人能保证一辈子不垂。",
+      "fact_en": "In a retrospective cohort of 84 patients who had mastopexy with implants between 2021 and 2024, a 4 x 4 cm dermoglandular flap was anchored to the pectoralis muscle to support the lower pole, with limited subpectoral myotomy and individualized pocket dissection. Complete ptosis correction was achieved in 90.5% and mild residual ptosis in 9.5%; complications occurred in 23.8%, mainly minor dehiscence (5.9%), hypertrophic scars (3.6%) and asymmetry (3.6%). BREAST-Q scores rose from 35.2 to 93.8 (P < 0.001).",
+      "take_en": "The innovation is shifting lower-pole support from skin to a vascularised dermoglandular flap fixed to muscle, aimed at the recurrent ptosis that plagues implant-based lifts. It gives surgeons a concrete anchor and a realistic complication profile for consent, but with 60.7% secondary cases and no control group the durability claim still rests on one team's series.",
+      "first_author": "Centeno-Silva J",
+      "first_affil": "Private practice, Sensabell, Madrid-Valencia, Spain"
     }
   ]
 }

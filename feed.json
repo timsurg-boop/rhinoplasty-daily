@@ -6,6 +6,51 @@
   "language": "zh-CN",
   "items": [
     {
+      "id": "2026-11-27-pmid-43085748",
+      "url": "https://wangmd-cn.com/#2026-11-27-pmid-43085748",
+      "title": "From Surface to Framework: Feasibility of Paired Three-Dimensional Nasal Morphometry in Open Rhinoplasty",
+      "content_html": "<p><strong>事实</strong>：前瞻队列 19 例开放鼻整形患者（平均 38.8 岁），术中用手机 Polycam 拍外鼻和暴露的下外侧软骨，生成三维点云。XGBoost 模型判断软骨头侧朝向的准确率 0.895（95%CI 0.669–0.987），AUC 0.911。</p><p><strong>点评</strong>：创新点：把外鼻和术中软骨配成同一套手机三维点云，属概念验证。意义：术前手机扫描有望提示鼻尖软骨朝向和支撑，但 19 例、单中心，现在只是研究工具，进不了门诊决策。</p><p>In a prospective cohort, 19 patients (mean age 38.8 years, SD 14.2) undergoing open rhinoplasty had the external nose photographed with the Polycam smartphone app and the exposed lower lateral cartilage scanned intraoperatively, producing paired three-dimensional point clouds. An XGBoost model predicted the cephalic orientation of the lower lateral cartilage with an accuracy of 0.895 (95% CI 0.669-0.987) and an ROC AUC of 0.911 (95% CI 0.744-1.000). The contribution is a paired external-and-intraoperative 3D dataset from living patients, captured with a consumer phone rather than a dedicated scanner, and a first machine-learning test of whether surface shape carries information about cartilage orientation. It points toward scan-based planning and objective outcome tracking, but with 19 patients and no validation cohort it remains a research tool, not a consultation aid.</p><p>Facial Plastic Surgery · Farrokhian N · Department of Otolaryngology-Head and Neck Surgery, University of Kansas School of Medicine, Kansas City, USA · PMID 43085748</p>",
+      "summary": "前瞻队列 19 例开放鼻整形患者（平均 38.8 岁），术中用手机 Polycam 拍外鼻和暴露的下外侧软骨，生成三维点云。XGBoost 模型判断软骨头侧朝向的准确率 0.895（95%CI 0.669–0.987），AUC 0.911。 创新点：把外鼻和术中软骨配成同一套手机三维点云，属概念验证。意义：术前手机扫描有望提示鼻尖软骨朝向和支撑，但 19 例、单中心，现在只是研究工具，进不了门诊决策。",
+      "date_published": "2026-11-27T08:00:00+08:00",
+      "tags": [
+        "鼻整形",
+        "三维成像",
+        "摄影测量",
+        "人工智能"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/43085748/"
+    },
+    {
+      "id": "2026-11-27-pmid-43070927",
+      "url": "https://wangmd-cn.com/#2026-11-27-pmid-43070927",
+      "title": "Septum-Anchored Teostrut With Diced Costal Cartilage for Definitive Asian Cleft Rhinoplasty",
+      "content_html": "<p><strong>事实</strong>：回顾性 16 例唇腭裂修复后亚洲患者，定型鼻整形用鼻中隔锚定单极支撑（Teostrut）加 diced costal cartilage（切碎肋软骨，DCC）垫鼻背。鼻背偏斜改善 0.9 度，鼻翼角不对称改善 11–13 度，69% 自报通气好转，无重大并发症。</p><p><strong>点评</strong>：创新点：把鼻中隔锚定支撑和切碎肋软骨垫背合在一台手术，专门对付唇裂鼻同时缺鼻背和鼻尖支撑。意义：一次手术既抬鼻尖又垫鼻背，可当定型方案模板；但 16 例、无对照，长期回缩没数据。</p><p>This retrospective case series followed 16 Asian patients with repaired cleft lip and palate who had definitive rhinoplasty using a septum-anchored monopod graft (Teostrut) combined with diced costal cartilage (DCC) for dorsal augmentation. Photographic analysis showed dorsum deviation improved by 0.9 degrees and alar angle asymmetry by roughly 11 to 13 degrees, while 69% of patients reported functional improvement and no major complications occurred. The innovation is pairing a septum-anchored strut with diced costal cartilage in the cleft nose, where both the dorsum and the tip base are deficient and single-technique reports are scarce. It offers a reproducible one-stage way to hold tip projection while filling the dorsum, but the series is small, single-surgeon and uncontrolled, so long-term resorption and stability remain unknown.</p><p>Journal of Craniofacial Surgery · Bangun K · Cleft and Craniofacial Center, Cipto Mangunkusumo General Hospital, Jakarta, Indonesia · PMID 43070927</p>",
+      "summary": "回顾性 16 例唇腭裂修复后亚洲患者，定型鼻整形用鼻中隔锚定单极支撑（Teostrut）加 diced costal cartilage（切碎肋软骨，DCC）垫鼻背。鼻背偏斜改善 0.9 度，鼻翼角不对称改善 11–13 度，69% 自报通气好转，无重大并发症。 创新点：把鼻中隔锚定支撑和切碎肋软骨垫背合在一台手术，专门对付唇裂鼻同时缺鼻背和鼻尖支撑。意义：一次手术既抬鼻尖又垫鼻背，可当定型方案模板；但 16 例、无对照，长期回缩没数据。",
+      "date_published": "2026-11-27T08:00:00+08:00",
+      "tags": [
+        "鼻整形",
+        "唇裂鼻",
+        "肋软骨",
+        "鼻中隔"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/43070927/"
+    },
+    {
+      "id": "2026-11-27-pmid-43066456",
+      "url": "https://wangmd-cn.com/#2026-11-27-pmid-43066456",
+      "title": "Mailbox Flap Mastopexy: Structural Internal Support Technique to Enhance Lower Pole Stability Breast Ptosis Correction",
+      "content_html": "<p><strong>事实</strong>：回顾性 84 例假体乳房上提（2021–2024），用 4×4 cm 腺体皮瓣锚到胸大肌做内部支撑。完全纠正下垂 90.5%，残余 9.5%；并发症 23.8%（裂开 5.9%、增生瘢痕 3.6%、不对称 3.6%）；BREAST-Q 35.2 升到 93.8。</p><p><strong>点评</strong>：创新点：把下极支撑从皮肤改到锚在胸大肌上的腺体皮瓣，针对假体上提后反复下垂。意义：术前谈话可照这个并发症谱讲，近四分之一有并发症、多为轻微；但六成是二次手术、无对照，长期维持仍看个人经验。</p><p>In a retrospective cohort of 84 patients who had mastopexy with implants between 2021 and 2024, a 4 x 4 cm dermoglandular flap was anchored to the pectoralis muscle to support the lower pole, with limited subpectoral myotomy and individualized pocket dissection. Complete ptosis correction was achieved in 90.5% and mild residual ptosis in 9.5%; complications occurred in 23.8%, mainly minor dehiscence (5.9%), hypertrophic scars (3.6%) and asymmetry (3.6%). BREAST-Q scores rose from 35.2 to 93.8 (P &lt; 0.001). The innovation is shifting lower-pole support from skin to a vascularised dermoglandular flap fixed to muscle, aimed at the recurrent ptosis that plagues implant-based lifts. It gives surgeons a concrete anchor and a realistic complication profile for consent, but with 60.7% secondary cases and no control group the durability claim still rests on one team&#x27;s series.</p><p>Plastic and Reconstructive Surgery Global Open · Centeno-Silva J · Private practice, Sensabell, Madrid-Valencia, Spain · PMID 43066456</p>",
+      "summary": "回顾性 84 例假体乳房上提（2021–2024），用 4×4 cm 腺体皮瓣锚到胸大肌做内部支撑。完全纠正下垂 90.5%，残余 9.5%；并发症 23.8%（裂开 5.9%、增生瘢痕 3.6%、不对称 3.6%）；BREAST-Q 35.2 升到 93.8。 创新点：把下极支撑从皮肤改到锚在胸大肌上的腺体皮瓣，针对假体上提后反复下垂。意义：术前谈话可照这个并发症谱讲，近四分之一有并发症、多为轻微；但六成是二次手术、无对照，长期维持仍看个人经验。",
+      "date_published": "2026-11-27T08:00:00+08:00",
+      "tags": [
+        "隆胸",
+        "乳房上提",
+        "假体",
+        "内部支撑"
+      ],
+      "external_url": "https://pubmed.ncbi.nlm.nih.gov/43066456/"
+    },
+    {
       "id": "2026-11-26-pmid-43062723",
       "url": "https://wangmd-cn.com/#2026-11-26-pmid-43062723",
       "title": "Anatomical Handling Properties of Costal and Auricular Cartilage in Fresh-frozen Cadaveric Models for Revision Rhinoplasty",
