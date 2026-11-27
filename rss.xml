@@ -2,47 +2,35 @@
 <rss version="2.0"><channel>
 <title>鼻整形文献评点 · Rhinoplasty Daily Commentary</title><link>https://wangmd-cn.com</link>
 <description>鼻整形与面部提升新文献，一句事实一句点评</description>
-<language>zh-cn</language><item><title>From Surface to Framework: Feasibility of Paired Three-Dimensional Nasal Morphometry in Open Rhinoplasty</title>
+<language>zh-cn</language><item><title>Do septal, conchal and costal cartilage grafts differ in functional, aesthetic and complication outcomes after septorhinoplasty? A systematic review (systematic review)</title>
+<link>https://pubmed.ncbi.nlm.nih.gov/43095770/</link>
+<guid isPermaLink="false">2026-11-28-pmid-43095770</guid>
+<description>系统综述纳入 2015 至 2025 年 13 项对照研究、共 3609 例成人鼻中隔鼻整形。肋软骨支撑更稳、远期吸收少于耳软骨，但供区并发症更多；耳软骨与鼻中隔软骨的中期鼻尖稳定性和外观相当。 创新点：把三种软骨放进同一套功能、外观与并发症框架比较，3609 例在同类综述里样本不小。意义：大重建用肋软骨，轻矫正用耳软骨少取供区，鼻中隔够用就优先鼻中隔；但纳入研究异质性大，不能当统一标准。</description>
+<pubDate>Sat, 28 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Augmented and Virtual Reality in Facial Plastic and Reconstructive Surgery: A Narrative Review</title>
+<link>https://pubmed.ncbi.nlm.nih.gov/43078468/</link>
+<guid isPermaLink="false">2026-11-28-pmid-43078468</guid>
+<description>叙述性综述梳理增强现实（augmented reality，AR）与虚拟现实（virtual reality，VR）在面部整形重建的进展：AR 导航配准误差已小于 2 毫米，主要用于颅颌面骨、游离皮瓣和鼻整形，软组织仍偏早。 创新点：按骨性与软组织分开评估成熟度，并点出比较研究缺口。意义：目前可指望 AR 做骨性导航和皮瓣定位，鼻尖软组织判断仍靠手感；成本高、缺对照，短期内进不了常规门诊。</description>
+<pubDate>Sat, 28 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Management Strategies and Clinical Outcomes of Wound Complications after Polyetheretherketone Cranioplasty: A Real-World Single-Center Cohort Study</title>
+<link>https://pubmed.ncbi.nlm.nih.gov//</link>
+<guid isPermaLink="false">2026-11-28-preprint-peek-580</guid>
+<description>回顾 580 例聚醚醚酮（polyetheretherketone，PEEK）颅骨修补，138 例（23.8%）出现伤口并发症。保守成功率 46.9%，清创 71.4%，皮瓣覆盖 83.3%，取出植入物 0%；中位愈合 57、40、30 天。 创新点：用 580 例真实世界数据把四种处理方式的结局并列，样本大于多数同类报告。意义：伤口裂开别只靠换药硬等，尽早清创或皮瓣覆盖更能保住植入物；但属单中心预印本，结论待正式发表复核。</description>
+<pubDate>Sat, 28 Nov 2026 08:00:00 +0800</pubDate></item><item><title>From Surface to Framework: Feasibility of Paired Three-Dimensional Nasal Morphometry in Open Rhinoplasty</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/43085748/</link>
 <guid isPermaLink="false">2026-11-27-pmid-43085748</guid>
 <description>前瞻队列 19 例开放鼻整形患者（平均 38.8 岁），术中用手机 Polycam 拍外鼻和暴露的下外侧软骨，生成三维点云。XGBoost 模型判断软骨头侧朝向的准确率 0.895（95%CI 0.669–0.987），AUC 0.911。 创新点：把外鼻和术中软骨配成同一套手机三维点云，属概念验证。意义：术前手机扫描有望提示鼻尖软骨朝向和支撑，但 19 例、单中心，现在只是研究工具，进不了门诊决策。</description>
-<pubDate>Fri, 27 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Septum-Anchored Teostrut With Diced Costal Cartilage for Definitive Asian Cleft Rhinoplasty</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/43070927/</link>
-<guid isPermaLink="false">2026-11-27-pmid-43070927</guid>
-<description>回顾性 16 例唇腭裂修复后亚洲患者，定型鼻整形用鼻中隔锚定单极支撑（Teostrut）加 diced costal cartilage（切碎肋软骨，DCC）垫鼻背。鼻背偏斜改善 0.9 度，鼻翼角不对称改善 11–13 度，69% 自报通气好转，无重大并发症。 创新点：把鼻中隔锚定支撑和切碎肋软骨垫背合在一台手术，专门对付唇裂鼻同时缺鼻背和鼻尖支撑。意义：一次手术既抬鼻尖又垫鼻背，可当定型方案模板；但 16 例、无对照，长期回缩没数据。</description>
-<pubDate>Fri, 27 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Mailbox Flap Mastopexy: Structural Internal Support Technique to Enhance Lower Pole Stability Breast Ptosis Correction</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/43066456/</link>
-<guid isPermaLink="false">2026-11-27-pmid-43066456</guid>
-<description>回顾性 84 例假体乳房上提（2021–2024），用 4×4 cm 腺体皮瓣锚到胸大肌做内部支撑。完全纠正下垂 90.5%，残余 9.5%；并发症 23.8%（裂开 5.9%、增生瘢痕 3.6%、不对称 3.6%）；BREAST-Q 35.2 升到 93.8。 创新点：把下极支撑从皮肤改到锚在胸大肌上的腺体皮瓣，针对假体上提后反复下垂。意义：术前谈话可照这个并发症谱讲，近四分之一有并发症、多为轻微；但六成是二次手术、无对照，长期维持仍看个人经验。</description>
-<pubDate>Fri, 27 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Anatomical Handling Properties of Costal and Auricular Cartilage in Fresh-frozen Cadaveric Models for Revision Rhinoplasty</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/43062723/</link>
-<guid isPermaLink="false">2026-11-26-pmid-43062723</guid>
-<description>10 具新鲜冷冻尸体头颈加 2 个胸部标本，双侧取第 5–8 肋软骨和耳廓软骨，比较切取、切薄片、缝合的手感。肋软骨硬脆似钙化，切薄片 85% 碎裂，稍厚也见微骨折、缝合时断开；耳软骨保持弹性，能稳定切薄片、缝合不断。 创新点：此前没人系统评估新鲜冷冻尸体能否模拟修复鼻整形的软骨准备。意义：在这种标本上练肋软骨切薄片，手感会练偏；练耳软骨雕刻更可靠，肋软骨只适合练开胸取骨那一段。</description>
-<pubDate>Thu, 26 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Perception Meets Precision: Parent-Reported Outcomes of Intermediate Rhinoplasty in Unilateral Cleft Lip</title>
+<pubDate>Fri, 27 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Perception Meets Precision: Parent-Reported Outcomes of Intermediate Rhinoplasty in Unilateral Cleft Lip</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/43070921/</link>
 <guid isPermaLink="false">2026-11-26-pmid-43070921</guid>
 <description>印尼唇腭裂中心 2019–2025 年的中期鼻整形患儿，28 位家长中 20 位完成 Byrne 问卷，随访 1.5 个月至 6 年。90% 满意；鼻尖突度中位分 5 升到 8.5，对称性 5 到 7，通气 8 到 9。 创新点：用经验证的问卷把家长眼中的效果量成可比的分数，随访跨度近 6 年。意义：术前谈话可以把突度、对称性大概能改善多少讲成具体档次，不只说会好看一些；但无对照、年龄跨度大，只能当参考。</description>
-<pubDate>Thu, 26 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Neuropsychiatric Outcomes After Decompressive Craniectomy and Cranioplasty: A Systematic Review and Meta-analysis（systematic review）</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/43062567/</link>
-<guid isPermaLink="false">2026-11-26-pmid-43062567</guid>
-<description>系统综述 24 项研究、877 例去骨瓣减压患者，12 项、305 例进 Meta 分析。抑郁患病率 47%（95%CI 40–54%），焦虑 46%（38–54%）；仅 2 项纵向研究报修补后 12 个月焦虑抑郁下降。 创新点：把去骨瓣减压后抑郁焦虑的发生率合并成可比数字，样本量超过多数单中心报告。意义：这类患者随访该常规筛情绪和认知，不只盯骨窗与影像；修补术前谈话也可以提一句心理状态有改善可能。</description>
 <pubDate>Thu, 26 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Septum-Anchored Teostrut With Diced Costal Cartilage for Definitive Asian Cleft Rhinoplasty</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/43070927/</link>
 <guid isPermaLink="false">2026-11-25-pmid-43070927</guid>
 <description>回顾性 16 例亚洲唇腭裂修复后患者，做定型期鼻整形：鼻尖用锚定在鼻中隔的单柱移植物（Teostrut）支撑，鼻背用切碎肋软骨铺垫。术后照片测量鼻背偏斜改善 0.9°，鼻翼角不对称改善约 11–13°，69% 患者自报鼻通气好转，无重大并发症。 创新点：把鼻中隔锚定的单柱移植物和切碎肋软骨合用于亚洲唇裂鼻，16 例且有客观照片测量。意义：唇裂鼻二次修复可拿碎软骨垫鼻背、避开整块移植的僵硬；但无对照组、随访期没报，只算初步可行。</description>
-<pubDate>Wed, 25 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Multimodal AI for Rhinoplasty Consultation and Simulation: A Blinded Expert Evaluation</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/43063989/</link>
-<guid isPermaLink="false">2026-11-25-pmid-43063989</guid>
-<description>让 GPT-5.5 用 20 例鼻整形患者术前照片生成咨询话术和术后模拟图，4 名双盲面整形外科医生按 12 项五分制打分。语言清晰度最高 4.05 分，手术方案适当性 2.90、避免不必要手术 2.59、方案与模拟图一致性 2.33 最低；医生完全认可方案仅 7.6%。 创新点：首次用双盲专家评分检验多模态模型在真实鼻整形病例上的咨询与模拟输出，而非演示。意义：模拟图好看不等于方案对，门诊可拿它当沟通辅助，不能让患者照图定手术；适应证、该不该做仍要医生逐条复核。</description>
 <pubDate>Wed, 25 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Intraoperative Mapping of the Zygomaticofacial Nerve: Implications for Safe Dissection in Endoscopic Facelift Surgery</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/43071833/</link>
 <guid isPermaLink="false">2026-11-25-pmid-43071833</guid>
 <description>前瞻性研究在 158 例内窥镜拉皮术中，用 30° 内镜双侧辨认颧面神经（zygomaticofacial nerve，ZFN）出孔与分支。单支右侧 82%、左侧 87%，双孔 13% 与 8%，三孔≤2%，双侧缺如 4%；颧面孔距眶下缘约 5.5 mm、距颧弓约 10 mm，左右对称。 创新点：颧面神经数据此前多来自尸体，这是 158 例活体术中实测，同类里样本最大。意义：颧区剥离时按距眶下缘 5.5 mm、距颧弓 10 mm 找神经出孔位置，可少伤分支、减少术后颊部麻木；但只测出孔，未随访感觉功能。</description>
-<pubDate>Wed, 25 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Pilot Study: Preliminary Experience with Dual-strut Tip Support Using Repurposed Cephalic Trim Cartilage in East Asian Rhinoplasty</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/43032422/</link>
-<guid isPermaLink="false">2026-11-24-pmid-43032422</guid>
-<description>回顾性 10 例东亚初次鼻整形（日本女性，平均 33.7 岁），用梯形鼻中隔延伸移植物加双侧鼻小柱支撑杆，支撑杆取自已切除的鼻翼软骨头侧缘；随访 10.1 个月，无感染、移植物外露、鼻中隔不稳或鼻尖变形。 创新点：把本该丢弃的头侧缘软骨改造成双支撑杆，不额外取耳或肋软骨就强化鼻尖三脚架。意义：鼻中隔软骨不足、只需中等鼻尖支撑的东亚鼻可少开一处供区；但仅 10 例、无客观测量，属初步可行。</description>
-<pubDate>Tue, 24 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Cephalad Migration of Permanent Thread Fragments Following Nose Augmentation by Thread</title>
+<pubDate>Wed, 25 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Cephalad Migration of Permanent Thread Fragments Following Nose Augmentation by Thread</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/43012028/</link>
 <guid isPermaLink="false">2026-11-24-pmid-43012028</guid>
 <description>1 例 54 岁女性，鼻部线雕隆鼻 5 年后额部不平、眉间硬块；手术取出 8 段移位线（2 蓝 6 透明），nuclear magnetic resonance（核磁共振，NMR）证实为聚丙烯-聚乳酸共聚物。 创新点：把多年后的线头移位追到具体共聚物材料与皱眉肌、额肌反复收缩的力学，而非笼统异物反应。意义：问诊要追问线材成分和植入年限，眉间、额部不明硬结先想到线头上移，取出按深部异物设计。</description>
@@ -66,10 +54,6 @@
 <link>https://pubmed.ncbi.nlm.nih.gov/43063989/</link>
 <guid isPermaLink="false">2026-11-22-pmid-43063989</guid>
 <description>20 例鼻整形患者照片，多模态人工智能生成咨询与术后模拟图；4 名盲法面整形医生按 12 项五分制评分。语言清晰度 4.05 分最高，术式适当性 2.90、方案与模拟一致性 2.33 分垫底；完全认可方案仅 7.6%。 创新点：首次让盲法专家按患者逐个打分多模态人工智能的咨询文本与模拟图，而非只看图像是否逼真。意义：模拟图可作沟通工具，不能当术前承诺；方案必须由医生独立制定，接诊时先问患者是否拿人工智能图来对标。</description>
-<pubDate>Sun, 22 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Patient-Reported Functional and Cosmetic Outcomes after Rhinoplasty with Autologous Versus Cadaveric Rib Cartilage Grafts</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/43035971/</link>
-<guid isPermaLink="false">2026-11-22-pmid-43035971</guid>
-<description>129 例鼻整形队列，33 例自体、96 例异体肋软骨，95.3% 作撑开移植物。调整模型示自体组鼻塞更低（差值 −14.02，95%CI −24.19 至 −3.85），外观相近；翻修率 15.2% 对 24.0%。 创新点：把自体与异体肋软骨放进同一纵向患者报告结局模型，129 例是目前该问题较大的对比样本。意义：功能诉求强的患者可优先考虑自体肋软骨；翻修率差 8.8 个百分点但置信区间跨零，交代时只能说是趋势，不能承诺更低。</description>
 <pubDate>Sun, 22 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Neuropsychiatric outcomes after decompressive craniectomy and cranioplasty: a systematic review and meta-analysis (systematic review)</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/43062567/</link>
 <guid isPermaLink="false">2026-11-22-pmid-43062567</guid>
@@ -78,10 +62,6 @@
 <link>https://pubmed.ncbi.nlm.nih.gov/43053604/</link>
 <guid isPermaLink="false">2026-11-21-pmid-43053604</guid>
 <description>系统综述青少年医美指南与实践：覆盖注射、激光、皮肤护理，以及耳整形、鼻整形、缩乳、隆胸等手术；各国最低年龄推荐差异很大，多数项目没有统一门槛；纳入研究普遍报告筛选合适者安全性好、满意度高。 创新点：把指南、结局与伦理放进同一篇比较，明确“多数手术没有标准年龄”是现状而非疏漏。意义：接诊未成年人时，别把家长签字当合格线，要单独评估心理成熟度、动机与对风险的理解，把“能做”和“该做”分开说。</description>
-<pubDate>Sat, 21 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Does Previous Septoplasty Affect Rhinoplasty Outcomes? A Comparative Analysis of Functional, Psychological and Self-Assessment Measures</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/42941334/</link>
-<guid isPermaLink="false">2026-11-21-pmid-42941334</guid>
-<description>75 例鼻中隔鼻整形前瞻队列，27 例（36%）既往有鼻中隔手术、48 例初诊；术后 1、6 个月测 ROE、SCHNOS、NOSE。既往手术组 1 个月总体满意度更低、1 与 6 个月外观评分更差；两组鼻塞均改善。 创新点：把“做过鼻中隔还能不能做鼻整形”从经验判断变成带量表的前瞻对比，且把外观与功能分开看。意义：二次鼻中隔患者术前要单独交代外观恢复更慢、早期满意度偏低，但不因此劝退；无未手术对照组，只能算术前术后变化。</description>
 <pubDate>Sat, 21 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Impact of Implant Surface Texture on Complication Rates in Primary Breast Augmentation: A Systematic Review and Meta-analysis</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/43049881/</link>
 <guid isPermaLink="false">2026-11-21-pmid-43049881</guid>
@@ -138,10 +118,6 @@
 <link>https://pubmed.ncbi.nlm.nih.gov/43039989/</link>
 <guid isPermaLink="false">2026-11-18-pmid-43039989</guid>
 <description>32例拉皮6个月3D测量：保留式中面部横向位移4.75mm，深平面2.54mm。 位移大不等于好看，分组按时间先后而非随机，耐久性作者自己也没测。</description>
-<pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Postoperative nausea and vomiting after facelift surgery despite routine dual antiemetic prophylaxis</title>
-<link>https://pubmed.ncbi.nlm.nih.gov//</link>
-<guid isPermaLink="false">2026-11-18-preprint-rs-11330171</guid>
-<description>220例拉皮，常规双联止吐后62.3%仍恶心呕吐，49.1%真的吐了。 同期做眼睑、手术时间长是独立危险因素，Apfel评分反而没用；单中心预印本。</description>
 <pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Breast augmentation and sensory outcomes: A systematic review of surgical techniques and their impact on nipple-areola complex and breast-skin sensibility</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42903738/</link>
 <guid isPermaLink="false">2026-11-18-pmid-42903738</guid>
@@ -150,26 +126,10 @@
 <link>https://pubmed.ncbi.nlm.nih.gov/43035971/</link>
 <guid isPermaLink="false">2026-11-17-pmid-43035971</guid>
 <description>129例鼻整形，自体肋33例、异体肋96例；随诊鼻塞评分自体组低14.0分，外形无差异。 自体肋换来的是通气不是外形；翻修率15.2%对24.0%区间跨零，别当优势讲。</description>
-<pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Infraorbital versus sphenopalatine ganglion block for patient-reported recovery after septorhinoplasty: A randomized controlled trial</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/42950360/</link>
-<guid isPermaLink="false">2026-11-17-pmid-42950360</guid>
-<description>90例鼻中隔鼻整形RCT：眶下神经阻滞24小时恢复质量129.1分，蝶腭节阻滞116.6分。 12.5分超过8分最小临床意义，补救镇痛11.4%对53.3%；单中心，等重复。</description>
-<pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate></item><item><title>“Dou-gong” Technique: A Novel Biomechanical Approach to Injection Rhinoplasty Based on Nasal Ligament Anatomy</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/42897251/</link>
-<guid isPermaLink="false">2026-11-17-pmid-42897251</guid>
-<description>100例注射鼻整形：27G针在骨膜/软骨膜上按五点支撑鼻韧带，无血管栓塞或移位。 把填充从堆容量改成撑韧带，思路新；无对照、无客观测量，只能算可行。</description>
 <pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate></item><item><title>SMAS Plication Facelift and Platysmaplasty Under Tumescent Local Anesthesia: a 10-Year Retrospective Evaluation of Safety, Efficacy, and Patient Satisfaction in an Outpatient Setting</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42791356/</link>
 <guid isPermaLink="false">2026-11-17-pmid-42791356</guid>
 <description>80例SMAS折叠拉皮加颈阔肌成形在肿胀局麻下完成，10年随诊并发症10%，无全麻转归。 血肿2.5%、血清肿1.25%，比全麻组不差；但这是筛选过的ASA I-II、单术者。</description>
-<pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate></item><item><title>The Transumbilical Breast Augmentation: Safety and Satisfaction in a Systematic Review and Meta-analysis of 13,210 Breasts</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/42993310/</link>
-<guid isPermaLink="false">2026-11-17-pmid-42993310</guid>
-<description>17项研究、6605例（13210侧）经脐隆胸：血肿0.2%、包膜挛缩1.7%、再干预2.3%。 数据低得好看，但几乎都是单臂回顾、随访短，作者自己说不能证明等效。</description>
-<pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Clinical Outcomes of Submuscular vs Subglandular Implant Placement in Primary Cosmetic Breast Augmentation: A Systematic Review and Meta-analysis</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/42969680/</link>
-<guid isPermaLink="false">2026-11-17-pmid-42969680</guid>
-<description>12项研究、4534侧：肌下/双平面总体并发症OR 0.49，包膜挛缩0.58，血肿0.30。 并发症更少，满意度和再手术没差别；层次还是按软组织厚度和动画畸形定。</description>
 <pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Pilot Study: Preliminary Experience with Dual-strut Tip Support Using Repurposed Cephalic Trim Cartilage in East Asian Rhinoplasty</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/43032422/</link>
 <guid isPermaLink="false">2026-11-16-pmid-43032422</guid>
@@ -190,10 +150,6 @@
 <link>https://pubmed.ncbi.nlm.nih.gov/43032105/</link>
 <guid isPermaLink="false">2026-11-16-pmid-43032105</guid>
 <description>30例双侧翻修用双锚定包膜瓣固定假体，平均减容22.3cc，1年无复发下垂、无错位、无并发症。 0并发症的30例单臂系列不能当发生率；值得学的是拿血供包膜当锚，不是那个0。</description>
-<pubDate>Mon, 16 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Beyond Cartilage Grafting in Rhinoplasty: Biopharmaceutical and Biomaterial Strategies for Nasal Cartilage Regeneration</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/42942299/</link>
-<guid isPermaLink="false">2026-11-16-pmid-42942299</guid>
-<description>综述：生长因子与小分子能启动软骨成基质但需时空控制；注射让结构软骨再生仍无临床证据。 近期能落地的是给现有移植物做生物增强、修补小缺损；把“打针长软骨”当项目卖，现在没有依据。</description>
 <pubDate>Mon, 16 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Preservation and Management of the Superficial Nasal Musculoaponeurotic System to Enhance Infratip Contour: A Technical Report</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/43011592/</link>
 <guid isPermaLink="false">2026-11-15-pmid-43011592</guid>
@@ -202,10 +158,6 @@
 <link>https://pubmed.ncbi.nlm.nih.gov/42940423/</link>
 <guid isPermaLink="false">2026-11-15-pmid-42940423</guid>
 <description>1591名沙特成人中26%考虑或已做鼻整形；女性OR 7.76，收入高者探索意愿反低67%。 拒做最常见的理由是宗教顾虑，最怕的是“鼻子和脸不搭”。初诊先问顾虑，别一上来讲术式。</description>
-<pubDate>Sun, 15 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Postoperative nausea and vomiting after facelift surgery despite routine dual antiemetic prophylaxis</title>
-<link>https://pubmed.ncbi.nlm.nih.gov//</link>
-<guid isPermaLink="false">2026-11-15-doi-10-21203-rs-11330171</guid>
-<description>220例拉皮中96.36%用地塞米松加昂丹司琼双联预防，仍有62.27%恶心呕吐、49.09%呕吐。 双联预防仍六成中招，Apfel评分无预测力（p=0.262）；同做眼睑整形OR 5.67。</description>
 <pubDate>Sun, 15 Nov 2026 08:00:00 +0800</pubDate></item><item><title>A Review of Breast Implant Pocket Irrigation With Hypochlorous Acid to Reduce Capsular Contracture Risk</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42896147/</link>
 <guid isPermaLink="false">2026-11-15-pmid-42896147</guid>
@@ -242,22 +194,10 @@
 <link>https://pubmed.ncbi.nlm.nih.gov/43001659/</link>
 <guid isPermaLink="false">2026-11-13-pmid-43001659</guid>
 <description>20例鼻唇沟皮瓣后翻修，四段肋软骨支架经双侧鼻翼缘送入，12个月ROE 48.5→88.2。 瘢痕挛缩做不了常规开放式时，这条路走得通；单术者20例，只算可行，不算优选。</description>
-<pubDate>Fri, 13 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Prevention of Secondary Deformities at the Donor Site After Cartilage Transplantation</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/42980382/</link>
-<guid isPermaLink="false">2026-11-13-pmid-42980382</guid>
-<description>92例耳软骨取材随访6–18个月：45例无畸形、41例轻度、6例明显未修、0例重度。 供区畸形能压到轻中度，但“轻度”占四成多；别跟病人保证耳朵外形一点不变。</description>
 <pubDate>Fri, 13 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Postoperative nausea and vomiting after facelift surgery despite routine dual antiemetic prophylaxis</title>
 <link>https://pubmed.ncbi.nlm.nih.gov//</link>
 <guid isPermaLink="false">2026-11-13-doi-10.21203-rs.3.rs-11330171</guid>
 <description>220例拉皮，96%用了地塞米松+昂丹司琼，仍62.3%发生恶心呕吐，49%呕吐，住院多9小时。 拉皮加眼睑、手术时间长，PONV风险明显升高；Apfel评分在这里不灵，双药预防不够。</description>
-<pubDate>Fri, 13 Nov 2026 08:00:00 +0800</pubDate></item><item><title>The Transumbilical Breast Augmentation: Safety and Satisfaction in a Systematic Review and Meta-analysis of 13,210 Breasts</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/42993310/</link>
-<guid isPermaLink="false">2026-11-13-pmid-42993310</guid>
-<description>17项研究、6605人：经脐隆胸血肿0.2%、包膜挛缩1.7%、再干预2.3%，手术约60分钟。 数字漂亮，但几乎全是单臂回顾、随访短，只能证明“能做”，不能证明优于腋下或乳晕。</description>
-<pubDate>Fri, 13 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Five-Year Clinical Performance and Patient-Reported Outcomes of Mentor MemoryGel and MemoryShape Breast Implants (GLOW Study)</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/42987925/</link>
-<guid isPermaLink="false">2026-11-13-pmid-42987925</guid>
-<description>5年挛缩率：解剖型0.31%、Xtra 1.42%、圆形5.16%；再手术3–5.5%。 0.31%不能读成解剖型更安全，研究没做头对头；但“五年约二十分之一再手术”可以拿去谈话。</description>
 <pubDate>Fri, 13 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Association of Anxiety and Depression with Patient-Reported Outcomes After Functional and Aesthetic Rhinoplasty</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42879137/</link>
 <guid isPermaLink="false">2026-11-12-pmid-42879137</guid>
@@ -354,23 +294,7 @@
 <link>https://pubmed.ncbi.nlm.nih.gov/42886861/</link>
 <guid isPermaLink="false">2026-11-09-pmid-42886861</guid>
 <description>590例超声筛查：假体翻转12.7%，大体积、胸肌前、缺软组织覆盖是独立风险。 八个人里一个翻转，多数没症状；随访加个超声，比追问手感靠谱。</description>
-<pubDate>Mon, 09 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Accuracy of Navigated Osteotomies in Rhinoplasty: A Cadaveric Analysis</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/42951306/</link>
-<guid isPermaLink="false">2026-11-08-pmid-42951306</guid>
-<description>9具尸头18侧电磁导航截骨，实际截骨线与规划平均偏差1.5mm，经鼻与经皮入路无差异。 导航能把截骨做到亚毫米级，但尸头没出血没肿胀；真实价值在二次鼻和畸形鼻，不在常规截骨。</description>
-<pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Infraorbital versus sphenopalatine ganglion block for patient-reported recovery after septorhinoplasty: A randomized controlled trial</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/42950360/</link>
-<guid isPermaLink="false">2026-11-08-pmid-42950360</guid>
-<description>90例鼻中隔鼻整形RCT：眶下神经阻滞24小时QoR-15为129.1分，蝶腭神经节阻滞116.6分。 眶下阻滞疼痛和恢复质量全面胜出，补救镇痛11%对53%；鼻整形术后镇痛该换默认选项。</description>
-<pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate></item><item><title>The V-Shaped Subdomal Graft: A Structural Template for Geometric Control of the Nasal Tip</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/42937516/</link>
-<guid isPermaLink="false">2026-11-08-pmid-42937516</guid>
-<description>PRS提出V形鼻小柱下移植物，用几何模板同时控制鼻尖宽度、高度与旋转。 把鼻尖控制做成模板，说明手感难复制；思路值得学，但一块移植物解决不了所有鼻尖。</description>
-<pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Artificial Intelligence in Facelift Surgery: A Systematic Review of Objective Outcome Assessment and Patient-Perceived Rejuvenation</title>
-<link>https://pubmed.ncbi.nlm.nih.gov/42955309/</link>
-<guid isPermaLink="false">2026-11-08-pmid-42955309</guid>
-<description>9项研究的系统综述：AI测得减龄1.7–5.8岁，比患者自感年轻程度低35%–50%。 机器算出的岁数不能当疗效指标，患者照镜子那一眼才是；AI目前只能做辅助记录。</description>
-<pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Clinical Outcomes of Submuscular vs Subglandular Implant Placement in Primary Cosmetic Breast Augmentation: A Systematic Review and Meta-analysis</title>
+<pubDate>Mon, 09 Nov 2026 08:00:00 +0800</pubDate></item><item><title>Clinical Outcomes of Submuscular vs Subglandular Implant Placement in Primary Cosmetic Breast Augmentation: A Systematic Review and Meta-analysis</title>
 <link>https://pubmed.ncbi.nlm.nih.gov/42969680/</link>
 <guid isPermaLink="false">2026-11-08-pmid-42969680</guid>
 <description>12项研究4534例：肌下/双平面总体并发症OR 0.49，包膜挛缩OR 0.58，血肿OR 0.30。 肌下赢在并发症，满意度和再手术率却没差别；腺体覆盖够的瘦病人，不必一刀切放肌下。</description>

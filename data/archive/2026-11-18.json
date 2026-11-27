@@ -1,122 +1,105 @@
 {
-  "date": "2026-11-18",
-  "updated": "2026-11-18T07:40:00+08:00",
-  "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
-  "window": "2026-11-11..11-18；7 日内鼻整形新增 1 条（PMID 43039986）、拉皮 2 条，隆胸 0 条——另 3 条为 09-28..10-09 未评点补收",
-  "items": [
-    {
-      "id": "2026-11-18-pmid-43039986",
-      "pmid": "43039986",
-      "doi": "10.1007/s00266-026-06355-4",
-      "journal": "Aesthetic Plastic Surgery",
-      "title": "Balancing Function and Aesthetics: Clinical Insights from Contemporary Rhinoplasty in a Regional Middle Eastern Cohort",
-      "tags": [
-        "鼻整形",
-        "队列研究",
-        "患者报告结局"
-      ],
-      "fact_zh": "263例中东初次鼻整形，ROE从31.5升到84.8分，报告零重大并发症、零翻修。",
-      "take_zh": "满意度涨53分好看，但随访期零翻修不合常理，更像随访短或失访，别照抄这组数。",
-      "scene_zh": "这个满意度分数先别急着信，得问他们随访了多久。",
-      "fact_en": "In 263 primary rhinoplasties by a single surgeon, ROE improved from 31.5 to 84.8, with no major complications or revisions reported.",
-      "take_en": "A 53-point ROE gain alongside zero revisions over follow-up points to short or incomplete follow-up rather than surgical superiority.",
-      "first_author": "Alzayadneh I",
-      "first_affil": "Department of Otolaryngology, Head & Neck Surgery, Mutah University, Mutah, Karak, 61710, Jordan"
-    },
-    {
-      "id": "2026-11-18-pmid-42853803",
-      "pmid": "42853803",
-      "doi": "10.1097/scs.0000000000013483",
-      "journal": "Journal of Craniofacial Surgery",
-      "title": "The L-Shaped Lateral Crural Graft: A Single-Graft Technique for the Correction of Alar Concavity and Nasal Valve Insufficiency",
-      "tags": [
-        "鼻整形",
-        "肋软骨",
-        "翻修",
-        "鼻阀"
-      ],
-      "fact_zh": "12例翻修鼻用肋软骨L形外侧脚支架，随访9.5个月，无感染、外露、变形。",
-      "take_zh": "12例、无对照、无客观通气测量，“全部满意”只能算可行性信号，不能算疗效。",
-      "scene_zh": "鼻翼塌、鼻阀窄的翻修可以留一块L形肋软骨，但别承诺一次到位。",
-      "fact_en": "Twelve revision patients received bilateral L-shaped costal cartilage lateral crural grafts; at a mean 9.5 months there were no infections, exposures, warping or recurrences.",
-      "take_en": "Twelve uncontrolled cases judged by surgeon and patient report show feasibility only, not efficacy.",
-      "first_author": "Yenigun A",
-      "first_affil": "Department of Otorhinolaryngology, Faculty of Medicine, Bezmialem Vakif University, Fatih, Istanbul, Turkey"
-    },
-    {
-      "id": "2026-11-18-pmid-42809129",
-      "pmid": "42809129",
-      "doi": "10.1007/s00266-026-06288-y",
-      "journal": "Aesthetic Plastic Surgery",
-      "title": "High vs Low Septal Preservation Rhinoplasty: A Quantitative Morphologic Analysis of Hump-Supratip Dynamics",
-      "tags": [
-        "鼻整形",
-        "保留鼻整形",
-        "影像测量"
-      ],
-      "fact_zh": "30例保留鼻整形照片测量：高鼻中隔组鼻尖上区下降更多，低鼻中隔组相对更高。",
-      "take_zh": "样本30、非随机、随访短；能说两种做法鼻尖上区反应不同，不能说哪个更好。",
-      "scene_zh": "选高鼻中隔就得接受鼻尖上区掉得多一点，术前先讲清。",
-      "fact_en": "In 30 preservation rhinoplasties measured on standardized photographs, the high septal technique lowered the supratip more while the low septal approach left it relatively higher.",
-      "take_en": "Thirty non-randomized cases with short follow-up describe how the two variants move the supratip, not which one is better.",
-      "first_author": "Ekici RF",
-      "first_affil": "Department of Plastic, Reconstructive and Aesthetic Surgery, Karaman Training and Research Hospital, Üniversite Mahallesi, 1984 Street No:1, 70200, Karaman, Turkey"
-    },
-    {
-      "id": "2026-11-18-pmid-43039989",
-      "pmid": "43039989",
-      "doi": "10.1007/s00266-026-06300-5",
-      "journal": "Aesthetic Plastic Surgery",
-      "title": "The Next Step in Facial Aesthetic Surgery Outcome Evaluation: Quantifying Classical Deep Plane versus Preservation Facelift with 3-Dimensional Surface Imaging",
-      "tags": [
-        "拉皮",
-        "深平面",
-        "保留式",
-        "3D测量"
-      ],
-      "fact_zh": "32例拉皮6个月3D测量：保留式中面部横向位移4.75mm，深平面2.54mm。",
-      "take_zh": "位移大不等于好看，分组按时间先后而非随机，耐久性作者自己也没测。",
-      "scene_zh": "别拿毫米数跟病人许诺，拉得多不代表拉得好。",
-      "fact_en": "In 32 patients imaged at six months, the preservation facelift displaced the medial midface 4.75 mm laterally versus 2.54 mm for the deep plane lift.",
-      "take_en": "More displacement is not a better face, allocation followed chronology rather than randomization, and durability was not measured.",
-      "first_author": "Roskies M",
-      "first_affil": "Yorkville Plastic Surgery Centre, Toronto, ON, Canada"
-    },
-    {
-      "id": "2026-11-18-preprint-rs-11330171",
-      "pmid": "",
-      "doi": "10.21203/rs.3.rs-11330171/v1",
-      "journal": "Research Square (Preprint)",
-      "title": "Postoperative nausea and vomiting after facelift surgery despite routine dual antiemetic prophylaxis",
-      "tags": [
-        "拉皮",
-        "麻醉",
-        "术后恶心呕吐"
-      ],
-      "fact_zh": "220例拉皮，常规双联止吐后62.3%仍恶心呕吐，49.1%真的吐了。",
-      "take_zh": "同期做眼睑、手术时间长是独立危险因素，Apfel评分反而没用；单中心预印本。",
-      "scene_zh": "拉皮加眼睑一起做、时间又长的，止吐别只按常规两联。",
-      "fact_en": "Despite dual antiemetic prophylaxis in 96% of 220 facelift patients, 62.3% had PONV within 24 hours and 49.1% vomited.",
-      "take_en": "Concurrent blepharoplasty and longer operating time independently predicted PONV while the Apfel score did not; this is a single-centre preprint."
-    },
-    {
-      "id": "2026-11-18-pmid-42903738",
-      "pmid": "42903738",
-      "doi": "10.1016/j.jpra.2026.09.028",
-      "journal": "JPRAS Open",
-      "title": "Breast augmentation and sensory outcomes: A systematic review of surgical techniques and their impact on nipple-areola complex and breast-skin sensibility",
-      "tags": [
-        "隆胸",
-        "系统综述",
-        "感觉"
-      ],
-      "fact_zh": "26项研究、9190例隆胸：感觉减退多在6-12个月恢复，乳晕切口早期低感觉更多。",
-      "take_zh": "证据只能定性汇总、测量工具各异；可用于术前告知，不能用来给切口排名。",
-      "scene_zh": "乳晕切口感觉恢复慢一些，多半会好，这个术前就要说。",
-      "fact_en": "Across 26 studies and 9,190 patients, most sensory loss after augmentation recovered within 6 to 12 months, with more early nipple hypoesthesia after periareolar incisions.",
-      "take_en": "Heterogeneous measures forced a qualitative synthesis, so this informs consent rather than ranking incisions.",
-      "first_author": "Ghadban E",
-      "first_affil": "Department of Plastic and Reconstructive Surgery, Saint George Hospital University Medical Center, Beirut, Lebanon"
-    }
-  ]
+ "date": "2026-11-18",
+ "updated": "2026-11-18T07:40:00+08:00",
+ "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
+ "window": "2026-11-11..11-18；7 日内鼻整形新增 1 条（PMID 43039986）、拉皮 2 条，隆胸 0 条——另 3 条为 09-28..10-09 未评点补收",
+ "items": [
+  {
+   "id": "2026-11-18-pmid-43039986",
+   "pmid": "43039986",
+   "doi": "10.1007/s00266-026-06355-4",
+   "journal": "Aesthetic Plastic Surgery",
+   "title": "Balancing Function and Aesthetics: Clinical Insights from Contemporary Rhinoplasty in a Regional Middle Eastern Cohort",
+   "tags": [
+    "鼻整形",
+    "队列研究",
+    "患者报告结局"
+   ],
+   "fact_zh": "263例中东初次鼻整形，ROE从31.5升到84.8分，报告零重大并发症、零翻修。",
+   "take_zh": "满意度涨53分好看，但随访期零翻修不合常理，更像随访短或失访，别照抄这组数。",
+   "scene_zh": "这个满意度分数先别急着信，得问他们随访了多久。",
+   "fact_en": "In 263 primary rhinoplasties by a single surgeon, ROE improved from 31.5 to 84.8, with no major complications or revisions reported.",
+   "take_en": "A 53-point ROE gain alongside zero revisions over follow-up points to short or incomplete follow-up rather than surgical superiority.",
+   "first_author": "Alzayadneh I",
+   "first_affil": "Department of Otolaryngology, Head & Neck Surgery, Mutah University, Mutah, Karak, 61710, Jordan"
+  },
+  {
+   "id": "2026-11-18-pmid-42853803",
+   "pmid": "42853803",
+   "doi": "10.1097/scs.0000000000013483",
+   "journal": "Journal of Craniofacial Surgery",
+   "title": "The L-Shaped Lateral Crural Graft: A Single-Graft Technique for the Correction of Alar Concavity and Nasal Valve Insufficiency",
+   "tags": [
+    "鼻整形",
+    "肋软骨",
+    "翻修",
+    "鼻阀"
+   ],
+   "fact_zh": "12例翻修鼻用肋软骨L形外侧脚支架，随访9.5个月，无感染、外露、变形。",
+   "take_zh": "12例、无对照、无客观通气测量，“全部满意”只能算可行性信号，不能算疗效。",
+   "scene_zh": "鼻翼塌、鼻阀窄的翻修可以留一块L形肋软骨，但别承诺一次到位。",
+   "fact_en": "Twelve revision patients received bilateral L-shaped costal cartilage lateral crural grafts; at a mean 9.5 months there were no infections, exposures, warping or recurrences.",
+   "take_en": "Twelve uncontrolled cases judged by surgeon and patient report show feasibility only, not efficacy.",
+   "first_author": "Yenigun A",
+   "first_affil": "Department of Otorhinolaryngology, Faculty of Medicine, Bezmialem Vakif University, Fatih, Istanbul, Turkey"
+  },
+  {
+   "id": "2026-11-18-pmid-42809129",
+   "pmid": "42809129",
+   "doi": "10.1007/s00266-026-06288-y",
+   "journal": "Aesthetic Plastic Surgery",
+   "title": "High vs Low Septal Preservation Rhinoplasty: A Quantitative Morphologic Analysis of Hump-Supratip Dynamics",
+   "tags": [
+    "鼻整形",
+    "保留鼻整形",
+    "影像测量"
+   ],
+   "fact_zh": "30例保留鼻整形照片测量：高鼻中隔组鼻尖上区下降更多，低鼻中隔组相对更高。",
+   "take_zh": "样本30、非随机、随访短；能说两种做法鼻尖上区反应不同，不能说哪个更好。",
+   "scene_zh": "选高鼻中隔就得接受鼻尖上区掉得多一点，术前先讲清。",
+   "fact_en": "In 30 preservation rhinoplasties measured on standardized photographs, the high septal technique lowered the supratip more while the low septal approach left it relatively higher.",
+   "take_en": "Thirty non-randomized cases with short follow-up describe how the two variants move the supratip, not which one is better.",
+   "first_author": "Ekici RF",
+   "first_affil": "Department of Plastic, Reconstructive and Aesthetic Surgery, Karaman Training and Research Hospital, Üniversite Mahallesi, 1984 Street No:1, 70200, Karaman, Turkey"
+  },
+  {
+   "id": "2026-11-18-pmid-43039989",
+   "pmid": "43039989",
+   "doi": "10.1007/s00266-026-06300-5",
+   "journal": "Aesthetic Plastic Surgery",
+   "title": "The Next Step in Facial Aesthetic Surgery Outcome Evaluation: Quantifying Classical Deep Plane versus Preservation Facelift with 3-Dimensional Surface Imaging",
+   "tags": [
+    "拉皮",
+    "深平面",
+    "保留式",
+    "3D测量"
+   ],
+   "fact_zh": "32例拉皮6个月3D测量：保留式中面部横向位移4.75mm，深平面2.54mm。",
+   "take_zh": "位移大不等于好看，分组按时间先后而非随机，耐久性作者自己也没测。",
+   "scene_zh": "别拿毫米数跟病人许诺，拉得多不代表拉得好。",
+   "fact_en": "In 32 patients imaged at six months, the preservation facelift displaced the medial midface 4.75 mm laterally versus 2.54 mm for the deep plane lift.",
+   "take_en": "More displacement is not a better face, allocation followed chronology rather than randomization, and durability was not measured.",
+   "first_author": "Roskies M",
+   "first_affil": "Yorkville Plastic Surgery Centre, Toronto, ON, Canada"
+  },
+  {
+   "id": "2026-11-18-pmid-42903738",
+   "pmid": "42903738",
+   "doi": "10.1016/j.jpra.2026.09.028",
+   "journal": "JPRAS Open",
+   "title": "Breast augmentation and sensory outcomes: A systematic review of surgical techniques and their impact on nipple-areola complex and breast-skin sensibility",
+   "tags": [
+    "隆胸",
+    "系统综述",
+    "感觉"
+   ],
+   "fact_zh": "26项研究、9190例隆胸：感觉减退多在6-12个月恢复，乳晕切口早期低感觉更多。",
+   "take_zh": "证据只能定性汇总、测量工具各异；可用于术前告知，不能用来给切口排名。",
+   "scene_zh": "乳晕切口感觉恢复慢一些，多半会好，这个术前就要说。",
+   "fact_en": "Across 26 studies and 9,190 patients, most sensory loss after augmentation recovered within 6 to 12 months, with more early nipple hypoesthesia after periareolar incisions.",
+   "take_en": "Heterogeneous measures forced a qualitative synthesis, so this informs consent rather than ranking incisions.",
+   "first_author": "Ghadban E",
+   "first_affil": "Department of Plastic and Reconstructive Surgery, Saint George Hospital University Medical Center, Beirut, Lebanon"
+  }
+ ]
 }

@@ -1,68 +1,27 @@
 {
-  "date": "2026-11-26",
-  "updated": "2026-11-26T07:31:25+08:00",
-  "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
-  "window": "2026-11-19..11-26；鼻整形 2 条（11-20 新鲜冷冻尸体肋/耳软骨植片准备 10 具、11-23 单侧唇裂中期鼻整形家长问卷 20 例）；第 3 条按轮换取颅骨修复（11-20 去骨瓣减压后精神心理结局系统综述 24 项/877 例）；拉皮 1 条（颧面神经术中定位）昨日已用、今日不重；隆胸 2 条（乳房上提 84 例、未成年人手术综述）本轮不取；PRP 仅骨科、喉科、勃起功能、毛发及大鼠颅骨缺损条目，不取；小阴唇 0 条。",
-  "items": [
-    {
-      "id": "2026-11-26-pmid-43062723",
-      "pmid": "43062723",
-      "doi": "10.1007/s00276-026-04039-x",
-      "journal": "Surgical and Radiologic Anatomy",
-      "title": "Anatomical Handling Properties of Costal and Auricular Cartilage in Fresh-frozen Cadaveric Models for Revision Rhinoplasty",
-      "tags": [
-        "鼻整形",
-        "修复鼻整形",
-        "肋软骨",
-        "耳软骨",
-        "标本训练"
-      ],
-      "fact_zh": "10 具新鲜冷冻尸体头颈加 2 个胸部标本，双侧取第 5–8 肋软骨和耳廓软骨，比较切取、切薄片、缝合的手感。肋软骨硬脆似钙化，切薄片 85% 碎裂，稍厚也见微骨折、缝合时断开；耳软骨保持弹性，能稳定切薄片、缝合不断。",
-      "take_zh": "创新点：此前没人系统评估新鲜冷冻尸体能否模拟修复鼻整形的软骨准备。意义：在这种标本上练肋软骨切薄片，手感会练偏；练耳软骨雕刻更可靠，肋软骨只适合练开胸取骨那一段。",
-      "scene_zh": "年轻医生问拿尸体标本练切肋软骨行不行，我说切薄片十有八九碎，先拿耳软骨练刀工，肋软骨只练取骨。",
-      "fact_en": "Ten fresh-frozen cadaveric heads and two thoracic specimens were dissected, with costal cartilage taken bilaterally from ribs 5-8 and auricular cartilage through a posterior conchal approach, then rated for graft dimensions, preparation time, carvability, laminar fragmentation and suturability. Costal cartilage behaved as rigid, brittle and calcified: laminar thinning fragmented in 85% of attempts, and thicker slices showed microfractures and broke during suturing. Auricular cartilage kept its elasticity, carved into reproducible laminas and held sutures.",
-      "take_en": "The study is the first systematic look at whether fresh-frozen cadavers can stand in for the cartilage work of revision rhinoplasty, and the answer is source-specific. Practising thin costal laminas on these specimens teaches the wrong feel, whereas auricular cartilage is a fair model for carving; rib harvest retains value only as thoracic-exposure training.",
-      "first_author": "Russo F",
-      "first_affil": "Unit of Plastic Surgery, University of Naples \"Federico II\", Naples, Italy"
-    },
-    {
-      "id": "2026-11-26-pmid-43070921",
-      "pmid": "43070921",
-      "doi": "10.1097/scs.0000000000013603",
-      "journal": "Journal of Craniofacial Surgery",
-      "title": "Perception Meets Precision: Parent-Reported Outcomes of Intermediate Rhinoplasty in Unilateral Cleft Lip",
-      "tags": [
-        "鼻整形",
-        "唇裂鼻",
-        "患者报告结局"
-      ],
-      "fact_zh": "印尼唇腭裂中心 2019–2025 年的中期鼻整形患儿，28 位家长中 20 位完成 Byrne 问卷，随访 1.5 个月至 6 年。90% 满意；鼻尖突度中位分 5 升到 8.5，对称性 5 到 7，通气 8 到 9。",
-      "take_zh": "创新点：用经验证的问卷把家长眼中的效果量成可比的分数，随访跨度近 6 年。意义：术前谈话可以把突度、对称性大概能改善多少讲成具体档次，不只说会好看一些；但无对照、年龄跨度大，只能当参考。",
-      "scene_zh": "家长问孩子唇裂的鼻子现在做还是等长大做，我说中期先做一回，多数家长事后觉得鼻尖立起来了，但一次做不完美，长大还要再看。",
-      "fact_en": "Parents of children with unilateral cleft lip and palate who had intermediate rhinoplasty at Indonesia's national cleft centre between 2019 and 2025 were surveyed with the validated Byrne Questionnaire; 20 of 28 eligible parents responded (71.4%), with follow-up from 1.5 months to almost 6 years. Ninety percent reported satisfaction, and median scores rose from 5 to 8.5 for tip projection, 5 to 7 for symmetry, 5 to 7 for appearance and 8 to 9 for breathing.",
-      "take_en": "The innovation is quantifying the parent's view with a validated instrument across a follow-up span of nearly six years, albeit in a small single-centre sample. It lets a consultation put expected gains in projection and symmetry into concrete grades instead of vague reassurance, but the absence of a control group and the wide age range keep it at the level of reference data.",
-      "first_author": "Bangun K",
-      "first_affil": "Division of Plastic Reconstructive and Aesthetic Surgery, Universitas Indonesia - Cipto Mangunkusumo Hospital, Jakarta, Indonesia"
-    },
-    {
-      "id": "2026-11-26-pmid-43062567",
-      "pmid": "43062567",
-      "doi": "10.1007/s10143-026-04560-y",
-      "journal": "Neurosurgical Review",
-      "title": "Neuropsychiatric Outcomes After Decompressive Craniectomy and Cranioplasty: A Systematic Review and Meta-analysis（systematic review）",
-      "tags": [
-        "颅骨修复",
-        "去骨瓣减压",
-        "颅骨修补",
-        "精神心理结局"
-      ],
-      "fact_zh": "系统综述 24 项研究、877 例去骨瓣减压患者，12 项、305 例进 Meta 分析。抑郁患病率 47%（95%CI 40–54%），焦虑 46%（38–54%）；仅 2 项纵向研究报修补后 12 个月焦虑抑郁下降。",
-      "take_zh": "创新点：把去骨瓣减压后抑郁焦虑的发生率合并成可比数字，样本量超过多数单中心报告。意义：这类患者随访该常规筛情绪和认知，不只盯骨窗与影像；修补术前谈话也可以提一句心理状态有改善可能。",
-      "scene_zh": "家属问骨头补回去人会不会清醒些、脾气会不会好，我说有一部分人情绪确实好转，但补之前近一半人就有抑郁焦虑，得单独查、单独治。",
-      "fact_en": "This systematic review and meta-analysis pooled 24 studies (877 patients) after decompressive craniectomy, with 12 studies (305 patients) entering the meta-analysis. Pooled prevalence was 47% for depression (95% CI 40-54%) and 46% for anxiety (38-54%); only two longitudinal studies reported falls in both at 12 months after cranioplasty, and the authors caution that those large effect sizes may be inflated by small cohorts.",
-      "take_en": "The innovation is turning scattered single-centre reports into pooled prevalence figures for psychiatric morbidity after decompressive craniectomy. The practical consequence is that these patients need routine mood and cognitive screening alongside bone-window and imaging follow-up, and that pre-cranioplasty counselling can mention a likely psychological gain without promising it.",
-      "first_author": "Bari SSM",
-      "first_affil": "Department of Neurosurgery, Queen's Hospital, Barking, Havering and Redbridge University Hospitals NHS Trust, London, UK"
-    }
-  ]
+ "date": "2026-11-26",
+ "updated": "2026-11-26T07:31:25+08:00",
+ "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
+ "window": "2026-11-19..11-26；鼻整形 2 条（11-20 新鲜冷冻尸体肋/耳软骨植片准备 10 具、11-23 单侧唇裂中期鼻整形家长问卷 20 例）；第 3 条按轮换取颅骨修复（11-20 去骨瓣减压后精神心理结局系统综述 24 项/877 例）；拉皮 1 条（颧面神经术中定位）昨日已用、今日不重；隆胸 2 条（乳房上提 84 例、未成年人手术综述）本轮不取；PRP 仅骨科、喉科、勃起功能、毛发及大鼠颅骨缺损条目，不取；小阴唇 0 条。",
+ "items": [
+  {
+   "id": "2026-11-26-pmid-43070921",
+   "pmid": "43070921",
+   "doi": "10.1097/scs.0000000000013603",
+   "journal": "Journal of Craniofacial Surgery",
+   "title": "Perception Meets Precision: Parent-Reported Outcomes of Intermediate Rhinoplasty in Unilateral Cleft Lip",
+   "tags": [
+    "鼻整形",
+    "唇裂鼻",
+    "患者报告结局"
+   ],
+   "fact_zh": "印尼唇腭裂中心 2019–2025 年的中期鼻整形患儿，28 位家长中 20 位完成 Byrne 问卷，随访 1.5 个月至 6 年。90% 满意；鼻尖突度中位分 5 升到 8.5，对称性 5 到 7，通气 8 到 9。",
+   "take_zh": "创新点：用经验证的问卷把家长眼中的效果量成可比的分数，随访跨度近 6 年。意义：术前谈话可以把突度、对称性大概能改善多少讲成具体档次，不只说会好看一些；但无对照、年龄跨度大，只能当参考。",
+   "scene_zh": "家长问孩子唇裂的鼻子现在做还是等长大做，我说中期先做一回，多数家长事后觉得鼻尖立起来了，但一次做不完美，长大还要再看。",
+   "fact_en": "Parents of children with unilateral cleft lip and palate who had intermediate rhinoplasty at Indonesia's national cleft centre between 2019 and 2025 were surveyed with the validated Byrne Questionnaire; 20 of 28 eligible parents responded (71.4%), with follow-up from 1.5 months to almost 6 years. Ninety percent reported satisfaction, and median scores rose from 5 to 8.5 for tip projection, 5 to 7 for symmetry, 5 to 7 for appearance and 8 to 9 for breathing.",
+   "take_en": "The innovation is quantifying the parent's view with a validated instrument across a follow-up span of nearly six years, albeit in a small single-centre sample. It lets a consultation put expected gains in projection and symmetry into concrete grades instead of vague reassurance, but the absence of a control group and the wide age range keep it at the level of reference data.",
+   "first_author": "Bangun K",
+   "first_affil": "Division of Plastic Reconstructive and Aesthetic Surgery, Universitas Indonesia - Cipto Mangunkusumo Hospital, Jakarta, Indonesia"
+  }
+ ]
 }

@@ -1,53 +1,68 @@
 {
-  "date": "2026-11-27",
-  "updated": "2026-11-27T07:45:00+08:00",
-  "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
-  "window": "2026-11-20..11-27；鼻整形 2 条（11-25 手机摄影测量配对三维鼻形态 19 例、11-23 唇裂鼻 Teostrut 加切碎肋软骨 16 例）；第 3 条按轮换取隆胸（11-20 信箱皮瓣乳房上提 84 例）——昨日第 3 条为颅骨修复，今日不连科，小阴唇 0 条、拉皮唯一 1 条（颧面神经定位）昨日已列不重；PRP 7 条均为喉科嗅觉、骨科膝踝、勃起功能、眼科及大鼠颅骨缺损，按口径不取；颅骨修复 4 条（3D 轮廓测量、PEEK 伤口并发症、精神心理综述、评论）本期让位轮换。",
-  "items": [
-    {
-      "id": "2026-11-27-pmid-43085748",
-      "pmid": "43085748",
-      "doi": "10.1055/a-3012-8897",
-      "journal": "Facial Plastic Surgery",
-      "title": "From Surface to Framework: Feasibility of Paired Three-Dimensional Nasal Morphometry in Open Rhinoplasty",
-      "tags": ["鼻整形", "三维成像", "摄影测量", "人工智能"],
-      "fact_zh": "前瞻队列 19 例开放鼻整形患者（平均 38.8 岁），术中用手机 Polycam 拍外鼻和暴露的下外侧软骨，生成三维点云。XGBoost 模型判断软骨头侧朝向的准确率 0.895（95%CI 0.669–0.987），AUC 0.911。",
-      "take_zh": "创新点：把外鼻和术中软骨配成同一套手机三维点云，属概念验证。意义：术前手机扫描有望提示鼻尖软骨朝向和支撑，但 19 例、单中心，现在只是研究工具，进不了门诊决策。",
-      "scene_zh": "患者问术前用手机扫一下能不能看出鼻尖软骨什么样，我说现在还在研究阶段，扫出来只能看个大概，真定方案还得切开看。",
-      "fact_en": "In a prospective cohort, 19 patients (mean age 38.8 years, SD 14.2) undergoing open rhinoplasty had the external nose photographed with the Polycam smartphone app and the exposed lower lateral cartilage scanned intraoperatively, producing paired three-dimensional point clouds. An XGBoost model predicted the cephalic orientation of the lower lateral cartilage with an accuracy of 0.895 (95% CI 0.669-0.987) and an ROC AUC of 0.911 (95% CI 0.744-1.000).",
-      "take_en": "The contribution is a paired external-and-intraoperative 3D dataset from living patients, captured with a consumer phone rather than a dedicated scanner, and a first machine-learning test of whether surface shape carries information about cartilage orientation. It points toward scan-based planning and objective outcome tracking, but with 19 patients and no validation cohort it remains a research tool, not a consultation aid.",
-      "first_author": "Farrokhian N",
-      "first_affil": "Department of Otolaryngology-Head and Neck Surgery, University of Kansas School of Medicine, Kansas City, USA"
-    },
-    {
-      "id": "2026-11-27-pmid-43070927",
-      "pmid": "43070927",
-      "doi": "10.1097/scs.0000000000013617",
-      "journal": "Journal of Craniofacial Surgery",
-      "title": "Septum-Anchored Teostrut With Diced Costal Cartilage for Definitive Asian Cleft Rhinoplasty",
-      "tags": ["鼻整形", "唇裂鼻", "肋软骨", "鼻中隔"],
-      "fact_zh": "回顾性 16 例唇腭裂修复后亚洲患者，定型鼻整形用鼻中隔锚定单极支撑（Teostrut）加 diced costal cartilage（切碎肋软骨，DCC）垫鼻背。鼻背偏斜改善 0.9 度，鼻翼角不对称改善 11–13 度，69% 自报通气好转，无重大并发症。",
-      "take_zh": "创新点：把鼻中隔锚定支撑和切碎肋软骨垫背合在一台手术，专门对付唇裂鼻同时缺鼻背和鼻尖支撑。意义：一次手术既抬鼻尖又垫鼻背，可当定型方案模板；但 16 例、无对照，长期回缩没数据。",
-      "scene_zh": "患者问唇裂的鼻子能不能一次做好，我说一次能把鼻尖抬起来、鼻背垫平，但软骨以后可能还会缩一点，得留一次修的余地。",
-      "fact_en": "This retrospective case series followed 16 Asian patients with repaired cleft lip and palate who had definitive rhinoplasty using a septum-anchored monopod graft (Teostrut) combined with diced costal cartilage (DCC) for dorsal augmentation. Photographic analysis showed dorsum deviation improved by 0.9 degrees and alar angle asymmetry by roughly 11 to 13 degrees, while 69% of patients reported functional improvement and no major complications occurred.",
-      "take_en": "The innovation is pairing a septum-anchored strut with diced costal cartilage in the cleft nose, where both the dorsum and the tip base are deficient and single-technique reports are scarce. It offers a reproducible one-stage way to hold tip projection while filling the dorsum, but the series is small, single-surgeon and uncontrolled, so long-term resorption and stability remain unknown.",
-      "first_author": "Bangun K",
-      "first_affil": "Cleft and Craniofacial Center, Cipto Mangunkusumo General Hospital, Jakarta, Indonesia"
-    },
-    {
-      "id": "2026-11-27-pmid-43066456",
-      "pmid": "43066456",
-      "doi": "10.1097/gox.0000000000008237",
-      "journal": "Plastic and Reconstructive Surgery Global Open",
-      "title": "Mailbox Flap Mastopexy: Structural Internal Support Technique to Enhance Lower Pole Stability Breast Ptosis Correction",
-      "tags": ["隆胸", "乳房上提", "假体", "内部支撑"],
-      "fact_zh": "回顾性 84 例假体乳房上提（2021–2024），用 4×4 cm 腺体皮瓣锚到胸大肌做内部支撑。完全纠正下垂 90.5%，残余 9.5%；并发症 23.8%（裂开 5.9%、增生瘢痕 3.6%、不对称 3.6%）；BREAST-Q 35.2 升到 93.8。",
-      "take_zh": "创新点：把下极支撑从皮肤改到锚在胸大肌上的腺体皮瓣，针对假体上提后反复下垂。意义：术前谈话可照这个并发症谱讲，近四分之一有并发症、多为轻微；但六成是二次手术、无对照，长期维持仍看个人经验。",
-      "scene_zh": "患者问上提以后会不会过两年又垂下来，我说这法子是把皮瓣缝到肌肉上当支撑，比单靠皮肤稳一些，但没人能保证一辈子不垂。",
-      "fact_en": "In a retrospective cohort of 84 patients who had mastopexy with implants between 2021 and 2024, a 4 x 4 cm dermoglandular flap was anchored to the pectoralis muscle to support the lower pole, with limited subpectoral myotomy and individualized pocket dissection. Complete ptosis correction was achieved in 90.5% and mild residual ptosis in 9.5%; complications occurred in 23.8%, mainly minor dehiscence (5.9%), hypertrophic scars (3.6%) and asymmetry (3.6%). BREAST-Q scores rose from 35.2 to 93.8 (P < 0.001).",
-      "take_en": "The innovation is shifting lower-pole support from skin to a vascularised dermoglandular flap fixed to muscle, aimed at the recurrent ptosis that plagues implant-based lifts. It gives surgeons a concrete anchor and a realistic complication profile for consent, but with 60.7% secondary cases and no control group the durability claim still rests on one team's series.",
-      "first_author": "Centeno-Silva J",
-      "first_affil": "Private practice, Sensabell, Madrid-Valencia, Spain"
-    }
-  ]
+ "date": "2026-11-28",
+ "updated": "2026-11-28T07:45:00+08:00",
+ "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
+ "window": "2026-11-21..11-28；鼻整形 2 条（11-26 鼻中隔/耳/肋软骨移植系统综述 13 项 3609 例、11-24 面颈部增强与虚拟现实叙述性综述）；第 3 条轮换：昨日为隆胸，按序轮到 PRP，但 PRP 仅 2 条均为嗅觉障碍与距骨软骨损伤，按口径不取；小阴唇 0 条，拉皮仅颧面神经定位 1 条昨日已列，故取颅骨修复 PEEK 伤口并发症 580 例（11-23，预印本）。",
+ "items": [
+  {
+   "id": "2026-11-28-pmid-43095770",
+   "pmid": "43095770",
+   "doi": "10.1017/S0022215126106100",
+   "journal": "The Journal of Laryngology and Otology",
+   "title": "Do septal, conchal and costal cartilage grafts differ in functional, aesthetic and complication outcomes after septorhinoplasty? A systematic review (systematic review)",
+   "tags": [
+    "鼻整形",
+    "鼻中隔软骨",
+    "耳软骨",
+    "肋软骨"
+   ],
+   "fact_zh": "系统综述纳入 2015 至 2025 年 13 项对照研究、共 3609 例成人鼻中隔鼻整形。肋软骨支撑更稳、远期吸收少于耳软骨，但供区并发症更多；耳软骨与鼻中隔软骨的中期鼻尖稳定性和外观相当。",
+   "take_zh": "创新点：把三种软骨放进同一套功能、外观与并发症框架比较，3609 例在同类综述里样本不小。意义：大重建用肋软骨，轻矫正用耳软骨少取供区，鼻中隔够用就优先鼻中隔；但纳入研究异质性大，不能当统一标准。",
+   "scene_zh": "患者问取哪块软骨最好，我说没有最好：缺得多用肋软骨，缺得少用耳软骨，鼻子里的够用就先用鼻中隔。",
+   "fact_en": "This systematic review pooled 13 comparative studies published between 2015 and 2025, covering 3,609 adults who underwent septorhinoplasty. Costal cartilage gave more stable structural support and less long-term resorption than conchal cartilage, at the cost of more donor-site morbidity, while conchal and septal grafts showed comparable mid-term tip stability and aesthetic results.",
+   "take_en": "Its value is a single functional, aesthetic and complication framework for all three graft types across a relatively large evidence base. In practice it supports costal cartilage for major reconstruction, conchal cartilage for lower-demand correction, and septum first when adequate, but the included studies are heterogeneous and should not be read as a fixed protocol.",
+   "first_author": "Handoko RE",
+   "first_affil": "Otorhinolaryngology-Head and Neck Surgery, Universitas Brawijaya, Indonesia"
+  },
+  {
+   "id": "2026-11-28-pmid-43078468",
+   "pmid": "43078468",
+   "doi": "10.1055/a-2998-9360",
+   "journal": "Facial Plastic Surgery",
+   "title": "Augmented and Virtual Reality in Facial Plastic and Reconstructive Surgery: A Narrative Review",
+   "tags": [
+    "鼻整形",
+    "增强现实",
+    "虚拟现实",
+    "手术导航"
+   ],
+   "fact_zh": "叙述性综述梳理增强现实（augmented reality，AR）与虚拟现实（virtual reality，VR）在面部整形重建的进展：AR 导航配准误差已小于 2 毫米，主要用于颅颌面骨、游离皮瓣和鼻整形，软组织仍偏早。",
+   "take_zh": "创新点：按骨性与软组织分开评估成熟度，并点出比较研究缺口。意义：目前可指望 AR 做骨性导航和皮瓣定位，鼻尖软组织判断仍靠手感；成本高、缺对照，短期内进不了常规门诊。",
+   "scene_zh": "患者问戴个眼镜是不是就能把鼻子做得更准，我说骨头上的位置它能帮忙，鼻尖软组织的火候还得靠手感和经验。",
+   "fact_en": "This narrative review maps augmented reality (AR) and virtual reality (VR) across facial plastic and reconstructive surgery. AR navigation platforms now report sub-2-mm registration accuracy and are used mainly for rigid bony anatomy, craniomaxillofacial trauma, free flap harvest and rhinoplasty, whereas soft-tissue applications remain early.",
+   "take_en": "The review separates maturity by tissue type rather than treating extended reality as one technology. It suggests AR can currently support bony navigation and flap planning, but not intraoperative judgment of nasal tip soft tissue; comparative data, soft-tissue registration and cost remain barriers.",
+   "first_author": "Reddy P",
+   "first_affil": "Department of Otolaryngology-Head and Neck Surgery, Emory University School of Medicine, Atlanta, GA, USA"
+  },
+  {
+   "id": "2026-11-28-preprint-peek-580",
+   "pmid": "",
+   "doi": "10.21203/rs.3.rs-11374814/v1",
+   "journal": "Research Square (preprint)",
+   "title": "Management Strategies and Clinical Outcomes of Wound Complications after Polyetheretherketone Cranioplasty: A Real-World Single-Center Cohort Study",
+   "tags": [
+    "颅骨修复",
+    "PEEK",
+    "伤口并发症",
+    "植入物"
+   ],
+   "fact_zh": "回顾 580 例聚醚醚酮（polyetheretherketone，PEEK）颅骨修补，138 例（23.8%）出现伤口并发症。保守成功率 46.9%，清创 71.4%，皮瓣覆盖 83.3%，取出植入物 0%；中位愈合 57、40、30 天。",
+   "take_zh": "创新点：用 580 例真实世界数据把四种处理方式的结局并列，样本大于多数同类报告。意义：伤口裂开别只靠换药硬等，尽早清创或皮瓣覆盖更能保住植入物；但属单中心预印本，结论待正式发表复核。",
+   "scene_zh": "患者问修补处伤口老不愈合，是不是只能把材料取出来，我说先别急，早点清创或用皮瓣盖住，多数还能保住。",
+   "fact_en": "In a single-center retrospective cohort of 580 adults undergoing delayed polyetheretherketone (PEEK) cranioplasty, wound complications occurred in 138 patients (23.8%). Success rates were 46.9% with conservative care, 71.4% with debridement and 83.3% with flap coverage, versus 0% with implant removal alone; median healing times were 57, 40 and 30 days respectively.",
+   "take_en": "The main contribution is a large real-world comparison of four management strategies, with flap coverage preserving the implant most often. The practical message is to escalate early to debridement or flap coverage rather than prolonged conservative dressing; however, this is a single-center preprint and needs peer-reviewed confirmation.",
+   "first_author": "Zeng L",
+   "first_affil": ""
+  }
+ ]
 }

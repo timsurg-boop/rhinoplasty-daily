@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-28",
+  "updated": "2026-11-28T07:45:00+08:00",
+  "source": "Europe PMC (MEDLINE/PubMed + publisher feeds)",
+  "window": "2026-11-21..11-28；鼻整形 2 条（11-26 鼻中隔/耳/肋软骨移植系统综述 13 项 3609 例、11-24 面颈部增强与虚拟现实叙述性综述）；第 3 条轮换：昨日为隆胸，按序轮到 PRP，但 PRP 仅 2 条均为嗅觉障碍与距骨软骨损伤，按口径不取；小阴唇 0 条，拉皮仅颧面神经定位 1 条昨日已列，故取颅骨修复 PEEK 伤口并发症 580 例（11-23，预印本）。",
+  "items": [
+    {
+      "id": "2026-11-28-pmid-43095770",
+      "pmid": "43095770",
+      "doi": "10.1017/S0022215126106100",
+      "journal": "The Journal of Laryngology and Otology",
+      "title": "Do septal, conchal and costal cartilage grafts differ in functional, aesthetic and complication outcomes after septorhinoplasty? A systematic review (systematic review)",
+      "tags": [
+        "鼻整形",
+        "鼻中隔软骨",
+        "耳软骨",
+        "肋软骨"
+      ],
+      "fact_zh": "系统综述纳入 2015 至 2025 年 13 项对照研究、共 3609 例成人鼻中隔鼻整形。肋软骨支撑更稳、远期吸收少于耳软骨，但供区并发症更多；耳软骨与鼻中隔软骨的中期鼻尖稳定性和外观相当。",
+      "take_zh": "创新点：把三种软骨放进同一套功能、外观与并发症框架比较，3609 例在同类综述里样本不小。意义：大重建用肋软骨，轻矫正用耳软骨少取供区，鼻中隔够用就优先鼻中隔；但纳入研究异质性大，不能当统一标准。",
+      "scene_zh": "患者问取哪块软骨最好，我说没有最好：缺得多用肋软骨，缺得少用耳软骨，鼻子里的够用就先用鼻中隔。",
+      "fact_en": "This systematic review pooled 13 comparative studies published between 2015 and 2025, covering 3,609 adults who underwent septorhinoplasty. Costal cartilage gave more stable structural support and less long-term resorption than conchal cartilage, at the cost of more donor-site morbidity, while conchal and septal grafts showed comparable mid-term tip stability and aesthetic results.",
+      "take_en": "Its value is a single functional, aesthetic and complication framework for all three graft types across a relatively large evidence base. In practice it supports costal cartilage for major reconstruction, conchal cartilage for lower-demand correction, and septum first when adequate, but the included studies are heterogeneous and should not be read as a fixed protocol.",
+      "first_author": "Handoko RE",
+      "first_affil": "Otorhinolaryngology-Head and Neck Surgery, Universitas Brawijaya, Indonesia"
+    },
+    {
+      "id": "2026-11-28-pmid-43078468",
+      "pmid": "43078468",
+      "doi": "10.1055/a-2998-9360",
+      "journal": "Facial Plastic Surgery",
+      "title": "Augmented and Virtual Reality in Facial Plastic and Reconstructive Surgery: A Narrative Review",
+      "tags": [
+        "鼻整形",
+        "增强现实",
+        "虚拟现实",
+        "手术导航"
+      ],
+      "fact_zh": "叙述性综述梳理增强现实（augmented reality，AR）与虚拟现实（virtual reality，VR）在面部整形重建的进展：AR 导航配准误差已小于 2 毫米，主要用于颅颌面骨、游离皮瓣和鼻整形，软组织仍偏早。",
+      "take_zh": "创新点：按骨性与软组织分开评估成熟度，并点出比较研究缺口。意义：目前可指望 AR 做骨性导航和皮瓣定位，鼻尖软组织判断仍靠手感；成本高、缺对照，短期内进不了常规门诊。",
+      "scene_zh": "患者问戴个眼镜是不是就能把鼻子做得更准，我说骨头上的位置它能帮忙，鼻尖软组织的火候还得靠手感和经验。",
+      "fact_en": "This narrative review maps augmented reality (AR) and virtual reality (VR) across facial plastic and reconstructive surgery. AR navigation platforms now report sub-2-mm registration accuracy and are used mainly for rigid bony anatomy, craniomaxillofacial trauma, free flap harvest and rhinoplasty, whereas soft-tissue applications remain early.",
+      "take_en": "The review separates maturity by tissue type rather than treating extended reality as one technology. It suggests AR can currently support bony navigation and flap planning, but not intraoperative judgment of nasal tip soft tissue; comparative data, soft-tissue registration and cost remain barriers.",
+      "first_author": "Reddy P",
+      "first_affil": "Department of Otolaryngology-Head and Neck Surgery, Emory University School of Medicine, Atlanta, GA, USA"
+    },
+    {
+      "id": "2026-11-28-preprint-peek-580",
+      "pmid": "",
+      "doi": "10.21203/rs.3.rs-11374814/v1",
+      "journal": "Research Square (preprint)",
+      "title": "Management Strategies and Clinical Outcomes of Wound Complications after Polyetheretherketone Cranioplasty: A Real-World Single-Center Cohort Study",
+      "tags": [
+        "颅骨修复",
+        "PEEK",
+        "伤口并发症",
+        "植入物"
+      ],
+      "fact_zh": "回顾 580 例聚醚醚酮（polyetheretherketone，PEEK）颅骨修补，138 例（23.8%）出现伤口并发症。保守成功率 46.9%，清创 71.4%，皮瓣覆盖 83.3%，取出植入物 0%；中位愈合 57、40、30 天。",
+      "take_zh": "创新点：用 580 例真实世界数据把四种处理方式的结局并列，样本大于多数同类报告。意义：伤口裂开别只靠换药硬等，尽早清创或皮瓣覆盖更能保住植入物；但属单中心预印本，结论待正式发表复核。",
+      "scene_zh": "患者问修补处伤口老不愈合，是不是只能把材料取出来，我说先别急，早点清创或用皮瓣盖住，多数还能保住。",
+      "fact_en": "In a single-center retrospective cohort of 580 adults undergoing delayed polyetheretherketone (PEEK) cranioplasty, wound complications occurred in 138 patients (23.8%). Success rates were 46.9% with conservative care, 71.4% with debridement and 83.3% with flap coverage, versus 0% with implant removal alone; median healing times were 57, 40 and 30 days respectively.",
+      "take_en": "The main contribution is a large real-world comparison of four management strategies, with flap coverage preserving the implant most often. The practical message is to escalate early to debridement or flap coverage rather than prolonged conservative dressing; however, this is a single-center preprint and needs peer-reviewed confirmation.",
+      "first_author": "Zeng L",
+      "first_affil": ""
+    }
+  ]
+}

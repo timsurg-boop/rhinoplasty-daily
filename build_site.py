@@ -139,7 +139,36 @@ def load_days():
             days.setdefault(d["date"], d)
         except Exception:  # noqa: BLE001
             continue
-    return [days[k] for k in sorted(days, reverse=True)]
+    ordered = [days[k] for k in sorted(days, reverse=True)]
+    return dedupe_days(ordered)
+
+
+def _dedupe_key(it):
+    """同一篇文献的判重键：PMID 优先，没有 PMID 用标题。"""
+    pmid = str(it.get("pmid") or "").strip()
+    if pmid:
+        return "pmid:" + pmid
+    title = " ".join(str(it.get("title") or "").split()).lower()
+    return "title:" + title
+
+
+def dedupe_days(days):
+    """同一篇文献只保留最早一期，后来的重复条目剔掉（2026-11-28 王艇要求）。
+
+    从最老的一期往后走，见过的键不再收录；新一期若整条重复就消失，
+    不会被再次发布。空掉的一期仍保留占位，避免归档链接 404。
+    """
+    seen = set()
+    for day in reversed(days):
+        kept = []
+        for it in day.get("items", []):
+            k = _dedupe_key(it)
+            if k in seen:
+                continue
+            seen.add(k)
+            kept.append(it)
+        day["items"] = kept
+    return days
 
 
 def esc(text):

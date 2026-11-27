@@ -11,7 +11,7 @@
 写法：短句、数字加单位、限定条件写在同一段；不做机翻腔。
 生成脚本：`~/lobsterai/project/brand_ops/build_en_pages.py`（PAGES 列表追加条目后跑 `--apply`）。
 
-## 已完成（21）
+## 已完成（22）
 
 - [x] 鼻修复大概多少钱 → en/qa/revision-rhinoplasty-cost.html
 - [x] 从国外飞回来要请几天假 → en/qa/days-off-for-rhinoplasty.html
@@ -34,13 +34,17 @@
 - [x] 口腔内切口多久能吃饭 → en/qa/eating-after-intraoral-incision.html（2026-11-27）
 - [x] 术后能吃什么水果 → en/qa/fruit-after-rhinoplasty.html（2026-11-27）
 - [x] 术后能喝冰美式吗 → en/qa/iced-americano-after-rhinoplasty.html（2026-11-27）
+- [x] patient.html（患者主页，长页，单独一轮） → en/qa/patient.html（2026-11-28）
 
-## 待做（2）
+## 待做（1）
 
 按优先级排：
 
-1. [ ] patient.html（患者主页，长页，单独一轮）
-2. [ ] index.html（资料页）
+1. [ ] index.html（资料页）
+
+备注（2026-11-28）：patient.html 英文页已上线（`en/qa/patient.html`，curl 200，`<html lang="en">`，中文页 hreflang 三条齐全）。
+中文页页脚仍写「本页为草稿，未对外发布」，英文页照清单要求上线，未改中文页正文；是否去掉标注由王艇定。
+「按技术方向看」三个链接（肋软骨鼻修复 / 鼻修复翻修 / 挛缩鼻修复）未搬进英文页，避免新增中文页没有的入口，待王艇定。
 
 备注（2026-11-27）：`口腔内切口多久能吃饭`、`术后能吃什么水果`、`术后能喝冰美式吗` 三页的中文页页脚仍写「草稿，未对外发布」。
 英文页已按清单要求上线，未改中文页正文；中文页是否去掉「草稿」标注由王艇定。
